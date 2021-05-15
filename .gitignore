@@ -1,0 +1,12 @@
+.DS_Store
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+
+.vscode/
+*.code-workspace
+
+# scryfall DB is ~= 1.20GB
+data/scryfall/*
+
+
