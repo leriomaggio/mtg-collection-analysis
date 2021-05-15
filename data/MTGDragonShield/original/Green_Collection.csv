@@ -1,0 +1,437 @@
+Quantity,Name,ExpansionCode,ExpansionName,PurchasePrice,Foil,Condition,Language,PurchaseDate
+2,Accelerated Mutation,scg,Scourge,0.04,False,NearMint,English,2018-07-29
+1,Acidic Slime,cmd,Commander 2011,0.28,False,NearMint,English,2018-07-29
+2,Adaptive Snapjaw,gtc,Gatecrash,0.12,False,NearMint,English,2018-07-29
+1,Aerie Ouphes,eve,Eventide,0.09,False,NearMint,English,2018-07-29
+1,Aether Web,tsp,Time Spiral,0.08,False,NearMint,English,2018-07-29
+1,Alpine Grizzly,ktk,Khans of Tarkir,0.04,False,NearMint,English,2018-07-29
+1,Ambassador Oak,mor,Morningtide,0.05,False,NearMint,English,2018-07-29
+1,Ancient Silverback,uds,Urza's Destiny,0.21,False,NearMint,English,2018-07-29
+2,Anurid Barkripper,jud,Judgment,0.06,False,NearMint,Italian,2018-07-29
+1,Baloth Woodcrasher,zen,Zendikar,0.09,False,NearMint,English,2018-07-29
+1,Battlefield Scrounger,jud,Judgment,0.1,False,NearMint,English,2018-07-29
+1,Battlegrowth,mrd,Mirrodin,0.06,False,NearMint,English,2018-07-29
+2,Beacon Behemoth,con,Conflux,0.09,False,NearMint,English,2018-07-29
+2,Beast Hunt,zen,Zendikar,0.07,False,NearMint,English,2018-07-29
+1,Bequeathal,exo,Exodus,0.16,False,NearMint,English,2018-07-29
+1,Blanchwood Armor,m19,Core Set 2019,0.11,False,NearMint,English,2018-08-18
+1,Blinding Fog,xln,Ixalan,0.04,False,NearMint,English,2018-08-19
+1,Bloodscent,mrd,Mirrodin,0.11,False,NearMint,English,2018-07-29
+1,Bog-Strider Ash,lrw,Lorwyn,0.07,False,NearMint,English,2018-07-29
+1,Borderland Ranger,e02,Explorers of Ixalan,0.05,False,NearMint,English,2018-07-29
+2,Borderland Ranger,m10,Magic 2010,0.05,False,NearMint,Italian,2018-07-29
+1,Bosk Banneret,mor,Morningtide,0.13,False,NearMint,English,2018-07-29
+1,Bountiful Harvest,m12,Magic 2012,0.07,False,NearMint,English,2018-07-29
+1,Bower Passage,avr,Avacyn Restored,0.11,False,NearMint,English,2018-07-29
+1,Bramble Elemental,pc2,Planechase 2012,0.12,False,NearMint,English,2018-07-29
+1,Break Asunder,scg,Scourge,0.08,False,NearMint,English,2018-07-29
+1,Briarhorn,lrw,Lorwyn,0.12,False,NearMint,English,2018-07-29
+1,Briarhorn,ddh,Duel Decks: Ajani vs. Nicol Bolas,0.09,False,NearMint,English,2018-07-29
+5,Bristling Boar,m19,Core Set 2019,0.03,False,NearMint,English,2018-08-18
+2,Brown Ouphe,ice,Ice Age,0.06,False,NearMint,English,2018-07-29
+1,"Budoka Pupil // Ichiga, Who Topples Oaks",bok,Betrayers of Kamigawa,0.11,False,NearMint,English,2018-07-29
+1,Canopy Cover,wwk,Worldwake,0.2,False,NearMint,English,2018-07-29
+2,Canopy Spider,8ed,Eighth Edition,0.08,False,NearMint,English,2018-07-29
+3,Canopy Spider,8ed,Eighth Edition,0.08,False,NearMint,Italian,2018-07-29
+1,Canopy Spider,7ed,Seventh Edition,0.05,False,NearMint,Italian,2018-07-29
+3,Caravan Vigil,isd,Innistrad,0.1,False,NearMint,English,2018-07-29
+1,Carrion Call,som,Scars of Mirrodin,0.1,False,NearMint,English,2018-07-29
+4,Centaur Courser,m19,Core Set 2019,0.01,False,NearMint,English,2018-08-18
+4,Centaur Rootcaster,jud,Judgment,0.11,False,NearMint,Italian,2018-07-29
+1,Centaur Veteran,tor,Torment,0.06,False,NearMint,English,2018-07-29
+1,Channel,3ed,Revised Edition,0.24,False,NearMint,English,2018-08-18
+3,Charging Rhino,cns,Conspiracy,0.07,False,NearMint,English,2018-07-29
+2,Choke,8ed,Eighth Edition,2.71,False,NearMint,English,2018-07-29
+1,Chorus of Might,rtr,Return to Ravnica,0.04,False,NearMint,English,2018-07-29
+2,Citanul Woodreaders,ddr,Duel Decks: Nissa vs. Ob Nixilis,0.07,False,NearMint,English,2018-07-29
+1,Citanul Woodreaders,plc,Planar Chaos,0.09,False,NearMint,English,2018-07-29
+2,Civic Wayfinder,rav,Ravnica: City of Guilds,0.09,False,NearMint,English,2018-07-29
+1,Cocoon,leg,Legends,0.63,False,NearMint,Italian,2018-08-18
+2,Collective Unconscious,8ed,Eighth Edition,0.29,False,NearMint,English,2018-07-29
+1,Colossal Dreadmaw,xln,Ixalan,0.03,False,NearMint,English,2018-08-19
+4,Colossal Dreadmaw,m19,Core Set 2019,0.03,False,NearMint,English,2018-08-18
+2,Colossal Majesty,m19,Core Set 2019,0.15,False,NearMint,English,2018-08-18
+1,Commune with Dinosaurs,xln,Ixalan,0.13,False,NearMint,English,2018-08-19
+1,Commune with the Gods,ths,Theros,0.15,False,NearMint,English,2018-07-29
+1,Compost,uds,Urza's Destiny,0.17,False,NearMint,English,2018-07-29
+1,Copperhorn Scout,cn2,Conspiracy: Take the Crown,0.11,False,NearMint,English,2018-07-29
+1,Crabapple Cohort,shm,Shadowmoor,0.07,False,NearMint,English,2018-07-29
+3,Craw Wurm,3ed,Revised Edition,0.1,False,NearMint,Italian,2018-10-28
+5,Craw Wurm,8ed,Eighth Edition,0.07,False,NearMint,English,2018-07-29
+1,Creeping Mold,10e,Tenth Edition,0.13,False,NearMint,Italian,2018-09-26
+1,Creeping Mold,mrd,Mirrodin,0.09,False,NearMint,English,2018-07-29
+2,Creeping Mold,8ed,Eighth Edition,0.1,False,NearMint,Italian,2018-09-26
+1,Crown of Vigor,ons,Onslaught,0.06,False,NearMint,English,2018-07-29
+1,Crumble,3ed,Revised Edition,0.16,False,NearMint,Italian,2018-10-28
+1,Crushing Vines,dka,Dark Ascension,0.07,False,NearMint,English,2018-07-29
+3,Daggerback Basilisk,bbd,Battlebond,0.03,False,NearMint,English,2018-08-18
+1,Dawn's Reflection,5dn,Fifth Dawn,0.14,False,NearMint,English,2018-07-29
+2,Declare Dominance,m19,Core Set 2019,0.03,False,NearMint,English,2018-08-18
+1,Deconstruct,mrd,Mirrodin,0.09,False,NearMint,English,2018-07-29
+1,Deeproot Warrior,xln,Ixalan,0.03,False,NearMint,English,2018-08-19
+1,Diligent Farmhand,ody,Odyssey,0.1,False,NearMint,English,2018-07-29
+1,Divergent Growth,scg,Scourge,0.07,False,NearMint,English,2018-07-29
+1,Dosan's Oldest Chant,sok,Saviors of Kamigawa,0.04,False,NearMint,English,2018-07-29
+1,Druid Lyrist,ody,Odyssey,0.09,False,NearMint,English,2018-07-29
+1,Druid of Horns,m19,Core Set 2019,0.04,False,NearMint,English,2018-08-18
+4,Druid of the Cowl,m19,Core Set 2019,0.05,False,NearMint,English,2018-08-18
+1,Dryad Greenseeker,m19,Core Set 2019,0.09,False,NearMint,English,2018-08-18
+1,Durkwood Boars,4ed,Fourth Edition,0.05,False,NearMint,English,2018-07-29
+1,Early Harvest,6ed,Classic Sixth Edition,0.75,False,NearMint,English,2018-07-29
+1,Earthbrawn,mor,Morningtide,0.05,False,NearMint,English,2018-07-29
+1,Eaten by Spiders,avr,Avacyn Restored,0.06,False,NearMint,English,2018-07-29
+2,Echoing Courage,mma,Modern Masters,0.05,False,NearMint,Italian,2018-07-29
+2,Echoing Courage,a25,Masters 25,0.03,False,NearMint,English,2018-07-29
+2,Elder Pine of Jukai,sok,Saviors of Kamigawa,0.09,False,NearMint,Italian,2018-07-29
+1,Elephant Guide,ddd,Duel Decks: Garruk vs. Liliana,0.14,False,NearMint,English,2018-07-29
+1,Elephant Guide,jud,Judgment,0.21,False,NearMint,English,2018-07-29
+2,Elves of Deep Shadow,ddj,Duel Decks: Izzet vs. Golgari,0.27,False,NearMint,English,2018-07-29
+1,Elvish Aberration,cns,Conspiracy,0.07,False,NearMint,English,2018-07-29
+4,Elvish Archers,4ed,Fourth Edition,0.33,False,NearMint,English,2018-08-19
+1,Elvish Berserker,9ed,Ninth Edition,0.05,False,NearMint,English,2018-07-29
+1,Elvish Branchbender,ddu,Duel Decks: Elves vs. Inventors,0.04,False,NearMint,English,2018-07-29
+1,Elvish Clancaller,m19,Core Set 2019,1.5,False,NearMint,English,2018-08-18
+1,Elvish Eulogist,dd1,Duel Decks: Elves vs. Goblins,0.07,False,NearMint,English,2018-07-29
+1,Elvish Harbinger,lrw,Lorwyn,2.52,False,NearMint,English,2018-07-29
+1,Elvish Lyrist,8ed,Eighth Edition,0.08,False,NearMint,English,2018-07-29
+2,Elvish Pioneer,ons,Onslaught,0.13,False,NearMint,English,2018-07-29
+2,Elvish Rejuvenator,m19,Core Set 2019,0.06,False,NearMint,English,2018-08-18
+3,Elvish Spirit Guide,all,Alliances,5.23,False,Good,English,2018-09-26
+1,Ember Weaver,con,Conflux,0.07,False,NearMint,English,2018-07-29
+1,Enlarge,ima,Iconic Masters,0.05,False,NearMint,English,2018-07-29
+3,Erhnam Djinn,chr,Chronicles,0.23,False,NearMint,English,2018-08-19
+1,Erhnam Djinn,jud,Judgment,0.14,False,NearMint,English,2018-09-26
+1,Essence Filter,ice,Ice Age,0.07,False,NearMint,English,2018-07-29
+1,Explosive Growth,inv,Invasion,0.06,False,NearMint,English,2018-07-29
+1,Fade into Antiquity,ths,Theros,0.05,False,NearMint,English,2018-07-29
+2,Fallow Wurm,wth,Weatherlight,0.13,False,NearMint,English,2018-07-29
+1,Fangren Hunter,mrd,Mirrodin,0.02,False,NearMint,English,2018-07-29
+2,Fecundity,8ed,Eighth Edition,4.57,False,NearMint,English,2018-07-29
+2,Femeref Archers,mir,Mirage,0.13,False,NearMint,English,2018-07-29
+1,Feral Contest,wwk,Worldwake,0.05,False,NearMint,English,2018-07-29
+1,Fertile Ground,8ed,Eighth Edition,0.14,False,NearMint,English,2018-07-29
+3,Fertilid,bbd,Battlebond,0.05,False,NearMint,English,2018-07-29
+1,Fierce Empath,scg,Scourge,0.49,False,NearMint,English,2018-07-29
+1,Filigree Fracture,con,Conflux,0.09,False,NearMint,English,2018-07-29
+2,Fog,3ed,Revised Edition,0.17,False,NearMint,Italian,2018-10-28
+2,Folk Medicine,jud,Judgment,0.1,False,NearMint,English,2018-07-29
+1,Forked-Branch Garami,bok,Betrayers of Kamigawa,0.12,False,NearMint,English,2018-07-29
+1,Fungal Sprouting,m13,Magic 2013,0.31,False,NearMint,English,2018-07-29
+2,Fyndhorn Elder,8ed,Eighth Edition,0.2,False,NearMint,English,2018-07-29
+2,Gaea's Anthem,mm3,Modern Masters 2017,0.22,False,NearMint,English,2018-07-29
+2,Gaea's Balance,apc,Apocalypse,0.14,False,NearMint,Italian,2018-07-29
+2,Gaea's Touch,drk,The Dark,1.2,False,NearMint,English,2018-08-19
+1,Gather Courage,rav,Ravnica: City of Guilds,0.06,False,NearMint,English,2018-07-29
+1,Ghastbark Twins,m19,Core Set 2019,0.02,False,NearMint,English,2018-08-18
+1,Ghirapur Guide,m19,Core Set 2019,0.02,False,NearMint,English,2018-08-18
+2,Giant Badger,8ed,Eighth Edition,0.11,False,NearMint,English,2018-07-29
+1,Giant Dustwasp,mma,Modern Masters,0.03,False,NearMint,English,2018-07-29
+1,Giant Growth,4ed,Fourth Edition,0.11,False,NearMint,English,2018-07-29
+1,Giant Growth,10e,Tenth Edition,0.1,False,NearMint,English,2018-07-29
+2,Giant Growth,8ed,Eighth Edition,0.12,False,NearMint,English,2018-07-29
+3,Giant Growth,3ed,Revised Edition,0.15,False,NearMint,Italian,2018-08-18
+4,Giant Spider,3ed,Revised Edition,0.1,False,NearMint,Italian,2018-08-18
+1,Giant Spider,10e,Tenth Edition,0.12,False,NearMint,English,2018-07-29
+4,Giant Spider,8ed,Eighth Edition,0.1,False,NearMint,English,2018-08-18
+3,Giant Spider,8ed,Eighth Edition,0.11,False,NearMint,English,2018-07-29
+2,Giant Warthog,jud,Judgment,0.08,False,NearMint,Italian,2018-07-29
+2,Gift of Paradise,m19,Core Set 2019,0.09,False,NearMint,English,2018-08-18
+1,Glade Gnarr,apc,Apocalypse,0.08,False,NearMint,English,2018-07-29
+1,Gluttonous Slime,pc2,Planechase 2012,0.1,False,NearMint,English,2018-07-29
+2,Gnarlid Pack,cns,Conspiracy,0.07,False,NearMint,English,2018-07-29
+1,Gnarlid Pack,wwk,Worldwake,0.03,False,NearMint,English,2018-07-29
+1,Gnaw to the Bone,isd,Innistrad,0.22,False,NearMint,English,2018-07-29
+1,Golgari Decoy,rtr,Return to Ravnica,0.05,False,NearMint,English,2018-07-29
+1,Gorilla Warrior,usg,Urza's Saga,0.07,False,NearMint,English,2018-07-29
+1,Greater Mossdog,mma,Modern Masters,0.05,False,NearMint,English,2018-07-29
+4,Greenwood Sentinel,m19,Core Set 2019,0.02,False,NearMint,English,2018-08-18
+4,Grizzly Bears,8ed,Eighth Edition,0.08,False,NearMint,English,2018-07-29
+3,Grizzly Bears,3ed,Revised Edition,0.08,False,NearMint,English,2018-08-18
+1,Grizzly Bears,10e,Tenth Edition,0.1,False,NearMint,English,2018-07-29
+1,Grizzly Fate,jud,Judgment,0.23,False,NearMint,English,2018-07-29
+1,Groffskithur,mrd,Mirrodin,0.05,False,NearMint,English,2018-07-29
+2,Growth Spasm,roe,Rise of the Eldrazi,0.24,False,NearMint,English,2018-07-29
+1,Harbinger of Spring,bok,Betrayers of Kamigawa,0.07,False,NearMint,English,2018-07-29
+3,Harvester Druid,jud,Judgment,0.06,False,NearMint,English,2018-09-26
+1,Hedge Troll,plc,Planar Chaos,0.05,False,NearMint,English,2018-07-29
+3,Highland Game,m19,Core Set 2019,0.01,False,NearMint,English,2018-08-18
+1,Highland Game,ktk,Khans of Tarkir,0.03,False,NearMint,English,2018-07-29
+1,Hollowhenge Scavenger,isd,Innistrad,0.04,False,NearMint,English,2018-07-29
+2,Horned Troll,8ed,Eighth Edition,0.07,False,NearMint,Italian,2018-07-29
+1,Hornet Cobra,leg,Legends,0.19,False,NearMint,English,2018-07-29
+1,Hungering Hydra,m19,Core Set 2019,0.47,False,NearMint,English,2018-08-18
+1,Hunt Down,lrw,Lorwyn,0.06,False,NearMint,English,2018-07-29
+1,Hunt the Hunter,ths,Theros,0.03,False,NearMint,English,2018-07-29
+2,Hunted Wumpus,8ed,Eighth Edition,0.15,False,NearMint,English,2018-07-29
+1,Hurricane,ice,Ice Age,0.21,False,NearMint,English,2018-07-29
+1,Hurricane,lea,Limited Edition Alpha,16.2,False,NearMint,English,2018-07-29
+1,Hurricane,leb,Limited Edition Beta,16.04,False,NearMint,English,2018-07-29
+1,Instill Energy,3ed,Revised Edition,0.25,False,NearMint,Italian,2018-10-28
+1,Invigorating Falls,tor,Torment,0.09,False,NearMint,English,2018-07-29
+3,Ironroot Treefolk,3ed,Revised Edition,0.1,False,NearMint,Italian,2018-08-18
+1,Jagged-Scar Archers,ddu,Duel Decks: Elves vs. Inventors,0.11,False,NearMint,English,2018-07-29
+1,Joraga Bard,zen,Zendikar,0.06,False,NearMint,English,2018-07-29
+1,Journey of Discovery,mrd,Mirrodin,0.18,False,NearMint,English,2018-07-29
+2,Jukai Messenger,chk,Champions of Kamigawa,0.15,False,NearMint,English,2018-07-29
+2,Kamahl's Summons,ons,Onslaught,0.12,False,NearMint,English,2018-07-29
+1,Karametra's Favor,bbd,Battlebond,0.04,False,NearMint,English,2018-07-29
+1,Kashi-Tribe Reaver,chk,Champions of Kamigawa,0.09,False,NearMint,Italian,2018-07-29
+1,Kashi-Tribe Warriors,chk,Champions of Kamigawa,0.08,False,NearMint,English,2018-07-29
+1,Kavu Climber,10e,Tenth Edition,0.03,False,NearMint,English,2018-07-29
+1,Kavu Primarch,fut,Future Sight,0.09,False,NearMint,English,2018-07-29
+1,Khalni Heart Expedition,e01,Archenemy: Nicol Bolas,0.16,False,NearMint,English,2018-07-29
+4,Killer Bees,4ed,Fourth Edition,0.28,False,NearMint,English,2018-08-19
+1,Kin-Tree Warden,ktk,Khans of Tarkir,0.03,False,NearMint,English,2018-07-29
+1,Kithkin Daggerdare,lrw,Lorwyn,0.24,True,NearMint,Italian,2018-07-29
+1,Korozda Monitor,rtr,Return to Ravnica,0.02,False,NearMint,English,2018-07-29
+2,Krosan Avenger,ody,Odyssey,0.07,False,NearMint,English,2018-07-29
+1,Krosan Constrictor,tor,Torment,0.04,False,NearMint,English,2018-07-29
+2,Krosan Drover,scg,Scourge,0.13,False,NearMint,English,2018-07-29
+1,Krosan Drover,scg,Scourge,0.13,False,Played,English,2018-07-29
+2,Krosan Tusker,ons,Onslaught,0.12,False,NearMint,English,2018-07-29
+3,Krosan Wayfarer,jud,Judgment,0.11,False,NearMint,English,2018-07-29
+1,Lair Delve,avr,Avacyn Restored,0.02,False,NearMint,English,2018-07-29
+3,Lay of the Land,apc,Apocalypse,0.1,False,NearMint,English,2018-07-29
+1,Leaf Gilder,ori,Magic Origins,0.06,False,NearMint,English,2018-07-29
+1,Leery Fogbeast,ons,Onslaught,0.03,False,NearMint,English,2018-07-29
+1,Lignify,gvl,Duel Decks Anthology: Garruk vs. Liliana,0.52,False,NearMint,English,2018-07-29
+3,Llanowar Behemoth,8ed,Eighth Edition,0.08,False,NearMint,English,2018-07-29
+4,Llanowar Elves,3ed,Revised Edition,0.27,False,NearMint,English,2018-08-19
+1,Llanowar Elves,3ed,Revised Edition,0.31,False,NearMint,Italian,2018-10-28
+2,Llanowar Sentinel,10e,Tenth Edition,0.09,False,NearMint,English,2018-07-29
+1,Longshot Squad,ktk,Khans of Tarkir,0.06,False,NearMint,English,2018-07-29
+2,Luminescent Rain,mor,Morningtide,0.2,False,NearMint,English,2018-07-29
+1,Magus of the Library,plc,Planar Chaos,0.34,False,NearMint,English,2018-07-29
+1,Magus of the Library,plc,Planar Chaos,0.38,False,NearMint,English,2018-09-26
+2,Maro,8ed,Eighth Edition,0.15,False,NearMint,Italian,2018-07-29
+1,Marsh Boa,pcy,Prophecy,0.13,False,NearMint,English,2018-07-29
+1,Marsh Viper,4ed,Fourth Edition,0.12,False,NearMint,English,2018-07-29
+1,Matsu-Tribe Decoy,chk,Champions of Kamigawa,0.06,False,NearMint,English,2018-07-29
+1,Might Sliver,tsp,Time Spiral,0.66,False,NearMint,English,2018-07-29
+1,Might of Oaks,8ed,Eighth Edition,0.28,False,NearMint,English,2018-07-29
+1,Monstrify,eve,Eventide,0.05,False,NearMint,English,2018-07-29
+1,Monstrous Growth,8ed,Eighth Edition,0.08,False,NearMint,English,2018-07-29
+1,Scorned Villager // Moonscarred Werewolf,dka,Dark Ascension,0.14,False,NearMint,English,2018-07-29
+1,Moss Kami,chk,Champions of Kamigawa,0.07,False,NearMint,English,2018-07-29
+3,Moss Monster,8ed,Eighth Edition,0.07,False,NearMint,English,2018-07-29
+1,Mosstodon,ala,Shards of Alara,0.06,False,NearMint,English,2018-07-29
+1,Mulch,c15,Commander 2015,0.1,False,NearMint,English,2018-07-29
+1,Muscle Burst,ody,Odyssey,0.05,False,NearMint,English,2018-07-29
+1,Mutant's Prey,dgm,Dragon's Maze,0.04,False,NearMint,English,2018-07-29
+1,Nacatl Savage,con,Conflux,0.07,False,NearMint,English,2018-07-29
+3,Nantuko Disciple,8ed,Eighth Edition,0.06,False,NearMint,English,2018-07-29
+1,Nantuko Shaman,tsp,Time Spiral,0.06,False,NearMint,English,2018-07-29
+1,Nantuko Vigilante,lgn,Legions,0.1,False,NearMint,English,2018-07-29
+1,Nath's Elite,lrw,Lorwyn,0.08,False,NearMint,English,2018-07-29
+2,Natural Affinity,8ed,Eighth Edition,0.48,False,NearMint,English,2018-09-26
+1,Natural Spring,s99,Starter 1999,0.24,False,NearMint,English,2018-07-29
+2,Naturalize,9ed,Ninth Edition,0.06,False,NearMint,Italian,2018-07-29
+1,Naturalize,isd,Innistrad,0.08,False,NearMint,English,2018-07-29
+5,Naturalize,m19,Core Set 2019,0.05,False,NearMint,English,2018-08-18
+1,Nature's Claim,wwk,Worldwake,0.27,False,NearMint,Japanese,2018-10-14
+1,Needleshot Gourna,lgn,Legions,0.05,False,NearMint,English,2018-07-29
+1,Nessian Courser,ths,Theros,0.06,False,NearMint,English,2018-07-29
+1,Nesting Wurm,nem,Nemesis,0.16,False,NearMint,English,2018-07-29
+1,New Horizons,xln,Ixalan,0.06,False,NearMint,English,2018-08-19
+2,Nightsoil Kami,sok,Saviors of Kamigawa,0.05,False,NearMint,Italian,2018-07-29
+2,Nomadic Elf,inv,Invasion,0.05,False,NearMint,English,2018-07-29
+1,Norwood Ranger,8ed,Eighth Edition,0.06,False,NearMint,English,2018-07-29
+1,Norwood Ranger,p02,Portal Second Age,0.09,False,NearMint,English,2018-07-29
+2,Nourish,dst,Darksteel,0.13,False,NearMint,English,2018-09-26
+2,Nullmage Advocate,pc2,Planechase 2012,0.13,False,NearMint,English,2018-07-29
+1,Nurturer Initiate,shm,Shadowmoor,0.1,False,NearMint,English,2018-07-29
+4,Oakenform,w16,Welcome Deck 2016,0.06,False,NearMint,English,2018-08-18
+1,Oakgnarl Warrior,lrw,Lorwyn,0.1,False,NearMint,English,2018-07-29
+2,Oakgnarl Warrior,ddr,Duel Decks: Nissa vs. Ob Nixilis,0.09,False,NearMint,English,2018-07-29
+1,One with Nature,scg,Scourge,0.25,False,NearMint,English,2018-07-29
+1,Oran-Rief Recluse,zen,Zendikar,0.05,False,NearMint,English,2018-07-29
+1,Oran-Rief Survivalist,zen,Zendikar,0.08,False,NearMint,English,2018-07-29
+1,Orbweaver Kumo,chk,Champions of Kamigawa,0.11,False,NearMint,English,2018-07-29
+1,Orchard Warden,mor,Morningtide,0.27,False,NearMint,English,2018-07-29
+1,Ordeal of Nylea,ths,Theros,0.1,False,NearMint,English,2018-07-29
+2,Orochi Leafcaller,chk,Champions of Kamigawa,0.15,False,NearMint,Italian,2018-07-29
+1,Orochi Sustainer,chk,Champions of Kamigawa,0.11,False,NearMint,English,2018-07-29
+2,Overgrowth,10e,Tenth Edition,0.35,False,NearMint,English,2018-07-29
+1,Overrun,dpa,Duels of the Planeswalkers,0.18,False,NearMint,English,2018-07-29
+1,Overwhelm,mm2,Modern Masters 2015,0.03,False,NearMint,English,2018-07-29
+1,Parallel Evolution,tor,Torment,3.96,False,NearMint,English,2018-07-29
+2,Patron of the Wild,lgn,Legions,0.05,False,NearMint,English,2018-07-29
+1,Pelakka Wurm,m19,Core Set 2019,0.15,False,NearMint,English,2018-08-18
+2,Penumbra Kavu,apc,Apocalypse,0.1,False,NearMint,Italian,2018-07-29
+1,Penumbra Wurm,apc,Apocalypse,0.34,False,NearMint,English,2018-07-29
+1,Petalmane Baku,bok,Betrayers of Kamigawa,0.11,False,NearMint,English,2018-07-29
+1,Phantom Tiger,jud,Judgment,0.12,False,NearMint,English,2018-07-29
+1,Pheres-Band Centaurs,ths,Theros,0.03,False,NearMint,English,2018-07-29
+1,Phytoburst,dgm,Dragon's Maze,0.11,False,NearMint,English,2018-07-29
+4,Plummet,m19,Core Set 2019,0.02,False,NearMint,English,2018-08-18
+1,Predator's Strike,mrd,Mirrodin,0.29,False,NearMint,English,2018-07-29
+1,Primal Cocoon,m11,Magic 2011,0.06,False,NearMint,English,2018-07-29
+1,Primal Frenzy,ody,Odyssey,0.08,False,NearMint,English,2018-07-29
+1,Quick Sliver,lgn,Legions,0.14,False,NearMint,English,2018-07-29
+1,Quiet Disrepair,fut,Future Sight,0.12,False,NearMint,English,2018-07-29
+4,Quirion Elves,inv,Invasion,0.14,False,NearMint,English,2018-09-26
+4,Quirion Elves,mir,Mirage,0.11,False,NearMint,English,2018-09-26
+1,Quirion Trailblazer,inv,Invasion,0.09,False,NearMint,English,2018-07-29
+4,Rabid Bite,m19,Core Set 2019,0.03,False,NearMint,English,2018-08-18
+3,Rampant Growth,8ed,Eighth Edition,0.17,False,NearMint,English,2018-07-29
+1,Rampant Growth,btd,Beatdown Box Set,0.25,False,NearMint,English,2018-07-29
+1,Rampant Growth,m10,Magic 2010,0.17,False,NearMint,English,2018-07-29
+1,Ranger's Guile,isd,Innistrad,0.08,False,NearMint,English,2018-07-29
+1,Reclaim,m12,Magic 2012,0.08,False,NearMint,English,2018-07-29
+1,Reclamation Sage,m19,Core Set 2019,0.16,False,NearMint,English,2018-08-18
+3,Recollect,m19,Core Set 2019,0.04,False,NearMint,English,2018-08-18
+1,Recross the Paths,mor,Morningtide,0.33,False,NearMint,English,2018-07-29
+1,Reflex Sliver,plc,Planar Chaos,0.12,False,NearMint,English,2018-07-29
+1,Refresh,ody,Odyssey,0.07,False,NearMint,English,2018-07-29
+2,Regeneration,3ed,Revised Edition,0.07,False,NearMint,Italian,2018-08-18
+1,Regeneration,7ed,Seventh Edition,0.05,False,NearMint,English,2018-07-29
+1,Regeneration,10e,Tenth Edition,0.11,False,NearMint,English,2018-07-29
+1,Regeneration,8ed,Eighth Edition,0.05,False,NearMint,English,2018-07-29
+1,Regrowth,3ed,Revised Edition,1.72,False,NearMint,Italian,2018-09-26
+1,Relic Crush,cm2,Commander Anthology Volume II,0.05,False,NearMint,English,2018-07-29
+1,Renowned Weaver,jou,Journey into Nyx,0.04,False,NearMint,English,2018-07-29
+1,Respite,cns,Conspiracy,0.1,False,NearMint,English,2018-07-29
+1,Revelation,leg,Legends,17.97,False,NearMint,English,2018-07-29
+1,Reverent Silence,nem,Nemesis,0.25,False,NearMint,English,2018-07-29
+1,Revive,m13,Magic 2013,0.07,False,NearMint,English,2018-07-29
+1,Revive,8ed,Eighth Edition,0.12,False,NearMint,English,2018-07-29
+5,Rhox Oracle,m19,Core Set 2019,0.02,False,NearMint,English,2018-08-18
+1,Rib Cage Spider,pcy,Prophecy,0.09,False,NearMint,English,2018-07-29
+1,Riftsweeper,fut,Future Sight,0.49,False,NearMint,English,2018-07-29
+1,Rites of Spring,ody,Odyssey,0.12,False,NearMint,English,2018-07-29
+3,River Boa,vis,Visions,0.18,False,NearMint,English,2018-07-29
+1,Rolling Spoil,rav,Ravnica: City of Guilds,0.17,False,NearMint,English,2018-07-29
+1,Root Snare,m19,Core Set 2019,0.1,False,NearMint,English,2018-08-18
+1,Rooting Kavu,inv,Invasion,0.08,False,NearMint,English,2018-07-29
+1,Rushwood Dryad,10e,Tenth Edition,0.04,False,NearMint,English,2018-07-29
+2,Rushwood Dryad,8ed,Eighth Edition,0.06,False,NearMint,English,2018-07-29
+1,Rust,leg,Legends,0.19,False,NearMint,English,2018-07-29
+1,Sagu Archer,ktk,Khans of Tarkir,0.02,False,NearMint,English,2018-07-29
+1,Sakura-Tribe Springcaller,bok,Betrayers of Kamigawa,0.1,False,NearMint,English,2018-07-29
+1,Savage Silhouette,zen,Zendikar,0.04,False,NearMint,English,2018-07-29
+2,Scab-Clan Charger,gtc,Gatecrash,0.01,False,NearMint,Italian,2018-07-29
+1,Scorned Villager // Moonscarred Werewolf,dka,Dark Ascension,0.14,False,NearMint,English,2018-07-29
+1,Scryb Sprites,3ed,Revised Edition,0.14,False,NearMint,Italian,2018-10-28
+1,Sedge Scorpion,ths,Theros,0.06,False,NearMint,English,2018-07-29
+1,Seedguide Ash,lrw,Lorwyn,0.57,False,NearMint,English,2018-07-29
+1,Serpentine Basilisk,ons,Onslaught,0.1,False,NearMint,English,2018-07-29
+1,Seton's Scout,tor,Torment,0.09,False,NearMint,English,2018-07-29
+1,Shanodin Dryads,6ed,Classic Sixth Edition,0.06,False,NearMint,English,2018-07-29
+4,Shanodin Dryads,3ed,Revised Edition,0.07,False,NearMint,Italian,2018-08-18
+1,Shelkin Brownie,leg,Legends,0.22,False,NearMint,English,2018-07-29
+1,Simplify,ody,Odyssey,0.05,False,NearMint,English,2018-07-29
+1,Skyshooter,ody,Odyssey,0.12,False,NearMint,English,2018-07-29
+1,Skyshroud Archer,sth,Stronghold,0.09,False,NearMint,English,2018-07-29
+1,Skyshroud Ranger,10e,Tenth Edition,0.24,False,NearMint,English,2018-07-29
+2,Skyshroud Sentinel,nem,Nemesis,0.05,False,NearMint,English,2018-07-29
+1,Slingbow Trap,wwk,Worldwake,0.04,False,NearMint,Japanese,2018-10-14
+2,Snapping Creeper,wwk,Worldwake,0.05,False,NearMint,Italian,2018-07-29
+1,Snapping Creeper,wwk,Worldwake,0.06,False,NearMint,Japanese,2018-10-14
+1,Solidarity of Heroes,jou,Journey into Nyx,0.46,False,NearMint,English,2018-07-29
+2,Somberwald Dryad,dka,Dark Ascension,0.05,False,NearMint,Italian,2018-07-29
+2,Spike Colony,sth,Stronghold,0.07,False,NearMint,English,2018-07-29
+1,Spiked Baloth,m13,Magic 2013,0.05,False,NearMint,English,2018-07-29
+1,Spined Wurm,sth,Stronghold,0.09,False,NearMint,English,2018-07-29
+1,Spire Tracer,gtc,Gatecrash,0.07,False,NearMint,English,2018-07-29
+2,Spitting Spider,8ed,Eighth Edition,0.11,False,NearMint,Italian,2018-07-29
+1,Splinter,bok,Betrayers of Kamigawa,0.49,False,NearMint,English,2018-07-29
+1,Sporemound,m14,Magic 2014,0.14,False,NearMint,English,2018-07-29
+1,Sprouting Vines,scg,Scourge,0.12,False,NearMint,English,2018-07-29
+1,Stalking Tiger,10e,Tenth Edition,0.06,False,NearMint,Italian,2018-07-29
+1,Stand Together,dst,Darksteel,0.08,False,NearMint,English,2018-07-29
+1,Staunch-Hearted Warrior,ths,Theros,0.05,False,NearMint,English,2018-07-29
+1,Stream of Life,2ed,Unlimited Edition,0.24,False,NearMint,English,2018-07-29
+1,Stream of Life,4ed,Fourth Edition,0.11,False,NearMint,English,2018-07-29
+2,Stream of Life,3ed,Revised Edition,0.1,False,NearMint,Italian,2018-10-28
+2,Stream of Life,7ed,Seventh Edition,0.05,False,NearMint,English,2018-07-29
+1,Strength of Cedars,chk,Champions of Kamigawa,0.11,False,NearMint,English,2018-07-29
+2,Strength of Night,apc,Apocalypse,0.07,False,NearMint,English,2018-07-29
+1,Sudden Strength,jud,Judgment,0.05,False,NearMint,English,2018-07-29
+1,Sultai Flayer,ima,Iconic Masters,0.04,False,NearMint,English,2018-07-29
+1,Sundering Vitae,mm2,Modern Masters 2015,0.03,False,NearMint,English,2018-07-29
+2,Sylvan Bounty,mma,Modern Masters,0.03,False,NearMint,English,2018-07-29
+1,Sylvan Safekeeper,jud,Judgment,6.42,False,NearMint,English,2018-07-29
+2,Sylvok Explorer,c16,Commander 2016,0.06,False,NearMint,English,2018-07-29
+1,Symbiotic Elf,ons,Onslaught,0.06,False,NearMint,English,2018-07-29
+1,Tajuru Archer,ddp,Duel Decks: Zendikar vs. Eldrazi,0.1,False,NearMint,English,2018-07-29
+4,Talons of Wildwood,m19,Core Set 2019,0.04,False,NearMint,English,2018-08-18
+1,Tangle Asp,5dn,Fifth Dawn,0.09,False,NearMint,English,2018-07-29
+1,Tangle Spider,dst,Darksteel,0.07,False,NearMint,English,2018-07-29
+1,Tanglesap,zen,Zendikar,0.06,False,NearMint,English,2018-07-29
+1,Tanglewalker,dst,Darksteel,0.09,False,NearMint,English,2018-07-29
+1,Tel-Jilad Exile,mrd,Mirrodin,0.06,False,NearMint,English,2018-07-29
+1,Tel-Jilad Lifebreather,5dn,Fifth Dawn,0.07,False,NearMint,English,2018-07-29
+6,Tel-Jilad Outrider,dst,Darksteel,0.04,False,NearMint,English,2018-07-29
+1,Tel-Jilad Wolf,dst,Darksteel,0.06,False,NearMint,English,2018-07-29
+3,Thallid Germinator,tsp,Time Spiral,0.12,False,NearMint,English,2018-07-29
+1,Thorn Lieutenant,m19,Core Set 2019,2.92,False,NearMint,English,2018-08-18
+4,Thornhide Wolves,m19,Core Set 2019,0.04,False,NearMint,English,2018-08-18
+1,Thrive,mm2,Modern Masters 2015,0.07,False,NearMint,English,2018-07-29
+1,Thrive,dis,Dissension,0.09,False,NearMint,English,2018-07-29
+2,Thrive,pcy,Prophecy,0.12,False,NearMint,English,2018-07-29
+2,Tiger Claws,mmq,Mercadian Masques,0.08,False,NearMint,English,2018-07-29
+1,Timber Wolves,3ed,Revised Edition,0.32,False,NearMint,Italian,2018-10-28
+1,Timbermaw Larva,zen,Zendikar,0.08,False,NearMint,English,2018-07-29
+1,Time of Need,chk,Champions of Kamigawa,2.41,False,NearMint,English,2018-07-29
+2,Tishana's Wayfinder,xln,Ixalan,0.04,False,NearMint,English,2018-08-19
+1,Titanic Bulvox,scg,Scourge,0.05,False,NearMint,English,2018-07-29
+2,Toil to Renown,shm,Shadowmoor,0.07,False,NearMint,English,2018-07-29
+1,Topan Ascetic,ala,Shards of Alara,0.04,False,NearMint,English,2018-07-29
+1,Tracker's Instincts,dka,Dark Ascension,0.1,False,NearMint,English,2018-07-29
+6,Trained Armodon,8ed,Eighth Edition,0.06,False,NearMint,English,2018-07-29
+1,Tranquility,4ed,Fourth Edition,0.09,False,NearMint,English,2018-07-29
+2,Tranquility,6ed,Classic Sixth Edition,0.06,False,NearMint,English,2018-07-29
+1,Transluminant,rav,Ravnica: City of Guilds,0.04,False,NearMint,English,2018-07-29
+2,Treespring Lorian,ons,Onslaught,0.04,False,NearMint,English,2018-07-29
+3,Treetop Scout,scg,Scourge,0.12,False,NearMint,English,2018-07-29
+1,Trolls of Tel-Jilad,mrd,Mirrodin,0.09,False,NearMint,English,2018-07-29
+1,Tukatongue Thallid,mm2,Modern Masters 2015,0.09,False,NearMint,Italian,2018-07-29
+2,Tukatongue Thallid,con,Conflux,0.11,False,NearMint,English,2018-07-29
+1,Turn to Dust,mrd,Mirrodin,0.07,False,NearMint,English,2018-07-29
+1,Twigwalker,ody,Odyssey,0.05,False,NearMint,English,2018-07-29
+2,Tyrranax,5dn,Fifth Dawn,0.12,False,NearMint,English,2018-07-29
+1,Uktabi Efreet,wth,Weatherlight,0.05,False,NearMint,English,2018-07-29
+3,Unyaro Bees,tsp,Time Spiral,0.3,False,NearMint,English,2018-07-29
+1,Upwelling,10e,Tenth Edition,0.59,False,NearMint,English,2018-07-29
+2,Urborg Elf,apc,Apocalypse,0.14,False,NearMint,English,2018-07-29
+1,Venomous Vines,jud,Judgment,0.05,False,NearMint,English,2018-07-29
+1,Venomspout Brackus,ons,Onslaught,0.08,False,NearMint,English,2018-07-29
+1,Verdant Eidolon,dis,Dissension,0.07,False,NearMint,English,2018-07-29
+1,Vigilant Baloth,m19,Core Set 2019,0.04,False,NearMint,English,2018-08-18
+1,Vigorous Charge,inv,Invasion,0.09,False,NearMint,English,2018-07-29
+5,Vine Trellis,8ed,Eighth Edition,0.16,False,NearMint,English,2018-07-29
+1,Vine Trellis,mmq,Mercadian Masques,0.19,False,NearMint,English,2018-07-29
+1,Viridescent Wisps,shm,Shadowmoor,0.09,False,NearMint,English,2018-07-29
+5,Viridian Acolyte,dst,Darksteel,0.08,False,NearMint,English,2018-07-29
+3,Viridian Joiner,mrd,Mirrodin,0.14,False,NearMint,English,2018-07-29
+1,Viridian Scout,5dn,Fifth Dawn,0.04,False,NearMint,English,2018-07-29
+2,Vitaspore Thallid,plc,Planar Chaos,0.12,False,NearMint,Italian,2018-07-29
+1,Vivien Reid,m19,Core Set 2019,8.26,False,NearMint,English,2018-08-18
+1,Vivien's Invocation,m19,Core Set 2019,0.13,False,NearMint,English,2018-08-18
+2,Vulpine Goliath,ths,Theros,0.04,False,NearMint,English,2018-07-29
+1,Walker of the Grove,mor,Morningtide,0.11,False,NearMint,English,2018-07-29
+1,Wall of Ice,2ed,Unlimited Edition,0.74,False,NearMint,Italian,2018-08-18
+4,Wall of Roots,mir,Mirage,0.35,False,NearMint,English,2018-09-26
+4,Wall of Vines,m19,Core Set 2019,0.03,False,NearMint,English,2018-08-18
+1,Wall of Wood,4ed,Fourth Edition,0.06,False,NearMint,English,2018-07-29
+1,Wall of Wood,2ed,Unlimited Edition,0.24,False,NearMint,Italian,2018-08-18
+1,Wall of Wood,10e,Tenth Edition,0.08,False,NearMint,English,2018-07-29
+2,Wandering Stream,inv,Invasion,0.06,False,NearMint,English,2018-07-29
+1,Wandering Wolf,avr,Avacyn Restored,0.06,False,NearMint,Italian,2018-07-29
+1,Wanderlust,3ed,Revised Edition,0.1,False,NearMint,Italian,2018-10-28
+3,War Mammoth,3ed,Revised Edition,0.08,False,NearMint,Italian,2018-08-18
+1,Web,3ed,Revised Edition,0.28,False,NearMint,Italian,2018-10-28
+4,Werebear,ody,Odyssey,0.15,False,NearMint,English,2018-07-29
+1,Whirling Dervish,leg,Legends,8.9,False,NearMint,English,2018-07-29
+2,Whirling Dervish,4ed,Fourth Edition,0.21,False,NearMint,English,2018-07-29
+1,Wildslayer Elves,shm,Shadowmoor,0.08,False,NearMint,English,2018-07-29
+1,Winding Wurm,usg,Urza's Saga,0.08,False,NearMint,English,2018-07-29
+1,Windstorm,ktk,Khans of Tarkir,0.06,False,NearMint,English,2018-07-29
+1,Winnower Patrol,mor,Morningtide,0.1,False,NearMint,English,2018-07-29
+2,Wirewood Guardian,scg,Scourge,0.09,False,NearMint,English,2018-07-29
+1,Woodcloaker,scg,Scourge,0.06,False,NearMint,English,2018-07-29
+4,Woodland Changeling,lrw,Lorwyn,0.1,False,NearMint,Italian,2018-07-29
+2,Woodland Druid,ody,Odyssey,0.08,False,NearMint,Italian,2018-07-29
+1,Woodripper,nem,Nemesis,0.09,False,NearMint,English,2018-07-29
+3,Wurmskin Forger,mrd,Mirrodin,0.03,False,NearMint,English,2018-07-29
+4,Yavimaya Ants,all,Alliances,0.12,False,Good,Italian,2018-07-29

@@ -1,0 +1,624 @@
+Quantity,Name,Code,PurchasePrice,Foil,Condition,Language,PurchaseDate
+2,"Abandoned Outpost",ODY,0.0,0,0,0,26/1/2021
+1,"Abandoned Outpost",ODY,0.0,0,0,3,9/5/2020
+1,"Abandoned Outpost",ODY,0.0,0,0,6,9/5/2020
+2,"Adarkar Wastes",5ED,0.0,0,0,0,9/5/2020
+2,"Adarkar Wastes",6ED,0.0,0,0,0,9/5/2020
+1,"Adarkar Wastes",6ED,0.0,1,0,0,12/7/2020
+5,"Adarkar Wastes",ICE,0.0,0,0,0,9/5/2020
+1,"An-Havva Township",HML,0.0,0,2,0,15/8/2018
+8,"Ancient Den",MRD,0.0,0,0,0,7/6/2020
+1,"Ancient Spring",INV,0.0,0,0,0,9/5/2020
+3,"Ancient Tomb",TMP,0.0,0,0,0,9/5/2020
+2,"Ancient Tomb",TMP,0.0,1,0,0,13/7/2020
+4,"Arcane Sanctum",ALA,0.0,0,0,0,12/7/2020
+1,"Archaeological Dig",INV,0.0,0,0,0,17/1/2021
+1,"Arctic Flats",CSP,0.0,0,0,4,9/5/2020
+1,"Arena",TSB,0.0,0,0,0,9/5/2020
+1,"Azorius Chancery",DIS,0.0,0,0,4,15/8/2018
+1,"Azorius Chancery",IMA,0.0,0,0,0,9/5/2020
+2,"Azorius Guildgate",DGM,0.0,0,0,4,9/5/2020
+7,"Azorius Guildgate",RTR,0.0,0,0,4,9/5/2020
+3,"Azorius Guildgate",RNA,0.0,0,0,0,9/5/2020
+7,"Azorius Guildgate",RNA,0.0,0,0,0,9/5/2020
+4,"Bad River",MIR,0.0,0,0,0,17/1/2021
+4,"Balduvian Trading Post",ALL,0.0,0,0,0,9/5/2020
+1,"Balduvian Trading Post",ALL,0.0,0,0,1,9/5/2020
+1,"Barbarian Ring",ODY,0.0,0,0,3,9/5/2020
+1,"Barbarian Ring",ODY,0.0,0,0,4,15/8/2018
+1,"Barren Moor",ONS,0.0,0,0,0,9/5/2020
+1,"Battlefield Forge",ORI,0.0,0,0,4,9/5/2020
+3,"Bayou",2ED,0.0,1,0,0,9/5/2020
+2,"Blasted Landscape",USG,0.0,0,0,0,17/1/2021
+3,"Blinkmoth Nexus",DST,0.0,1,0,0,9/5/2020
+5,"Blinkmoth Well",MRD,0.0,0,0,0,31/5/2020
+2,"Bloodfell Caves",KTK,0.0,0,0,0,9/5/2020
+23,"Bloodfell Caves",KTK,0.0,0,0,4,9/5/2020
+4,"Bloodfell Caves",FRF,0.0,0,0,0,9/5/2020
+4,"Bloodfell Caves",FRF,0.0,0,0,6,9/5/2020
+1,"Blossoming Sands",KTK,0.0,0,0,0,9/5/2020
+18,"Blossoming Sands",KTK,0.0,0,0,4,9/5/2020
+2,"Blossoming Sands",FRF,0.0,0,0,0,9/5/2020
+5,"Blossoming Sands",FRF,0.0,0,0,4,9/5/2020
+2,"Blossoming Sands",FRF,0.0,0,0,6,9/5/2020
+2,"Bog Wreckage",ODY,0.0,0,0,0,27/1/2021
+1,"Bog Wreckage",ODY,0.0,0,0,3,9/5/2020
+2,"Bog Wreckage",ODY,0.0,0,0,6,9/5/2020
+1,"Boreal Shelf",CSP,0.0,0,0,4,9/5/2020
+1,"Boros Garrison",RAV,0.0,0,0,4,15/8/2018
+5,"Boros Guildgate",GRN,0.0,0,0,0,9/5/2020
+5,"Boros Guildgate",GTC,0.0,0,0,0,9/5/2020
+3,"Boros Guildgate",GRN,0.0,0,0,0,9/5/2020
+1,"Bottomless Vault",FEM,0.0,0,0,0,9/5/2020
+1,"Brushland",6ED,0.0,0,0,0,9/5/2020
+4,"Brushland",ICE,0.0,0,0,0,9/5/2020
+4,"Cabal Pit",ODY,0.0,0,0,0,27/1/2021
+1,"Cabal Pit",ODY,0.0,0,0,6,9/5/2020
+1,"Cabal Stronghold",DOM,0.0,0,0,0,9/5/2020
+4,"Caldera Lake",TMP,0.0,0,0,0,9/5/2020
+2,"Canopy Vista",BFZ,0.0,0,0,0,26/1/2021
+1,"Canopy Vista",BFZ,0.0,0,0,1,7/1/2021
+2,"Canyon Slough",AKH,0.0,0,0,0,7/1/2021
+2,"Castle Embereth",ELD,0.0,0,0,0,27/1/2021
+1,"Castle Garenbrig",ELD,0.0,0,0,0,26/1/2021
+1,"Castle Sengir",HML,0.0,0,1,0,15/8/2018
+1,"Caves of Koilos",APC,0.0,0,0,3,9/5/2020
+2,"Caves of Koilos",ORI,0.0,0,0,0,9/5/2020
+1,"Centaur Garden",ODY,0.0,0,0,0,26/1/2021
+1,"Cephalid Coliseum",ODY,0.0,0,0,4,9/5/2020
+5,"Choked Estuary",SOI,0.0,0,0,0,9/5/2020
+1,"Cinder Barrens",AKH,0.0,0,0,0,9/5/2020
+4,"Cinder Barrens",M19,0.0,0,0,0,15/8/2018
+5,"Cinder Marsh",TMP,0.0,0,0,0,7/1/2021
+1,"City of Brass",5ED,0.0,0,0,3,9/5/2020
+1,"City of Brass",5ED,0.0,1,0,0,9/5/2020
+2,"City of Brass",8ED,0.0,0,0,0,10/5/2020
+4,"City of Brass",CHR,0.0,0,0,0,9/5/2020
+1,"City of Brass",CHR,0.0,1,0,0,12/7/2020
+4,"City of Brass",ARN,0.0,1,0,0,10/5/2020
+4,"City of Traitors",EXO,0.0,1,0,0,17/1/2021
+1,"Clifftop Retreat",DOM,0.0,0,0,5,9/5/2020
+4,"Clifftop Retreat",ISD,0.0,0,0,0,31/5/2020
+6,"Cloudpost",MRD,0.0,0,0,0,7/6/2020
+1,"Cloudpost",MRD,0.0,0,0,4,9/5/2020
+6,"Cloudpost",MRD,0.0,1,0,0,9/5/2020
+1,"Coral Atoll",VIS,0.0,0,0,3,9/5/2020
+1,"Corrupted Crossroads",OGW,0.0,0,0,0,9/5/2020
+2,"Cradle of the Accursed",AKH,0.0,0,0,0,9/5/2020
+4,"Crumbling Necropolis",E01,0.0,0,0,0,9/5/2020
+1,"Crumbling Vestige",OGW,0.0,0,0,0,26/9/2018
+3,"Crumbling Vestige",OGW,0.0,1,0,4,9/5/2020
+2,"Crypt of the Eternals",HOU,0.0,0,0,0,9/5/2020
+1,"Crystal Quarry",ODY,0.0,0,0,4,15/8/2018
+1,"Crystal Vein",CMA,0.0,0,0,4,15/8/2018
+3,"Crystal Vein",MIR,0.0,0,0,0,26/1/2021
+2,"Crystal Vein",MIR,0.0,1,0,0,9/5/2020
+3,"Crystal Vein",6ED,0.0,0,0,0,9/5/2020
+1,"Crystal Vein",6ED,0.0,0,0,3,9/5/2020
+3,"Dakmor Salvage",MMA,0.0,0,0,0,9/5/2020
+4,"Darigaaz's Caldera",PLS,0.0,0,0,1,7/1/2021
+1,"Darigaaz's Caldera",PLS,0.0,0,0,6,9/5/2020
+4,"Darksteel Citadel",DST,0.0,0,0,0,17/1/2021
+4,"Darksteel Citadel",DST,0.0,0,0,4,9/5/2020
+1,"Darkwater Catacombs",ODY,0.0,0,0,0,9/5/2020
+1,"Daru Encampment",ONS,0.0,0,0,0,26/1/2021
+5,"Desert",TSB,0.0,0,0,0,17/1/2021
+1,"Desert of the Fervent",HOU,0.0,0,0,0,9/5/2020
+1,"Desert of the Fervent",HOU,0.0,0,0,4,9/5/2020
+1,"Desert of the Mindful",HOU,0.0,0,0,0,9/5/2020
+1,"Desert of the Mindful",HOU,0.0,0,0,4,9/5/2020
+2,"Desert of the True",HOU,0.0,0,0,0,9/5/2020
+2,"Deserted Temple",ODY,0.0,0,0,0,13/7/2020
+4,"Deserted Temple",ODY,0.0,0,0,3,19/7/2020
+3,"Dimir Aqueduct",IMA,0.0,0,0,0,9/5/2020
+5,"Dimir Guildgate",GRN,0.0,0,0,0,9/5/2020
+1,"Dimir Guildgate",GTC,0.0,0,0,4,9/5/2020
+2,"Dimir Guildgate",GRN,0.0,0,0,0,9/5/2020
+3,"Dimir Guildgate",DGM,0.0,0,0,0,9/5/2020
+1,"Dismal Backwater",DDQ,0.0,0,0,0,9/5/2020
+1,"Dismal Backwater",KTK,0.0,0,0,0,9/5/2020
+23,"Dismal Backwater",KTK,0.0,0,0,4,9/5/2020
+3,"Dismal Backwater",FRF,0.0,0,0,0,9/5/2020
+2,"Dismal Backwater",FRF,0.0,0,0,4,9/5/2020
+1,"Dormant Volcano",VIS,0.0,0,0,0,9/5/2020
+1,"Dragonskull Summit",M11,0.0,0,0,0,9/5/2020
+2,"Dragonskull Summit",XLN,0.0,0,0,0,9/5/2020
+1,"Dragonskull Summit",E01,0.0,0,0,0,9/5/2020
+1,"Dread Statuary",WWK,0.0,0,0,0,9/5/2020
+4,"Drifting Meadow",USG,0.0,0,0,0,13/7/2020
+4,"Dromar's Cavern",PLS,0.0,0,0,1,7/1/2021
+1,"Dromar's Cavern",PLS,0.0,0,0,3,9/5/2020
+1,"Drowned Catacomb",M11,0.0,0,0,0,9/5/2020
+1,"Drowned Catacomb",M11,0.0,0,0,4,24/5/2020
+2,"Drowned Catacomb",M13,0.0,0,0,0,6/1/2021
+1,"Drowned Catacomb",M12,0.0,0,0,0,6/1/2021
+1,"Drowned Catacomb",E01,0.0,0,0,0,9/5/2020
+3,"Drownyard Temple",SOI,0.0,0,0,0,13/7/2020
+1,"Drownyard Temple",SOI,0.0,1,0,0,13/7/2020
+2,"Dunes of the Dead",HOU,0.0,0,0,0,9/5/2020
+1,"Dwarven Hold",FEM,0.0,0,0,0,27/1/2021
+1,"Dwarven Ruins",5ED,0.0,0,0,0,31/5/2020
+1,"Dwarven Ruins",5ED,0.0,0,0,4,15/8/2018
+2,"Dwarven Ruins",FEM,0.0,0,0,0,27/1/2021
+3,"Ebon Stronghold",FEM,0.0,0,0,0,9/5/2020
+1,"Ebon Stronghold",6ED,0.0,0,0,3,9/5/2020
+3,"Elfhame Palace",8ED,0.0,1,0,0,9/5/2020
+1,"Everglades",VIS,0.0,0,0,0,9/5/2020
+2,"Evolving Wilds",RIX,0.0,0,0,4,9/5/2020
+2,"Evolving Wilds",AKH,0.0,0,0,4,9/5/2020
+1,"Evolving Wilds",AKH,0.0,1,0,4,9/5/2020
+4,"Evolving Wilds",ORI,0.0,0,0,4,9/5/2020
+6,"Evolving Wilds",IMA,0.0,0,0,0,9/5/2020
+4,"Exotic Orchard",CON,0.0,0,0,5,9/5/2020
+4,"Faerie Conclave",ULG,0.0,0,0,0,27/1/2021
+3,"Fetid Heath",A25,0.0,0,0,0,9/5/2020
+4,"Fetid Pools",AKH,0.0,0,0,0,12/7/2020
+2,"Field of Ruin",THB,0.0,0,0,3,9/5/2020
+4,"Flood Plain",MIR,0.0,0,0,0,17/1/2021
+6,"Flooded Strand",ONS,0.0,1,0,0,9/5/2020
+1,"Forbidding Watchtower",ULG,0.0,0,0,0,9/5/2020
+1,"Forbidding Watchtower",10E,0.0,0,0,0,9/5/2020
+2,"Forgotten Cave",ONS,0.0,0,0,4,15/8/2018
+2,"Forsaken City",PLS,0.0,0,0,0,13/7/2020
+1,"Forsaken Sanctuary",M19,0.0,0,0,0,15/8/2018
+1,"Forsaken Sanctuary",RIX,0.0,0,0,0,9/5/2020
+2,"Foul Orchard",M19,0.0,0,0,0,15/8/2018
+1,"Foul Orchard",SOI,0.0,0,0,4,9/5/2020
+1,"Frontier Bivouac",KTK,0.0,0,0,4,9/5/2020
+1,"Frost Marsh",CSP,0.0,0,0,4,9/5/2020
+1,"Fungal Reaches",TSP,0.0,0,0,4,9/5/2020
+2,"Gaea's Cradle",USG,0.0,1,0,0,26/1/2021
+1,"Gateway Plaza",GRN,0.0,1,0,0,9/5/2020
+9,"Gateway Plaza",RNA,0.0,0,0,0,9/5/2020
+1,"Gemstone Caverns",TSP,0.0,0,0,0,9/5/2020
+1,"Gemstone Mine",TSB,0.0,0,0,0,24/5/2020
+3,"Gemstone Mine",WTH,0.0,0,0,0,9/5/2020
+3,"Gemstone Mine",WTH,0.0,0,0,5,9/5/2020
+1,"Gemstone Mine",WTH,0.0,1,0,0,12/7/2020
+1,"Geothermal Crevice",INV,0.0,0,0,0,9/5/2020
+1,"Ghitu Encampment",10E,0.0,0,0,0,26/9/2018
+2,"Ghitu Encampment",ULG,0.0,0,1,0,26/9/2018
+7,"Ghost Town",TMP,0.0,0,0,0,9/5/2020
+7,"Glacial Chasm",ICE,0.0,0,0,0,10/5/2020
+1,"Glacial Chasm",ICE,0.0,0,0,4,9/5/2020
+3,"Glacial Fortress",M12,0.0,0,0,0,24/5/2020
+6,"Glimmervoid",MRD,0.0,0,0,0,7/6/2020
+1,"Goblin Burrows",ONS,0.0,0,0,0,9/5/2020
+1,"Goblin Burrows",ONS,0.0,1,0,0,9/5/2020
+6,"Godless Shrine",RNA,0.0,0,0,0,31/5/2020
+3,"Golgari Guildgate",MM3,0.0,0,0,0,9/5/2020
+3,"Golgari Guildgate",RTR,0.0,0,0,0,9/5/2020
+5,"Golgari Guildgate",RTR,0.0,0,0,4,9/5/2020
+3,"Golgari Guildgate",GRN,0.0,0,0,0,9/5/2020
+3,"Golgari Guildgate",GRN,0.0,0,0,0,9/5/2020
+2,"Golgari Guildgate",DGM,0.0,0,0,0,9/5/2020
+3,"Golgari Guildgate",DGM,0.0,0,0,4,9/5/2020
+1,"Golgari Guildgate",DGM,0.0,0,0,6,9/5/2020
+1,"Golgari Rot Farm",RAV,0.0,0,0,4,15/8/2018
+1,"Golgari Rot Farm",IMA,0.0,0,0,0,9/5/2020
+2,"Grand Coliseum",C16,0.0,0,0,0,9/5/2020
+1,"Grasslands",MIR,0.0,0,0,0,17/1/2021
+1,"Graven Cairns",SHM,0.0,0,0,0,12/7/2020
+7,"Great Furnace",MRD,0.0,0,0,0,7/6/2020
+1,"Great Furnace",MRD,0.0,0,0,4,9/5/2020
+5,"Great Furnace",MRD,0.0,1,0,0,9/5/2020
+1,"Grixis Panorama",E01,0.0,0,0,0,9/5/2020
+3,"Gruul Guildgate",RNA,0.0,0,0,0,9/5/2020
+2,"Gruul Guildgate",DGM,0.0,0,0,0,9/5/2020
+1,"Gruul Guildgate",DGM,0.0,0,0,4,9/5/2020
+3,"Gruul Guildgate",RNA,0.0,0,0,0,9/5/2020
+1,"Gruul Guildgate",GTC,0.0,0,0,0,9/5/2020
+1,"Gruul Guildgate",GTC,0.0,0,0,1,9/5/2020
+3,"Gruul Guildgate",GTC,0.0,0,0,4,9/5/2020
+3,"Gruul Turf",IMA,0.0,0,0,0,9/5/2020
+1,"Gruul Turf",GPT,0.0,0,0,1,9/5/2020
+2,"Halimar Depths",WWK,0.0,0,0,0,27/1/2021
+1,"Hallowed Fountain",RNA,0.0,0,0,0,9/5/2020
+3,"Hammerheim",LEG,0.0,0,0,4,9/5/2020
+2,"Haunted Fengraf",A25,0.0,0,0,0,9/5/2020
+4,"Havenwood Battleground",FEM,0.0,0,0,0,9/5/2020
+5,"Heart of Yavimaya",ALL,0.0,0,0,0,26/1/2021
+3,"Hellion Crucible",M13,0.0,0,0,0,9/5/2020
+1,"Hellion Crucible",M13,0.0,0,0,8,9/5/2020
+1,"Henge of Ramos",MMQ,0.0,0,0,6,17/1/2021
+1,"Hickory Woodlot",MMQ,0.0,0,0,0,9/5/2020
+1,"Hickory Woodlot",MMQ,0.0,0,0,3,9/5/2020
+2,"High Market",MMQ,0.0,0,0,0,12/7/2020
+1,"Highland Lake",M19,0.0,0,0,0,15/8/2018
+1,"Highland Lake",RIX,0.0,0,0,0,9/5/2020
+2,"Highland Lake",AKH,0.0,0,0,0,9/5/2020
+1,"Hinterland Harbor",DOM,0.0,0,0,0,7/1/2021
+3,"Hinterland Harbor",ISD,0.0,0,0,0,9/5/2020
+1,"Holdout Settlement",OGW,0.0,0,0,0,26/9/2018
+1,"Holdout Settlement",OGW,0.0,0,0,4,9/5/2020
+2,"Ifnir Deadlands",HOU,0.0,0,0,0,9/5/2020
+6,"Irrigated Farmland",AKH,0.0,0,0,0,12/7/2020
+4,"Isolated Chapel",ISD,0.0,0,0,0,15/8/2018
+2,"Isolated Chapel",ISD,0.0,0,0,4,9/5/2020
+4,"Izzet Boilerworks",IMA,0.0,0,0,0,9/5/2020
+2,"Izzet Guildgate",DGM,0.0,0,0,4,9/5/2020
+1,"Izzet Guildgate",DGM,0.0,0,0,6,9/5/2020
+5,"Izzet Guildgate",GRN,0.0,0,0,0,9/5/2020
+2,"Izzet Guildgate",GRN,0.0,0,0,0,9/5/2020
+1,"Izzet Guildgate",RTR,0.0,0,0,0,9/5/2020
+4,"Izzet Guildgate",RTR,0.0,0,0,4,9/5/2020
+1,"Izzet Guildgate",MM3,0.0,0,0,0,9/5/2020
+1,"Jungle Basin",VIS,0.0,0,0,3,9/5/2020
+2,"Jungle Hollow",FRF,0.0,0,0,6,9/5/2020
+2,"Jungle Hollow",KTK,0.0,0,0,0,9/5/2020
+20,"Jungle Hollow",KTK,0.0,0,0,4,9/5/2020
+1,"Kabira Crossroads",ZEN,0.0,0,0,0,13/7/2020
+1,"Karoo",VIS,0.0,0,0,3,9/5/2020
+4,"Karplusan Forest",ICE,0.0,0,0,0,9/5/2020
+7,"Karplusan Forest",ICE,0.0,1,0,0,9/5/2020
+3,"Karplusan Forest",6ED,0.0,0,0,0,9/5/2020
+1,"Karplusan Forest",7ED,0.0,0,0,4,9/5/2020
+1,"Karplusan Forest",7ED,0.0,1,0,0,9/5/2020
+1,"Karplusan Forest",9ED,0.0,0,0,4,9/5/2020
+1,"Kazandu Refuge",DDH,0.0,0,0,4,9/5/2020
+1,"Khalni Garden",WWK,0.0,0,0,0,9/5/2020
+2,"Kher Keep",C13,0.0,0,0,0,31/5/2020
+3,"Kjeldoran Outpost",ALL,0.0,0,0,0,26/1/2021
+1,"Kjeldoran Outpost",ALL,0.0,1,0,0,9/5/2020
+1,"Koskun Keep",HML,0.0,0,2,4,15/8/2018
+1,"Krosan Verge",JUD,0.0,0,0,4,15/8/2018
+5,"Krosan Verge",JUD,0.0,1,0,0,9/5/2020
+2,"Labyrinth of Skophos",THB,0.0,0,0,0,18/5/2020
+1,"Labyrinth of Skophos",THB,0.0,0,0,3,9/5/2020
+6,"Lake of the Dead",ALL,0.0,0,0,0,9/5/2020
+1,"Lake of the Dead",ALL,0.0,0,0,4,9/5/2020
+3,"Land Cap",ICE,0.0,0,0,0,9/5/2020
+4,"Land Cap",ICE,0.0,0,0,1,9/5/2020
+2,"Lava Tubes",ICE,0.0,0,0,0,9/5/2020
+1,"Leechridden Swamp",SHM,0.0,0,0,4,15/8/2018
+1,"Llanowar Reborn",FUT,0.0,0,0,0,9/5/2020
+2,"Llanowar Wastes",APC,0.0,0,0,0,26/1/2021
+1,"Llanowar Wastes",ORI,0.0,0,0,0,12/7/2020
+5,"Lonely Sandbar",ONS,0.0,0,0,0,13/7/2020
+1,"Lonely Sandbar",ONS,0.0,0,0,4,9/5/2020
+3,"Lotus Vale",WTH,0.0,0,0,0,9/5/2020
+1,"Lotus Vale",WTH,0.0,0,0,5,9/5/2020
+1,"Maze of Ith",V12,0.0,1,0,0,17/1/2021
+3,"Maze of Ith",DRK,0.0,0,0,0,9/5/2020
+4,"Maze of Ith",DRK,0.0,0,0,4,9/5/2020
+1,"Maze of Shadows",TMP,0.0,0,0,0,17/1/2021
+1,"Meandering River",M19,0.0,0,0,0,15/8/2018
+3,"Memorial to Folly",DOM,0.0,0,0,0,9/5/2020
+3,"Memorial to Genius",DOM,0.0,0,0,0,9/5/2020
+1,"Memorial to Genius",DOM,0.0,0,0,4,9/5/2020
+1,"Memorial to Genius",DOM,0.0,1,0,0,9/5/2020
+2,"Memorial to Glory",DOM,0.0,0,0,0,9/5/2020
+4,"Memorial to Glory",DOM,0.0,0,0,4,9/5/2020
+2,"Memorial to Unity",DOM,0.0,0,0,0,9/5/2020
+2,"Memorial to Unity",DOM,0.0,0,0,4,9/5/2020
+1,"Memorial to War",DOM,0.0,0,0,0,9/5/2020
+3,"Memorial to War",DOM,0.0,0,0,4,9/5/2020
+1,"Meteor Crater",PLS,0.0,0,0,0,9/5/2020
+4,"Mirrodin's Core",DST,0.0,0,0,0,22/7/2020
+4,"Mishra's Factory",DDF,0.0,0,0,5,9/5/2020
+11,"Mishra's Factory",4ED,0.0,0,0,0,31/5/2020
+5,"Mishra's Factory",4ED,0.0,0,0,3,9/5/2020
+1,"Mishra's Factory",4ED,0.0,0,0,5,9/5/2020
+1,"Mishra's Factory",4ED,0.0,0,2,0,31/1/2021
+1,"Mishra's Factory",PJGP,0.0,0,0,0,10/5/2020
+1,"Mistveil Plains",UMA,0.0,0,0,0,9/5/2020
+3,"Mossfire Valley",ODY,0.0,0,0,0,6/1/2021
+1,"Mossfire Valley",ODY,0.0,0,0,6,9/5/2020
+1,"Myriad Landscape",A25,0.0,0,0,0,9/5/2020
+2,"Nephalia Academy",EMN,0.0,0,0,0,9/5/2020
+2,"Nephalia Academy",EMN,0.0,0,0,4,9/5/2020
+1,"Nomad Outpost",KTK,0.0,0,0,4,9/5/2020
+2,"Nomad Stadium",ODY,0.0,0,0,0,26/1/2021
+1,"Nomad Stadium",ODY,0.0,0,0,6,9/5/2020
+1,"Oasis",4ED,0.0,0,0,0,9/5/2020
+1,"Oasis",ARN,0.0,0,0,4,9/5/2020
+1,"Okina, Temple to the Grandfathers",CHK,0.0,0,0,3,9/5/2020
+4,"Orzhov Basilica",IMA,0.0,0,0,0,9/5/2020
+8,"Orzhov Guildgate",DGM,0.0,0,0,4,9/5/2020
+2,"Orzhov Guildgate",GTC,0.0,0,0,4,9/5/2020
+4,"Orzhov Guildgate",RNA,0.0,0,0,0,9/5/2020
+4,"Orzhov Guildgate",RNA,0.0,0,0,0,9/5/2020
+1,"Orzhova, the Church of Deals",GPT,0.0,0,0,0,9/5/2020
+1,"Overgrown Tomb",GRN,0.0,0,0,0,12/7/2020
+2,"Overgrown Tomb",RTR,0.0,0,0,0,31/5/2020
+1,"Peat Bog",MMQ,0.0,0,0,3,9/5/2020
+1,"Peat Bog",MMQ,0.0,0,0,6,9/5/2020
+1,"Pendelhaven",LEG,0.0,0,0,0,9/5/2020
+2,"Pendelhaven",LEG,0.0,0,0,4,9/5/2020
+2,"Pendelhaven",A25,0.0,0,0,0,9/5/2020
+1,"Petrified Field",ODY,0.0,0,0,3,9/5/2020
+3,"Pine Barrens",TMP,0.0,0,0,0,6/1/2021
+1,"Pinecrest Ridge",CHK,0.0,0,0,4,9/5/2020
+2,"Piranha Marsh",ZEN,0.0,0,0,1,9/5/2020
+4,"Prairie Stream",BFZ,0.0,0,0,0,26/1/2021
+1,"Quicksand",A25,0.0,0,0,0,9/5/2020
+4,"Quicksand",10E,0.0,0,0,0,9/5/2020
+1,"Quicksand",9ED,0.0,0,0,4,9/5/2020
+4,"Quicksand",WWK,0.0,0,0,0,9/5/2020
+3,"Quicksand",VIS,0.0,0,0,0,9/5/2020
+1,"Rakdos Carnarium",DIS,0.0,0,0,4,15/8/2018
+2,"Rakdos Carnarium",IMA,0.0,0,0,0,9/5/2020
+1,"Rakdos Guildgate",DGM,0.0,0,0,0,9/5/2020
+4,"Rakdos Guildgate",RNA,0.0,0,0,0,9/5/2020
+1,"Rakdos Guildgate",MM3,0.0,0,0,0,9/5/2020
+3,"Rakdos Guildgate",RTR,0.0,0,0,0,9/5/2020
+1,"Rakdos Guildgate",RTR,0.0,0,0,4,9/5/2020
+3,"Rakdos Guildgate",RNA,0.0,0,0,0,9/5/2020
+1,"Ramunap Ruins",HOU,0.0,0,0,0,9/5/2020
+1,"Ravaged Highlands",ODY,0.0,0,0,3,9/5/2020
+2,"Ravaged Highlands",ODY,0.0,0,0,6,9/5/2020
+2,"Ravaged Highlands",ODY,0.0,0,1,4,15/8/2018
+3,"Reflecting Pool",SHM,0.0,0,0,0,12/7/2020
+2,"Reflecting Pool",TMP,0.0,0,0,0,12/7/2020
+2,"Reflecting Pool",TMP,0.0,1,0,0,7/1/2021
+2,"Reliquary Tower",M19,0.0,0,0,0,15/8/2018
+1,"Reliquary Tower",C15,0.0,0,0,0,31/5/2020
+2,"Reliquary Tower",M13,0.0,0,0,4,15/8/2018
+1,"Remote Farm",MMQ,0.0,0,0,3,9/5/2020
+7,"Remote Isle",USG,0.0,0,0,0,27/1/2021
+1,"Rhystic Cave",PCY,0.0,0,0,4,15/8/2018
+4,"Rishadan Port",MMQ,0.0,1,0,0,9/5/2020
+5,"Rith's Grove",PLS,0.0,0,0,0,7/1/2021
+5,"River Delta",ICE,0.0,0,0,0,9/5/2020
+1,"River Delta",ICE,0.0,0,0,3,9/5/2020
+1,"Rix Maadi, Dungeon Palace",DIS,0.0,0,0,4,9/5/2020
+1,"Rocky Tar Pit",MIR,0.0,0,0,0,17/1/2021
+1,"Rogue's Passage",CN2,0.0,0,0,0,9/5/2020
+1,"Rogue's Passage",UMA,0.0,0,0,0,9/5/2020
+4,"Rootbound Crag",M11,0.0,0,0,0,9/5/2020
+6,"Rootwater Depths",TMP,0.0,0,0,0,6/1/2021
+19,"Rugged Highlands",KTK,0.0,0,0,4,9/5/2020
+2,"Rugged Highlands",FRF,0.0,0,0,0,9/5/2020
+6,"Rugged Highlands",FRF,0.0,0,0,4,9/5/2020
+4,"Rugged Highlands",FRF,0.0,0,0,6,9/5/2020
+1,"Rugged Prairie",EVE,0.0,0,0,0,29/1/2021
+1,"Ruins of Trokair",5ED,0.0,0,0,0,26/1/2021
+1,"Ruins of Trokair",FEM,0.0,0,0,0,26/1/2021
+3,"Ruins of Trokair",6ED,0.0,0,0,0,9/5/2020
+1,"Rupture Spire",M19,0.0,0,0,0,15/8/2018
+1,"Sacred Foundry",GRN,0.0,0,0,0,9/5/2020
+1,"Safe Haven",CHR,0.0,0,0,0,9/5/2020
+2,"Safe Haven",TSB,0.0,0,0,0,26/1/2021
+4,"Salt Flats",TMP,0.0,0,0,0,6/1/2021
+1,"Saltcrusted Steppe",TSP,0.0,0,0,0,9/5/2020
+1,"Sandsteppe Citadel",CP3,0.0,1,0,0,12/7/2020
+2,"Sandstone Needle",MMQ,0.0,0,0,3,9/5/2020
+1,"Saprazzan Skerry",MMQ,0.0,0,0,0,27/1/2021
+1,"Saprazzan Skerry",MMQ,0.0,0,0,3,9/5/2020
+2,"Saprazzan Skerry",MMQ,0.0,1,0,0,9/5/2020
+1,"Sapseep Forest",SHM,0.0,0,0,0,9/5/2020
+2,"Scabland",TMP,0.0,0,0,0,6/1/2021
+1,"Scabland",TMP,0.0,0,2,0,6/1/2021
+4,"Scattered Groves",AKH,0.0,0,0,0,7/1/2021
+1,"Scorched Ruins",WTH,0.0,0,0,0,17/1/2021
+15,"Scoured Barrens",KTK,0.0,0,0,4,9/5/2020
+2,"Scoured Barrens",FRF,0.0,0,0,0,9/5/2020
+5,"Scoured Barrens",FRF,0.0,0,0,4,9/5/2020
+3,"Scoured Barrens",FRF,0.0,0,0,6,9/5/2020
+1,"Sea Gate Wreckage",OGW,0.0,0,0,0,9/5/2020
+2,"Seafarer's Quay",LEG,0.0,0,0,0,9/5/2020
+1,"Seafarer's Quay",LEG,0.0,0,0,4,9/5/2020
+1,"Seafloor Debris",ODY,0.0,0,0,3,9/5/2020
+1,"Seafloor Debris",ODY,0.0,0,0,6,9/5/2020
+2,"Seaside Haven",ONS,0.0,0,0,0,9/5/2020
+2,"Seat of the Synod",MRD,0.0,0,0,0,9/5/2020
+4,"Seat of the Synod",MRD,0.0,0,0,4,9/5/2020
+5,"Secluded Steppe",ONS,0.0,0,0,0,26/1/2021
+1,"Secluded Steppe",ONS,0.0,0,0,4,15/8/2018
+6,"Secluded Steppe",ONS,0.0,1,0,0,9/5/2020
+2,"Sejiri Steppe",WWK,0.0,0,0,0,9/5/2020
+4,"Selesnya Guildgate",GRN,0.0,0,0,0,9/5/2020
+1,"Selesnya Guildgate",MM3,0.0,0,0,0,9/5/2020
+2,"Selesnya Guildgate",RTR,0.0,0,0,4,9/5/2020
+4,"Selesnya Guildgate",GRN,0.0,0,0,0,9/5/2020
+1,"Selesnya Guildgate",DGM,0.0,0,0,4,9/5/2020
+1,"Selesnya Guildgate",DGM,0.0,0,0,6,9/5/2020
+3,"Selesnya Sanctuary",IMA,0.0,0,0,0,9/5/2020
+1,"Sequestered Stash",KLD,0.0,0,0,4,9/5/2020
+1,"Shadowblood Ridge",ODY,0.0,0,0,0,29/1/2021
+2,"Shadowblood Ridge",ODY,0.0,1,0,0,9/5/2020
+4,"Shambling Vent",BFZ,0.0,0,0,0,15/8/2018
+2,"Shefet Dunes",HOU,0.0,0,0,0,9/5/2020
+2,"Shefet Dunes",HOU,0.0,0,0,4,9/5/2020
+4,"Sheltered Thicket",AKH,0.0,0,0,0,6/1/2021
+2,"Sheltered Valley",ALL,0.0,0,0,0,9/5/2020
+7,"Shimmering Grotto",IMA,0.0,0,0,0,9/5/2020
+1,"Shimmering Grotto",MM3,0.0,0,0,0,9/5/2020
+1,"Shimmering Grotto",CN2,0.0,0,0,0,9/5/2020
+1,"Shimmering Grotto",CN2,0.0,0,0,10,9/5/2020
+1,"Shinka, the Bloodsoaked Keep",CHK,0.0,0,0,0,9/5/2020
+2,"Shivan Gorge",USG,0.0,0,0,0,27/1/2021
+1,"Shivan Oasis",INV,0.0,0,0,0,12/7/2020
+1,"Shivan Reef",APC,0.0,0,0,3,9/5/2020
+3,"Shivan Reef",M15,0.0,0,0,0,22/7/2020
+2,"Simic Growth Chamber",IMA,0.0,0,0,0,9/5/2020
+3,"Simic Guildgate",RNA,0.0,0,0,0,9/5/2020
+7,"Simic Guildgate",GTC,0.0,0,0,4,9/5/2020
+1,"Simic Guildgate",MM3,0.0,0,0,0,9/5/2020
+3,"Simic Guildgate",RNA,0.0,0,0,0,9/5/2020
+4,"Simic Guildgate",DGM,0.0,0,0,4,9/5/2020
+6,"Skycloud Expanse",ODY,0.0,1,0,0,9/5/2020
+5,"Skyshroud Forest",TMP,0.0,0,0,0,7/1/2021
+3,"Slippery Karst",USG,0.0,0,0,0,22/7/2020
+5,"Smoldering Crater",USG,0.0,0,0,0,27/1/2021
+8,"Smoldering Marsh",BFZ,0.0,0,0,0,26/1/2021
+2,"Smoldering Spires",E01,0.0,0,0,0,31/5/2020
+1,"Smoldering Spires",E01,0.0,0,0,4,9/5/2020
+2,"Soldevi Excavations",ALL,0.0,0,0,0,27/1/2021
+1,"Soldevi Excavations",ALL,0.0,0,0,5,9/5/2020
+2,"Sorrow's Path",DRK,0.0,0,0,4,9/5/2020
+4,"Spawning Pool",ULG,0.0,0,0,0,9/5/2020
+2,"Stalking Stones",MRD,0.0,0,0,0,9/5/2020
+1,"Stalking Stones",MRD,0.0,1,0,0,19/7/2020
+1,"Stalking Stones",TMP,0.0,0,0,0,17/1/2021
+3,"Stalking Stones",TMP,0.0,1,0,0,9/5/2020
+2,"Stensia Bloodhall",ISD,0.0,0,0,0,9/5/2020
+4,"Stirring Wildwood",DDP,0.0,0,0,0,7/1/2021
+1,"Stomping Ground",RNA,0.0,0,0,0,9/5/2020
+2,"Stone Quarry",M19,0.0,0,0,0,15/8/2018
+1,"Stone Quarry",XLN,0.0,0,0,0,9/5/2020
+1,"Stone Quarry",XLN,0.0,0,0,4,9/5/2020
+1,"Strip Mine",ATH,0.0,0,0,0,17/1/2021
+1,"Strip Mine",ATQ,0.0,0,1,0,15/8/2018
+1,"Strip Mine",ATQ,0.0,0,0,0,31/5/2020
+4,"Strip Mine",4ED,0.0,0,0,0,9/5/2020
+3,"Strip Mine",4ED,0.0,0,0,3,9/5/2020
+2,"Strip Mine",4ED,0.0,0,0,4,9/5/2020
+1,"Strip Mine",4ED,0.0,0,2,4,9/5/2020
+1,"Submerged Boneyard",AKH,0.0,0,0,0,9/5/2020
+4,"Submerged Boneyard",M19,0.0,0,0,0,15/8/2018
+2,"Sulfur Falls",DOM,0.0,0,0,0,24/5/2020
+1,"Sulfur Falls",DOM,0.0,0,0,5,9/5/2020
+4,"Sulfurous Springs",ICE,0.0,0,0,0,9/5/2020
+1,"Sulfurous Springs",5ED,0.0,0,0,0,9/5/2020
+1,"Sunhome, Fortress of the Legion",RAV,0.0,0,0,4,15/8/2018
+1,"Sunhome, Fortress of the Legion",HOP,0.0,0,0,4,9/5/2020
+2,"Sunken Hollow",BFZ,0.0,0,0,0,24/5/2020
+1,"Sunpetal Grove",M10,0.0,0,0,0,9/5/2020
+1,"Sunpetal Grove",XLN,0.0,0,0,0,12/7/2020
+1,"Sunscorched Desert",AKH,0.0,0,0,0,26/9/2018
+1,"Sunscorched Desert",AKH,0.0,1,0,0,9/5/2020
+2,"Svyelunite Temple",BTD,0.0,0,0,0,31/5/2020
+1,"Svyelunite Temple",5ED,0.0,0,0,3,9/5/2020
+1,"Swarmyard",TSP,0.0,0,0,0,9/5/2020
+18,"Swiftwater Cliffs",KTK,0.0,0,0,4,9/5/2020
+1,"Swiftwater Cliffs",KTK,0.0,0,0,6,9/5/2020
+4,"Swiftwater Cliffs",DDS,0.0,0,0,0,9/5/2020
+1,"Swiftwater Cliffs",FRF,0.0,0,0,0,9/5/2020
+3,"Swiftwater Cliffs",FRF,0.0,0,0,4,9/5/2020
+4,"Swiftwater Cliffs",FRF,0.0,0,0,6,9/5/2020
+1,"Tainted Field",TOR,0.0,0,0,0,6/1/2021
+1,"Tainted Field",TOR,0.0,0,0,3,9/5/2020
+1,"Tainted Isle",TOR,0.0,0,0,3,9/5/2020
+2,"Tainted Isle",TOR,0.0,0,0,4,9/5/2020
+4,"Tainted Peak",TOR,0.0,0,0,0,9/5/2020
+1,"Tainted Wood",TOR,0.0,0,0,3,9/5/2020
+4,"Tainted Wood",DDM,0.0,0,0,0,9/5/2020
+1,"Tectonic Edge",WWK,0.0,0,0,0,9/5/2020
+1,"Teetering Peaks",ZEN,0.0,0,0,4,9/5/2020
+2,"Teferi's Isle",MIR,0.0,0,0,3,9/5/2020
+1,"Temple Garden",GRN,0.0,0,0,0,9/5/2020
+1,"Temple of Abandon",THB,0.0,0,0,3,9/5/2020
+1,"Temple of Deceit",THB,0.0,0,0,3,9/5/2020
+1,"Temple of Enlightenment",THB,0.0,0,0,3,9/5/2020
+1,"Temple of Malice",THB,0.0,0,0,3,9/5/2020
+1,"Temple of Plenty",THB,0.0,0,0,3,9/5/2020
+2,"Temple of Silence",THS,0.0,0,0,4,15/8/2018
+1,"Temple of the False God",SCG,0.0,0,0,3,9/5/2020
+1,"Temple of the False God",SCG,0.0,0,0,4,9/5/2020
+10,"Temple of the False God",SCG,0.0,1,0,0,9/5/2020
+1,"Tendo Ice Bridge",BOK,0.0,0,0,4,9/5/2020
+2,"Terminal Moraine",PLS,0.0,0,0,0,9/5/2020
+1,"Terrain Generator",NMS,0.0,0,0,3,9/5/2020
+1,"Terramorphic Expanse",TSP,0.0,1,0,3,9/5/2020
+4,"Thalakos Lowlands",TMP,0.0,0,0,0,6/1/2021
+6,"Thawing Glaciers",ALL,0.0,0,0,0,26/1/2021
+5,"Thawing Glaciers",ALL,0.0,1,0,0,9/5/2020
+2,"Thespian's Stage",GTC,0.0,0,0,0,22/7/2020
+1,"Thornwood Falls",KTK,0.0,0,0,0,9/5/2020
+26,"Thornwood Falls",KTK,0.0,0,0,4,9/5/2020
+2,"Thornwood Falls",FRF,0.0,0,0,0,9/5/2020
+3,"Thornwood Falls",FRF,0.0,0,0,6,9/5/2020
+3,"Thran Quarry",USG,0.0,0,0,0,7/1/2021
+4,"Timber Gorge",M19,0.0,0,0,0,15/8/2018
+1,"Timberland Ruins",ODY,0.0,0,0,3,9/5/2020
+1,"Timberland Ruins",ODY,0.0,0,0,4,15/8/2018
+1,"Timberland Ruins",ODY,0.0,0,0,6,9/5/2020
+3,"Timberline Ridge",ICE,0.0,0,0,0,6/1/2021
+1,"Timberline Ridge",ICE,0.0,0,0,3,9/5/2020
+1,"Tinder Farm",INV,0.0,0,0,0,9/5/2020
+1,"Tolaria",LEG,0.0,0,0,0,9/5/2020
+6,"Tolaria",LEG,0.0,0,0,4,9/5/2020
+2,"Tolarian Academy",USG,0.0,0,0,0,13/7/2020
+1,"Tower of the Magistrate",MMQ,0.0,0,0,0,17/1/2021
+20,"Tranquil Cove",KTK,0.0,0,0,4,9/5/2020
+1,"Tranquil Cove",FRF,0.0,0,0,6,9/5/2020
+1,"Tranquil Cove",FRF,0.0,1,0,6,9/5/2020
+2,"Tranquil Expanse",M19,0.0,0,0,0,15/8/2018
+1,"Tranquil Thicket",ONS,0.0,0,0,0,9/5/2020
+4,"Tranquil Thicket",ONS,0.0,1,0,0,9/5/2020
+5,"Tree of Tales",MRD,0.0,0,0,0,9/5/2020
+1,"Treetop Village",PFNM,0.0,1,0,0,9/5/2020
+5,"Treetop Village",ULG,0.0,0,0,0,26/1/2021
+3,"Treetop Village",ULG,0.0,1,0,0,9/5/2020
+1,"Tresserhorn Sinks",CSP,0.0,1,0,0,7/1/2021
+1,"Treva's Ruins",PLS,0.0,0,0,3,9/5/2020
+1,"Underground River",9ED,0.0,0,0,0,9/5/2020
+3,"Underground River",ICE,0.0,0,0,0,9/5/2020
+4,"Underground River",ICE,0.0,1,0,0,9/5/2020
+2,"Undiscovered Paradise",VIS,0.0,0,0,0,9/5/2020
+1,"Undiscovered Paradise",VIS,0.0,0,0,3,9/5/2020
+7,"Undiscovered Paradise",VIS,0.0,1,0,0,31/5/2020
+3,"Unholy Citadel",LEG,0.0,0,0,4,9/5/2020
+1,"Unknown Shores",OGW,0.0,0,0,0,26/9/2018
+4,"Unknown Shores",THS,0.0,0,0,0,9/5/2020
+4,"Unknown Shores",THB,0.0,0,0,3,9/5/2020
+1,"Unknown Shores",XLN,0.0,0,0,0,9/5/2020
+1,"Unknown Shores",XLN,0.0,0,0,4,9/5/2020
+1,"Unstable Frontier",CON,0.0,0,0,0,13/7/2020
+1,"Unstable Frontier",CON,0.0,0,0,4,9/5/2020
+7,"Urborg",LEG,0.0,0,0,4,9/5/2020
+2,"Urborg Volcano",8ED,0.0,0,0,0,9/5/2020
+1,"Urborg, Tomb of Yawgmoth",M15,0.0,0,0,0,27/1/2021
+1,"Urborg, Tomb of Yawgmoth",M15,0.0,0,0,3,19/7/2020
+1,"Urborg, Tomb of Yawgmoth",M15,0.0,0,0,4,15/8/2018
+1,"Urborg, Tomb of Yawgmoth",PLC,0.0,0,0,0,9/5/2020
+1,"Urza's Mine",CHR,0.0,0,0,0,13/7/2020
+2,"Urza's Mine",CHR,0.0,0,0,0,13/7/2020
+1,"Urza's Mine",CHR,0.0,0,0,4,9/5/2020
+1,"Urza's Mine",5ED,0.0,0,0,3,9/5/2020
+4,"Urza's Mine",CHR,0.0,0,0,0,9/5/2020
+1,"Urza's Mine",8ED,0.0,0,0,4,9/5/2020
+1,"Urza's Mine",CHR,0.0,0,0,0,9/5/2020
+1,"Urza's Mine",CHR,0.0,0,0,4,9/5/2020
+1,"Urza's Power Plant",CHR,0.0,0,0,0,9/5/2020
+1,"Urza's Power Plant",ATQ,0.0,0,0,0,31/5/2020
+2,"Urza's Power Plant",CHR,0.0,0,0,0,9/5/2020
+1,"Urza's Power Plant",CHR,0.0,0,0,4,9/5/2020
+1,"Urza's Power Plant",5ED,0.0,0,0,3,9/5/2020
+6,"Urza's Power Plant",CHR,0.0,0,0,0,9/5/2020
+1,"Urza's Power Plant",CHR,0.0,0,0,4,9/5/2020
+1,"Urza's Power Plant",CHR,0.0,0,2,4,9/5/2020
+1,"Urza's Power Plant",CHR,0.0,0,0,0,9/5/2020
+1,"Urza's Power Plant",CHR,0.0,0,0,4,9/5/2020
+1,"Urza's Tower",CHR,0.0,0,0,0,13/7/2020
+2,"Urza's Tower",CHR,0.0,0,0,4,9/5/2020
+2,"Urza's Tower",CHR,0.0,0,2,4,9/5/2020
+1,"Urza's Tower",CHR,0.0,0,0,4,9/5/2020
+1,"Urza's Tower",5ED,0.0,0,0,3,9/5/2020
+1,"Urza's Tower",CHR,0.0,0,0,4,9/5/2020
+5,"Urza's Tower",CHR,0.0,0,0,0,9/5/2020
+1,"Urza's Tower",CHR,0.0,0,3,4,9/5/2020
+6,"Vault of Whispers",MRD,0.0,0,0,0,9/5/2020
+2,"Vault of Whispers",MRD,0.0,0,4,4,9/5/2020
+5,"Vault of Whispers",MRD,0.0,1,0,0,9/5/2020
+6,"Vec Townships",TMP,0.0,0,0,0,7/1/2021
+1,"Veldt",ICE,0.0,0,0,0,9/5/2020
+1,"Vesuva",TSP,0.0,0,0,3,9/5/2020
+1,"Vivid Creek",MMA,0.0,0,0,0,9/5/2020
+1,"Vivid Grove",MMA,0.0,0,0,0,9/5/2020
+1,"Vivid Meadow",MMA,0.0,0,0,0,9/5/2020
+1,"Vivid Meadow",LRW,0.0,0,0,4,15/8/2018
+1,"Wandering Fumarole",OGW,0.0,0,0,0,9/5/2020
+1,"Warped Landscape",SOI,0.0,0,0,4,9/5/2020
+1,"Wasteland",TMP,0.0,0,0,0,17/1/2021
+1,"Wasteland",TMP,0.0,0,0,5,9/5/2020
+8,"Wasteland",TMP,0.0,1,0,0,31/5/2020
+1,"Waterveil Cavern",CHK,0.0,0,0,4,9/5/2020
+2,"Watery Grave",GRN,0.0,0,0,0,26/1/2021
+18,"Wind-Scarred Crag",KTK,0.0,0,0,4,9/5/2020
+1,"Wind-Scarred Crag",FRF,0.0,0,0,0,9/5/2020
+4,"Wind-Scarred Crag",FRF,0.0,0,0,6,9/5/2020
+1,"Wind-Scarred Crag",FRF,0.0,1,0,6,9/5/2020
+1,"Windbrisk Heights",MD1,0.0,0,0,0,26/1/2021
+3,"Wirewood Lodge",ONS,0.0,0,0,0,26/1/2021
+1,"Wizards' School",HML,0.0,0,0,0,7/1/2021
+3,"Woodland Cemetery",DOM,0.0,0,0,0,6/1/2021
+2,"Woodland Cemetery",ISD,0.0,0,0,0,12/7/2020
+1,"Woodland Stream",KLD,0.0,0,0,0,15/8/2018
+4,"Woodland Stream",AKH,0.0,0,0,0,9/5/2020
+1,"Yavimaya Coast",M15,0.0,0,0,0,12/7/2020
+1,"Yavimaya Coast",M15,0.0,0,0,6,9/5/2020
+1,"Yavimaya Coast",APC,0.0,0,0,0,12/7/2020
+1,"Yavimaya Coast",ORI,0.0,0,0,0,31/5/2020
+1,"Zoetic Cavern",PGTW,0.0,1,0,0,19/7/2020

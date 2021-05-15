@@ -1,0 +1,86 @@
+Quantity,Name,ExpansionCode,ExpansionName,PurchasePrice,Foil,Condition,Language,PurchaseDate
+1,Island,mir,Mirage,0.0,False,NearMint,Spanish,2020-05-24
+2,Island,4ed,Fourth Edition,0.0,False,NearMint,Spanish,2020-05-24
+1,Island,xln,Ixalan,0.0,False,NearMint,Italian,2020-05-24
+1,Island,m15,Magic 2015,0.0,True,NearMint,Italian,2020-05-24
+1,Island,bfz,Battle for Zendikar,0.0,False,NearMint,English,2020-07-13
+1,Island,m19,Core Set 2019,0.0,False,NearMint,English,2020-05-24
+5,Island,m11,Magic 2011,0.0,False,NearMint,Spanish,2020-05-24
+3,Island,dds,Duel Decks: Mind vs. Might,0.0,False,NearMint,English,2020-05-24
+1,Island,10e,Tenth Edition,0.0,False,NearMint,Italian,2020-05-24
+3,Island,e01,Archenemy: Nicol Bolas,0.0,False,NearMint,English,2020-05-24
+1,Island,m19,Core Set 2019,0.0,False,NearMint,English,2020-05-24
+1,Island,ktk,Khans of Tarkir,0.0,False,NearMint,English,2020-05-24
+1,Island,ktk,Khans of Tarkir,0.0,True,NearMint,Italian,2020-05-24
+1,Island,5ed,Fifth Edition,0.0,False,NearMint,Italian,2020-05-24
+1,Island,m19,Core Set 2019,0.0,False,NearMint,English,2020-05-24
+3,Island,dds,Duel Decks: Mind vs. Might,0.0,False,NearMint,English,2020-05-24
+1,Island,bfz,Battle for Zendikar,0.0,False,NearMint,English,2020-07-13
+5,Island,8ed,Eighth Edition,0.0,True,NearMint,English,2020-05-24
+6,Island,akh,Amonkhet,0.0,False,NearMint,English,2020-05-24
+8,Island,akh,Amonkhet,0.0,False,NearMint,Italian,2020-05-24
+1,Island,ice,Ice Age,0.0,False,NearMint,English,2020-05-24
+1,Island,ice,Ice Age,0.0,False,NearMint,Spanish,2020-05-24
+1,Island,rav,Ravnica: City of Guilds,0.0,False,NearMint,Spanish,2020-05-24
+1,Island,hou,Hour of Devastation,0.0,False,NearMint,Italian,2020-05-24
+1,Island,ktk,Khans of Tarkir,0.0,False,NearMint,Italian,2020-05-24
+1,Island,dom,Dominaria,0.0,False,NearMint,Spanish,2020-05-24
+1,Island,ths,Theros,0.0,False,NearMint,Italian,2020-05-24
+1,Island,rtr,Return to Ravnica,0.0,False,NearMint,Italian,2020-05-24
+5,Island,akh,Amonkhet,0.0,False,NearMint,English,2020-05-24
+4,Island,akh,Amonkhet,0.0,False,NearMint,Italian,2020-05-24
+1,Island,mrd,Mirrodin,0.0,False,NearMint,English,2020-05-24
+3,Island,mrd,Mirrodin,0.0,False,NearMint,Italian,2020-05-24
+4,Island,thb,Theros Beyond Death,0.0,False,NearMint,French,2020-05-24
+1,Island,ths,Theros,0.0,False,NearMint,English,2020-05-24
+4,Island,3ed,Revised Edition,0.0,False,NearMint,English,2020-07-13
+17,Island,3ed,Revised Edition,0.0,True,NearMint,Italian,2020-07-13
+1,Island,3ed,Revised Edition,0.0,True,NearMint,Spanish,2020-05-24
+2,Island,m11,Magic 2011,0.0,False,NearMint,Spanish,2020-05-24
+2,Island,ice,Ice Age,0.0,False,NearMint,English,2020-05-24
+1,Island,ice,Ice Age,0.0,False,NearMint,Spanish,2020-05-24
+2,Island,bfz,Battle for Zendikar,0.0,False,NearMint,English,2020-07-13
+1,Island,ice,Ice Age,0.0,False,NearMint,English,2020-05-24
+1,Island,ice,Ice Age,0.0,False,NearMint,Spanish,2020-05-24
+4,Island,m11,Magic 2011,0.0,False,NearMint,Spanish,2020-05-24
+4,Island,dds,Duel Decks: Mind vs. Might,0.0,False,NearMint,English,2020-05-24
+1,Island,ptk,Portal Three Kingdoms,0.0,False,NearMint,English,2020-05-24
+1,Island,bfz,Battle for Zendikar,0.0,False,NearMint,English,2020-07-13
+1,Island,p02,Portal Second Age,0.0,False,NearMint,Italian,2020-05-24
+4,Island,3ed,Revised Edition,0.0,False,NearMint,English,2020-07-13
+10,Island,3ed,Revised Edition,0.0,True,NearMint,French,2020-07-13
+7,Island,akh,Amonkhet,0.0,False,NearMint,English,2020-05-24
+9,Island,akh,Amonkhet,0.0,False,NearMint,Italian,2020-05-24
+1,Island,m15,Magic 2015,0.0,False,NearMint,Italian,2020-05-24
+1,Island,bfz,Battle for Zendikar,0.0,False,NearMint,English,2020-07-13
+1,Island,m15,Magic 2015,0.0,False,NearMint,Italian,2020-05-24
+1,Island,m15,Magic 2015,0.0,False,NearMint,Japanese,2020-05-24
+2,Island,m11,Magic 2011,0.0,False,NearMint,Spanish,2020-05-24
+2,Island,mrd,Mirrodin,0.0,False,NearMint,Italian,2020-05-24
+1,Island,xln,Ixalan,0.0,False,NearMint,English,2020-05-24
+10,Island,xln,Ixalan,0.0,False,NearMint,Italian,2020-05-24
+1,Island,mrd,Mirrodin,0.0,False,NearMint,English,2020-05-24
+4,Island,mrd,Mirrodin,0.0,False,NearMint,Italian,2020-05-24
+1,Island,m14,Magic 2014,0.0,False,NearMint,English,2020-05-24
+3,Island,e01,Archenemy: Nicol Bolas,0.0,False,NearMint,English,2020-05-24
+1,Island,xln,Ixalan,0.0,False,NearMint,English,2020-05-24
+8,Island,xln,Ixalan,0.0,False,NearMint,Italian,2020-05-24
+4,Island,mrd,Mirrodin,0.0,False,NearMint,Italian,2020-05-24
+2,Island,kld,Kaladesh,0.0,False,NearMint,English,2020-05-24
+1,Island,ths,Theros,0.0,False,NearMint,English,2020-05-24
+3,Island,ths,Theros,0.0,False,NearMint,English,2020-05-24
+1,Island,hou,Hour of Devastation,0.0,False,NearMint,English,2020-05-24
+1,Island,mir,Mirage,0.0,False,NearMint,Spanish,2020-05-24
+4,Island,kld,Kaladesh,0.0,False,NearMint,English,2020-05-24
+1,Island,8ed,Eighth Edition,0.0,True,NearMint,English,2020-05-24
+4,Island,3ed,Revised Edition,0.0,False,NearMint,English,2020-07-13
+3,Island,3ed,Revised Edition,0.0,True,NearMint,Italian,2020-07-13
+1,Island,10e,Tenth Edition,0.0,False,NearMint,English,2020-05-24
+10,Island,rix,Rivals of Ixalan,0.0,False,NearMint,Italian,2020-05-24
+1,Island,m19,Core Set 2019,0.0,False,NearMint,English,2020-05-24
+2,Island,mir,Mirage,0.0,False,NearMint,Portuguese,2020-05-24
+1,Island,chk,Champions of Kamigawa,0.0,False,NearMint,Italian,2020-05-24
+2,Island,kld,Kaladesh,0.0,False,NearMint,English,2020-05-24
+1,Island,gnt,Game Night,0.0,False,NearMint,Spanish,2020-05-24
+5,Island,8ed,Eighth Edition,0.0,True,NearMint,English,2020-05-24
+2,Snow-Covered Island,ice,Ice Age,0.0,False,NearMint,English,2020-05-24

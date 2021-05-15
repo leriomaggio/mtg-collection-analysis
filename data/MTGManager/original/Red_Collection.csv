@@ -1,0 +1,4104 @@
+Quantity,Name,Code,PurchasePrice,Foil,Condition,Language,PurchaseDate
+4,"Abbot of Keral Keep",ORI,0.0,0,0,0,29/3/2020
+2,"About Face",ULG,0.0,0,0,4,28/7/2018
+4,"Abrade",HOU,0.0,0,0,0,12/7/2020
+9,"Accelerate",TOR,0.0,0,0,0,25/1/2021
+4,"Acceptable Losses",ODY,0.0,0,0,0,24/1/2021
+1,"Acidic Soil",USG,0.0,0,0,0,28/7/2018
+2,"Act of Aggression",NPH,0.0,0,0,0,29/3/2020
+4,"Act of Treason",RNA,0.0,0,0,0,15/3/2020
+1,"Act of Treason",KTK,0.0,0,0,6,4/11/2018
+1,"Act of Treason",KTK,0.0,1,0,4,1/11/2018
+3,"Act of Treason",M19,0.0,0,0,0,19/8/2018
+2,"Active Volcano",LEG,0.0,0,0,0,8/5/2020
+22,"Active Volcano",LEG,0.0,0,0,4,8/5/2020
+1,"Active Volcano",CHR,0.0,0,0,0,25/1/2021
+1,"Aerathi Berserker",LEG,0.0,0,0,0,8/5/2020
+3,"Aerathi Berserker",LEG,0.0,0,0,4,8/5/2020
+3,"Aether Charge",ONS,0.0,0,0,0,25/1/2021
+1,"Aether Charge",ONS,0.0,0,0,4,28/7/2018
+2,"Aether Chaser",AER,0.0,0,0,4,4/3/2019
+2,"Aether Flash",6ED,0.0,0,0,0,19/4/2020
+1,"Aether Membrane",PLC,0.0,0,0,0,24/1/2021
+1,"Aether Membrane",PLC,0.0,1,0,0,31/10/2018
+4,"Aftershock",TMP,0.0,0,0,0,28/7/2018
+1,"Aftershock",TMP,0.0,0,0,4,24/2/2019
+5,"Agent of Stromgald",ALL,0.0,0,0,0,24/5/2020
+1,"Agent of Stromgald",ALL,0.0,0,0,0,25/1/2021
+2,"Aggravated Assault",ONS,0.0,0,0,0,25/1/2021
+1,"Agility",MIR,0.0,0,0,2,24/5/2020
+3,"Ahn-Crop Crasher",AKH,0.0,0,0,0,1/11/2018
+1,"Ahn-Crop Crasher",AKH,0.0,0,0,4,1/11/2018
+1,"Ahn-Crop Invader",WAR,0.0,0,0,0,23/3/2020
+1,"Airdrop Condor",ONS,0.0,0,0,0,25/1/2021
+1,"Akki Blizzard-Herder",BOK,0.0,0,0,4,28/7/2018
+1,"Akki Coalflinger",DD3_EVG,0.0,0,0,0,28/7/2018
+1,"Akki Lavarunner",CHK,0.0,0,0,0,24/5/2020
+1,"Akki Rockspeaker",CHK,0.0,0,3,4,6/4/2020
+1,"Akki Underling",SOK,0.0,0,0,0,3/11/2018
+3,"Akki Underling",SOK,0.0,0,0,4,25/9/2018
+1,"Akoum Firebird",BFZ,0.0,0,0,0,24/5/2020
+1,"Akoum Firebird",BFZ,0.0,0,0,4,3/3/2019
+3,"Akoum Hellkite",BFZ,0.0,0,0,0,5/11/2018
+1,"Akoum Hellkite",BFZ,0.0,0,0,6,5/11/2018
+1,"Aladdin",ARN,0.0,0,0,4,28/7/2018
+4,"Alchemist's Greeting",C19,0.0,0,0,0,22/3/2020
+1,"Ali Baba",ARN,0.0,0,0,4,28/7/2018
+1,"Ali Baba",4ED,0.0,0,0,0,17/9/2018
+1,"Ali from Cairo",ARN,0.0,0,0,0,12/7/2020
+1,"Aliban's Tower",HML,0.0,0,0,0,17/9/2018
+1,"Alpha Brawl",DKA,0.0,0,0,0,24/5/2020
+1,"Alpine Moon",M19,0.0,0,0,0,19/8/2018
+1,"Ambush",HML,0.0,0,1,0,24/2/2019
+1,"Ambush Party",5ED,0.0,0,0,4,24/2/2019
+1,"Ambush Party",HML,0.0,0,0,0,17/9/2018
+1,"Amok",STH,0.0,0,0,4,28/7/2018
+5,"Amplifire",RNA,0.0,0,0,0,15/3/2020
+1,"Anaba Ancestor",HML,0.0,0,0,4,24/2/2019
+1,"Anaba Bodyguard",HML,0.0,0,0,0,17/9/2018
+3,"Anaba Bodyguard",10E,0.0,0,0,4,28/7/2018
+1,"Anaba Shaman",HML,0.0,0,0,0,17/9/2018
+3,"Anaba Shaman",8ED,0.0,0,0,4,28/7/2018
+2,"Anaba Spirit Crafter",HML,0.0,0,0,0,18/7/2020
+3,"Anarchist",ODY,0.0,0,0,0,24/1/2021
+1,"Anarchist",ODY,0.0,0,0,4,17/9/2018
+1,"Anarchist",9ED,0.0,0,0,4,3/11/2018
+5,"Anarchist",EXO,0.0,0,0,0,1/3/2021
+3,"Anarchy",ICE,0.0,0,0,0,20/4/2020
+1,"Anarchy",ICE,0.0,0,0,4,24/2/2019
+2,"Anax, Hardened in the Forge",THB,0.0,0,0,3,15/3/2020
+1,"Anax, Hardened in the Forge",PTHB,0.0,0,0,3,22/3/2020
+1,"Ancient Grudge",TSP,0.0,0,0,0,24/5/2020
+1,"Ancient Grudge",TSP,0.0,0,0,4,30/10/2018
+3,"Ancient Hydra",NMS,0.0,0,0,0,24/5/2020
+1,"Ancient Hydra",NMS,0.0,0,0,3,19/4/2020
+5,"Ancient Kavu",INV,0.0,0,0,0,22/2/2021
+1,"Ancient Kavu",INV,0.0,0,1,4,28/7/2018
+1,"Ancient Runes",TMP,0.0,0,0,0,25/1/2021
+1,"Ancient Runes",TMP,0.0,0,0,4,28/7/2018
+1,"Anger",UMA,0.0,0,0,0,4/3/2019
+1,"Anger",JUD,0.0,0,0,4,29/7/2018
+1,"Anger of the Gods",IMA,0.0,0,0,0,24/5/2020
+2,"Anje's Ravager",C19,0.0,0,0,0,22/3/2020
+1,"Antagonism",USG,0.0,0,0,0,24/2/2019
+1,"Apex of Power",M19,0.0,0,0,0,18/9/2018
+2,"Apex of Power",M19,0.0,0,0,4,25/9/2018
+4,"Apocalypse",TMP,0.0,0,0,0,19/4/2020
+1,"Apocalypse",TMP,0.0,0,0,1,19/4/2020
+1,"Apocalypse",TMP,0.0,0,0,4,24/2/2019
+4,"Arc Lightning",USG,0.0,0,0,0,28/7/2018
+1,"Arc Lightning",KTK,0.0,0,0,3,29/3/2020
+1,"Arc Mage",NMS,0.0,0,0,0,24/5/2020
+1,"Arc Mage",NMS,0.0,0,0,3,19/4/2020
+1,"Arc Runner",M11,0.0,0,0,0,1/4/2020
+2,"Arc Trail",SOM,0.0,0,0,0,7/6/2020
+3,"Arcane Teachings",JUD,0.0,0,0,4,3/11/2018
+4,"Arcbond",FRF,0.0,0,0,0,12/7/2020
+1,"Archwing Dragon",AVR,0.0,0,0,0,24/5/2020
+3,"Arclight Phoenix",GRN,0.0,0,0,0,12/5/2020
+1,"Arena Trickster",THB,0.0,0,0,0,24/1/2021
+4,"Arena Trickster",THB,0.0,0,0,3,15/3/2020
+1,"Arms Dealer",MMQ,0.0,0,0,0,24/2/2019
+1,"Arrow Storm",KTK,0.0,0,0,6,4/11/2018
+4,"Artillerize",NPH,0.0,0,0,0,29/3/2020
+5,"Ash Zealot",RTR,0.0,0,0,0,31/5/2020
+2,"Ashcloud Phoenix",KTK,0.0,0,0,0,24/5/2020
+1,"Ashcloud Phoenix",KTK,0.0,0,0,4,3/3/2019
+2,"Ashen Firebeast",ODY,0.0,0,0,0,19/4/2020
+4,"Aspect of Manticore",THB,0.0,0,0,3,15/3/2020
+4,"Assembled Alphas",EMN,0.0,0,0,0,1/11/2018
+1,"Assquatch",UNH,0.0,0,0,0,22/2/2021
+1,"Atog",MRD,0.0,0,0,0,27/4/2020
+2,"Atog",5ED,0.0,0,0,0,25/1/2021
+7,"Atog",3ED,0.0,0,0,0,28/7/2018
+4,"Atog",3ED,0.0,1,0,1,23/2/2019
+1,"Atog",3ED,0.0,1,0,3,17/3/2019
+16,"Atog",3ED,0.0,1,0,4,8/5/2020
+4,"Avacyn's Judgment",C19,0.0,0,0,0,22/3/2020
+1,"Avacyn's Judgment",SOI,0.0,0,0,0,22/3/2020
+4,"Avalanche",ICE,0.0,0,0,0,24/3/2019
+4,"Avalanche Riders",ULG,0.0,0,0,4,28/7/2018
+2,"Avarax",ONS,0.0,0,0,0,25/1/2021
+1,"Avatar of Fury",PCY,0.0,0,0,0,19/4/2020
+2,"Avatar of Fury",PCY,0.0,0,0,3,19/4/2020
+1,"Awe for the Guilds",DGM,0.0,0,0,4,1/11/2018
+1,"Awe for the Guilds",DGM,0.0,0,0,6,3/3/2019
+1,"Backdraft",LEG,0.0,0,0,0,8/5/2020
+4,"Backdraft",LEG,0.0,0,0,4,8/5/2020
+2,"Backdraft Hellkite",C19,0.0,0,0,0,22/3/2020
+1,"Balduvian Barbarians",7ED,0.0,0,0,4,17/9/2018
+8,"Balduvian Barbarians",ICE,0.0,0,0,0,3/5/2020
+3,"Balduvian Barbarians",6ED,0.0,0,0,4,2/11/2018
+5,"Balduvian Horde",ALL,0.0,0,0,0,25/1/2021
+1,"Balduvian Horde",ALL,0.0,0,0,3,17/3/2019
+1,"Balduvian Horde",6ED,0.0,0,0,0,24/5/2020
+4,"Balduvian Horde",A25,0.0,0,0,0,28/3/2020
+1,"Balduvian Horde",BTD,0.0,0,0,0,19/4/2020
+1,"Balduvian Rage",CSP,0.0,0,0,0,30/3/2020
+3,"Balduvian War-Makers",ALL,0.0,0,0,0,24/5/2020
+5,"Balduvian War-Makers",ALL,0.0,0,0,0,24/2/2019
+2,"Balduvian Warlord",CSP,0.0,0,0,0,12/7/2020
+2,"Ball Lightning",M10,0.0,0,0,0,31/5/2020
+2,"Ball Lightning",5ED,0.0,0,0,0,24/2/2019
+4,"Ball Lightning",DRK,0.0,0,0,0,31/5/2020
+2,"Ball Lightning",DRK,0.0,0,0,3,8/5/2020
+3,"Ball Lightning",DRK,0.0,0,0,4,23/2/2019
+4,"Ball Lightning",4ED,0.0,0,0,0,25/1/2021
+1,"Ball Lightning",4ED,0.0,0,0,3,3/5/2020
+1,"Ball Lightning",4ED,0.0,0,0,4,17/9/2018
+1,"Balthor the Stout",TOR,0.0,0,0,0,17/3/2019
+1,"Banefire",M19,0.0,0,0,0,19/8/2018
+7,"Barbarian Bully",JUD,0.0,0,0,0,25/1/2021
+1,"Barbarian Bully",JUD,0.0,0,1,4,28/7/2018
+8,"Barbarian Guides",ICE,0.0,0,0,0,3/5/2020
+5,"Barbarian Lunatic",ODY,0.0,0,0,0,25/1/2021
+8,"Barbarian Outcast",TOR,0.0,0,0,0,25/1/2021
+4,"Barbarian Outcast",TOR,0.0,0,0,4,28/7/2018
+2,"Barbed Field",PCY,0.0,0,0,0,24/1/2021
+1,"Barbed Shocker",TSP,0.0,0,0,4,31/10/2018
+6,"Barbed Sliver",TMP,0.0,0,0,0,24/3/2019
+3,"Barging Sergeant",GRN,0.0,0,0,0,15/3/2020
+1,"Barrage of Boulders",KTK,0.0,0,0,9,4/11/2018
+1,"Barrel Down Sokenzan",SOK,0.0,0,0,4,3/11/2018
+1,"Barreling Attack",MIR,0.0,0,0,0,25/1/2021
+1,"Barreling Attack",MIR,0.0,0,0,2,24/5/2020
+1,"Bash to Bits",ODY,0.0,0,0,4,17/9/2018
+3,"Batterhorn",RTR,0.0,0,0,0,3/3/2019
+4,"Battering Craghorn",ONS,0.0,0,0,0,15/4/2020
+1,"Battering Sliver",PLC,0.0,0,0,4,28/7/2018
+3,"Battle Frenzy",ICE,0.0,0,0,0,3/5/2020
+3,"Battle Rampart",MMQ,0.0,0,0,0,28/7/2018
+1,"Battle Squadron",MMQ,0.0,0,0,6,17/3/2019
+5,"Battle-Mad Ronin",CHK,0.0,0,0,4,28/7/2018
+1,"Beasts of Bogardan",LEG,0.0,0,0,0,8/5/2020
+4,"Beasts of Bogardan",LEG,0.0,0,0,4,8/5/2020
+1,"Beasts of Bogardan",CHR,0.0,0,0,0,25/1/2021
+2,"Bedlam",USG,0.0,0,0,0,19/4/2020
+1,"Bedlam",7ED,0.0,0,0,0,18/7/2020
+4,"Bedlam Reveler",EMN,0.0,0,0,0,12/7/2020
+4,"Beetleback Chief",EMA,0.0,0,0,0,29/3/2020
+2,"Beetleback Chief",EMA,0.0,1,0,0,24/1/2021
+1,"Ben-Ben, Akki Hermit",CHK,0.0,0,0,0,3/3/2019
+2,"Ben-Ben, Akki Hermit",CHK,0.0,0,0,4,3/3/2019
+1,"Bend or Break",INV,0.0,0,0,0,17/3/2019
+1,"Berserkers' Onslaught",DTK,0.0,0,0,0,24/5/2020
+10,"Bestial Fury",ALL,0.0,0,0,0,24/5/2020
+1,"Bestial Fury",ALL,0.0,0,0,4,28/7/2018
+1,"Bestial Fury",ALL,0.0,0,0,0,17/9/2018
+1,"Bestial Fury",ALL,0.0,0,0,5,24/3/2019
+1,"Betrothed of Fire",WTH,0.0,0,0,0,28/7/2018
+2,"Bird Maiden",4ED,0.0,0,0,0,3/5/2020
+3,"Bird Maiden",4ED,0.0,0,0,5,23/2/2019
+3,"Bird Maiden",4ED,0.0,1,0,5,8/5/2020
+1,"Bird Maiden",5ED,0.0,0,0,4,24/2/2019
+1,"Blade Sliver",LGN,0.0,0,0,3,6/4/2020
+1,"Blade-Tribe Berserkers",SOM,0.0,0,0,4,4/11/2018
+3,"Bladetusk Boar",JOU,0.0,0,0,4,28/7/2018
+1,"Blasphemous Act",C16,0.0,0,0,0,24/1/2021
+1,"Blast from the Past",UNH,0.0,0,0,0,22/2/2021
+1,"Blaster Mage",MMQ,0.0,0,0,4,1/3/2019
+2,"Blazing Effigy",LEG,0.0,0,0,0,8/5/2020
+6,"Blazing Effigy",LEG,0.0,0,0,4,8/5/2020
+4,"Blazing Salvo",ODY,0.0,0,0,0,25/1/2021
+1,"Blind Fury",MIR,0.0,0,0,2,24/5/2020
+1,"Blind Fury",MIR,0.0,0,0,5,24/5/2020
+5,"Blistering Barrier",MIR,0.0,0,0,2,24/5/2020
+1,"Blistering Dieflyn",SHM,0.0,0,0,0,3/3/2019
+3,"Blistering Firecat",ONS,0.0,0,0,0,24/5/2020
+1,"Blisterstick Shaman",MBS,0.0,0,0,0,29/3/2020
+2,"Blood Aspirant",THB,0.0,0,0,3,15/3/2020
+1,"Blood Feud",DKA,0.0,0,0,4,28/7/2018
+2,"Blood Frenzy",TMP,0.0,0,0,0,21/2/2021
+1,"Blood Frenzy",TMP,0.0,0,0,5,24/3/2019
+1,"Blood Hound",MMQ,0.0,0,0,6,17/3/2019
+2,"Blood Knight",PLC,0.0,0,0,0,24/1/2021
+1,"Blood Lust",5ED,0.0,0,0,3,19/4/2020
+1,"Blood Lust",5ED,0.0,0,0,4,24/2/2019
+3,"Blood Lust",4ED,0.0,0,0,0,28/7/2018
+1,"Blood Lust",LEG,0.0,0,0,0,8/5/2020
+1,"Blood Lust",LEG,0.0,0,0,4,23/2/2019
+1,"Blood Moon",DRK,0.0,0,0,0,8/5/2020
+1,"Blood Moon",DRK,0.0,0,0,4,8/5/2020
+3,"Blood Moon",8ED,0.0,0,0,4,28/7/2018
+1,"Blood Moon",8ED,0.0,1,0,4,29/7/2018
+1,"Blood Moon",CHR,0.0,0,0,0,24/3/2019
+1,"Blood Rites",CHK,0.0,0,0,4,31/10/2018
+1,"Blood Rites",CHK,0.0,1,0,4,31/10/2018
+4,"Blood Sun",RIX,0.0,0,0,0,12/7/2020
+4,"Bloodcrazed Goblin",M11,0.0,0,0,0,29/3/2020
+16,"Bloodcrazed Neonate",ISD,0.0,0,0,0,29/3/2020
+5,"Bloodfire Dwarf",APC,0.0,0,0,0,24/1/2021
+1,"Bloodfire Dwarf",APC,0.0,0,0,4,29/7/2018
+7,"Bloodfire Infusion",APC,0.0,0,0,0,24/1/2021
+1,"Bloodfire Infusion",APC,0.0,0,0,3,19/4/2020
+9,"Bloodfire Kavu",APC,0.0,0,0,0,17/9/2018
+1,"Bloodfray Giant",RTR,0.0,1,0,0,29/3/2020
+4,"Bloodhall Ooze",CON,0.0,0,0,0,24/5/2020
+4,"Bloodhaze Wolverine",ELD,0.0,0,0,0,22/3/2020
+1,"Bloodmark Mentor",SHM,0.0,0,0,4,3/3/2019
+1,"Bloodmark Mentor",DPA,0.0,0,0,0,29/3/2020
+1,"Bloodrage Brawler",AKH,0.0,0,0,0,1/11/2018
+5,"Bloodrage Brawler",AKH,0.0,0,0,4,1/11/2018
+6,"Bloodscale Prowler",GPT,0.0,0,0,4,3/11/2018
+1,"Bloodshed Fever",SHM,0.0,0,0,0,3/3/2019
+1,"Bloodshot Cyclops",UDS,0.0,0,0,4,24/2/2019
+1,"Bloodshot Cyclops",7ED,0.0,0,0,3,17/3/2019
+1,"Bloodstoke Howler",LGN,0.0,0,0,0,25/1/2021
+2,"Bogardan Firefiend",WTH,0.0,0,0,0,25/1/2021
+1,"Bogardan Firefiend",WTH,0.0,0,0,4,2/11/2018
+1,"Bogardan Hellkite",M10,0.0,0,0,0,24/5/2020
+1,"Bogardan Lancer",FUT,0.0,0,0,6,3/3/2019
+5,"Bogardan Phoenix",VIS,0.0,0,0,0,18/7/2020
+1,"Boggart Arsonists",SHM,0.0,0,0,0,3/3/2019
+4,"Boggart Brute",M19,0.0,0,0,0,19/8/2018
+2,"Boggart Brute",DDT,0.0,0,0,4,25/9/2018
+1,"Boggart Forager",LRW,0.0,0,0,4,28/7/2018
+1,"Boggart Sprite-Chaser",LRW,0.0,0,0,4,28/7/2018
+3,"Boil",6ED,0.0,0,0,0,19/4/2020
+1,"Boil",8ED,0.0,0,0,0,6/4/2020
+2,"Boil",TMP,0.0,0,0,0,25/1/2021
+1,"Boil",TMP,0.0,0,0,3,19/4/2020
+1,"Boil",TMP,0.0,0,0,4,28/7/2018
+7,"Boil",TMP,0.0,1,0,0,19/4/2020
+3,"Boiling Earth",BFZ,0.0,0,0,4,25/9/2018
+2,"Boiling Seas",9ED,0.0,0,0,4,31/10/2018
+2,"Bola Warrior",NMS,0.0,0,0,0,24/5/2020
+1,"Bomb Squad",ODY,0.0,0,0,0,19/4/2020
+2,"Bomb Squad",ODY,0.0,0,0,3,19/4/2020
+5,"Bomber Corps",GTC,0.0,0,0,4,28/7/2018
+7,"Bone Shaman",ICE,0.0,0,0,0,3/5/2020
+1,"Bonesplitter Sliver",TSP,0.0,0,1,4,28/7/2018
+6,"Book Burning",JUD,0.0,0,0,0,29/7/2018
+3,"Book Burning",JUD,0.0,0,0,4,2/3/2019
+1,"Book Devourer",GRN,0.0,0,0,0,15/3/2020
+1,"Boom",PLC,0.0,0,0,4,31/10/2018
+2,"Borderland Marauder",W16,0.0,0,0,4,3/3/2019
+1,"Box of Free-Range Goblins",UST,0.0,0,0,0,29/3/2020
+2,"Braid of Fire",CSP,0.0,0,0,0,1/3/2021
+3,"Braid of Fire",CSP,0.0,1,0,0,7/6/2020
+1,"Brand",USG,0.0,0,0,0,24/2/2019
+1,"Brand of Ill Omen",ICE,0.0,0,0,0,3/5/2020
+3,"Brassclaw Orcs",FEM,0.0,0,0,0,8/5/2020
+4,"Brassclaw Orcs",FEM,0.0,0,0,0,8/5/2020
+6,"Brassclaw Orcs",FEM,0.0,0,0,0,8/5/2020
+2,"Brassclaw Orcs",FEM,0.0,0,0,0,28/7/2018
+1,"Brassclaw Orcs",5ED,0.0,0,0,4,24/2/2019
+1,"Bravado",USG,0.0,0,0,0,21/2/2021
+4,"Bravado",USG,0.0,0,0,4,28/7/2018
+1,"Brawl",MMQ,0.0,0,0,0,18/7/2020
+1,"Brawl",MMQ,0.0,0,0,3,17/3/2019
+4,"Breaking Point",JUD,0.0,0,0,0,15/4/2020
+4,"Breath of Darigaaz",INV,0.0,0,0,0,17/9/2018
+1,"Breath of Fury",RAV,0.0,0,0,4,3/3/2019
+2,"Brighthearth Banneret",MOR,0.0,0,0,0,24/5/2020
+1,"Brightstone Ritual",ONS,0.0,0,0,0,15/4/2020
+1,"Brimstone Dragon",PO2,0.0,0,0,0,24/5/2020
+2,"Brimstone Volley",ISD,0.0,1,0,0,12/7/2020
+3,"Brothers of Fire",DRK,0.0,0,0,0,8/5/2020
+3,"Brothers of Fire",4ED,0.0,0,0,0,3/5/2020
+1,"Brothers of Fire",4ED,0.0,0,0,5,3/5/2020
+1,"Brothers of Fire",5ED,0.0,0,0,4,24/2/2019
+1,"Browbeat",TSB,0.0,0,0,0,24/1/2021
+1,"Browbeat",PFNM,0.0,0,0,0,19/4/2020
+2,"Browbeat",A25,0.0,0,0,0,28/3/2020
+1,"Browbeat",A25,0.0,1,0,0,28/3/2020
+2,"Browbeat",JUD,0.0,0,0,4,29/7/2018
+3,"Brutal Suppression",PCY,0.0,0,0,0,24/1/2021
+2,"Brute Force",PLC,0.0,0,0,0,24/1/2021
+1,"Builder's Bane",MIR,0.0,0,0,2,24/5/2020
+1,"Bull Rush",WWK,0.0,0,0,0,24/1/2021
+1,"Bumbling Pangolin",UST,0.0,0,0,0,29/3/2020
+1,"Burn Away",CN2,0.0,0,0,0,4/11/2018
+4,"Burn Bright",RNA,0.0,0,0,0,15/3/2020
+1,"Burn Trail",SHM,0.0,0,0,0,3/3/2019
+1,"Burn at the Stake",AVR,0.0,0,0,0,24/5/2020
+1,"Burn the Impure",MBS,0.0,0,0,0,29/3/2020
+1,"Burning Cinder Fury of Crimson Chaos Fire",UGL,0.0,0,0,0,24/1/2021
+4,"Burning Inquiry",M10,0.0,0,0,0,24/1/2021
+2,"Burning Inquiry",M10,0.0,1,0,0,24/5/2020
+1,"Burning Palm Efreet",MIR,0.0,0,0,0,25/1/2021
+1,"Burning Palm Efreet",MIR,0.0,0,0,2,24/5/2020
+2,"Burning Sands",ODY,0.0,0,0,0,19/4/2020
+2,"Burning Shield Askari",MIR,0.0,0,0,2,24/5/2020
+4,"Burning Vengeance",C19,0.0,0,0,0,22/3/2020
+1,"Burning Wish",CN2,0.0,0,0,0,12/7/2020
+1,"Burning Wish",CN2,0.0,1,0,0,29/3/2020
+4,"Burning Wish",JUD,0.0,0,0,0,22/7/2020
+3,"Burning-Fist Minotaur",HOU,0.0,0,0,4,1/11/2018
+3,"Burning-Tree Vandal",RNA,0.0,0,0,0,15/3/2020
+1,"Burrowing",3ED,0.0,0,0,0,8/5/2020
+2,"Burrowing",4ED,0.0,0,0,0,3/5/2020
+1,"Burrowing",4ED,0.0,0,0,4,2/11/2018
+2,"Burrowing",2ED,0.0,0,0,0,25/1/2021
+4,"Burst Lightning",ZEN,0.0,0,0,0,1/4/2020
+1,"Burst Lightning",MM2,0.0,1,0,0,3/3/2019
+1,"Butcher Orgg",ONS,0.0,0,0,0,17/3/2019
+1,"By Force",AKH,0.0,0,0,0,1/11/2018
+2,"By Force",AKH,0.0,0,0,4,1/11/2018
+1,"Cackling Flames",DIS,0.0,0,0,0,28/7/2018
+2,"Caldera Kavu",PLS,0.0,0,0,0,17/9/2018
+3,"Canyon Drake",TMP,0.0,0,0,0,28/7/2018
+1,"Canyon Wildcat",TMP,0.0,0,0,0,21/2/2021
+1,"Canyon Wildcat",TMP,0.0,0,0,5,24/3/2019
+2,"Canyon Wildcat",8ED,0.0,0,0,0,28/7/2018
+1,"Capricious Efreet",M10,0.0,0,0,0,24/5/2020
+1,"Captivating Crew",GNT,0.0,0,0,0,24/5/2020
+2,"Careless Celebrant",THB,0.0,0,0,3,15/3/2020
+5,"Cartouche of Zeal",AKH,0.0,0,0,4,25/9/2018
+4,"Catalyst Elemental",M19,0.0,0,0,0,19/8/2018
+1,"Cavalcade of Calamity",RNA,0.0,0,0,0,17/3/2019
+1,"Cavalcade of Calamity",RNA,0.0,0,0,3,23/3/2020
+1,"Cave People",5ED,0.0,0,0,4,28/7/2018
+2,"Cave People",4ED,0.0,0,0,0,3/5/2020
+2,"Cave People",DRK,0.0,0,0,0,8/5/2020
+3,"Cave People",DRK,0.0,0,0,4,8/5/2020
+1,"Cave Sense",MMQ,0.0,0,0,0,26/1/2021
+2,"Cave-In",MMQ,0.0,0,0,0,12/7/2020
+6,"Cavern Crawler",MMQ,0.0,0,0,0,26/1/2021
+1,"Caverns of Despair",LEG,0.0,0,0,0,20/6/2020
+1,"Caverns of Despair",LEG,0.0,0,0,4,28/7/2018
+1,"Ceremonial Guard",MMQ,0.0,0,0,0,21/2/2021
+1,"Chain Lightning",PD2,0.0,1,0,0,24/1/2021
+4,"Chain Lightning",LEG,0.0,0,0,0,12/7/2020
+6,"Chain Lightning",LEG,0.0,0,0,4,28/7/2018
+2,"Chain Lightning",EMA,0.0,0,0,0,3/3/2019
+2,"Chain Reaction",C18,0.0,0,0,0,28/3/2020
+2,"Chain of Plasma",ONS,0.0,0,0,0,25/1/2021
+1,"Chain of Plasma",ONS,0.0,0,0,3,15/4/2020
+1,"Champion of the Flame",DOM,0.0,0,0,3,23/3/2020
+1,"Champion of the Flame",DOM,0.0,0,0,5,23/3/2020
+2,"Chance Encounter",ODY,0.0,0,0,3,19/4/2020
+1,"Chandler",HML,0.0,0,0,0,25/1/2021
+2,"Chandra's Defeat",HOU,0.0,0,0,0,1/11/2018
+1,"Chandra's Defeat",HOU,0.0,0,0,4,1/11/2018
+1,"Chandra's Phoenix",M12,0.0,1,0,0,31/5/2020
+2,"Chandra's Phoenix",M14,0.0,0,0,0,31/5/2020
+2,"Chandra's Phoenix",M14,0.0,1,0,0,31/5/2020
+2,"Chandra's Revolution",AER,0.0,0,0,4,4/3/2019
+1,"Chandra's Spitfire",M20,0.0,0,0,0,28/3/2020
+1,"Chaos Harlequin",ALL,0.0,0,0,0,17/3/2019
+1,"Chaos Harlequin",ALL,0.0,0,0,4,28/7/2018
+2,"Chaos Lord",ICE,0.0,0,0,0,24/3/2019
+1,"Chaos Warp",C14,0.0,0,0,0,24/5/2020
+1,"Chaoslace",3ED,0.0,0,0,0,17/9/2018
+1,"Chaoslace",CEI,0.0,0,0,0,8/5/2020
+1,"Chaosphere",MIR,0.0,0,0,0,25/1/2021
+1,"Chaosphere",MIR,0.0,0,0,4,17/9/2018
+3,"Chaotic Goo",TMP,0.0,0,0,0,28/7/2018
+1,"Char",V13,0.0,1,0,0,3/3/2019
+1,"Char",RAV,0.0,0,0,4,3/3/2019
+5,"Charging Slateback",ONS,0.0,0,0,0,22/2/2021
+1,"Chartooth Cougar",SCG,0.0,0,0,0,28/7/2018
+8,"Cinder Crawler",EXO,0.0,0,0,0,26/1/2021
+1,"Cinder Elemental",HOP,0.0,0,0,0,24/1/2021
+4,"Cinder Elemental",MMQ,0.0,0,0,0,26/1/2021
+1,"Cinder Elemental",MMQ,0.0,0,0,4,17/9/2018
+1,"Cinder Seer",UDS,0.0,0,0,4,28/7/2018
+4,"Cinder Wall",WTH,0.0,0,0,0,25/1/2021
+1,"Cinder Wall",8ED,0.0,0,0,0,28/7/2018
+1,"Citadel of Pain",PCY,0.0,0,0,0,12/7/2020
+2,"Clamor Shaman",RNA,0.0,0,0,0,15/3/2020
+1,"Clamor Shaman",RNA,0.0,0,0,3,23/3/2020
+1,"Claws of Valakut",WWK,0.0,0,0,0,24/1/2021
+1,"Claws of Valakut",WWK,0.0,0,0,4,28/7/2018
+1,"Claws of Valakut",WWK,0.0,0,0,6,14/10/2018
+1,"Clickslither",LGN,0.0,0,0,0,2/3/2019
+4,"Clickslither",LGN,0.0,0,0,1,18/7/2020
+1,"Clickslither",LGN,0.0,0,0,4,2/3/2019
+4,"Coalhauler Swine",RAV,0.0,0,0,4,28/7/2018
+1,"Collapsing Borders",INV,0.0,0,0,0,17/3/2019
+2,"Collapsing Borders",INV,0.0,0,0,3,19/4/2020
+4,"Collateral Damage",FRF,0.0,0,0,6,5/11/2018
+3,"Command the Storm",GRN,0.0,0,0,0,15/3/2020
+5,"Commando Raid",ONS,0.0,0,0,0,25/1/2021
+1,"Common Iguana",UST,0.0,0,0,0,29/3/2020
+4,"Commune with Lava",DTK,0.0,0,0,0,24/1/2021
+2,"Concussive Bolt",MBS,0.0,0,0,0,29/3/2020
+1,"Cone of Flame",WTH,0.0,0,0,0,19/4/2020
+2,"Confusion in the Ranks",MRD,0.0,0,0,0,27/4/2020
+1,"Conquer",ICE,0.0,0,0,0,8/5/2020
+1,"Conquer",5ED,0.0,0,0,0,24/2/2019
+1,"Consuming Ferocity",MIR,0.0,0,0,0,25/1/2021
+3,"Consuming Fervor",AKH,0.0,0,0,4,1/11/2018
+1,"Convulsing Licid",STH,0.0,0,0,4,28/7/2018
+1,"Coordinated Assault",THS,0.0,0,0,4,3/3/2019
+2,"Cosmic Larva",5DN,0.0,0,0,0,31/5/2020
+3,"Cosmotronic Wave",GRN,0.0,0,0,0,15/3/2020
+1,"Countryside Crusher",MOR,0.0,0,0,4,3/3/2019
+3,"Covetous Dragon",UDS,0.0,1,0,0,19/4/2020
+16,"Crackling Club",TOR,0.0,0,0,0,25/1/2021
+1,"Crackling Club",TOR,0.0,0,0,4,17/9/2018
+1,"Crag Saurian",MMQ,0.0,0,0,6,19/4/2020
+5,"Crash Through",M19,0.0,0,0,0,19/8/2018
+1,"Craven Giant",STH,0.0,0,0,0,25/1/2021
+3,"Crazed Firecat",TOR,0.0,0,0,0,1/3/2021
+2,"Crazed Goblin",DST,0.0,0,0,4,3/3/2019
+1,"Crazed Goblin",DST,0.0,0,1,0,3/3/2019
+3,"Crazed Goblin",DST,0.0,0,1,4,28/7/2018
+1,"Crevasse",LEG,0.0,0,0,0,28/7/2018
+2,"Crevasse",LEG,0.0,0,0,4,8/5/2020
+1,"Crimson Hellkite",MIR,0.0,0,0,0,17/9/2018
+1,"Crimson Hellkite",7ED,0.0,0,0,0,12/7/2020
+1,"Crimson Hellkite",7ED,0.0,0,0,3,17/3/2019
+1,"Crimson Kobolds",LEG,0.0,0,0,0,28/7/2018
+26,"Crimson Kobolds",LEG,0.0,0,0,4,8/5/2020
+1,"Crimson Manticore",4ED,0.0,0,0,0,17/9/2018
+1,"Crimson Manticore",LEG,0.0,0,0,4,28/7/2018
+1,"Crimson Manticore",5ED,0.0,0,0,4,24/2/2019
+1,"Crimson Wisps",SHM,0.0,0,0,0,3/3/2019
+2,"Crimson Wisps",SHM,0.0,0,0,4,28/7/2018
+1,"Crookshank Kobolds",LEG,0.0,0,0,0,28/7/2018
+19,"Crookshank Kobolds",LEG,0.0,0,0,4,8/5/2020
+8,"Crown of Flames",INV,0.0,0,0,0,24/1/2021
+1,"Crown of Flames",INV,0.0,0,0,4,29/7/2018
+5,"Crusher Zendikon",WWK,0.0,0,0,0,29/3/2020
+1,"Crushing Pain",CHK,0.0,1,0,0,22/2/2021
+1,"Cunning Giant",PO2,0.0,0,0,0,7/6/2020
+1,"Cunning Sparkmage",WWK,0.0,0,0,6,14/10/2018
+2,"Curse of Marit Lage",ICE,0.0,0,0,0,8/5/2020
+1,"Curse of the Nightly Hunt",ISD,0.0,0,0,0,29/3/2020
+2,"Curse of the Pierced Heart",ISD,0.0,0,0,0,29/3/2020
+1,"Custody Battle",ONS,0.0,0,0,0,31/10/2018
+1,"Custody Battle",ONS,0.0,0,0,3,15/4/2020
+1,"Cyclops Gladiator",M11,0.0,0,0,0,24/5/2020
+2,"Dagger Caster",RNA,0.0,0,0,0,15/3/2020
+1,"Dagger Caster",RNA,0.0,0,0,3,23/3/2020
+1,"Daggersail Aeronaut",M20,0.0,0,0,0,22/3/2020
+3,"Dance with Devils",SOI,0.0,0,0,0,24/5/2020
+1,"Dark-Dweller Oracle",M19,0.0,0,0,4,25/9/2018
+1,"Dead",PLC,0.0,0,0,4,28/7/2018
+2,"Deadapult",PLS,0.0,0,0,3,19/4/2020
+2,"Deadshot",TMP,0.0,0,0,0,28/7/2018
+1,"Death Spark",ALL,0.0,0,0,0,25/1/2021
+1,"Death Spark",ALL,0.0,0,0,4,28/7/2018
+2,"Deathbellow Raider",THS,0.0,0,0,0,28/7/2018
+4,"Deathforge Shaman",WWK,0.0,0,0,0,29/3/2020
+1,"Deathforge Shaman",CNS,0.0,0,0,0,28/7/2018
+1,"Deem Worthy",AKH,0.0,0,0,0,1/11/2018
+4,"Deem Worthy",AKH,0.0,0,0,4,1/11/2018
+3,"Deface",RNA,0.0,0,0,0,15/3/2020
+1,"Defender of Chaos",ULG,0.0,0,0,0,28/7/2018
+1,"Demanding Dragon",M19,0.0,0,0,4,25/9/2018
+1,"Demolish",ODY,0.0,0,0,0,25/1/2021
+1,"Demolish",10E,0.0,0,0,6,3/3/2019
+2,"Demoralize",ODY,0.0,0,0,0,22/2/2021
+1,"Descent of the Dragons",DTK,0.0,0,0,0,24/1/2021
+1,"Desert Cerodon",AKH,0.0,0,0,0,29/3/2020
+1,"Desert Nomads",ARN,0.0,0,0,0,12/7/2020
+2,"Desolation Giant",TSB,0.0,0,0,0,24/1/2021
+1,"Desperate Gambit",WTH,0.0,0,0,0,28/7/2018
+3,"Desperate Ravings",ISD,0.0,0,0,4,28/7/2018
+4,"Desperate Ravings",C19,0.0,0,0,0,22/3/2020
+3,"Desperate Ritual",CHK,0.0,0,0,0,24/5/2020
+1,"Desperate Ritual",UMA,0.0,0,0,0,4/3/2019
+1,"Destructive Force",M11,0.0,0,0,4,29/3/2020
+2,"Destructive Tampering",AER,0.0,0,0,4,4/3/2019
+2,"Destructive Urge",USG,0.0,0,0,4,28/7/2018
+1,"Detonate",4ED,0.0,0,0,0,17/9/2018
+7,"Detonate",MRD,0.0,0,0,0,6/4/2020
+1,"Detonate",MRD,0.0,0,0,4,3/3/2019
+1,"Detonate",ATQ,0.0,0,0,0,28/7/2018
+2,"Detonate",5ED,0.0,0,0,4,2/11/2018
+1,"Detritivore",PLC,0.0,0,0,0,31/10/2018
+1,"Detritivore",PLC,0.0,0,0,4,3/3/2019
+3,"Devastate",PCY,0.0,0,0,0,17/9/2018
+2,"Devastate",PCY,0.0,0,0,4,19/4/2020
+1,"Devastating Dreams",TOR,0.0,0,0,0,22/7/2020
+1,"Devastating Dreams",TOR,0.0,0,0,3,17/3/2019
+1,"Devastation",S99,0.0,0,0,0,19/4/2020
+4,"Devil's Play",C19,0.0,0,0,0,22/3/2020
+2,"Devil's Play",PMEI,0.0,1,0,0,20/6/2020
+2,"Devour in Flames",OGW,0.0,0,0,0,24/5/2020
+3,"Dictate of the Twin Gods",JOU,0.0,0,0,0,29/3/2020
+4,"Direct Current",GRN,0.0,0,0,0,15/3/2020
+1,"Direct Current",GRN,0.0,0,0,4,17/3/2019
+1,"Disharmony",LEG,0.0,0,0,4,28/7/2018
+2,"Disintegrate",4ED,0.0,0,0,0,8/5/2020
+1,"Disintegrate",4ED,0.0,0,0,4,2/3/2019
+2,"Disintegrate",4ED,0.0,1,0,5,24/2/2019
+1,"Disintegrate",LEB,0.0,0,3,0,8/5/2020
+4,"Disintegrate",3ED,0.0,0,0,0,28/7/2018
+4,"Disintegrate",3ED,0.0,1,0,4,8/5/2020
+2,"Disintegrate",3ED,0.0,1,0,5,8/5/2020
+1,"Disintegrate",2ED,0.0,0,0,0,8/5/2020
+2,"Disintegrate",TSB,0.0,0,0,0,24/1/2021
+1,"Dismantle",DST,0.0,0,0,0,3/3/2019
+1,"Dismantle",DST,0.0,0,0,4,31/10/2018
+2,"Dismantle",DST,0.0,0,3,0,3/3/2019
+1,"Dismissive Pyromancer",M19,0.0,0,0,0,19/8/2018
+1,"Disorder",USG,0.0,0,0,4,28/7/2018
+2,"Dissension in the Ranks",SOI,0.0,0,0,0,24/5/2020
+7,"Dizzying Gaze",EXO,0.0,0,0,0,26/1/2021
+1,"Dizzying Gaze",EXO,0.0,0,0,4,28/7/2018
+4,"Doublecast",M19,0.0,0,0,0,18/9/2018
+1,"Downhill Charge",NMS,0.0,0,0,0,24/5/2020
+1,"Draconic Roar",DTK,0.0,0,0,0,12/7/2020
+2,"Draconic Roar",IMA,0.0,0,0,0,28/3/2020
+2,"Dragon Egg",M19,0.0,0,0,0,19/8/2018
+1,"Dragon Mantle",THS,0.0,0,0,4,3/3/2019
+1,"Dragon Roost",ONS,0.0,0,0,0,17/3/2019
+2,"Dragon Tempest",IMA,0.0,0,0,0,24/5/2020
+2,"Dragon Whelp",3ED,0.0,0,0,0,17/9/2018
+1,"Dragon Whelp",2ED,0.0,0,0,0,8/5/2020
+1,"Dragon Whelp",4ED,0.0,0,0,0,3/5/2020
+1,"Dragon Whelp",4ED,0.0,0,0,3,3/5/2020
+2,"Dragon Whisperer",DTK,0.0,0,0,0,31/5/2020
+2,"Dragonlord's Servant",DTK,0.0,0,0,0,29/3/2020
+1,"Dragonmaster Outcast",BFZ,0.0,0,0,0,24/5/2020
+2,"Dragonmaster Outcast",C19,0.0,0,0,0,22/3/2020
+2,"Dragonrage",FRF,0.0,0,0,0,24/5/2020
+2,"Dragonspeaker Shaman",SCG,0.0,0,0,0,6/4/2020
+1,"Dragonstorm",SCG,0.0,1,0,0,29/7/2018
+4,"Dreamshaper Shaman",THB,0.0,0,0,0,15/3/2020
+2,"Dreamstalker Manticore",THB,0.0,0,0,3,15/3/2020
+1,"Dromosaur",USG,0.0,0,0,4,28/7/2018
+1,"Drooling Ogre",DST,0.0,0,0,0,3/3/2019
+5,"Drooling Ogre",DST,0.0,0,0,4,28/7/2018
+1,"Dual Shot",SOI,0.0,1,0,4,3/3/2019
+1,"Duct Crawler",STH,0.0,0,0,0,25/1/2021
+1,"Duct Crawler",STH,0.0,0,0,4,28/7/2018
+1,"Dust Corona",PLC,0.0,0,0,0,3/3/2019
+1,"Dust Corona",PLC,0.0,1,0,0,31/10/2018
+1,"Dwarven Armorer",FEM,0.0,0,0,0,28/7/2018
+3,"Dwarven Berserker",WTH,0.0,0,0,0,25/1/2021
+1,"Dwarven Blastminer",ONS,0.0,0,0,0,25/1/2021
+1,"Dwarven Blastminer",ONS,0.0,0,0,3,15/4/2020
+1,"Dwarven Bloodboiler",JUD,0.0,0,0,6,19/11/2018
+7,"Dwarven Catapult",FEM,0.0,0,0,0,8/5/2020
+1,"Dwarven Demolition Team",LEB,0.0,0,3,0,8/5/2020
+1,"Dwarven Demolition Team",8ED,0.0,0,0,4,28/7/2018
+1,"Dwarven Demolition Team",2ED,0.0,0,0,0,8/5/2020
+3,"Dwarven Driller",JUD,0.0,0,0,0,1/3/2021
+3,"Dwarven Driller",JUD,0.0,0,0,4,29/7/2018
+4,"Dwarven Grunt",ODY,0.0,0,0,0,24/1/2021
+4,"Dwarven Landslide",APC,0.0,0,0,0,24/1/2021
+1,"Dwarven Landslide",APC,0.0,0,0,3,19/4/2020
+1,"Dwarven Landslide",APC,0.0,0,0,4,29/7/2018
+6,"Dwarven Lieutenant",FEM,0.0,0,0,0,8/5/2020
+2,"Dwarven Miner",MIR,0.0,1,0,0,19/4/2020
+3,"Dwarven Nomad",MIR,0.0,0,0,2,24/5/2020
+1,"Dwarven Nomad",MIR,0.0,0,0,5,24/5/2020
+2,"Dwarven Patrol",APC,0.0,0,0,0,24/1/2021
+1,"Dwarven Patrol",APC,0.0,0,0,4,29/7/2018
+1,"Dwarven Recruiter",ODY,0.0,0,0,3,19/4/2020
+2,"Dwarven Scorcher",JUD,0.0,0,0,0,1/3/2021
+1,"Dwarven Scorcher",JUD,0.0,0,0,4,29/7/2018
+2,"Dwarven Scorcher",JUD,0.0,0,1,4,28/7/2018
+1,"Dwarven Shrine",ODY,0.0,0,0,0,19/4/2020
+7,"Dwarven Soldier",FEM,0.0,0,0,0,8/5/2020
+6,"Dwarven Soldier",FEM,0.0,0,0,0,8/5/2020
+4,"Dwarven Soldier",FEM,0.0,0,0,0,8/5/2020
+5,"Dwarven Song",LEG,0.0,0,0,4,8/5/2020
+1,"Dwarven Strike Force",ODY,0.0,0,0,0,25/1/2021
+2,"Dwarven Strike Force",ODY,0.0,0,0,4,28/7/2018
+1,"Dwarven Thaumaturgist",WTH,0.0,0,0,0,12/7/2020
+1,"Dwarven Thaumaturgist",WTH,0.0,0,0,4,28/7/2018
+2,"Dwarven Thaumaturgist",WTH,0.0,1,0,0,19/4/2020
+3,"Dwarven Vigilantes",VIS,0.0,0,0,2,24/5/2020
+1,"Dwarven Warriors",LEB,0.0,0,0,0,8/5/2020
+1,"Dwarven Warriors",LEB,0.0,0,1,0,8/5/2020
+4,"Dwarven Warriors",4ED,0.0,0,0,0,3/5/2020
+1,"Dwarven Warriors",4ED,0.0,0,0,4,28/7/2018
+3,"Dwarven Warriors",3ED,0.0,0,0,0,8/5/2020
+9,"Dwarven Warriors",3ED,0.0,1,0,4,8/5/2020
+2,"Dwarven Warriors",3ED,0.0,1,0,5,8/5/2020
+1,"Dwarven Weaponsmith",3ED,0.0,0,0,0,28/7/2018
+5,"Dynacharge",MM3,0.0,0,0,0,4/11/2018
+2,"Earth Elemental",3ED,0.0,0,0,0,8/5/2020
+1,"Earth Elemental",2ED,0.0,0,0,0,7/6/2020
+1,"Earth Elemental",4ED,0.0,0,0,0,17/9/2018
+1,"Earth Elemental",4ED,0.0,0,0,5,3/5/2020
+4,"Earth Rift",ODY,0.0,0,0,0,25/1/2021
+6,"Earthbind",3ED,0.0,0,0,0,7/6/2020
+1,"Earthbind",3ED,0.0,0,0,4,8/5/2020
+16,"Earthbind",3ED,0.0,1,0,4,8/5/2020
+2,"Earthquake",5ED,0.0,1,0,0,19/4/2020
+3,"Earthquake",3ED,0.0,0,0,0,17/9/2018
+10,"Earthquake",6ED,0.0,1,0,0,19/4/2020
+1,"Earthquake",2ED,0.0,0,0,0,8/5/2020
+1,"Earthquake",CMD,0.0,0,0,4,3/3/2019
+2,"Earthquake",4ED,0.0,0,0,0,24/5/2020
+2,"Echoing Ruin",DST,0.0,0,0,0,3/3/2019
+1,"Echoing Ruin",DST,0.0,0,2,4,3/3/2019
+3,"Eidolon of the Great Revel",JOU,0.0,0,0,0,22/7/2020
+1,"Ekundu Cyclops",MIR,0.0,0,0,5,24/3/2019
+2,"Eldrazi Aggressor",OGW,0.0,0,0,4,5/11/2018
+1,"Eldrazi Obligator",OGW,0.0,0,0,0,5/11/2018
+1,"Eldrazi Obligator",OGW,0.0,0,0,4,5/11/2018
+9,"Electrify",AKH,0.0,0,0,4,25/9/2018
+2,"Electrify",M19,0.0,0,0,0,19/8/2018
+3,"Electrodominance",RNA,0.0,0,0,0,15/3/2020
+2,"Electropotence",ZEN,0.0,0,0,3,29/3/2020
+7,"Electrostatic Bolt",MRD,0.0,0,0,0,28/7/2018
+5,"Electrostatic Bolt",MRD,0.0,0,0,4,3/3/2019
+7,"Electrostatic Field",GRN,0.0,0,0,0,15/3/2020
+1,"Elkin Lair",VIS,0.0,0,0,0,28/7/2018
+1,"Ember Beast",GTC,0.0,0,0,7,4/11/2018
+1,"Ember Gale",SHM,0.0,0,0,0,3/3/2019
+4,"Ember Hauler",M20,0.0,0,0,0,22/3/2020
+3,"Ember Shot",JUD,0.0,0,0,0,22/2/2021
+1,"Ember-Fist Zubera",CHK,0.0,0,0,0,3/11/2018
+3,"Embermage Goblin",ONS,0.0,0,0,0,22/2/2021
+1,"Embermage Goblin",ONS,0.0,0,0,3,15/4/2020
+1,"Emberwilde Augur",DD3_EVG,0.0,0,0,0,28/7/2018
+1,"Emberwilde Augur",FUT,0.0,0,0,6,3/3/2019
+1,"Emberwilde Djinn",MIR,0.0,0,0,5,24/2/2019
+1,"Emblem of the Warmind",FUT,0.0,0,0,6,3/3/2019
+1,"Emissary of Grudges",C18,0.0,0,0,0,28/3/2020
+4,"Empty the Warrens",TSP,0.0,0,0,0,24/5/2020
+8,"Enchanter's Bane",C18,0.0,0,0,0,22/3/2020
+3,"Engulfing Flames",ODY,0.0,0,0,0,25/1/2021
+2,"Enrage",8ED,0.0,0,0,0,3/3/2019
+1,"Enrage",SCG,0.0,0,1,4,3/3/2019
+1,"Enraged Revolutionary",CNS,0.0,0,0,0,28/7/2018
+2,"Enraging Licid",TMP,0.0,0,0,0,28/7/2018
+9,"Enslaved Dwarf",TOR,0.0,0,0,0,25/1/2021
+4,"Enslaved Scout",ALL,0.0,0,0,0,24/5/2020
+1,"Enthralling Victor",A25,0.0,0,0,0,28/3/2020
+1,"Epicenter",ODY,0.0,0,0,0,19/4/2020
+2,"Epicenter",ODY,0.0,0,0,3,19/4/2020
+5,"Eron the Relentless",HML,0.0,0,0,0,12/7/2020
+10,"Errantry",ICE,0.0,0,0,0,3/5/2020
+1,"Errantry",5ED,0.0,0,0,4,24/2/2019
+1,"Erratic Cyclops",GRN,0.0,0,0,0,24/1/2021
+13,"Erratic Explosion",ONS,0.0,0,0,0,15/4/2020
+2,"Escape Velocity",THB,0.0,0,0,3,15/3/2020
+1,"Eternal Flame",DRK,0.0,0,0,0,31/5/2020
+1,"Eternal Flame",DRK,0.0,0,0,4,28/7/2018
+4,"Eternal Warrior",4ED,0.0,0,0,0,3/5/2020
+2,"Eternal Warrior",4ED,0.0,1,0,5,8/5/2020
+2,"Eternal Warrior",LEG,0.0,0,0,4,8/5/2020
+1,"Evaporate",HML,0.0,0,0,0,25/1/2021
+5,"Experimental Frenzy",GRN,0.0,0,0,0,22/3/2020
+2,"Experimental Frenzy",GRN,0.0,0,0,4,22/3/2020
+3,"Exquisite Firecraft",ORI,0.0,0,0,0,29/3/2020
+1,"Exquisite Firecraft",ORI,0.0,1,0,0,29/3/2020
+4,"Faithless Looting",C19,0.0,0,0,0,22/3/2020
+3,"Faithless Looting",DKA,0.0,0,0,0,29/3/2020
+2,"Faithless Looting",DKA,0.0,0,0,4,1/11/2018
+2,"Faithless Looting",DKA,0.0,0,0,5,29/3/2020
+2,"Falkenrath Exterminator",AVR,0.0,0,0,4,28/7/2018
+2,"Fall of the Hammer",C15,0.0,0,0,0,4/11/2018
+1,"Falling Star",LEG,0.0,0,0,4,28/7/2018
+1,"False Orders",LEB,0.0,0,0,0,8/5/2020
+2,"False Orders",2ED,0.0,0,0,0,8/5/2020
+3,"Falter",USG,0.0,0,0,0,28/7/2018
+1,"Fanning the Flames",STH,0.0,0,0,4,28/7/2018
+1,"Fatal Frenzy",PLC,0.0,0,0,0,31/10/2018
+1,"Fatal Frenzy",PLC,0.0,0,0,4,31/10/2018
+4,"Fated Conflagration",PMEI,0.0,1,0,0,12/7/2020
+2,"Fated Conflagration",PMEI,0.0,1,0,4,5/11/2018
+2,"Fateful End",THB,0.0,0,0,3,15/3/2020
+5,"Fateful Showdown",KLD,0.0,0,0,0,24/1/2021
+2,"Fathom Fleet Firebrand",XLN,0.0,0,0,0,28/3/2020
+1,"Fault Line",USG,0.0,0,0,0,19/4/2020
+1,"Fault Line",USG,0.0,0,0,4,17/9/2018
+4,"Fault Riders",PCY,0.0,0,0,0,24/1/2021
+4,"Fearless Halberdier",GRN,0.0,0,0,0,15/3/2020
+1,"Feedback Bolt",5DN,0.0,1,0,4,31/10/2018
+1,"Feint",LEG,0.0,0,0,0,27/3/2019
+7,"Feint",LEG,0.0,0,0,4,8/5/2020
+2,"Feldon of the Third Path",C19,0.0,0,0,0,22/3/2020
+1,"Felhide Spiritbinder",BNG,0.0,0,0,4,1/11/2018
+3,"Fencer's Magemark",GPT,0.0,0,0,4,3/11/2018
+3,"Feral Maaka",RNA,0.0,0,0,0,15/3/2020
+1,"Fervor",WTH,0.0,0,0,4,28/7/2018
+2,"Fervor",6ED,0.0,0,0,0,19/4/2020
+1,"Fervor",7ED,0.0,0,0,0,22/2/2021
+8,"Fever Charm",ONS,0.0,0,0,0,22/2/2021
+1,"Fickle Efreet",PCY,0.0,0,0,0,17/3/2019
+2,"Fiery Finish",M19,0.0,0,0,0,19/8/2018
+5,"Fiery Gambit",MRD,0.0,0,0,0,6/4/2020
+4,"Fiery Impulse",ORI,0.0,0,0,0,29/3/2020
+3,"Fiery Mantle",USG,0.0,0,0,0,28/7/2018
+4,"Fiery Temper",UMA,0.0,0,0,0,22/3/2020
+2,"Fiery Temper",TSB,0.0,0,0,0,24/1/2021
+4,"Fiery Temper",TSB,0.0,0,0,3,30/3/2020
+4,"Fiery Temper",C19,0.0,0,0,0,22/3/2020
+6,"Fiery Temper",TOR,0.0,0,0,0,25/1/2021
+1,"Fiery Temper",TOR,0.0,0,2,4,28/7/2018
+2,"Fiery Temper",PGTW,0.0,1,0,0,24/5/2020
+2,"Fighting Chance",EXO,0.0,0,0,0,19/4/2020
+1,"Fighting Chance",EXO,0.0,0,0,4,26/1/2021
+4,"Final Flare",THB,0.0,0,0,3,15/3/2020
+1,"Final Fortune",7ED,0.0,0,0,3,19/4/2020
+2,"Final Fortune",MIR,0.0,0,0,0,19/4/2020
+1,"Final Fortune",MIR,0.0,0,0,3,19/4/2020
+1,"Final Fortune",MIR,0.0,0,0,5,24/3/2019
+2,"Final Fortune",6ED,0.0,0,0,0,19/4/2020
+1,"Final Fortune",6ED,0.0,0,0,4,2/11/2018
+2,"Finale of Promise",WAR,0.0,0,0,0,22/3/2020
+1,"Finale of Promise",WAR,0.0,1,0,0,23/3/2020
+1,"Fire Ants",USG,0.0,0,0,0,27/4/2020
+2,"Fire Ants",USG,0.0,0,0,4,28/7/2018
+3,"Fire Drake",5ED,0.0,0,0,0,12/7/2020
+1,"Fire Drake",DRK,0.0,0,0,0,8/5/2020
+1,"Fire Drake",DRK,0.0,0,0,4,28/7/2018
+3,"Fire Elemental",3ED,0.0,0,0,0,8/5/2020
+4,"Fire Elemental",M19,0.0,0,0,0,19/8/2018
+1,"Fire Elemental",2ED,0.0,0,0,0,8/5/2020
+1,"Fire Shrine Keeper",XLN,0.0,0,0,4,1/11/2018
+7,"Fire Urchin",GRN,0.0,0,0,0,15/3/2020
+2,"Fire Whip",TSB,0.0,0,0,0,24/1/2021
+1,"Fireball",PMPR,0.0,0,0,0,19/4/2020
+1,"Fireball",PD2,0.0,1,0,0,3/3/2019
+1,"Fireball",PMEI,0.0,0,0,0,8/5/2020
+4,"Fireball",4ED,0.0,0,0,0,3/5/2020
+4,"Fireball",4ED,0.0,1,0,4,24/2/2019
+1,"Fireball",3ED,0.0,0,0,0,28/7/2018
+1,"Fireball",3ED,0.0,0,2,0,8/5/2020
+2,"Fireball",3ED,0.0,1,0,5,8/5/2020
+1,"Fireball",RQS,0.0,0,0,0,8/5/2020
+1,"Fireball",2ED,0.0,0,0,0,1/3/2019
+4,"Fireblast",VIS,0.0,0,0,0,24/2/2019
+1,"Fireblast",VIS,0.0,0,0,3,19/4/2020
+3,"Fireblast",VIS,0.0,0,0,5,24/2/2019
+5,"Fireblast",VIS,0.0,0,1,0,21/2/2021
+6,"Fireblast",VIS,0.0,1,0,0,19/4/2020
+4,"Firebolt",MH1,0.0,0,0,0,22/3/2020
+10,"Firebolt",ODY,0.0,0,0,0,25/1/2021
+1,"Firebolt",ODY,0.0,0,0,3,19/4/2020
+1,"Firebolt",ODY,0.0,0,0,4,2/3/2019
+4,"Firebrand Archer",HOU,0.0,0,0,0,28/3/2020
+12,"Firebrand Archer",HOU,0.0,0,0,4,1/11/2018
+2,"Firebrand Ranger",INV,0.0,0,0,0,22/2/2021
+2,"Firebreathing",4ED,0.0,0,0,0,3/5/2020
+1,"Firebreathing",4ED,0.0,0,0,4,24/2/2019
+3,"Firebreathing",3ED,0.0,0,0,0,8/5/2020
+8,"Firebreathing",3ED,0.0,1,0,4,8/5/2020
+2,"Firebreathing",3ED,0.0,1,0,5,8/5/2020
+1,"Firebreathing",MIR,0.0,0,0,5,24/2/2019
+2,"Firecannon Blast",XLN,0.0,0,0,0,17/9/2018
+1,"Firecannon Blast",XLN,0.0,0,0,4,1/11/2018
+4,"Firecat Blitz",JUD,0.0,0,0,0,25/1/2021
+1,"Firecat Blitz",JUD,0.0,1,0,4,15/4/2020
+1,"Firefist Adept",DOM,0.0,0,0,3,23/3/2020
+3,"Firefly",TMP,0.0,0,0,0,28/7/2018
+2,"Firefright Mage",PLC,0.0,0,0,0,24/1/2021
+1,"Firemaw Kavu",TSP,0.0,0,0,0,31/10/2018
+1,"Firemaw Kavu",TSP,0.0,0,0,4,30/10/2018
+5,"Fireslinger",TMP,0.0,0,0,0,21/2/2021
+2,"Fireslinger",TMP,0.0,0,0,2,21/2/2021
+1,"Fireslinger",TMP,0.0,0,0,5,24/3/2019
+2,"Firestorm",WTH,0.0,0,0,0,18/7/2020
+1,"Firestorm",WTH,0.0,0,0,4,28/7/2018
+1,"Firestorm",WTH,0.0,1,0,0,19/4/2020
+1,"Firestorm Phoenix",LEG,0.0,0,0,4,28/7/2018
+2,"Firewing Phoenix",UMA,0.0,0,0,0,31/5/2020
+2,"Firewing Phoenix",M13,0.0,0,0,0,31/5/2020
+2,"Fissure",DRK,0.0,0,0,0,8/5/2020
+17,"Fissure",DRK,0.0,0,0,4,8/5/2020
+4,"Fissure",4ED,0.0,0,0,0,3/5/2020
+1,"Fists of the Anvil",10E,0.0,0,0,0,30/3/2020
+4,"Fists of the Anvil",MRD,0.0,0,0,0,17/9/2018
+2,"Five-Alarm Fire",GTC,0.0,0,0,4,24/3/2019
+1,"Flailing Manticore",MMQ,0.0,0,0,0,12/7/2020
+1,"Flailing Ogre",MMQ,0.0,0,0,0,24/2/2019
+3,"Flailing Soldier",MMQ,0.0,0,0,0,26/1/2021
+1,"Flailing Soldier",MMQ,0.0,0,0,4,28/7/2018
+9,"Flame Burst",ODY,0.0,0,0,0,25/1/2021
+1,"Flame Jab",EVE,0.0,0,0,0,3/3/2019
+4,"Flame Jab",EMA,0.0,0,0,0,29/3/2020
+1,"Flame Javelin",PMPR,0.0,0,0,0,24/5/2020
+1,"Flame Javelin",DDK,0.0,0,0,0,12/7/2020
+3,"Flame Javelin",SHM,0.0,0,0,0,30/3/2020
+1,"Flame Javelin",SHM,0.0,0,0,4,3/3/2019
+4,"Flame Jet",UDS,0.0,0,0,0,24/2/2019
+5,"Flame Rift",NMS,0.0,0,0,0,24/1/2021
+4,"Flame Slash",CN2,0.0,0,0,0,3/3/2019
+1,"Flame Spirit",6ED,0.0,0,0,0,17/9/2018
+1,"Flame Wave",9ED,0.0,0,0,4,31/10/2018
+1,"Flame Wave",STH,0.0,0,0,4,28/7/2018
+1,"Flame-Wreathed Phoenix",BNG,0.0,0,0,4,3/3/2019
+1,"Flameblade Adept",AKH,0.0,0,0,0,1/11/2018
+2,"Flameblade Adept",AKH,0.0,0,0,4,1/11/2018
+1,"Flameblast Dragon",C18,0.0,0,0,0,28/3/2020
+1,"Flameborn Hellion",SOM,0.0,0,0,4,28/7/2018
+1,"Flameborn Viron",NPH,0.0,0,0,0,29/3/2020
+1,"Flamecore Elemental",TSP,0.0,0,0,0,28/7/2018
+1,"Flamekin Bladewhirl",LRW,0.0,1,0,4,29/7/2018
+4,"Flamerush Rider",C19,0.0,0,0,0,22/3/2020
+4,"Flames of the Blood Hand",BOK,0.0,0,0,0,28/7/2018
+1,"Flames of the Raze-Boar",RNA,0.0,0,0,0,15/3/2020
+1,"Flames of the Raze-Boar",RNA,0.0,0,0,3,23/3/2020
+9,"Flameshot",PCY,0.0,0,0,0,18/7/2020
+1,"Flameshot",PCY,0.0,1,0,0,12/7/2020
+3,"Flamespeaker's Will",JOU,0.0,0,0,4,1/11/2018
+2,"Flamestick Courier",ONS,0.0,0,0,0,22/2/2021
+1,"Flametongue Kavu",PLS,0.0,0,0,0,17/9/2018
+2,"Flametongue Kavu",PLS,0.0,1,0,0,19/4/2020
+2,"Flamewake Phoenix",FRF,0.0,0,0,0,24/5/2020
+1,"Flamewake Phoenix",FRF,0.0,1,0,0,24/5/2020
+2,"Flaming Gambit",TOR,0.0,0,0,0,1/3/2021
+1,"Flaming Sword",MMQ,0.0,0,0,0,26/1/2021
+4,"Flare",MIR,0.0,0,0,2,24/5/2020
+7,"Flare",ICE,0.0,0,0,0,3/5/2020
+1,"Flare",ICE,0.0,0,0,4,24/2/2019
+2,"Flaring Pain",JUD,0.0,0,0,0,29/7/2018
+3,"Flaring Pain",JUD,0.0,0,0,4,3/11/2018
+2,"Flash Conscription",RAV,0.0,0,0,4,31/10/2018
+16,"Flash of Defiance",TOR,0.0,0,0,0,25/1/2021
+1,"Flashfires",5ED,0.0,0,0,3,19/4/2020
+1,"Flashfires",3ED,0.0,0,0,0,17/9/2018
+2,"Flashfires",3ED,0.0,1,0,4,8/5/2020
+1,"Flashfires",2ED,0.0,0,0,0,8/5/2020
+1,"Flashfires",6ED,0.0,0,2,3,19/4/2020
+1,"Flashfires",LEB,0.0,0,1,0,8/5/2020
+1,"Flashfires",9ED,0.0,0,0,0,6/4/2020
+1,"Flashfires",9ED,0.0,0,0,3,6/4/2020
+1,"Flayer of the Hatebound",C19,0.0,0,0,0,22/3/2020
+1,"Flayer of the Hatebound",DKA,0.0,0,0,4,1/11/2018
+1,"Fling",M11,0.0,0,0,0,29/3/2020
+1,"Fling",PWPN,0.0,0,0,0,12/7/2020
+3,"Flowstone Blade",STH,0.0,0,0,0,19/11/2018
+1,"Flowstone Blade",CNS,0.0,0,0,0,28/7/2018
+4,"Flowstone Crusher",NMS,0.0,0,0,0,24/5/2020
+1,"Flowstone Embrace",FUT,0.0,0,0,0,3/11/2018
+5,"Flowstone Flood",EXO,0.0,0,0,0,26/1/2021
+3,"Flowstone Giant",TMP,0.0,0,0,0,28/7/2018
+1,"Flowstone Hellion",STH,0.0,0,0,0,28/7/2018
+2,"Flowstone Hellion",STH,0.0,0,0,4,2/11/2018
+1,"Flowstone Mauler",STH,0.0,0,0,0,25/1/2021
+1,"Flowstone Mauler",STH,0.0,0,0,4,28/7/2018
+1,"Flowstone Overseer",NMS,0.0,0,0,0,24/5/2020
+1,"Flowstone Overseer",NMS,0.0,0,0,3,17/3/2019
+3,"Flowstone Salamander",TMP,0.0,0,0,0,24/3/2019
+1,"Flowstone Salamander",TMP,0.0,0,0,5,24/3/2019
+1,"Flowstone Shambler",STH,0.0,0,0,0,25/1/2021
+1,"Flowstone Slide",NMS,0.0,0,0,3,17/3/2019
+2,"Flowstone Strike",NMS,0.0,0,0,0,24/5/2020
+1,"Flowstone Surge",NMS,0.0,0,0,3,19/4/2020
+3,"Flowstone Wall",NMS,0.0,0,0,0,24/5/2020
+1,"Flowstone Wyvern",TMP,0.0,0,0,0,28/7/2018
+4,"Flummoxed Cyclops",THB,0.0,0,0,3,22/3/2020
+4,"Force of Rage",MH1,0.0,0,0,0,22/3/2020
+1,"Forge Armor",MRD,0.0,0,0,0,28/7/2018
+1,"Forge Devil",DKA,0.0,1,0,0,3/3/2019
+1,"Fork",2ED,0.0,0,0,0,8/5/2020
+6,"Fork",3ED,0.0,0,0,0,1/11/2018
+1,"Fork",3ED,0.0,0,0,3,8/5/2020
+1,"Fork",3ED,0.0,0,0,4,8/5/2020
+1,"Fork",3ED,0.0,0,2,0,18/7/2020
+2,"Fork",3ED,0.0,1,0,3,8/5/2020
+1,"Fork",LEB,0.0,0,0,0,8/5/2020
+2,"Forked Bolt",ROE,0.0,0,0,0,3/3/2019
+4,"Fortune Thief",A25,0.0,0,0,0,28/3/2020
+1,"Fortune Thief",TSP,0.0,0,0,0,24/5/2020
+11,"Foundry Street Denizen",M15,0.0,0,0,4,1/11/2018
+5,"Fractured Loyalty",MRD,0.0,0,0,0,28/7/2018
+1,"Fractured Loyalty",MRD,0.0,0,0,4,3/3/2019
+1,"Freejam Regent",AER,0.0,0,0,4,1/11/2018
+2,"Frenetic Ogre",ODY,0.0,0,0,4,28/7/2018
+1,"Frenetic Raptor",LGN,0.0,0,0,3,6/4/2020
+1,"Frenetic Raptor",LGN,0.0,0,0,4,2/3/2019
+1,"Frenetic Raptor",LGN,0.0,0,1,0,28/7/2018
+1,"Frenzied Goblin",M15,0.0,0,0,4,3/3/2019
+1,"Frenzied Rage",DOM,0.0,0,0,5,23/3/2020
+4,"Frenzied Raptor",XLN,0.0,0,0,0,28/3/2020
+1,"Frontline Rebel",AER,0.0,0,0,4,4/3/2019
+3,"Frost Giant",LEG,0.0,0,0,4,8/5/2020
+1,"Furious Assault",MMQ,0.0,0,0,0,28/7/2018
+3,"Furious Assault",MMQ,0.0,0,0,4,28/7/2018
+1,"Furious Reprisal",KLD,0.0,0,0,0,31/5/2020
+2,"Furious Rise",THB,0.0,0,0,3,22/3/2020
+5,"Furnace Brood",EXO,0.0,0,0,0,1/3/2021
+1,"Furnace Brood",EXO,0.0,0,0,4,28/7/2018
+1,"Furnace Celebration",UMA,0.0,0,0,0,4/3/2019
+1,"Furnace Dragon",DST,0.0,0,0,0,6/4/2020
+17,"Furnace Dragon",DST,0.0,1,0,0,19/4/2020
+1,"Furnace Scamp",NPH,0.0,0,0,0,29/3/2020
+1,"Furnace Spirit",STH,0.0,0,0,4,28/7/2018
+1,"Furnace Whelp",CMA,0.0,0,0,0,4/11/2018
+6,"Furnace of Rath",TMP,0.0,0,0,0,24/5/2020
+1,"Furnace of Rath",TMP,0.0,0,1,0,21/2/2021
+1,"Furnace of Rath",DPA,0.0,0,0,0,29/3/2020
+1,"Fury Charm",PLC,0.0,0,0,0,3/3/2019
+1,"Fury Storm",C18,0.0,0,0,0,28/3/2020
+1,"Fury of the Horde",DDN,0.0,0,0,0,1/3/2021
+6,"Galvanic Blast",SOM,0.0,0,0,0,7/6/2020
+2,"Galvanic Blast",DDU,0.0,0,0,0,28/3/2020
+1,"Gamble",USG,0.0,0,0,1,26/1/2021
+1,"Gamble",EMA,0.0,0,0,0,17/3/2019
+1,"Gamble",UMA,0.0,0,0,0,22/3/2020
+2,"Game of Chaos",ICE,0.0,0,0,0,3/5/2020
+1,"Game of Chaos",5ED,0.0,0,0,0,12/7/2020
+1,"Game of Chaos",5ED,0.0,0,0,3,19/4/2020
+1,"Gang of Devils",DDK,0.0,0,0,0,12/7/2020
+1,"Garbage Elemental (e)",UST,0.0,0,0,0,29/3/2020
+1,"Gates Ablaze",RNA,0.0,0,0,0,15/3/2020
+1,"Geistblast",SOI,0.0,0,0,0,24/5/2020
+1,"Geistflame",ISD,0.0,1,0,4,3/3/2019
+1,"Gempalm Incinerator",LGN,0.0,0,0,0,6/4/2020
+2,"Gempalm Incinerator",LGN,0.0,0,0,4,2/3/2019
+2,"Generator Servant",M15,0.0,0,0,4,1/11/2018
+1,"Genju of the Spires",A25,0.0,0,0,0,24/3/2019
+1,"Genju of the Spires",PARL,0.0,0,0,0,19/4/2020
+1,"Gerrard's Irregulars",MMQ,0.0,0,0,0,21/2/2021
+1,"Gerrard's Irregulars",MMQ,0.0,0,0,4,17/9/2018
+1,"Geyser Glider",ZEN,0.0,0,0,0,28/7/2018
+1,"Ghitu Chronicler",DOM,0.0,0,0,5,23/3/2020
+1,"Ghitu Fire",INV,0.0,0,0,3,19/4/2020
+1,"Ghitu Fire",INV,0.0,0,0,4,17/9/2018
+1,"Ghitu Fire-Eater",ULG,0.0,0,0,4,28/7/2018
+2,"Ghitu Slinger",ULG,0.0,0,0,4,28/7/2018
+1,"Ghitu War Cry",ULG,0.0,0,0,0,26/1/2021
+1,"Ghitu War Cry",ULG,0.0,0,0,4,28/7/2018
+4,"Ghor-Clan Wrecker",RNA,0.0,0,0,0,15/3/2020
+1,"Ghost-Lit Raider",SOK,0.0,1,0,0,6/4/2020
+2,"Ghostfire",FUT,0.0,0,0,0,28/7/2018
+3,"Ghostfire",FUT,0.0,0,0,4,3/3/2019
+1,"Giant Harbinger",LRW,0.0,0,0,4,3/11/2018
+1,"Giant Strength",6ED,0.0,0,0,3,19/4/2020
+2,"Giant Strength",4ED,0.0,0,0,0,3/5/2020
+14,"Giant Strength",LEG,0.0,0,0,4,8/5/2020
+1,"Giant Strength",5ED,0.0,0,0,4,24/2/2019
+2,"Giant Strength",TMP,0.0,0,0,0,1/11/2018
+2,"Giant Strength",TMP,0.0,0,0,4,17/9/2018
+3,"Gilded Cerodon",HOU,0.0,0,0,0,28/3/2020
+2,"Glacial Crevasses",ICE,0.0,0,0,0,1/3/2021
+1,"Glacial Ray",PARL,0.0,0,0,0,19/4/2020
+1,"Glarewielder",LRW,0.0,0,0,4,3/11/2018
+2,"Glorious End",AKH,0.0,0,0,0,24/5/2020
+1,"Glorybringer",AKH,0.0,1,0,4,1/11/2018
+4,"Glyph of Destruction",LEG,0.0,0,0,0,8/5/2020
+20,"Glyph of Destruction",LEG,0.0,0,0,4,8/5/2020
+1,"Gnathosaur",MBS,0.0,0,0,0,29/3/2020
+2,"Gnathosaur",MBS,0.0,0,0,4,28/7/2018
+1,"Goblin Archaeologist",DST,0.0,0,1,4,3/3/2019
+1,"Goblin Archaeologist",DST,0.0,0,4,4,3/3/2019
+2,"Goblin Artisans",CHR,0.0,0,0,0,25/1/2021
+1,"Goblin Assassin",LGN,0.0,0,0,3,6/4/2020
+1,"Goblin Assassin",LGN,0.0,0,2,4,2/3/2019
+2,"Goblin Assault",ALA,0.0,0,0,4,31/10/2018
+2,"Goblin Balloon Brigade",4ED,0.0,0,0,0,3/5/2020
+1,"Goblin Balloon Brigade",4ED,0.0,0,0,3,27/3/2019
+1,"Goblin Balloon Brigade",M11,0.0,1,0,0,12/7/2020
+2,"Goblin Banneret",GRN,0.0,0,0,0,15/3/2020
+1,"Goblin Barrage",DOM,0.0,0,0,3,23/3/2020
+1,"Goblin Barrage",DOM,0.0,0,0,5,23/3/2020
+2,"Goblin Berserker",UDS,0.0,0,0,0,24/2/2019
+1,"Goblin Bomb",WTH,0.0,0,0,0,28/7/2018
+5,"Goblin Bombardment",TMP,0.0,0,0,0,19/4/2020
+1,"Goblin Brigand",SCG,0.0,0,2,0,3/3/2019
+1,"Goblin Cadets",USG,0.0,0,0,4,28/7/2018
+1,"Goblin Cavaliers",PO2,0.0,0,0,0,19/4/2020
+1,"Goblin Caves",DRK,0.0,0,0,0,12/7/2020
+9,"Goblin Caves",DRK,0.0,0,0,4,8/5/2020
+1,"Goblin Caves",DRK,0.0,0,1,4,19/11/2018
+2,"Goblin Chainwhirler",DOM,0.0,0,0,0,4/3/2019
+1,"Goblin Chieftain",M12,0.0,0,0,0,20/6/2020
+2,"Goblin Chirurgeon",FEM,0.0,0,0,0,17/9/2018
+1,"Goblin Chirurgeon",FEM,0.0,0,0,0,17/9/2018
+2,"Goblin Chirurgeon",FEM,0.0,0,0,0,28/7/2018
+1,"Goblin Clearcutter",LGN,0.0,0,0,3,6/4/2020
+2,"Goblin Cratermaker",GRN,0.0,0,0,0,15/3/2020
+1,"Goblin Dark-Dwellers",PMEI,0.0,1,0,0,3/3/2019
+1,"Goblin Digging Team",7ED,0.0,0,0,4,28/7/2018
+1,"Goblin Digging Team",DRK,0.0,0,0,0,8/5/2020
+14,"Goblin Digging Team",DRK,0.0,0,0,4,8/5/2020
+1,"Goblin Digging Team",CHR,0.0,0,0,0,25/1/2021
+1,"Goblin Digging Team",5ED,0.0,0,0,4,28/7/2018
+1,"Goblin Digging Team",6ED,0.0,0,0,3,19/4/2020
+1,"Goblin Diplomats",M14,0.0,0,0,0,3/3/2019
+1,"Goblin Diplomats",M14,0.0,0,0,4,3/3/2019
+1,"Goblin Dynamo",LGN,0.0,0,0,3,6/4/2020
+1,"Goblin Elite Infantry",7ED,0.0,0,0,0,28/7/2018
+5,"Goblin Elite Infantry",MIR,0.0,0,0,2,24/5/2020
+2,"Goblin Engineer",MH1,0.0,0,0,0,22/3/2020
+1,"Goblin Festival",UDS,0.0,0,0,0,19/4/2020
+4,"Goblin Fireslinger",MM2,0.0,1,0,0,31/5/2020
+1,"Goblin Fireslinger",M12,0.0,1,0,0,3/3/2019
+3,"Goblin Firestarter",PO2,0.0,0,0,0,21/2/2021
+1,"Goblin Flotilla",FEM,0.0,0,0,0,17/9/2018
+2,"Goblin Freerunner",OGW,0.0,0,0,4,25/9/2018
+14,"Goblin Furrier",CSP,0.0,0,0,0,26/1/2021
+1,"Goblin Game",PLS,0.0,0,0,3,17/3/2019
+7,"Goblin Gathering",RNA,0.0,0,0,0,15/3/2020
+1,"Goblin Glider",7ED,0.0,0,0,4,1/11/2018
+1,"Goblin Glider",8ED,0.0,0,0,4,28/7/2018
+1,"Goblin Glory Chaser",ORI,0.0,0,0,0,25/9/2018
+1,"Goblin Goliath",GNT,0.0,0,0,0,28/3/2020
+1,"Goblin Goon",LGN,0.0,0,0,0,18/7/2020
+1,"Goblin Grappler",LGN,0.0,0,0,4,2/3/2019
+3,"Goblin Grenade",FEM,0.0,0,0,0,22/7/2020
+1,"Goblin Grenade",FEM,0.0,0,2,0,8/5/2020
+3,"Goblin Grenade",FEM,0.0,0,0,0,22/7/2020
+3,"Goblin Grenade",FEM,0.0,0,0,0,8/5/2020
+1,"Goblin Grenade",FEM,0.0,0,2,0,8/5/2020
+4,"Goblin Grenade",M12,0.0,0,0,0,12/7/2020
+1,"Goblin Guide",PGPX,0.0,0,0,0,19/4/2020
+1,"Goblin Haberdasher",UST,0.0,0,0,0,29/3/2020
+2,"Goblin Heelcutter",FRF,0.0,0,0,0,4/11/2018
+3,"Goblin Hero",6ED,0.0,0,0,0,17/9/2018
+3,"Goblin Hero",DRK,0.0,0,0,0,8/5/2020
+14,"Goblin Hero",DRK,0.0,0,0,4,8/5/2020
+4,"Goblin Instigator",M19,0.0,0,0,0,19/8/2018
+2,"Goblin Instigator",M19,0.0,0,0,4,25/9/2018
+1,"Goblin King",5ED,0.0,0,0,0,25/1/2021
+1,"Goblin King",8ED,0.0,0,0,0,6/4/2020
+2,"Goblin King",3ED,0.0,1,0,3,8/5/2020
+2,"Goblin King",4ED,0.0,0,0,0,25/1/2021
+1,"Goblin King",4ED,0.0,0,0,3,3/5/2020
+2,"Goblin Kites",FEM,0.0,0,0,0,25/1/2021
+2,"Goblin Lackey",USG,0.0,0,0,0,26/1/2021
+3,"Goblin Locksmith",GRN,0.0,0,0,0,15/3/2020
+1,"Goblin Lookout",LGN,0.0,0,0,3,6/4/2020
+1,"Goblin Lore",10E,0.0,0,0,0,24/1/2021
+1,"Goblin Lore",S99,0.0,1,0,0,22/2/2021
+7,"Goblin Machinist",ONS,0.0,0,0,0,15/4/2020
+2,"Goblin Marshal",UDS,0.0,0,0,0,18/7/2020
+2,"Goblin Matron",7ED,0.0,0,0,0,24/1/2021
+1,"Goblin Matron",USG,0.0,0,0,4,28/7/2018
+2,"Goblin Medics",ULG,0.0,0,0,4,28/7/2018
+4,"Goblin Motivator",M19,0.0,0,0,0,19/8/2018
+2,"Goblin Motivator",M19,0.0,0,0,4,25/9/2018
+1,"Goblin Mountaineer",PO2,0.0,0,0,4,19/4/2020
+4,"Goblin Offensive",USG,0.0,0,0,0,1/3/2021
+2,"Goblin Patrol",USG,0.0,0,0,0,24/2/2019
+2,"Goblin Patrol",USG,0.0,0,0,4,28/7/2018
+1,"Goblin Piker",M11,0.0,0,0,0,1/4/2020
+2,"Goblin Piker",PO2,0.0,0,0,0,1/3/2021
+2,"Goblin Piker",10E,0.0,0,0,0,30/3/2020
+2,"Goblin Piker",10E,0.0,0,0,4,28/7/2018
+4,"Goblin Piledriver",ORI,0.0,0,0,0,24/1/2021
+1,"Goblin Piledriver",ONS,0.0,0,0,0,15/4/2020
+2,"Goblin Pyromancer",ONS,0.0,0,0,0,15/4/2020
+1,"Goblin Raider",PO2,0.0,0,0,0,22/7/2020
+4,"Goblin Raider",7ED,0.0,0,0,4,28/7/2018
+1,"Goblin Raider",8ED,0.0,0,0,0,28/7/2018
+1,"Goblin Razerunners",DDT,0.0,0,0,0,28/3/2020
+6,"Goblin Recruiter",VIS,0.0,0,0,0,19/4/2020
+11,"Goblin Rimerunner",CSP,0.0,0,0,0,26/1/2021
+2,"Goblin Rimerunner",CSP,0.0,0,0,4,28/7/2018
+1,"Goblin Ringleader",APC,0.0,0,0,4,29/7/2018
+2,"Goblin Ringleader",APC,0.0,0,0,7,18/7/2020
+1,"Goblin Ringleader",M20,0.0,0,0,0,28/3/2020
+4,"Goblin Rock Sled",4ED,0.0,0,0,0,3/5/2020
+3,"Goblin Rock Sled",DRK,0.0,0,0,0,31/5/2020
+10,"Goblin Rock Sled",DRK,0.0,0,0,4,8/5/2020
+1,"Goblin Roughrider",WWK,0.0,0,0,0,24/1/2021
+3,"Goblin Ruinblaster",ZEN,0.0,0,0,0,7/6/2020
+4,"Goblin Sappers",ICE,0.0,0,0,0,3/5/2020
+1,"Goblin Sharpshooter",ONS,0.0,0,0,0,22/7/2020
+3,"Goblin Shrine",DRK,0.0,0,0,0,31/5/2020
+13,"Goblin Shrine",DRK,0.0,0,0,4,8/5/2020
+1,"Goblin Shrine",CHR,0.0,0,0,0,25/1/2021
+5,"Goblin Ski Patrol",ICE,0.0,0,0,0,3/5/2020
+2,"Goblin Sky Raider",10E,0.0,0,0,0,30/3/2020
+1,"Goblin Sky Raider",10E,0.0,0,0,4,28/7/2018
+5,"Goblin Sky Raider",ONS,0.0,0,0,0,3/5/2020
+1,"Goblin Sky Raider",9ED,0.0,0,0,4,28/7/2018
+1,"Goblin Skycutter",TSP,0.0,0,0,4,30/10/2018
+1,"Goblin Sledder",ONS,0.0,0,0,0,22/2/2021
+1,"Goblin Sledder",ONS,0.0,0,0,3,15/4/2020
+1,"Goblin Soothsayer",MIR,0.0,0,0,2,24/5/2020
+1,"Goblin Spelunkers",7ED,0.0,0,0,4,17/9/2018
+10,"Goblin Striker",MRD,0.0,0,0,0,28/7/2018
+1,"Goblin Striker",MRD,0.0,0,0,4,3/3/2019
+3,"Goblin Swine-Rider",VIS,0.0,0,0,0,24/5/2020
+3,"Goblin Swine-Rider",VIS,0.0,0,0,2,24/5/2020
+1,"Goblin Swine-Rider",VIS,0.0,0,0,4,28/7/2018
+3,"Goblin Swine-Rider",VIS,0.0,0,0,5,24/3/2019
+4,"Goblin Taskmaster",ONS,0.0,0,0,0,22/2/2021
+1,"Goblin Tinkerer",MIR,0.0,0,0,0,28/7/2018
+1,"Goblin Tinkerer",MIR,0.0,0,0,2,24/5/2020
+1,"Goblin Tinkerer",MIR,0.0,0,0,4,24/2/2019
+1,"Goblin Trashmaster",M19,0.0,0,0,0,19/8/2018
+1,"Goblin Tunneler",M11,0.0,0,0,0,3/11/2018
+3,"Goblin Vandal",WTH,0.0,0,0,0,28/7/2018
+1,"Goblin Vandal",WTH,0.0,0,0,5,19/4/2020
+2,"Goblin Vandal",WTH,0.0,1,0,0,19/4/2020
+1,"Goblin War Drums",A25,0.0,0,0,0,28/3/2020
+1,"Goblin War Drums",A25,0.0,1,0,0,24/3/2019
+2,"Goblin War Drums",FEM,0.0,0,0,0,28/7/2018
+3,"Goblin War Drums",FEM,0.0,0,0,0,8/5/2020
+5,"Goblin War Drums",FEM,0.0,0,0,0,8/5/2020
+6,"Goblin War Drums",FEM,0.0,0,0,0,8/5/2020
+6,"Goblin War Strike",SCG,0.0,0,0,0,25/1/2021
+1,"Goblin War Strike",SCG,0.0,0,0,4,3/3/2019
+1,"Goblin War Strike",SCG,0.0,0,1,4,3/3/2019
+4,"Goblin Warchief",SCG,0.0,0,0,0,6/4/2020
+1,"Goblin Warchief",SCG,0.0,0,0,4,3/3/2019
+2,"Goblin Warchief",SCG,0.0,0,1,4,3/3/2019
+2,"Goblin Warchief",SCG,0.0,1,0,0,19/4/2020
+1,"Goblin Warrens",ATH,0.0,0,0,0,17/9/2018
+2,"Goblin Warrens",FEM,0.0,0,0,0,17/9/2018
+3,"Goblin Welder",ULG,0.0,0,0,0,26/1/2021
+1,"Goblin Wizard",DRK,0.0,0,0,0,8/5/2020
+1,"Goblin Wizard",DRK,0.0,0,0,4,28/7/2018
+2,"Goblin token card",UGL,0.0,0,0,0,29/7/2018
+1,"Goblins of the Flarg",CHR,0.0,0,0,0,25/1/2021
+3,"Goblins of the Flarg",DRK,0.0,0,0,0,31/5/2020
+7,"Goblins of the Flarg",DRK,0.0,0,0,4,28/7/2018
+1,"Godo's Irregulars",SOK,0.0,0,0,4,3/11/2018
+1,"Godo, Bandit Warlord",CHK,0.0,0,0,0,7/6/2020
+1,"Goldnight Castigator",SOI,0.0,0,0,4,3/3/2019
+1,"Gore-House Chainwalker",RTR,0.0,0,0,8,4/11/2018
+1,"Gorehorn Minotaurs",MM2,0.0,0,0,0,29/3/2020
+1,"Goretusk Firebeast",JUD,0.0,0,0,4,29/7/2018
+1,"Goretusk Firebeast",JUD,0.0,0,2,4,28/7/2018
+1,"Gorilla Shaman",ALL,0.0,0,0,0,28/7/2018
+6,"Gorilla Shaman",ALL,0.0,0,0,0,24/3/2019
+1,"Gorilla Shaman",ALL,0.0,0,0,5,24/3/2019
+3,"Gorilla War Cry",ALL,0.0,0,0,0,24/5/2020
+2,"Gorilla War Cry",ALL,0.0,0,0,0,24/5/2020
+4,"Grab the Reins",MRD,0.0,0,0,0,6/4/2020
+1,"Grab the Reins",MRD,0.0,0,0,4,31/10/2018
+2,"Grand Melee",ONS,0.0,0,0,3,15/4/2020
+1,"Granite Gargoyle",3ED,0.0,0,0,0,28/7/2018
+1,"Granite Gargoyle",3ED,0.0,1,0,3,8/5/2020
+1,"Granite Grip",ULG,0.0,0,0,0,26/1/2021
+1,"Granite Grip",ULG,0.0,0,0,4,28/7/2018
+1,"Granulate",5DN,0.0,0,0,0,17/9/2018
+1,"Grapeshot",MMA,0.0,0,0,0,29/3/2020
+3,"Grapeshot",DDS,0.0,0,0,0,29/3/2020
+2,"Grapeshot",TSP,0.0,0,0,4,30/3/2020
+2,"Gratuitous Violence",ONS,0.0,0,0,3,15/4/2020
+4,"Gravel-Hide Goblin",RNA,0.0,0,0,0,15/3/2020
+3,"Gravitic Punch",GRN,0.0,0,0,0,15/3/2020
+1,"Gravity Sphere",LEG,0.0,0,0,0,8/5/2020
+5,"Gray Ogre",4ED,0.0,0,0,0,3/5/2020
+2,"Gray Ogre",4ED,0.0,0,0,4,17/9/2018
+1,"Gray Ogre",4ED,0.0,0,0,5,3/5/2020
+3,"Gray Ogre",2ED,0.0,0,0,0,25/1/2021
+2,"Gray Ogre",LEB,0.0,0,2,0,8/5/2020
+3,"Gray Ogre",3ED,0.0,0,0,0,17/9/2018
+19,"Gray Ogre",3ED,0.0,1,0,4,8/5/2020
+1,"Greater Stone Spirit",CSP,0.0,0,0,4,31/10/2018
+1,"Grim Lavamancer",PJGP,11.94,1,0,0,22/2/2021
+5,"Grim Lavamancer",M12,0.0,0,0,0,31/5/2020
+1,"Grim Lavamancer",M12,0.0,0,0,5,25/9/2018
+2,"Grim Lavamancer",PD2,0.0,1,0,0,29/3/2020
+2,"Grim Lavamancer",TOR,0.0,0,0,0,22/2/2021
+1,"Grim Lavamancer",TOR,0.0,0,0,3,18/7/2020
+1,"Grim Lavamancer",TOR,0.0,0,0,5,24/3/2019
+9,"Grizzled Wolverine",ICE,0.0,0,0,0,3/5/2020
+1,"Grizzled Wolverine",ICE,0.0,0,0,4,24/2/2019
+1,"Grotag Thrasher",WWK,0.0,0,0,6,14/10/2018
+4,"Ground Rift",TSP,0.0,0,0,0,24/5/2020
+7,"Guerrilla Tactics",ALL,0.0,0,0,0,24/5/2020
+1,"Guerrilla Tactics",ALL,0.0,1,0,0,27/3/2019
+2,"Guma",USG,0.0,0,0,0,24/2/2019
+2,"Gut Shot",NPH,0.0,0,0,0,12/7/2020
+1,"Gut Shot",NPH,0.0,0,0,5,29/3/2020
+4,"Gut Shot",MM2,0.0,0,0,0,29/3/2020
+1,"Guttersnipe",IMA,0.0,0,0,4,25/9/2018
+3,"Guttersnipe",C19,0.0,0,0,0,22/3/2020
+2,"Guttersnipe",M19,0.0,0,0,0,19/8/2018
+1,"Guttersnipe",M19,0.0,1,0,4,25/9/2018
+1,"Guttersnipe",RTR,0.0,0,0,0,3/3/2019
+3,"Halam Djinn",INV,0.0,0,0,0,22/2/2021
+1,"Halam Djinn",INV,0.0,0,0,4,17/9/2018
+1,"Half-Orc, Half-",UST,0.0,0,0,0,29/3/2020
+1,"Hammer Jammer",UST,0.0,0,0,0,29/3/2020
+1,"Hammer Mage",MMQ,0.0,0,0,0,24/2/2019
+1,"Hammer of Bogardan",6ED,0.0,0,0,0,19/4/2020
+1,"Hammer of Bogardan",PJGP,0.0,0,0,0,29/7/2018
+3,"Hammer of Bogardan",MIR,0.0,0,0,0,28/7/2018
+1,"Hammer of Bogardan",MIR,0.0,0,1,0,28/7/2018
+1,"Hammer of Bogardan",MIR,0.0,0,2,5,24/3/2019
+2,"Hammer of Bogardan",MIR,0.0,1,0,0,19/4/2020
+1,"Hammerfest Boomtacular",UST,0.0,0,0,0,29/3/2020
+1,"Hammerfist Giant",RAV,0.0,0,0,4,3/3/2019
+2,"Hammerhand",M15,0.0,0,0,4,1/11/2018
+3,"Hammerheim Deadeye",MMA,0.0,0,0,0,28/7/2018
+1,"Hammerheim Deadeye",PLC,0.0,0,0,0,24/1/2021
+2,"Hanabi Blast",CHK,0.0,0,0,4,3/11/2018
+1,"Hand to Hand",TMP,0.0,0,0,0,28/7/2018
+1,"Harness by Force",JOU,0.0,0,0,0,24/5/2020
+3,"Harvest Pyre",ISD,0.0,0,0,0,29/3/2020
+4,"Hate Mirage",C19,0.0,0,0,0,22/3/2020
+1,"Hateflayer",EVE,0.0,0,0,0,1/3/2021
+4,"Havoc",TMP,0.0,0,0,0,24/2/2019
+1,"Havoc",TMP,0.0,0,0,5,24/3/2019
+3,"Havoc Devils",M19,0.0,0,0,0,19/8/2018
+4,"Headstrong Brute",XLN,0.0,0,0,0,28/3/2020
+1,"Heart Sliver",TMP,0.0,0,0,0,21/2/2021
+1,"Heart Wolf",HML,0.0,0,0,0,24/2/2019
+1,"Heart of Bogardan",WTH,0.0,0,0,0,28/7/2018
+4,"Heart-Piercer Manticore",C19,0.0,0,0,0,22/3/2020
+4,"Heartfire",WAR,0.0,0,0,0,22/2/2021
+2,"Hearth Charm",VIS,0.0,0,0,0,21/2/2021
+2,"Hearth Charm",VIS,0.0,0,0,1,24/5/2020
+1,"Hearthcage Giant",LRW,0.0,0,0,3,30/3/2020
+2,"Heartlash Cinder",EVE,0.0,0,0,0,3/3/2019
+3,"Heat Ray",USG,0.0,0,0,0,28/7/2018
+1,"Heat Shimmer",LRW,0.0,0,0,0,24/1/2021
+2,"Heat Stroke",WTH,0.0,0,0,0,19/4/2020
+1,"Heat Stroke",WTH,0.0,0,0,4,28/7/2018
+2,"Heat Stroke",WTH,0.0,0,0,5,19/4/2020
+2,"Heat Wave",VIS,0.0,0,0,0,28/7/2018
+1,"Heat of Battle",STH,0.0,0,0,4,28/7/2018
+4,"Hell's Thunder",ALA,0.0,0,0,0,30/3/2020
+1,"Hell-Bent Raider",TOR,0.0,0,0,3,17/3/2019
+2,"Hellkite Whelp",GRN,0.0,0,0,0,15/3/2020
+1,"Hellrider",DKA,0.0,0,0,0,24/5/2020
+4,"Hellspark Elemental",CON,0.0,0,0,0,22/2/2021
+3,"Hellspark Elemental",CON,0.0,0,0,4,17/9/2018
+1,"Hellspark Elemental",DDK,0.0,0,0,0,12/7/2020
+1,"Hellspark Elemental",PD2,0.0,1,0,0,19/8/2018
+1,"Heretic's Punishment",ISD,0.0,0,0,0,20/6/2020
+4,"Hero of the Games",THB,0.0,0,0,3,22/3/2020
+2,"Heroes of the Revel",THB,0.0,0,0,3,22/3/2020
+1,"Hidetsugu's Second Rite",SOK,0.0,0,0,0,6/4/2020
+1,"Hidetsugu's Second Rite",SOK,0.0,0,0,3,6/4/2020
+2,"Hidetsugu's Second Rite",SOK,0.0,0,0,4,1/11/2018
+1,"Highland Giant",POR,0.0,0,0,0,28/7/2018
+3,"Hijack",XLN,0.0,0,0,0,17/9/2018
+2,"Hill Giant",7ED,0.0,0,0,4,17/9/2018
+2,"Hill Giant",LEB,0.0,0,1,0,8/5/2020
+4,"Hill Giant",2ED,0.0,0,0,0,25/1/2021
+3,"Hill Giant",4ED,0.0,0,0,0,3/5/2020
+1,"Hill Giant",4ED,0.0,0,0,4,24/2/2019
+3,"Hill Giant",3ED,0.0,0,0,0,17/9/2018
+20,"Hill Giant",3ED,0.0,1,0,4,8/5/2020
+2,"Hill Giant",3ED,0.0,1,0,5,8/5/2020
+1,"Hivis of the Scale",MIR,0.0,0,0,0,28/7/2018
+1,"Hivis of the Scale",MIR,0.0,0,0,2,24/5/2020
+2,"Hoard-Smelter Dragon",SOM,0.0,0,0,0,31/5/2020
+5,"Hoarding Dragon",IMA,0.0,0,0,0,24/5/2020
+1,"Homing Sliver",FUT,0.0,0,0,6,3/3/2019
+1,"Honden of Infinite Rage",CHK,0.0,0,0,4,31/10/2018
+8,"Hooded Kavu",INV,0.0,0,0,0,22/2/2021
+1,"Hooded Kavu",INV,0.0,0,0,4,17/9/2018
+1,"Horde of Boggarts",SHM,0.0,0,0,0,3/3/2019
+3,"Hostile Minotaur",M19,0.0,0,0,0,19/8/2018
+1,"Hound of Griselbrand",AVR,0.0,0,0,0,24/5/2020
+1,"Hulking Cyclops",VIS,0.0,0,0,0,21/2/2021
+3,"Hulking Cyclops",6ED,0.0,0,0,0,19/4/2020
+1,"Hulking Ogre",UDS,0.0,0,0,4,2/11/2018
+2,"Humble Defector",A25,0.0,0,0,0,28/3/2020
+1,"Hunted Dragon",RAV,0.0,0,0,4,3/3/2019
+1,"Hunter Sliver",LGN,0.0,0,0,0,6/4/2020
+3,"Hurloon Minotaur",2ED,0.0,0,0,0,25/1/2021
+1,"Hurloon Minotaur",4ED,0.0,0,0,0,3/5/2020
+15,"Hurloon Minotaur",4ED,0.0,0,0,4,2/11/2018
+1,"Hurloon Minotaur",LEB,0.0,0,2,0,8/5/2020
+8,"Hurloon Minotaur",3ED,0.0,0,0,0,31/1/2021
+11,"Hurloon Minotaur",3ED,0.0,1,0,4,8/5/2020
+1,"Hurloon Minotaur",3ED,0.0,1,0,5,8/5/2020
+1,"Hurr Jackal",4ED,0.0,0,0,0,17/9/2018
+2,"Hurr Jackal",ARN,0.0,0,0,0,8/5/2020
+3,"Hyperion Blacksmith",LEG,0.0,0,0,4,8/5/2020
+4,"Ib Halfheart, Goblin Tactician",TSP,0.0,0,0,0,30/3/2020
+16,"Icefall",CSP,0.0,0,0,0,26/1/2021
+1,"Ignite Memories",TSP,0.0,0,0,0,28/7/2018
+1,"Ignite Memories",TSP,0.0,0,2,4,28/7/2018
+2,"Ignite the Future",C19,0.0,0,0,0,22/3/2020
+2,"Ignorant Bliss",DIS,0.0,0,0,4,31/10/2018
+1,"Ill-Tempered Cyclops",THS,0.0,0,0,0,3/3/2019
+1,"Illicit Auction",MIR,0.0,0,0,4,1/11/2018
+2,"Illicit Auction",6ED,0.0,0,0,0,19/4/2020
+1,"Illuminate",APC,0.0,0,0,0,22/2/2021
+1,"Illuminate",APC,0.0,0,0,4,29/7/2018
+2,"Immobilizer Eldrazi",OGW,0.0,0,0,0,24/5/2020
+2,"Immolation",4ED,0.0,1,0,5,8/5/2020
+6,"Immolation",LEG,0.0,0,0,4,8/5/2020
+1,"Immolation Shaman",RNA,0.0,0,0,0,24/1/2021
+1,"Impact Resonance",C14,0.0,0,0,0,24/1/2021
+1,"Impatience",UDS,0.0,0,0,0,24/2/2019
+1,"Impatience",7ED,0.0,0,0,3,17/3/2019
+2,"Impending Doom",THB,0.0,0,0,3,22/3/2020
+1,"Implode",PLS,0.0,0,0,0,17/9/2018
+10,"Imposing Visage",ICE,0.0,0,0,0,3/5/2020
+1,"Impulsive Maneuvers",ODY,0.0,0,0,0,19/4/2020
+2,"Impulsive Maneuvers",ODY,0.0,0,0,3,19/4/2020
+1,"In the Web of War",BOK,0.0,0,0,3,27/3/2019
+1,"Incendiary",UDS,0.0,0,0,0,24/2/2019
+1,"Incendiary Command",C13,0.0,0,0,0,29/3/2020
+1,"Incendiary Dissent",CN2,0.0,0,0,0,3/3/2019
+1,"Incendiary Flow",EMN,0.0,1,0,4,4/3/2019
+4,"Incendiary Oracle",THB,0.0,0,0,3,22/3/2020
+6,"Incinerate",5ED,0.0,0,0,0,24/5/2020
+1,"Incinerate",5ED,0.0,0,0,3,19/4/2020
+1,"Incinerate",PLGM,0.0,0,0,0,8/5/2020
+3,"Incinerate",MIR,0.0,0,0,0,17/9/2018
+3,"Incinerate",MIR,0.0,0,0,2,24/5/2020
+1,"Incinerate",MIR,0.0,0,0,3,24/5/2020
+2,"Incinerate",MIR,0.0,1,0,0,19/4/2020
+1,"Incinerate",10E,0.0,1,0,0,31/10/2018
+10,"Incinerate",ICE,0.0,0,0,0,3/5/2020
+9,"Incinerate",ICE,0.0,0,0,4,1/11/2018
+7,"Incite War",MRD,0.0,0,0,0,28/7/2018
+1,"Incorrigible Youths",SOI,0.0,0,0,0,24/5/2020
+4,"Increasing Vengeance",C19,0.0,0,0,0,22/3/2020
+1,"Indentured Oaf",RAV,0.0,0,0,4,3/3/2019
+1,"Inescapable Blaze",GRN,0.0,0,0,0,15/3/2020
+1,"Inescapable Brute",SHM,0.0,0,0,0,3/3/2019
+2,"Infectious Rage",JUD,0.0,0,0,0,22/2/2021
+4,"Infernal Plunge",ISD,0.0,0,0,0,3/3/2019
+1,"Infernal Plunge",ISD,0.0,0,0,4,3/3/2019
+1,"Inferno",DRK,0.0,0,0,0,8/5/2020
+1,"Inferno",DRK,0.0,0,0,3,8/5/2020
+1,"Inferno",DRK,0.0,0,0,4,23/2/2019
+2,"Inferno",4ED,0.0,0,0,0,24/2/2019
+1,"Inferno",4ED,0.0,0,0,5,24/2/2019
+1,"Inferno",7ED,0.0,0,0,0,17/3/2019
+1,"Inferno Hellion",M19,0.0,0,0,0,19/8/2018
+1,"Inferno Jet",HOU,0.0,0,0,4,1/11/2018
+1,"Inferno Jet",HOU,0.0,1,0,0,4/11/2018
+1,"Inflame",DST,0.0,0,0,0,3/3/2019
+4,"Inflame",PCY,0.0,0,0,0,24/1/2021
+4,"Infuriate",THB,0.0,0,0,3,22/3/2020
+4,"Inner Fire",SOK,0.0,0,0,0,25/1/2021
+2,"Inner Struggle",SOI,0.0,0,0,0,24/5/2020
+1,"Insolence",PLS,0.0,0,0,4,17/9/2018
+1,"Instigator Gang",ISD,0.0,0,0,0,1/11/2018
+1,"Instill Furor",RAV,0.0,0,0,4,31/10/2018
+1,"Insurrection",ONS,0.0,1,0,4,29/7/2018
+1,"Intimidator Initiate",SHM,0.0,0,0,0,3/3/2019
+1,"Invasion Plans",STH,0.0,0,0,0,25/1/2021
+1,"Invasion Plans",STH,0.0,0,0,4,28/7/2018
+4,"Ion Storm",5DN,0.0,0,0,4,6/4/2020
+2,"Ire Shaman",DTK,0.0,0,0,0,24/5/2020
+3,"Ire Shaman",A25,0.0,0,0,0,28/3/2020
+1,"Irencrag Feat",PELD,0.0,0,0,0,22/3/2020
+4,"Irencrag Feat",ELD,0.0,0,0,0,22/3/2020
+4,"Iroas's Blessing",THB,0.0,0,0,3,22/3/2020
+3,"Ironclaw Buzzardiers",TSP,0.0,0,0,4,30/10/2018
+1,"Ironclaw Curse",HML,0.0,0,0,0,17/9/2018
+2,"Ironclaw Orcs",4ED,0.0,0,0,0,3/5/2020
+1,"Ironclaw Orcs",4ED,0.0,0,0,5,8/5/2020
+1,"Ironclaw Orcs",4ED,0.0,1,0,3,28/7/2018
+1,"Ironclaw Orcs",4ED,0.0,1,0,4,8/5/2020
+3,"Ironclaw Orcs",2ED,0.0,0,0,0,25/1/2021
+1,"Ironclaw Orcs",5ED,0.0,0,0,4,24/2/2019
+4,"Ironclaw Orcs",5ED,0.0,1,0,0,19/4/2020
+3,"Ironclaw Orcs",LEB,0.0,0,1,0,8/5/2020
+4,"Irreverent Revelers",THB,0.0,0,0,3,22/3/2020
+1,"Ishi-Ishi, Akki Crackshot",BOK,0.0,0,0,0,24/5/2020
+1,"Izzet Chemister",A25,0.0,1,0,0,24/3/2019
+2,"Jackal Familiar",M10,0.0,0,0,0,3/3/2019
+5,"Jackal Pup",TMP,0.0,0,0,0,24/5/2020
+2,"Jackal Pup",TMP,0.0,0,0,4,28/7/2018
+4,"Jackal Pup",TMP,0.0,1,0,0,19/4/2020
+1,"Jagged Lightning",PO2,0.0,0,0,4,19/4/2020
+2,"Jalum Grifter",UGL,0.0,0,0,0,22/2/2021
+1,"Jaws of Stone",SHM,0.0,0,0,0,3/3/2019
+1,"Jaya's Immolating Inferno",DOM,0.0,0,0,5,23/3/2020
+1,"Jaya, Venerated Firemage",WAR,0.0,0,0,3,20/6/2020
+1,"Jeska, Warrior Adept",JUD,0.0,0,0,0,12/7/2020
+2,"Jokulhaups",ICE,0.0,0,0,0,3/5/2020
+1,"Jokulhaups",DKM,0.0,0,0,0,19/4/2020
+2,"Jokulhaups",5ED,0.0,0,0,0,25/1/2021
+2,"Kaboom!",ONS,0.0,0,0,0,15/4/2020
+1,"Kaervek's Torch",MIR,0.0,0,0,0,25/1/2021
+2,"Kamahl's Desire",ODY,0.0,0,0,4,2/3/2019
+10,"Kamahl's Sledge",TOR,0.0,0,0,0,25/1/2021
+1,"Kamahl, Pit Fighter",ODY,0.0,0,0,6,2/3/2019
+1,"Kami of Fire's Roar",CHK,0.0,0,0,0,3/11/2018
+2,"Karplusan Giant",ICE,0.0,0,0,0,3/5/2020
+15,"Karplusan Wolverine",CSP,0.0,0,0,0,26/1/2021
+2,"Karplusan Wolverine",CSP,0.0,0,0,4,28/7/2018
+7,"Kavu Aggressor",INV,0.0,0,0,0,22/2/2021
+2,"Kavu Aggressor",INV,0.0,0,1,4,28/7/2018
+9,"Kavu Glider",APC,0.0,0,0,0,24/1/2021
+1,"Kavu Glider",APC,0.0,0,0,3,19/4/2020
+2,"Kavu Recluse",PLS,0.0,0,0,0,17/9/2018
+1,"Kavu Recluse",PLS,0.0,0,0,4,2/3/2019
+1,"Kavu Runner",INV,0.0,0,0,0,22/2/2021
+8,"Kavu Scout",INV,0.0,0,0,0,22/2/2021
+2,"Kavu Scout",INV,0.0,0,0,4,2/11/2018
+1,"Kazuul Warlord",ZEN,0.0,0,0,3,29/3/2020
+2,"Kazuul's Toll Collector",OGW,0.0,0,0,0,24/5/2020
+2,"Keeper of Kookus",VIS,0.0,0,0,0,28/7/2018
+2,"Keeper of Kookus",VIS,0.0,0,0,2,24/5/2020
+3,"Keeper of the Flame",EXO,0.0,0,0,0,26/1/2021
+1,"Keldon Arsonist",PCY,0.0,0,0,0,29/7/2018
+4,"Keldon Berserker",PCY,0.0,0,0,0,24/1/2021
+1,"Keldon Champion",UDS,0.0,0,0,0,24/2/2019
+1,"Keldon Firebombers",PCY,0.0,0,0,3,17/3/2019
+3,"Keldon Mantle",PLS,0.0,0,0,4,28/7/2018
+5,"Keldon Marauders",PD2,0.0,1,0,0,29/3/2020
+2,"Keldon Marauders",PLC,0.0,0,0,0,30/3/2020
+1,"Keldon Overseer",DOM,0.0,0,0,5,23/3/2020
+1,"Keldon Raider",M20,0.0,0,0,0,22/3/2020
+4,"Keldon Vandals",UDS,0.0,0,0,0,26/1/2021
+1,"Keldon Warlord",LEB,0.0,0,1,0,8/5/2020
+1,"Keldon Warlord",5ED,0.0,0,0,4,24/2/2019
+2,"Keldon Warlord",4ED,0.0,0,0,0,3/5/2020
+1,"Keldon Warlord",4ED,0.0,0,0,3,27/3/2019
+1,"Keldon Warlord",3ED,0.0,0,0,0,28/7/2018
+3,"Khenra Scrapper",HOU,0.0,0,0,0,28/3/2020
+1,"Kiki-Jiki, Mirror Breaker",CHK,0.0,0,0,0,7/6/2020
+4,"Kiln Fiend",CN2,0.0,0,0,0,29/3/2020
+1,"Kilnmouth Dragon",LGN,0.0,0,0,0,6/4/2020
+5,"Kindle",TMP,0.0,0,0,0,28/7/2018
+3,"Kindle",TMP,0.0,0,2,0,21/2/2021
+4,"Kindle",A25,0.0,0,0,0,28/3/2020
+1,"Kindred Charge",C17,0.0,0,0,0,31/5/2020
+9,"Kird Ape",3ED,0.0,0,0,0,7/6/2020
+3,"Kird Ape",3ED,0.0,0,0,4,8/5/2020
+17,"Kird Ape",3ED,0.0,1,0,4,8/5/2020
+1,"Kird Ape",ARN,0.0,0,0,0,8/5/2020
+1,"Knollspine Dragon",SHM,0.0,0,0,0,3/3/2019
+1,"Knollspine Dragon",SHM,0.0,0,0,3,30/3/2020
+2,"Knollspine Invocation",SHM,0.0,0,0,0,30/3/2020
+1,"Kobold Drill Sergeant",LEG,0.0,0,0,0,8/5/2020
+4,"Kobold Drill Sergeant",LEG,0.0,0,0,4,8/5/2020
+1,"Kobold Overlord",LEG,0.0,0,0,4,28/7/2018
+1,"Kobold Taskmaster",LEG,0.0,0,0,0,8/5/2020
+6,"Kobold Taskmaster",LEG,0.0,0,0,4,8/5/2020
+1,"Kobolds of Kher Keep",LEG,0.0,0,0,0,28/7/2018
+20,"Kobolds of Kher Keep",LEG,0.0,0,0,4,8/5/2020
+1,"Kolaghan Aspirant",DTK,0.0,0,0,0,4/11/2018
+1,"Kookus",VIS,0.0,0,0,0,28/7/2018
+1,"Kookus",VIS,0.0,0,0,2,24/5/2020
+6,"Krark-Clan Grunt",MRD,0.0,0,0,0,27/4/2020
+1,"Krark-Clan Ogre",5DN,0.0,1,0,4,31/10/2018
+9,"Krark-Clan Shaman",MRD,0.0,0,0,0,28/7/2018
+3,"Krark-Clan Shaman",MRD,0.0,0,0,4,3/3/2019
+1,"Krark-Clan Stoker",DST,0.0,1,0,4,31/10/2018
+4,"Krenko's Command",M13,0.0,0,0,0,29/3/2020
+1,"Kris Mage",MMQ,0.0,0,0,0,21/2/2021
+3,"Kris Mage",MMQ,0.0,0,0,4,28/7/2018
+2,"Kuldotha Phoenix",SOM,0.0,0,0,0,31/5/2020
+1,"Kuldotha Ringleader",MBS,0.0,0,0,0,29/3/2020
+2,"Kumano's Blessing",BOK,0.0,0,0,4,28/7/2018
+2,"Kumano's Pupils",CHK,0.0,1,0,0,22/2/2021
+3,"Kumano, Master Yamabushi",CHK,0.0,0,0,0,22/2/2021
+1,"Kumano, Master Yamabushi",CHK,0.0,0,0,4,31/10/2018
+2,"Kyren Negotiations",MMQ,0.0,0,0,0,26/1/2021
+4,"Labyrinth Champion",THS,0.0,0,0,0,29/3/2020
+7,"Laccolith Grunt",NMS,0.0,0,0,0,24/1/2021
+1,"Laccolith Titan",NMS,0.0,0,0,0,17/3/2019
+1,"Laccolith Titan",NMS,0.0,0,0,3,19/4/2020
+3,"Laccolith Warrior",NMS,0.0,0,0,0,24/5/2020
+1,"Laccolith Warrior",NMS,0.0,0,0,3,19/4/2020
+3,"Laccolith Whelp",NMS,0.0,0,0,0,24/5/2020
+5,"Land's Edge",CHR,0.0,0,0,0,12/7/2020
+1,"Landslide",UDS,0.0,0,0,3,19/4/2020
+1,"Landslide",UDS,0.0,0,0,4,28/7/2018
+1,"Lash Out",LRW,0.0,0,0,4,3/3/2019
+1,"Last-Ditch Effort",ULG,0.0,0,0,4,28/7/2018
+1,"Lathliss, Dragon Queen",M19,0.0,1,0,0,19/8/2018
+1,"Lathnu Hellion",KLD,0.0,0,0,0,5/11/2018
+2,"Lathnu Sailback",AER,0.0,0,0,4,4/3/2019
+5,"Latulla's Orders",PCY,0.0,0,0,0,24/1/2021
+1,"Latulla, Keldon Overseer",PCY,0.0,0,0,3,17/3/2019
+2,"Lava Axe",M19,0.0,0,0,0,17/9/2018
+1,"Lava Axe",S00,0.0,0,0,0,17/9/2018
+4,"Lava Axe",10E,0.0,0,0,4,25/9/2018
+1,"Lava Axe",M11,0.0,0,0,0,1/4/2020
+1,"Lava Axe",7ED,0.0,0,0,4,17/9/2018
+1,"Lava Axe",ULG,0.0,0,0,0,26/1/2021
+2,"Lava Axe",ULG,0.0,0,0,4,28/7/2018
+1,"Lava Axe",8ED,0.0,0,0,0,28/7/2018
+1,"Lava Blister",ODY,0.0,0,0,0,25/1/2021
+1,"Lava Blister",ODY,0.0,0,0,4,17/9/2018
+6,"Lava Burst",ICE,0.0,0,0,0,3/5/2020
+1,"Lava Coil",GRN,0.0,0,0,3,15/3/2020
+2,"Lava Dart",JUD,0.0,0,0,0,22/2/2021
+4,"Lava Dart",JUD,0.0,0,0,4,29/7/2018
+1,"Lava Hounds",WTH,0.0,0,0,0,25/1/2021
+1,"Lava Hounds",8ED,0.0,0,0,3,17/3/2019
+7,"Lava Spike",MMA,0.0,0,0,0,31/5/2020
+1,"Lava Spike",MMA,0.0,1,0,0,31/5/2020
+1,"Lava Spike",UMA,0.0,0,0,0,4/3/2019
+1,"Lavaborn Muse",DDK,0.0,0,0,0,31/10/2018
+1,"Lavaborn Muse",LGN,0.0,0,0,0,25/1/2021
+2,"Lavacore Elemental",PLC,0.0,0,0,0,24/1/2021
+4,"Lay Waste",ONS,0.0,0,0,0,22/2/2021
+3,"Lay Waste",USG,0.0,0,0,0,28/7/2018
+1,"Leaping Master",KTK,0.0,0,0,9,4/11/2018
+1,"Legion Warboss",GRN,0.0,0,0,0,28/3/2020
+2,"Legion Warboss",GRN,0.0,0,0,4,29/3/2020
+3,"Lesser Gargadon",PCY,0.0,0,0,0,24/1/2021
+2,"Lesser Gargadon",8ED,0.0,0,0,4,17/9/2018
+1,"Leyline of Lightning",GPT,0.0,0,0,4,3/3/2019
+2,"Leyline of Punishment",M11,0.0,0,0,0,29/3/2020
+1,"Leyline of Punishment",M11,0.0,0,0,3,29/3/2020
+3,"Liberated Dwarf",JUD,0.0,0,0,0,29/7/2018
+3,"Liberated Dwarf",JUD,0.0,0,0,4,3/11/2018
+4,"Light Up the Stage",RNA,0.0,0,0,0,24/5/2020
+4,"Lightning Axe",TSP,0.0,0,0,0,24/5/2020
+4,"Lightning Axe",SOI,0.0,0,0,0,24/5/2020
+9,"Lightning Bolt",3ED,0.0,0,0,0,25/1/2021
+1,"Lightning Bolt",3ED,0.0,0,1,0,23/2/2019
+3,"Lightning Bolt",3ED,0.0,1,0,3,8/5/2020
+6,"Lightning Bolt",3ED,0.0,1,0,4,18/7/2019
+2,"Lightning Bolt",3ED,0.0,1,2,4,23/2/2019
+2,"Lightning Bolt",2ED,0.0,0,0,0,1/3/2019
+1,"Lightning Bolt",M11,0.0,0,0,4,3/3/2019
+2,"Lightning Bolt",MM2,0.0,0,0,0,3/3/2019
+5,"Lightning Bolt",4ED,0.0,0,0,0,28/7/2018
+4,"Lightning Bolt",4ED,0.0,0,0,4,17/9/2018
+1,"Lightning Bolt",4ED,0.0,0,0,5,24/2/2019
+1,"Lightning Bolt",4ED,0.0,0,1,0,24/2/2019
+1,"Lightning Bolt",4ED,0.0,0,1,4,24/2/2019
+1,"Lightning Bolt",ATH,0.0,0,0,0,19/4/2020
+1,"Lightning Bolt",M10,0.0,0,0,0,29/3/2020
+1,"Lightning Bolt",M10,0.0,0,0,4,3/3/2019
+1,"Lightning Cloud",VIS,0.0,0,0,0,28/7/2018
+1,"Lightning Crafter",MOR,0.0,0,0,0,12/7/2020
+1,"Lightning Dart",INV,0.0,0,0,0,22/2/2021
+1,"Lightning Dart",INV,0.0,0,0,4,29/7/2018
+3,"Lightning Dragon",USG,0.0,0,0,0,26/1/2021
+1,"Lightning Mare",M19,0.0,0,0,0,17/9/2018
+1,"Lightning Rift",ONS,0.0,0,0,3,15/4/2020
+1,"Lightning Rift",ONS,0.0,0,0,4,2/3/2019
+1,"Lightning Rift",PFNM,0.0,0,0,0,19/4/2020
+4,"Lightning Serpent",CSP,0.0,0,0,0,19/8/2018
+5,"Lightning Storm",CSP,0.0,0,0,0,30/3/2020
+2,"Lightning Strike",M19,0.0,0,0,0,25/9/2018
+1,"Lightning Strike",XLN,0.0,0,0,0,28/3/2020
+8,"Lightning Strike",THS,0.0,0,0,4,17/9/2018
+1,"Lightning Strike",THS,0.0,1,0,0,3/3/2019
+1,"Lightning Surge",JUD,0.0,0,0,3,15/4/2020
+1,"Lightning Talons",ALA,0.0,0,0,4,28/7/2018
+1,"Lightning Talons",M14,0.0,0,0,4,28/7/2018
+8,"Limits of Solidarity",AKH,0.0,0,0,0,1/11/2018
+1,"Limits of Solidarity",AKH,0.0,0,0,4,1/11/2018
+4,"Liquid Fire",ODY,0.0,0,0,0,25/1/2021
+3,"Lithophage",MMQ,0.0,0,0,0,12/7/2020
+1,"Living Inferno",GPT,0.0,0,0,4,3/3/2019
+2,"Loafing Giant",INV,0.0,0,0,3,19/4/2020
+15,"Longhorn Firebeast",TOR,0.0,0,0,0,25/1/2021
+3,"Longhorn Firebeast",TOR,0.0,0,0,4,28/7/2018
+1,"Lowland Giant",TMP,0.0,0,0,5,24/3/2019
+1,"Lunge",MMQ,0.0,0,0,4,17/9/2018
+4,"Lunk Errant",MOR,0.0,0,0,4,28/7/2018
+5,"Mad Dog",ODY,0.0,0,0,4,28/7/2018
+4,"Madcap Experiment",KLD,0.0,0,0,0,24/1/2021
+3,"Madcap Skills",MM3,0.0,0,0,0,12/7/2020
+5,"Mage il-Vec",EXO,0.0,0,0,0,1/3/2021
+1,"Mages' Contest",INV,0.0,0,0,3,17/3/2019
+3,"Magma Burst",PLS,0.0,0,0,4,17/9/2018
+1,"Magma Giant",5DN,0.0,0,0,0,25/1/2021
+1,"Magma Phoenix",M11,0.0,0,0,0,24/5/2020
+1,"Magma Phoenix",M10,0.0,0,0,0,31/5/2020
+3,"Magma Spray",ALA,0.0,0,0,4,30/3/2020
+1,"Magma Vein",ODY,0.0,0,0,4,17/9/2018
+4,"Magmaquake",C19,0.0,0,0,0,22/3/2020
+1,"Magmaroth",HOU,0.0,1,0,0,12/7/2020
+3,"Magmasaur",TMP,0.0,0,0,0,25/1/2021
+1,"Magmasaur",TMP,0.0,0,0,4,28/7/2018
+1,"Magnetic Mountain",ARN,0.0,0,0,0,8/5/2020
+2,"Magnetic Mountain",4ED,0.0,0,0,0,25/1/2021
+2,"Magnetic Mountain",3ED,0.0,0,0,0,5/11/2018
+1,"Magnetic Mountain",3ED,0.0,1,0,5,8/5/2020
+1,"Magnetic Theft",5DN,0.0,0,0,0,22/2/2021
+2,"Magus of the Arena",PLC,0.0,0,0,0,31/10/2018
+2,"Magus of the Wheel",C19,0.0,0,0,0,22/3/2020
+3,"Magus of the Wheel",A25,0.0,0,0,0,28/3/2020
+1,"Malevolent Whispers",UMA,0.0,0,0,0,4/3/2019
+1,"Malevolent Whispers",SOI,0.0,0,0,0,24/5/2020
+4,"Malevolent Whispers",C19,0.0,0,0,0,22/3/2020
+1,"Mana Cache",NMS,0.0,0,0,3,17/3/2019
+1,"Mana Cache",NMS,0.0,0,1,3,19/4/2020
+1,"Mana Clash",DRK,0.0,0,0,0,28/7/2018
+1,"Mana Clash",7ED,0.0,0,0,0,12/7/2020
+1,"Mana Clash",7ED,0.0,0,0,3,17/3/2019
+1,"Mana Clash",5ED,0.0,0,0,0,19/4/2020
+1,"Mana Clash",5ED,0.0,0,0,4,24/2/2019
+1,"Mana Clash",4ED,0.0,0,0,4,24/2/2019
+1,"Mana Clash",8ED,0.0,0,0,0,17/9/2018
+2,"Mana Echoes",ONS,0.0,0,0,0,26/1/2021
+1,"Mana Echoes",ONS,0.0,0,0,3,22/2/2021
+1,"Mana Flare",5ED,0.0,0,0,3,19/4/2020
+1,"Mana Flare",5ED,0.0,0,0,4,24/2/2019
+2,"Mana Flare",4ED,0.0,0,0,3,3/5/2020
+1,"Mana Flare",4ED,0.0,0,0,4,24/2/2019
+1,"Mana Flare",3ED,0.0,1,0,3,8/5/2020
+1,"Manabarbs",M10,0.0,0,0,0,24/5/2020
+1,"Manabarbs",3ED,0.0,0,0,0,17/9/2018
+3,"Manabarbs",4ED,0.0,0,0,0,24/5/2020
+1,"Manabarbs",4ED,0.0,0,0,3,3/5/2020
+1,"Manabarbs",5ED,0.0,0,0,0,24/2/2019
+6,"Maniacal Rage",INV,0.0,0,0,0,22/2/2021
+2,"Maniacal Rage",INV,0.0,0,0,4,2/11/2018
+2,"Maniacal Rage",CON,0.0,0,0,0,28/7/2018
+5,"Maniacal Rage",EXO,0.0,0,0,0,26/1/2021
+2,"Maniacal Rage",EXO,0.0,0,0,4,2/11/2018
+3,"Maniacal Rage",GRN,0.0,0,0,0,15/3/2020
+2,"Maraxus of Keld",WTH,0.0,0,0,3,19/4/2020
+1,"Maraxus of Keld",WTH,0.0,0,0,4,28/7/2018
+1,"Mardu Heart-Piercer",KTK,0.0,0,0,4,28/7/2018
+4,"Mardu Scout",FRF,0.0,0,0,6,5/11/2018
+1,"Markov Warlord",DKA,0.0,0,0,4,28/7/2018
+3,"Martyr of Ashes",CSP,0.0,0,0,0,24/5/2020
+2,"Mass Hysteria",MRD,0.0,0,0,0,6/4/2020
+3,"Maw of Kozilek",OGW,0.0,0,0,4,5/11/2018
+4,"Maximize Velocity",GRN,0.0,0,0,0,15/3/2020
+1,"Maze Rusher",DGM,0.0,0,0,4,1/11/2018
+1,"Megatog",MRD,0.0,0,0,4,31/10/2018
+2,"Melting",ICE,0.0,0,0,0,3/5/2020
+2,"Menacing Ogre",ONS,0.0,0,0,0,15/4/2020
+1,"Mercadia's Downfall",MMQ,0.0,0,0,0,26/1/2021
+1,"Metallic Mastery",MBS,0.0,0,0,0,29/3/2020
+9,"Meteor Shower",ICE,0.0,0,0,0,3/5/2020
+2,"Meteor Shower",ICE,0.0,0,0,4,1/11/2018
+1,"Meteor Shower",ICE,0.0,0,0,5,24/3/2019
+1,"Mijae Djinn",3ED,0.0,0,0,0,28/7/2018
+2,"Mindmoil",RAV,0.0,0,0,0,6/4/2020
+2,"Mindsparker",M14,0.0,0,0,3,29/3/2020
+2,"Mine Layer",ODY,0.0,0,0,0,19/4/2020
+1,"Mine Layer",ODY,0.0,0,0,6,2/3/2019
+1,"Minotaur Explorer",ODY,0.0,0,0,0,25/1/2021
+1,"Minotaur Explorer",ODY,0.0,0,0,4,17/9/2018
+4,"Minotaur Tactician",APC,0.0,0,0,0,24/1/2021
+1,"Minotaur Tactician",APC,0.0,0,0,3,19/4/2020
+1,"Mire Kavu",PLS,0.0,0,0,0,24/1/2021
+2,"Mire Kavu",PLS,0.0,0,1,4,28/7/2018
+1,"Mirror March",RNA,0.0,0,0,0,24/1/2021
+1,"Mizzium Tank",WAR,0.0,0,0,0,12/7/2020
+2,"Mizzix's Mastery",C15,0.0,0,0,0,18/7/2020
+1,"Mob Justice",STH,0.0,0,0,0,25/1/2021
+2,"Mob Mentality",VIS,0.0,0,0,0,21/2/2021
+1,"Mob Mentality",VIS,0.0,0,0,4,28/7/2018
+2,"Mogg Assassin",EXO,0.0,0,0,0,26/1/2021
+1,"Mogg Bombers",STH,0.0,0,0,0,25/1/2021
+4,"Mogg Conscripts",TMP,0.0,0,0,0,24/5/2020
+14,"Mogg Fanatic",TMP,0.0,0,0,0,19/4/2020
+3,"Mogg Fanatic",TMP,0.0,0,0,5,24/3/2019
+4,"Mogg Fanatic",TMP,0.0,1,0,0,19/4/2020
+1,"Mogg Fanatic",ATH,0.0,0,0,0,24/2/2019
+5,"Mogg Flunkies",STH,0.0,0,0,0,19/11/2018
+1,"Mogg Flunkies",STH,0.0,0,0,4,25/1/2021
+4,"Mogg Flunkies",STH,0.0,1,0,0,19/4/2020
+1,"Mogg Infestation",STH,0.0,0,0,0,7/6/2020
+1,"Mogg Infestation",STH,0.0,0,0,4,25/1/2021
+1,"Mogg Jailer",PLS,0.0,0,0,6,19/11/2018
+7,"Mogg Maniac",STH,0.0,0,0,0,19/4/2020
+1,"Mogg Maniac",STH,0.0,0,0,3,19/4/2020
+1,"Mogg Raider",TMP,0.0,0,0,0,25/1/2021
+3,"Mogg Raider",TMP,0.0,0,0,5,24/3/2019
+1,"Mogg Salvage",NMS,0.0,0,0,0,19/4/2020
+1,"Mogg Salvage",NMS,0.0,1,0,0,12/7/2020
+1,"Mogg Sentry",9ED,0.0,0,0,0,3/3/2019
+2,"Mogg Sentry",9ED,0.0,0,0,4,1/11/2018
+1,"Mogg Sentry",PLS,0.0,0,0,0,17/9/2018
+5,"Mogg Squad",TMP,0.0,0,0,0,25/1/2021
+1,"Mogg Squad",TMP,0.0,0,0,4,28/7/2018
+6,"Mogg Toady",NMS,0.0,0,0,0,24/5/2020
+2,"Mogg Toady",NMS,0.0,0,0,4,28/7/2018
+4,"Mogg War Marshal",TSP,0.0,0,0,0,24/5/2020
+1,"Molten Birth",M14,0.0,0,0,6,3/3/2019
+1,"Molten Disaster",MMA,0.0,1,0,0,29/3/2020
+3,"Molten Firebird",PLC,0.0,0,0,0,31/10/2018
+1,"Molten Hydra",ULG,0.0,0,0,4,28/7/2018
+1,"Molten Influence",ODY,0.0,0,0,0,22/7/2020
+1,"Molten Influence",ODY,0.0,0,0,6,2/3/2019
+1,"Molten Psyche",SOM,0.0,0,0,0,20/6/2020
+2,"Molten Rain",MM3,0.0,0,0,0,29/3/2020
+9,"Molten Rain",MRD,0.0,0,0,0,3/3/2019
+2,"Molten Rain",MRD,0.0,0,0,4,28/7/2018
+1,"Molten Ravager",ZEN,0.0,1,0,4,31/10/2018
+1,"Molten Sentry",RAV,0.0,0,0,4,31/10/2018
+2,"Molten Vortex",ORI,0.0,0,0,0,24/1/2021
+3,"Monastery Swiftspear",KTK,0.0,0,0,0,29/3/2020
+5,"Monastery Swiftspear",KTK,0.0,0,0,4,29/3/2020
+3,"Mondronen Shaman",DKA,0.0,0,0,0,24/5/2020
+1,"Mons's Goblin Raiders",S00,0.0,0,0,0,17/9/2018
+1,"Mons's Goblin Raiders",5ED,0.0,0,0,4,24/2/2019
+2,"Mons's Goblin Raiders",2ED,0.0,0,0,0,25/1/2021
+6,"Mons's Goblin Raiders",4ED,0.0,0,0,0,3/5/2020
+5,"Mons's Goblin Raiders",3ED,0.0,0,0,0,17/9/2018
+14,"Mons's Goblin Raiders",3ED,0.0,1,0,4,8/5/2020
+1,"Monstrous Hound",PPRE,0.0,0,0,0,26/1/2021
+1,"Monstrous Hound",EXO,0.0,0,0,0,26/1/2021
+1,"Monstrous Hound",EXO,0.0,0,0,3,19/4/2020
+2,"Mordant Dragon",WWK,0.0,0,0,0,24/5/2020
+1,"Mountain Goat",5ED,0.0,0,0,4,24/2/2019
+12,"Mountain Goat",ICE,0.0,0,0,0,3/5/2020
+1,"Mountain Goat",ICE,0.0,0,0,5,24/2/2019
+4,"Mountain Yeti",LEG,0.0,0,0,4,8/5/2020
+3,"Mountain Yeti",CHR,0.0,0,0,0,25/1/2021
+1,"Mudbrawler Cohort",SHM,0.0,0,0,0,3/3/2019
+4,"Mudbutton Clanger",MOR,0.0,0,0,4,31/10/2018
+3,"Mudbutton Torchrunner",LRW,0.0,0,0,4,28/7/2018
+1,"Mudbutton Torchrunner",DD3_EVG,0.0,0,0,0,28/7/2018
+2,"Mudhole",ODY,0.0,0,0,3,19/4/2020
+1,"Mudslide",ICE,0.0,0,0,0,17/9/2018
+2,"Mutiny",RIX,0.0,0,0,0,28/3/2020
+1,"Myojin of Infinite Rage",CHK,0.0,0,0,0,25/1/2021
+1,"Márton Stromgald",ICE,0.0,0,0,0,24/2/2019
+1,"Nalathni Dragon",PMEI,0.0,0,0,0,25/1/2021
+1,"Needlepeak Spider",PLC,0.0,0,0,0,24/1/2021
+3,"Nef-Crop Entangler",AKH,0.0,0,0,0,1/11/2018
+4,"Nef-Crop Entangler",AKH,0.0,0,0,4,1/11/2018
+3,"No Quarter",TMP,0.0,0,0,0,25/1/2021
+1,"No Quarter",TMP,0.0,0,0,4,28/7/2018
+1,"Norin the Wary",TSP,0.0,0,0,0,7/6/2020
+4,"Nyxborn Brute",THB,0.0,0,0,3,22/3/2020
+4,"Oath of Mages",EXO,0.0,0,0,0,21/2/2021
+3,"Obliterate",8ED,0.0,0,0,0,6/4/2020
+1,"Obliterate",INV,0.0,0,0,3,19/4/2020
+1,"Obstinate Familiar",ODY,0.0,0,0,6,2/3/2019
+1,"Ogre Berserker",PO2,0.0,0,0,0,28/7/2018
+1,"Ogre Berserker",PO2,0.0,0,0,4,19/4/2020
+1,"Ogre Enforcer",VIS,0.0,0,0,0,28/7/2018
+7,"Ogre Leadfoot",MRD,0.0,0,0,0,28/7/2018
+1,"Ogre Menial",NPH,0.0,0,0,0,29/3/2020
+1,"Ogre Resister",MBS,0.0,0,0,0,29/3/2020
+2,"Ogre Shaman",EXO,0.0,0,0,0,19/4/2020
+1,"Ogre Taskmaster",PO2,0.0,0,0,4,19/4/2020
+2,"Ogre Taskmaster",7ED,0.0,0,0,4,28/7/2018
+1,"Ogre Taskmaster",9ED,0.0,1,0,4,31/10/2018
+1,"Ogre Taskmaster",MMQ,0.0,0,0,4,17/9/2018
+1,"Ogre Warrior",S00,0.0,0,0,0,17/9/2018
+16,"Ohran Yeti",CSP,0.0,0,0,0,26/1/2021
+1,"Okk",7ED,0.0,0,0,4,2/3/2019
+1,"Okk",USG,0.0,0,0,0,24/2/2019
+5,"Omen of Fire",ALL,0.0,0,0,0,19/4/2020
+4,"Omen of the Forge",THB,0.0,0,0,0,22/3/2020
+4,"Omen of the Forge",THB,0.0,0,0,3,22/3/2020
+4,"Onakke Ogre",M19,0.0,0,0,0,19/8/2018
+3,"Onslaught",EXO,0.0,0,0,0,1/3/2021
+1,"Open Fire",HOU,0.0,0,0,4,1/11/2018
+2,"Opportunist",TMP,0.0,0,0,0,25/1/2021
+1,"Opportunist",TMP,0.0,0,0,4,28/7/2018
+1,"Orc General",DRK,0.0,0,0,0,8/5/2020
+3,"Orc General",DRK,0.0,0,0,4,8/5/2020
+2,"Orcish Artillery",8ED,0.0,0,0,4,28/7/2018
+2,"Orcish Artillery",4ED,0.0,0,0,0,3/5/2020
+1,"Orcish Artillery",4ED,0.0,0,0,5,3/5/2020
+1,"Orcish Artillery",5ED,0.0,0,0,4,24/2/2019
+1,"Orcish Artillery",5ED,0.0,0,0,5,19/4/2020
+3,"Orcish Artillery",3ED,0.0,0,0,0,28/7/2018
+17,"Orcish Bloodpainter",CSP,0.0,0,0,0,26/1/2021
+2,"Orcish Cannonade",TSP,0.0,0,0,4,30/10/2018
+6,"Orcish Captain",FEM,0.0,0,0,0,25/1/2021
+1,"Orcish Captain",5ED,0.0,0,0,4,28/7/2018
+8,"Orcish Conscripts",ICE,0.0,0,0,0,3/5/2020
+1,"Orcish Conscripts",5ED,0.0,0,0,4,24/2/2019
+1,"Orcish Farmer",5ED,0.0,0,0,4,24/2/2019
+5,"Orcish Farmer",ICE,0.0,0,0,0,3/5/2020
+1,"Orcish Healer",ICE,0.0,0,0,5,24/2/2019
+1,"Orcish Librarian",TSB,0.0,0,0,0,24/1/2021
+1,"Orcish Librarian",TSB,0.0,0,0,4,30/3/2020
+2,"Orcish Librarian",ICE,0.0,0,0,0,24/3/2019
+10,"Orcish Lumberjack",ICE,0.0,0,0,0,3/5/2020
+2,"Orcish Mechanics",ATQ,0.0,0,0,0,8/5/2020
+1,"Orcish Oriflamme",6ED,0.0,0,0,0,17/9/2018
+1,"Orcish Oriflamme",6ED,0.0,0,0,3,19/4/2020
+1,"Orcish Oriflamme",7ED,0.0,0,0,4,1/11/2018
+1,"Orcish Oriflamme",4ED,0.0,0,0,0,28/7/2018
+4,"Orcish Oriflamme",4ED,0.0,0,0,4,2/11/2018
+1,"Orcish Oriflamme",4ED,0.0,0,0,5,8/5/2020
+2,"Orcish Oriflamme",5ED,0.0,0,0,4,2/11/2018
+1,"Orcish Oriflamme",2ED,0.0,0,0,0,8/5/2020
+2,"Orcish Oriflamme",3ED,0.0,0,0,0,17/9/2018
+3,"Orcish Settlers",WTH,0.0,0,0,4,28/7/2018
+1,"Orcish Settlers",WTH,0.0,1,0,0,19/4/2020
+3,"Orcish Spy",FEM,0.0,0,0,0,2/11/2018
+1,"Orcish Spy",FEM,0.0,0,0,0,17/9/2018
+5,"Orcish Spy",FEM,0.0,0,0,0,8/5/2020
+2,"Orcish Spy",8ED,0.0,0,0,0,28/7/2018
+3,"Orcish Spy",8ED,0.0,0,0,4,28/7/2018
+1,"Orcish Squatters",5ED,0.0,0,0,4,24/2/2019
+1,"Orcish Squatters",ICE,0.0,0,0,5,24/2/2019
+1,"Orcish Vandal",DOM,0.0,0,0,3,23/3/2020
+4,"Orcish Veteran",FEM,0.0,0,0,0,8/5/2020
+8,"Orcish Veteran",FEM,0.0,0,0,0,8/5/2020
+5,"Orcish Veteran",FEM,0.0,0,0,0,8/5/2020
+6,"Orcish Veteran",FEM,0.0,0,0,0,8/5/2020
+1,"Ordruun Commando",RAV,0.0,0,0,0,28/7/2018
+1,"Ore Gorger",CHK,0.0,0,0,0,28/7/2018
+4,"Oread of Mountain's Blaze",THB,0.0,0,0,3,22/3/2020
+1,"Orgg",TSB,0.0,0,0,0,24/1/2021
+1,"Orgg",5ED,0.0,0,0,0,17/9/2018
+4,"Ornery Goblin",GRN,0.0,0,0,0,15/3/2020
+1,"Ornery Goblin",GRN,0.0,0,0,4,17/3/2019
+1,"Outnumber",BFZ,0.0,0,0,4,3/3/2019
+1,"Outrage Shaman",EVE,0.0,0,0,0,3/3/2019
+1,"Overblaze",BOK,0.0,0,0,4,3/11/2018
+6,"Overload",INV,0.0,0,0,0,22/2/2021
+4,"Overmaster",TOR,0.0,0,0,0,15/4/2020
+1,"Ox of Agonas",THB,0.0,0,0,0,22/3/2020
+1,"Oxidda Daredevil",SOM,0.0,0,0,4,4/11/2018
+1,"Pact of the Titan",FUT,0.0,0,0,4,1/11/2018
+1,"Painiac",UST,0.0,0,0,0,29/3/2020
+1,"Pallimud",TMP,0.0,0,0,0,17/9/2018
+2,"Pandemonium",EXO,0.0,0,0,0,31/5/2020
+1,"Pandemonium",EXO,0.0,0,0,4,26/1/2021
+1,"Pandemonium",TSB,0.0,0,0,0,7/6/2020
+1,"Panic",5ED,0.0,0,0,4,24/2/2019
+1,"Panic",5ED,0.0,0,0,5,19/4/2020
+7,"Panic",ICE,0.0,0,0,0,3/5/2020
+1,"Panic",ICE,0.0,0,0,4,24/2/2019
+1,"Panic",ICE,0.0,0,0,5,24/2/2019
+1,"Panic Attack",PCY,0.0,0,1,4,28/7/2018
+1,"Panic Attack",8ED,0.0,0,0,0,28/7/2018
+4,"Parch",ULG,0.0,0,0,4,1/11/2018
+3,"Pardic Collaborator",TOR,0.0,0,0,0,25/1/2021
+4,"Pardic Dragon",TSP,0.0,0,0,0,24/1/2021
+1,"Pardic Dragon",MMA,0.0,0,0,4,30/10/2018
+9,"Pardic Firecat",ODY,0.0,0,0,0,25/1/2021
+11,"Pardic Lancer",TOR,0.0,0,0,0,25/1/2021
+1,"Pardic Swordsmith",ODY,0.0,0,2,0,28/7/2018
+6,"Paroxysm",EXO,0.0,0,0,0,1/3/2021
+1,"Paroxysm",EXO,0.0,0,0,4,28/7/2018
+2,"Past in Flames",C16,0.0,0,0,0,24/3/2019
+2,"Past in Flames",ISD,0.0,0,0,0,17/3/2019
+1,"Pensive Minotaur",JOU,0.0,0,0,0,5/11/2018
+1,"Petradon",TOR,0.0,0,0,3,17/3/2019
+13,"Petravark",TOR,0.0,0,0,0,25/1/2021
+1,"Petravark",TOR,0.0,0,0,4,17/9/2018
+5,"Phoenix of Ash",THB,0.0,0,0,0,22/3/2020
+2,"Phoenix of Ash",THB,0.0,0,0,3,22/3/2020
+2,"Pillage",6ED,0.0,0,0,0,19/4/2020
+9,"Pillage",ALL,0.0,0,0,0,28/7/2018
+1,"Pillage",A25,0.0,1,0,0,24/3/2019
+4,"Pillar of Flame",AVR,0.0,0,0,0,29/3/2020
+1,"Pillar of Flame",PFNM,0.0,1,0,4,3/3/2019
+1,"Pinpoint Avalanche",ONS,0.0,0,0,4,17/9/2018
+3,"Pitchstone Wall",TOR,0.0,0,0,0,1/3/2021
+1,"Planar Chaos",JUD,0.0,0,0,0,7/6/2020
+1,"Planeswalker's Fury",PLS,0.0,0,0,0,17/3/2019
+4,"Portent of Betrayal",THB,0.0,0,0,3,22/3/2020
+1,"Possessed Barbarian",TOR,0.0,0,0,0,15/4/2020
+1,"Possessed Barbarian",TOR,0.0,0,0,3,17/3/2019
+8,"Pouncing Kavu",INV,0.0,0,0,0,24/1/2021
+1,"Power Surge",4ED,0.0,0,0,4,28/7/2018
+1,"Power Surge",2ED,0.0,0,0,0,8/5/2020
+1,"Power Surge",3ED,0.0,0,0,0,17/9/2018
+1,"Power Surge",3ED,0.0,1,0,3,17/3/2019
+2,"Power of Fire",SHM,0.0,0,0,0,3/3/2019
+1,"Precise Strike",AER,0.0,0,0,4,4/3/2019
+2,"Price of Glory",ODY,0.0,0,0,3,19/4/2020
+2,"Price of Progress",EXO,0.0,0,0,0,19/4/2020
+1,"Price of Progress",EXO,0.0,0,0,4,26/1/2021
+1,"Price of Progress",EMA,0.0,0,0,0,3/3/2019
+1,"Priest of Iroas",THS,0.0,0,0,4,3/3/2019
+2,"Priest of Urabrask",NPH,0.0,0,0,4,29/3/2020
+1,"Primitive Justice",ALL,0.0,0,0,4,28/7/2018
+1,"Primordial Ooze",CHR,0.0,0,0,0,28/7/2018
+4,"Primordial Ooze",LEG,0.0,0,0,4,8/5/2020
+1,"Primordial Ooze",5ED,0.0,0,0,4,24/2/2019
+1,"Prodigal Pyromancer",PLC,0.0,0,0,0,3/3/2019
+1,"Prodigal Pyromancer",M10,0.0,0,0,4,28/7/2018
+1,"Prodigal Pyromancer",M11,0.0,1,0,0,12/7/2020
+1,"Prodigal Pyromancer",10E,0.0,0,0,4,3/3/2019
+1,"Prophetic Flamespeaker",JOU,0.0,1,0,0,24/5/2020
+1,"Psychotic Fury",DIS,0.0,0,0,4,28/7/2018
+3,"Pulse of the Forge",DST,0.0,0,0,0,6/4/2020
+1,"Pulse of the Forge",DST,0.0,0,0,1,6/4/2020
+1,"Pulse of the Forge",DST,0.0,0,0,4,17/9/2018
+1,"Pulverize",MMQ,0.0,0,0,0,21/2/2021
+1,"Punctuate",UNH,0.0,1,0,0,22/2/2021
+1,"Puncture Bolt",SHM,0.0,0,0,0,3/3/2019
+1,"Punish the Enemy",DGM,0.0,0,0,6,3/3/2019
+1,"Punishing Fire",ZEN,0.0,0,0,0,25/9/2018
+3,"Punishing Fire",ZEN,0.0,0,0,4,19/8/2018
+1,"Puppet's Verdict",MMQ,0.0,0,0,0,1/3/2019
+4,"Purphoros's Intervention",THB,0.0,0,0,0,22/3/2020
+1,"Purphoros's Intervention",THB,0.0,0,0,3,22/3/2020
+1,"Purphoros, Bronze-Blooded",PTHB,0.0,0,0,0,22/3/2020
+4,"Pursue Glory",AKH,0.0,0,0,0,29/3/2020
+1,"Pygmy Pyrosaur",ULG,0.0,0,0,4,28/7/2018
+1,"Pygmy Pyrosaur",7ED,0.0,0,0,4,28/7/2018
+6,"Pyre Charger",SHM,0.0,0,0,0,22/7/2020
+9,"Pyretic Ritual",M11,0.0,0,0,0,24/5/2020
+2,"Pyretic Ritual",M11,0.0,0,0,3,18/7/2020
+4,"Pyretic Ritual",M11,0.0,1,0,0,18/7/2020
+1,"Pyrewild Shaman",DGM,0.0,0,0,4,3/3/2019
+3,"Pyroblast",ICE,0.0,0,0,0,3/5/2020
+1,"Pyroblast",ICE,0.0,0,0,4,24/2/2019
+9,"Pyroblast",ICE,0.0,1,0,0,20/4/2020
+3,"Pyroblast",5ED,0.0,1,0,0,19/4/2020
+5,"Pyroclasm",ICE,0.0,0,0,0,3/5/2020
+5,"Pyroclasm",ICE,0.0,0,0,4,1/11/2018
+2,"Pyroclasm",POR,0.0,0,0,0,26/1/2021
+2,"Pyroclasm",9ED,0.0,0,0,3,6/4/2020
+2,"Pyroclasm",7ED,0.0,0,0,3,19/4/2020
+4,"Pyroclasm",8ED,0.0,0,0,0,6/4/2020
+1,"Pyroconvergence",RTR,0.0,0,0,4,28/7/2018
+1,"Pyrohemia",PLC,0.0,0,0,0,1/11/2018
+6,"Pyrokinesis",ALL,0.0,0,0,0,18/7/2020
+1,"Pyrokinesis",ALL,0.0,0,0,4,24/2/2019
+1,"Pyromancer Ascension",MM3,0.0,0,0,0,29/3/2020
+4,"Pyromancer Ascension",ZEN,0.0,0,0,0,29/3/2020
+3,"Pyromancer Ascension",ZEN,0.0,0,0,3,29/3/2020
+2,"Pyromancer's Assault",OGW,0.0,0,0,0,24/5/2020
+4,"Pyromancer's Swath",FUT,0.0,0,0,0,24/1/2021
+1,"Pyromancy",ULG,0.0,0,0,0,1/3/2019
+4,"Pyromatics",GPT,0.0,0,0,0,6/4/2020
+1,"Pyrostatic Pillar",SCG,0.0,0,0,0,6/4/2020
+1,"Pyrostatic Pillar",SCG,0.0,0,0,4,6/4/2020
+1,"Pyrotechnics",5ED,0.0,0,0,4,24/2/2019
+1,"Pyrotechnics",6ED,0.0,0,0,4,24/2/2019
+2,"Pyrotechnics",LEG,0.0,0,0,0,8/5/2020
+23,"Pyrotechnics",LEG,0.0,0,0,4,8/5/2020
+1,"Pyrotechnics",4ED,0.0,0,0,0,17/9/2018
+1,"Pyrotechnics",4ED,0.0,0,0,3,27/3/2019
+1,"Quarum Trench Gnomes",LEG,0.0,0,0,0,28/7/2018
+2,"Quest for Pure Flame",ZEN,0.0,0,0,0,29/3/2020
+1,"Quest for the Goblin Lord",WWK,0.0,0,0,0,7/6/2020
+1,"Rabble-Rouser",GPT,0.0,0,0,4,3/11/2018
+1,"Rack and Ruin",ULG,0.0,0,0,4,28/7/2018
+7,"Rack and Ruin",ULG,0.0,1,0,0,19/4/2020
+1,"Radiate",TOR,0.0,0,0,3,17/3/2019
+1,"Radiating Lightning",DOM,0.0,0,0,5,23/3/2020
+1,"Radiating Lightning",DOM,0.0,1,0,3,23/3/2020
+2,"Rage Forger",MOR,0.0,0,0,4,3/3/2019
+1,"Rage Reflection",DPA,0.0,0,0,0,29/3/2020
+3,"Rage Weaver",INV,0.0,0,0,0,22/2/2021
+1,"Raging Bull",LEG,0.0,0,0,0,28/7/2018
+7,"Raging Bull",LEG,0.0,0,0,4,8/5/2020
+2,"Raging Goblin",10E,0.0,0,0,0,30/3/2020
+11,"Raging Goblin",EXO,0.0,0,0,0,26/1/2021
+1,"Raging Goblin",PO2,0.0,0,0,0,1/3/2021
+1,"Raging Goblin",6ED,0.0,0,0,3,19/4/2020
+1,"Raging Goblin",DD3_EVG,0.0,0,0,0,28/7/2018
+1,"Raging Gorilla",VIS,0.0,0,0,2,24/5/2020
+4,"Raging Minotaur",POR,0.0,0,0,0,12/7/2020
+2,"Raging Spirit",MIR,0.0,0,0,2,24/5/2020
+4,"Raid Bombardment",UMA,0.0,0,0,0,22/3/2020
+4,"Raiding Party",FEM,0.0,0,0,0,8/5/2020
+1,"Rain of Rust",5DN,0.0,0,0,0,3/11/2018
+1,"Rain of Rust",5DN,0.0,0,2,4,28/7/2018
+1,"Rain of Salt",USG,0.0,0,0,0,21/2/2021
+3,"Raka Disciple",APC,0.0,0,0,0,22/2/2021
+1,"Raka Disciple",APC,0.0,0,0,3,19/4/2020
+1,"Raka Disciple",APC,0.0,0,0,4,28/7/2018
+4,"Raka Sanctuary",APC,0.0,0,0,0,24/1/2021
+1,"Raka Sanctuary",APC,0.0,0,0,4,29/7/2018
+1,"Rakish Heir",C17,0.0,0,0,0,4/11/2018
+2,"Rally the Forces",MBS,0.0,0,0,0,29/3/2020
+1,"Rapacious Dragon",M20,0.0,0,0,0,28/3/2020
+1,"Rathi Dragon",TMP,0.0,0,0,0,25/1/2021
+1,"Rathi Dragon",TMP,0.0,0,0,4,28/7/2018
+1,"Raze",USG,0.0,0,0,0,28/7/2018
+1,"Razor Swine",NPH,0.0,0,0,0,29/3/2020
+5,"Reality Hemorrhage",OGW,0.0,0,0,4,5/11/2018
+2,"Reality Scramble",C18,0.0,0,0,0,28/3/2020
+6,"Reckless Abandon",UDS,0.0,0,0,0,26/1/2021
+3,"Reckless Bushwhacker",OGW,0.0,0,0,0,24/5/2020
+3,"Reckless Charge",ODY,0.0,0,0,0,25/1/2021
+1,"Reckless Charge",ODY,0.0,0,0,4,17/9/2018
+1,"Reckless Embermage",7ED,0.0,0,0,3,17/3/2019
+3,"Reckless Ogre",EXO,0.0,0,0,0,26/1/2021
+1,"Reckless One",ONS,0.0,0,0,0,15/4/2020
+4,"Reckless Wurm",UMA,0.0,0,0,0,22/3/2020
+7,"Reckless Wurm",PLC,0.0,0,0,0,24/1/2021
+2,"Recoup",ODY,0.0,0,0,0,19/4/2020
+1,"Recoup",ODY,0.0,0,0,3,19/4/2020
+2,"Red Elemental Blast",2ED,0.0,0,0,0,25/1/2021
+2,"Red Elemental Blast",A25,0.0,0,0,0,24/3/2019
+8,"Red Elemental Blast",3ED,0.0,0,0,0,31/1/2021
+17,"Red Elemental Blast",3ED,0.0,1,0,4,8/5/2020
+2,"Red Elemental Blast",3ED,0.0,1,0,5,8/5/2020
+3,"Red Elemental Blast",4ED,0.0,0,0,0,3/5/2020
+1,"Red Elemental Blast",4ED,0.0,0,0,4,2/3/2019
+1,"Reduce to Ashes",SOI,0.0,0,0,0,7/6/2020
+1,"Reflexes",8ED,0.0,0,0,4,28/7/2018
+2,"Reflexes",USG,0.0,0,0,0,28/7/2018
+1,"Reflexes",7ED,0.0,0,0,4,17/9/2018
+2,"Reforge the Soul",AVR,0.0,0,0,0,20/6/2020
+1,"Reiterate",TSP,0.0,0,0,0,7/6/2020
+3,"Release the Ants",MOR,0.0,0,0,0,30/3/2020
+1,"Relentless Assault",8ED,0.0,0,0,0,6/4/2020
+2,"Relentless Assault",8ED,0.0,0,0,3,6/4/2020
+1,"Relentless Assault",HOP,0.0,0,0,0,6/4/2020
+1,"Relentless Assault",7ED,0.0,0,0,3,17/3/2019
+1,"Relentless Assault",VIS,0.0,0,0,0,28/7/2018
+1,"Relentless Assault",VIS,0.0,0,0,3,19/4/2020
+4,"Rending Volley",DTK,0.0,0,0,0,29/3/2020
+1,"Renegade Warlord",TMP,0.0,0,0,0,25/1/2021
+1,"Renegade Warlord",TMP,0.0,0,0,4,28/7/2018
+3,"Repercussion",UDS,0.0,0,0,0,26/1/2021
+1,"Repercussion",UDS,0.0,0,1,0,26/1/2021
+1,"Retromancer",USG,0.0,0,0,0,21/2/2021
+1,"Retromancer",USG,0.0,0,0,4,28/7/2018
+2,"Reverberate",M12,0.0,0,0,0,3/3/2019
+3,"Rhystic Lightning",PCY,0.0,0,0,0,24/1/2021
+1,"Rhystic Lightning",PCY,0.0,0,0,4,1/3/2019
+1,"Riddle of Lightning",FUT,0.0,0,0,0,30/3/2020
+1,"Ridgeline Rager",8ED,0.0,0,0,0,28/7/2018
+6,"Ridgeline Rager",PCY,0.0,0,0,0,24/1/2021
+1,"Ridgetop Raptor",LGN,0.0,0,0,3,6/4/2020
+1,"Ridgetop Raptor",LGN,0.0,0,0,4,2/3/2019
+6,"Rift Bolt",IMA,0.0,0,0,0,24/5/2020
+8,"Rift Bolt",TSP,0.0,0,0,0,24/1/2021
+1,"Rile",XLN,0.0,0,0,0,28/3/2020
+1,"Riot Piker",DGM,0.0,0,0,4,4/11/2018
+1,"Riot Piker",DGM,0.0,0,0,6,3/3/2019
+1,"Risk Factor",GRN,0.0,0,0,0,24/5/2020
+3,"Risk Factor",GRN,0.0,0,0,4,15/3/2020
+2,"Risky Move",ONS,0.0,0,0,0,15/4/2020
+9,"Rite of Flame",CSP,0.0,0,0,0,26/1/2021
+1,"Rite of Ruin",AVR,0.0,0,0,0,24/5/2020
+1,"Rivalry",ULG,0.0,0,0,0,26/1/2021
+1,"Rivalry",ULG,0.0,0,0,4,28/7/2018
+1,"Rix Maadi Reveler",RNA,0.0,0,0,0,15/3/2020
+2,"Roar of the Crowd",MOR,0.0,0,0,0,30/3/2020
+2,"Robber Fly",MMQ,0.0,0,0,4,28/7/2018
+1,"Roc Hatchling",WTH,0.0,0,0,0,25/1/2021
+1,"Roc of Kher Ridges",3ED,0.0,0,0,0,28/7/2018
+2,"Roc of Kher Ridges",3ED,0.0,0,0,4,8/5/2020
+1,"Rock Hydra",3ED,0.0,0,0,4,8/5/2020
+1,"Rock Jockey",SCG,0.0,0,1,0,28/7/2018
+2,"Rock Slide",VIS,0.0,0,0,0,21/2/2021
+1,"Rock Slide",VIS,0.0,0,0,2,24/5/2020
+1,"Rockshard Elemental",LGN,0.0,0,0,3,6/4/2020
+8,"Rogue Kavu",INV,0.0,0,0,0,22/2/2021
+1,"Rogue Skycaptain",ALL,0.0,0,0,0,17/3/2019
+1,"Rogue Skycaptain",ALL,0.0,0,0,4,24/2/2019
+1,"Roiling Terrain",WWK,0.0,0,0,0,29/3/2020
+1,"Roiling Terrain",WWK,0.0,0,1,0,29/3/2020
+1,"Rolling Earthquake",V14,0.0,1,0,0,3/3/2019
+4,"Rolling Temblor",C19,0.0,0,0,0,22/3/2020
+2,"Rolling Thunder",BFZ,0.0,0,0,0,7/6/2020
+1,"Rolling Thunder",TMP,0.0,0,0,4,2/11/2018
+3,"Rolling Thunder",TMP,0.0,0,1,0,21/2/2021
+4,"Ronin Cavekeeper",SOK,0.0,0,0,4,3/3/2019
+1,"Ronin Cliffrider",BOK,0.0,0,0,0,3/3/2019
+1,"Ronin Houndmaster",CHK,0.0,0,0,0,3/3/2019
+3,"Ronin Houndmaster",CHK,0.0,0,0,4,3/3/2019
+1,"Rorix Bladewing",ONS,0.0,0,0,3,17/3/2019
+1,"Rowdy Crew",XLN,0.0,0,0,0,4/3/2019
+3,"Rubble Reading",RNA,0.0,0,0,0,15/3/2020
+3,"Rubblebelt Boar",GRN,0.0,0,0,0,15/3/2020
+1,"Rubblebelt Boar",GRN,0.0,1,0,0,18/3/2019
+1,"Rubblebelt Maaka",DGM,0.0,0,0,6,3/3/2019
+3,"Rubblebelt Recluse",RNA,0.0,0,0,0,15/3/2020
+1,"Ruby Leech",INV,0.0,0,0,3,17/3/2019
+1,"Ruination",STH,0.0,0,0,0,24/2/2019
+1,"Ruination",STH,0.0,0,0,2,7/6/2020
+2,"Ruinous Gremlin",KLD,0.0,0,0,4,1/11/2018
+1,"Rukh Egg",9ED,0.0,0,0,0,17/3/2019
+1,"Rukh Egg",ARN,0.0,0,0,0,8/5/2020
+2,"Rumbling Crescendo",USG,0.0,0,0,0,28/7/2018
+2,"Rumbling Ruin",RNA,0.0,0,0,0,15/3/2020
+1,"Rumbling Ruin",RNA,0.0,0,0,3,23/3/2020
+4,"Rummaging Goblin",XLN,0.0,0,0,0,28/3/2020
+2,"Run Amok",DOM,0.0,0,0,5,23/3/2020
+14,"Runaway Steam-Kin",GRN,0.0,0,0,0,15/3/2020
+1,"Rupture",NMS,0.0,0,0,0,24/1/2021
+1,"Rupture",NMS,0.0,0,0,3,19/4/2020
+1,"Rush of Adrenaline",SOI,0.0,1,0,0,29/3/2020
+2,"Rustmouth Ogre",MRD,0.0,0,0,0,28/7/2018
+1,"Rustrazor Butcher",SHM,0.0,0,0,0,3/3/2019
+1,"Ruthless Invasion",NPH,0.0,0,0,0,29/3/2020
+1,"Ryusei, the Falling Star",CHK,0.0,0,0,0,25/1/2021
+1,"Ryusei, the Falling Star",CHK,0.0,0,0,3,6/4/2020
+7,"Sabertooth Wyvern",EXO,0.0,0,0,0,26/1/2021
+1,"Sabertooth Wyvern",EXO,0.0,0,0,4,28/7/2018
+12,"Sabretooth Tiger",ICE,0.0,0,0,0,3/5/2020
+1,"Sabretooth Tiger",8ED,0.0,0,0,4,28/7/2018
+1,"Sabretooth Tiger",5ED,0.0,0,0,4,24/2/2019
+1,"Sabretooth Tiger",5ED,0.0,0,0,5,19/4/2020
+1,"Sand Strangler",HOU,0.0,0,0,5,4/11/2018
+3,"Sandstone Warrior",TMP,0.0,0,0,0,21/2/2021
+1,"Sandstone Warrior",TMP,0.0,0,0,4,28/7/2018
+1,"Sarkhan's Unsealing",M19,0.0,0,0,0,24/5/2020
+1,"Sarkhan's Unsealing",M19,0.0,0,0,4,25/9/2018
+4,"Satyr Firedancer",BNG,0.0,0,0,0,29/3/2020
+1,"Satyr Nyx-Smith",BNG,0.0,0,0,0,4/11/2018
+4,"Satyr's Cunning",THB,0.0,0,0,3,22/3/2020
+1,"Satyr's Cunning",THB,0.0,1,0,3,22/3/2020
+1,"Savage Firecat",ODY,0.0,0,0,0,17/3/2019
+6,"Savage Offensive",INV,0.0,0,0,0,22/2/2021
+1,"Savage Offensive",INV,0.0,0,0,6,1/3/2019
+1,"Scald",USG,0.0,0,0,0,21/2/2021
+8,"Scalding Salamander",EXO,0.0,0,0,0,26/1/2021
+1,"Scampering Scorcher",M20,0.0,0,0,0,28/3/2020
+7,"Scarred Puma",INV,0.0,0,0,0,22/2/2021
+1,"Scarred Puma",INV,0.0,0,0,4,28/7/2018
+1,"Scattershot",SCG,0.0,0,2,4,3/3/2019
+4,"Scorch Spitter",M20,0.0,0,0,0,22/3/2020
+3,"Scorch the Fields",DKA,0.0,0,0,4,28/7/2018
+1,"Scorched Earth",TMP,0.0,0,0,4,28/7/2018
+6,"Scorching Lava",INV,0.0,0,0,0,24/1/2021
+1,"Scorching Lava",INV,0.0,0,0,4,17/9/2018
+3,"Scorching Missile",ODY,0.0,0,0,0,25/1/2021
+1,"Scorching Missile",ODY,0.0,0,0,4,17/9/2018
+3,"Scorchmark",RNA,0.0,0,0,0,15/3/2020
+1,"Scorchwalker",GTC,0.0,0,0,0,3/3/2019
+2,"Scoria Cat",PCY,0.0,0,0,0,24/1/2021
+2,"Scoria Elemental",SOM,0.0,0,0,0,12/7/2020
+1,"Scoria Wurm",USG,0.0,0,0,0,24/2/2019
+1,"Scourge Devil",DDK,0.0,0,0,0,12/7/2020
+1,"Scourge of Kher Ridges",FUT,0.0,0,0,0,31/10/2018
+1,"Scrap",USG,0.0,0,0,0,28/7/2018
+1,"Scrap Mastery",C14,0.0,0,0,4,29/3/2020
+5,"Scrapyard Salvo",NPH,0.0,0,0,0,29/3/2020
+6,"Seal of Fire",NMS,0.0,0,0,0,24/5/2020
+1,"Seal of Fire",NMS,0.0,0,0,3,19/4/2020
+1,"Seal of Fire",NMS,0.0,0,0,7,28/7/2018
+2,"Seal of Fire",DIS,0.0,0,0,0,30/3/2020
+1,"Search for Survivors",PCY,0.0,0,0,3,17/3/2019
+7,"Searing Blaze",WWK,0.0,0,0,0,24/1/2021
+3,"Searing Blood",BNG,0.0,0,0,0,20/6/2020
+2,"Searing Flesh",ONS,0.0,0,0,0,22/2/2021
+1,"Searing Flesh",ONS,0.0,1,0,4,29/7/2018
+4,"Searing Rays",INV,0.0,0,0,0,22/2/2021
+1,"Searing Spear",M13,0.0,0,0,6,3/3/2019
+1,"Searing Spear",PFNM,0.0,1,0,0,3/3/2019
+3,"Searing Spear Askari",MIR,0.0,0,0,2,24/5/2020
+10,"Searing Touch",TMP,0.0,0,0,0,28/7/2018
+1,"Searing Wind",8ED,0.0,0,0,0,17/3/2019
+1,"Searing Wind",8ED,0.0,0,0,3,17/3/2019
+3,"Sedge Troll",3ED,0.0,0,0,0,7/6/2020
+1,"Sedge Troll",3ED,0.0,0,0,3,8/5/2020
+1,"Sedge Troll",3ED,0.0,1,0,3,8/5/2020
+2,"Seething Anger",STH,0.0,0,0,0,25/1/2021
+1,"Seething Anger",STH,0.0,0,0,4,28/7/2018
+1,"Seething Song",9ED,0.0,0,0,8,6/4/2020
+12,"Seething Song",MRD,0.0,0,0,0,6/4/2020
+3,"Seething Song",MRD,0.0,0,0,3,6/4/2020
+1,"Seismic Assault",EXO,0.0,0,0,3,19/4/2020
+1,"Seismic Assault",UMA,0.0,0,0,0,17/3/2019
+1,"Seismic Assault",7ED,0.0,0,0,3,19/4/2020
+2,"Seismic Assault",8ED,0.0,0,0,0,6/4/2020
+1,"Seismic Elemental",GNT,0.0,0,0,0,24/5/2020
+2,"Seismic Shift",DOM,0.0,0,0,5,23/3/2020
+2,"Seismic Shudder",ZEN,0.0,0,0,4,1/11/2018
+4,"Seismic Spike",RAV,0.0,0,0,0,12/7/2020
+1,"Seismic Stomp",M14,0.0,0,0,4,28/7/2018
+2,"Seismic Strike",M15,0.0,0,0,4,3/3/2019
+1,"Sell-Sword Brute",RAV,0.0,0,0,0,3/3/2019
+1,"Serpentine Spike",BFZ,0.0,0,0,0,24/5/2020
+3,"Shaleskin Bruiser",ONS,0.0,0,0,0,25/1/2021
+1,"Shaman of the Great Hunt",FRF,0.0,0,0,4,3/3/2019
+1,"Shaman's Trance",JUD,0.0,0,0,0,15/4/2020
+2,"Shard Phoenix",STH,0.0,0,0,0,19/4/2020
+1,"Shard Phoenix",9ED,0.0,0,0,0,31/5/2020
+1,"Shard Phoenix",9ED,0.0,0,0,4,30/10/2018
+6,"Shard Volley",MOR,0.0,0,0,0,24/5/2020
+1,"Shared Animosity",MOR,0.0,0,0,0,30/3/2020
+1,"Shared Animosity",MOR,0.0,0,0,4,31/10/2018
+1,"Shatter",LEB,0.0,0,1,0,8/5/2020
+1,"Shatter",5ED,0.0,0,0,4,24/2/2019
+6,"Shatter",TMP,0.0,0,0,0,24/3/2019
+1,"Shatter",2ED,0.0,0,0,0,25/1/2021
+3,"Shatter",4ED,0.0,0,0,0,3/5/2020
+1,"Shatter",4ED,0.0,0,0,4,2/3/2019
+3,"Shatter",ICE,0.0,0,0,0,3/5/2020
+10,"Shatter",3ED,0.0,0,0,0,31/1/2021
+17,"Shatter",3ED,0.0,1,0,4,8/5/2020
+2,"Shatter",3ED,0.0,1,0,5,8/5/2020
+4,"Shatter",6ED,0.0,0,0,0,19/4/2020
+1,"Shatter",6ED,0.0,0,0,3,19/4/2020
+1,"Shatter",MRD,0.0,0,0,6,3/3/2019
+8,"Shattering Pulse",EXO,0.0,0,0,0,26/1/2021
+9,"Shattering Pulse",EXO,0.0,1,0,0,19/4/2020
+2,"Shattering Spree",GPT,0.0,0,0,0,6/4/2020
+1,"Shattering Spree",GPT,0.0,0,0,4,1/11/2018
+1,"Shatterstorm",5ED,0.0,0,0,0,19/4/2020
+1,"Shatterstorm",6ED,0.0,0,0,0,19/4/2020
+4,"Shatterstorm",3ED,0.0,0,0,0,23/2/2019
+1,"Shatterstorm",3ED,0.0,0,0,4,8/5/2020
+2,"Shinka Gatekeeper",BOK,0.0,0,0,4,28/7/2018
+2,"Shiv's Embrace",USG,0.0,0,0,0,27/4/2020
+2,"Shivan Dragon",4ED,0.0,0,0,0,19/8/2018
+2,"Shivan Dragon",4ED,0.0,0,0,3,3/5/2020
+1,"Shivan Dragon",5ED,0.0,0,0,0,24/2/2019
+1,"Shivan Dragon",5ED,0.0,0,0,5,19/4/2020
+1,"Shivan Dragon",3ED,0.0,0,0,0,8/5/2020
+1,"Shivan Dragon",7ED,0.0,0,0,0,12/7/2020
+3,"Shivan Dragon",8ED,0.0,0,0,0,12/7/2020
+3,"Shivan Emissary",INV,0.0,0,0,0,22/2/2021
+1,"Shivan Emissary",INV,0.0,0,0,4,28/7/2018
+1,"Shivan Fire",DOM,0.0,0,0,5,23/3/2020
+2,"Shivan Hellkite",USG,0.0,0,0,4,28/7/2018
+1,"Shivan Hellkite",10E,0.0,0,0,0,3/3/2019
+1,"Shivan Phoenix",ULG,0.0,0,0,4,28/7/2018
+3,"Shivan Raptor",USG,0.0,0,0,0,28/7/2018
+1,"Shivan Raptor",USG,0.0,0,0,6,26/1/2021
+2,"Shivan Sand-Mage",FUT,0.0,0,0,0,3/11/2018
+1,"Shivan Sand-Mage",FUT,0.0,0,0,4,3/3/2019
+6,"Shock",M19,0.0,0,0,0,25/9/2018
+1,"Shock",8ED,0.0,1,0,0,3/3/2019
+7,"Shock",STH,0.0,0,0,0,28/7/2018
+2,"Shock",STH,0.0,0,0,3,19/4/2020
+2,"Shock",STH,0.0,0,0,4,28/7/2018
+2,"Shock",STH,0.0,1,0,0,19/4/2020
+2,"Shock",6ED,0.0,0,0,4,17/9/2018
+4,"Shock",9ED,0.0,0,0,3,6/4/2020
+1,"Shock",9ED,0.0,0,0,4,3/3/2019
+3,"Shock",10E,0.0,0,0,4,31/10/2018
+3,"Shock",ONS,0.0,0,0,0,22/2/2021
+1,"Shock",ONS,0.0,0,0,4,2/3/2019
+3,"Shock",M14,0.0,0,0,4,3/3/2019
+2,"Shock",AER,0.0,0,0,4,1/11/2018
+1,"Shock Troops",MMQ,0.0,0,0,0,21/2/2021
+2,"Shocker",TMP,0.0,0,0,0,17/9/2018
+1,"Shower of Coals",ODY,0.0,0,0,0,24/1/2021
+6,"Shrapnel Blast",MRD,0.0,0,0,0,6/4/2020
+8,"Shrapnel Blast",MRD,0.0,1,0,0,19/4/2020
+4,"Shrapnel Blast",M15,0.0,0,0,3,29/3/2020
+3,"Shrieking Mogg",NMS,0.0,0,0,0,19/4/2020
+4,"Shunt",DST,0.0,0,0,0,12/7/2020
+3,"Sideswipe",CHK,0.0,0,0,4,3/11/2018
+3,"Siege of Towers",GPT,0.0,0,0,4,3/3/2019
+1,"Siege-Gang Commander",M10,0.0,0,0,0,22/7/2020
+1,"Siege-Gang Commander",GNT,0.0,0,0,0,24/5/2020
+2,"Siege-Gang Commander",SCG,0.0,0,0,0,18/7/2020
+2,"Siege-Gang Commander",SCG,0.0,1,0,0,19/4/2020
+1,"Siegebreaker Giant",M19,0.0,0,0,0,19/8/2018
+8,"Simian Spirit Guide",PLC,0.0,0,0,3,30/3/2020
+8,"Simian Spirit Guide",A25,0.0,0,0,0,19/8/2018
+3,"Singe",PLS,0.0,0,0,0,17/9/2018
+3,"Singe",PLS,0.0,0,0,4,19/4/2020
+2,"Sirocco",MIR,0.0,0,0,4,24/2/2019
+1,"Sirocco",MIR,0.0,0,0,5,24/3/2019
+4,"Sisters of the Flame",4ED,0.0,0,0,0,3/5/2020
+3,"Sisters of the Flame",DRK,0.0,0,0,0,31/5/2020
+1,"Sisters of the Flame",DRK,0.0,0,0,4,8/5/2020
+1,"Sizzle",8ED,0.0,0,0,4,28/7/2018
+3,"Sizzle",MMQ,0.0,0,0,4,28/7/2018
+1,"Sizzle",MMQ,0.0,0,3,4,24/2/2019
+1,"Skeletonize",ALA,0.0,0,0,4,28/7/2018
+6,"Skewer the Critics",RNA,0.0,0,0,0,15/3/2020
+1,"Skirk Alarmist",LGN,0.0,0,0,0,6/4/2020
+2,"Skirk Commando",ONS,0.0,0,0,0,22/2/2021
+1,"Skirk Commando",ONS,0.0,1,0,4,29/7/2018
+1,"Skirk Drill Sergeant",LGN,0.0,0,0,3,6/4/2020
+2,"Skirk Fire Marshal",ONS,0.0,0,0,0,17/3/2019
+1,"Skirk Outrider",LGN,0.0,0,0,4,2/3/2019
+1,"Skirk Prospector",DOM,0.0,0,0,5,23/3/2020
+1,"Skirk Prospector",DOM,0.0,1,0,0,4/11/2018
+6,"Skirk Prospector",ONS,0.0,0,0,0,22/2/2021
+4,"Skirk Shaman",PLC,0.0,0,0,0,24/1/2021
+1,"Skirsdag Cultist",DDK,0.0,0,0,0,12/7/2020
+2,"Skitter of Lizards",CNS,0.0,0,0,0,28/7/2018
+1,"Skittish Kavu",INV,0.0,0,0,0,22/2/2021
+6,"Skittish Valesk",ONS,0.0,0,0,0,25/1/2021
+1,"Skizzik",DOM,0.0,0,0,3,23/3/2020
+3,"Skizzik",INV,0.0,0,0,0,19/4/2020
+2,"Skophos Maze-Warden",THB,0.0,0,0,3,22/3/2020
+4,"Skophos Warleader",THB,0.0,0,0,3,22/3/2020
+4,"Skullcrack",GTC,0.0,0,0,0,29/3/2020
+2,"Skullscorch",TOR,0.0,0,0,3,15/4/2020
+2,"Skyfire Phoenix",C19,0.0,0,0,0,22/3/2020
+1,"Skyship Stalker",KLD,0.0,0,0,4,1/11/2018
+4,"Slaying Fire",ELD,0.0,0,0,0,22/3/2020
+3,"Slice and Dice",ONS,0.0,0,0,0,15/4/2020
+1,"Slice and Dice",ONS,0.0,0,0,3,15/4/2020
+3,"Slimy Kavu",INV,0.0,0,0,0,22/2/2021
+1,"Slingshot Goblin",PLS,0.0,0,0,0,24/1/2021
+1,"Slinking Giant",SHM,0.0,0,0,0,3/3/2019
+5,"Slith Firewalker",MRD,0.0,0,0,0,17/9/2018
+1,"Slith Firewalker",PSUS,0.0,0,0,0,19/4/2020
+1,"Sluggishness",ULG,0.0,0,0,0,19/11/2018
+1,"Slumbering Dragon",M13,0.0,0,0,4,1/11/2018
+5,"Smash",APC,0.0,0,0,0,24/1/2021
+1,"Smash",APC,0.0,0,0,4,29/7/2018
+4,"Smash to Smithereens",SHM,0.0,0,0,0,17/9/2018
+1,"Smash to Smithereens",PFNM,0.0,1,0,4,3/3/2019
+4,"Smelt",M19,0.0,0,0,0,19/8/2018
+2,"Smelt",M14,0.0,0,0,0,3/3/2019
+1,"Smelt",M14,0.0,0,0,4,28/7/2018
+1,"Smelt-Ward Gatekeepers",DGM,0.0,0,0,6,3/3/2019
+1,"Smelt-Ward Ignus",RNA,0.0,0,0,0,17/3/2019
+1,"Smelt-Ward Ignus",RNA,0.0,0,0,3,23/3/2020
+1,"Smelt-Ward Minotaur",GRN,0.0,0,0,0,17/3/2019
+1,"Smelt-Ward Minotaur",GRN,0.0,0,0,5,17/3/2019
+1,"Smoke",3ED,0.0,0,0,0,23/2/2019
+1,"Smoke",5ED,0.0,0,0,3,19/4/2020
+1,"Smoke",5ED,0.0,0,0,4,24/2/2019
+1,"Smoke",5ED,0.0,0,0,5,19/4/2020
+3,"Snapping Thragg",ONS,0.0,0,0,0,25/1/2021
+1,"Sneak Attack",USG,0.0,0,0,3,19/4/2020
+2,"Sokenzan Renegade",SOK,0.0,0,0,4,3/11/2018
+1,"Soldier of Fortune",ALL,0.0,0,0,0,28/7/2018
+2,"Solfatara",VIS,0.0,0,0,2,24/5/2020
+1,"Solfatara",VIS,0.0,0,0,4,28/7/2018
+1,"Somberwald Vigilante",DDL,0.0,0,0,0,25/9/2018
+1,"Song of Blood",VIS,0.0,0,0,2,24/5/2020
+14,"Sonic Burst",EXO,0.0,0,0,0,26/1/2021
+12,"Sonic Seizure",TOR,0.0,0,0,0,25/1/2021
+1,"Soul of Magma",CHK,0.0,0,0,0,3/11/2018
+1,"Soul of Shandalar",M15,0.0,0,0,4,3/3/2019
+5,"Soul-Scar Mage",AKH,0.0,0,0,0,24/5/2020
+6,"Soulbright Flamekin",MM2,0.0,0,0,0,29/3/2020
+2,"Soulgorger Orgg",JUD,0.0,0,0,0,1/3/2021
+4,"Spark Elemental",5DN,0.0,0,0,0,19/8/2018
+3,"Spark Elemental",PD2,0.0,1,0,0,29/3/2020
+1,"Spark Jolt",THS,0.0,1,0,0,3/3/2019
+1,"Spark Mage",ODY,0.0,0,0,0,2/3/2019
+2,"Spark Spray",SCG,0.0,0,3,0,3/3/2019
+1,"Spark of Creativity",KLD,0.0,0,0,4,4/11/2018
+1,"Sparksmith",PFNM,0.0,0,0,0,19/4/2020
+4,"Sparksmith",ONS,0.0,0,0,0,22/2/2021
+1,"Sparkspitter",UMA,0.0,0,0,0,4/3/2019
+4,"Sparktongue Dragon",M19,0.0,0,0,0,19/8/2018
+4,"Spear Spewer",RNA,0.0,0,0,0,15/3/2020
+1,"Speedway Fanatic",KLD,0.0,0,0,3,29/3/2020
+10,"Spellgorger Barbarian",JUD,0.0,0,0,0,25/1/2021
+1,"Spellshock",EXO,0.0,0,0,0,26/1/2021
+14,"Spellshock",EXO,0.0,1,0,0,19/4/2020
+2,"Spikeshot Goblin",A25,0.0,0,0,0,28/3/2020
+7,"Spikeshot Goblin",MRD,0.0,0,0,0,27/4/2020
+1,"Spikeshot Goblin",MRD,0.0,0,0,4,28/7/2018
+3,"Spikewheel Acrobat",RNA,0.0,0,0,0,15/3/2020
+1,"Spinal Villain",LEG,0.0,0,0,0,8/5/2020
+1,"Spiraling Duelist",MBS,0.0,0,0,0,29/3/2020
+1,"Spit Flame",M19,0.0,0,0,0,19/8/2018
+2,"Spitfire Handler",ONS,0.0,0,0,0,28/7/2018
+3,"Spitting Drake",6ED,0.0,0,0,0,19/4/2020
+1,"Spitting Drake",VIS,0.0,0,0,0,28/7/2018
+1,"Spitting Earth",7ED,0.0,0,0,0,24/1/2021
+3,"Spitting Earth",MIR,0.0,0,0,2,24/5/2020
+1,"Spitting Earth",MIR,0.0,0,0,3,24/5/2020
+5,"Spitting Earth",MIR,0.0,0,0,4,1/11/2018
+1,"Spitting Earth",DDG,0.0,0,0,4,3/3/2019
+1,"Spitting Earth",10E,0.0,0,0,0,30/3/2020
+2,"Spitting Earth",DD3_EVG,0.0,0,0,0,28/7/2018
+1,"Spitting Hydra",STH,0.0,0,0,0,25/1/2021
+1,"Spitting Hydra",STH,0.0,0,0,4,28/7/2018
+4,"Spur Grappler",PCY,0.0,0,0,0,24/1/2021
+1,"Spur Grappler",PCY,0.0,0,0,4,28/7/2018
+5,"Spurred Wolverine",ONS,0.0,0,0,0,15/4/2020
+4,"Squee, Goblin Nabob",C19,0.0,0,0,0,22/3/2020
+1,"Squee, Goblin Nabob",UMA,0.0,0,0,0,24/1/2021
+2,"Squee, Goblin Nabob",MMQ,0.0,0,0,0,26/1/2021
+2,"Staggershock",ROE,0.0,0,1,4,1/11/2018
+4,"Stampede Rider",THB,0.0,0,0,3,22/3/2020
+2,"Stampeding Horncrest",RIX,0.0,0,0,0,28/3/2020
+1,"Stand or Fall",INV,0.0,0,0,3,17/3/2019
+2,"Starke of Rath",TMP,0.0,0,0,0,19/4/2020
+4,"Starstorm",ONS,0.0,0,0,0,15/4/2020
+1,"Starstorm",ONS,0.0,0,0,3,17/3/2019
+3,"Start Your Engines",KLD,0.0,0,0,0,4/11/2018
+1,"Start Your Engines",KLD,0.0,0,0,3,29/3/2020
+1,"Steam Blast",USG,0.0,0,0,0,24/2/2019
+1,"Steam Vines",ODY,0.0,0,0,0,25/1/2021
+1,"Steam Vines",ODY,0.0,0,0,4,17/9/2018
+1,"Steamflogger Temp",UST,0.0,0,0,0,29/3/2020
+1,"Stingmoggie",MOR,0.0,0,0,4,28/7/2018
+4,"Stingscourger",EMA,0.0,0,0,0,29/3/2020
+5,"Stingscourger",PLC,0.0,0,0,0,24/1/2021
+1,"Stone Giant",2ED,0.0,0,0,0,25/1/2021
+2,"Stone Giant",3ED,0.0,0,0,0,17/9/2018
+2,"Stone Giant",4ED,0.0,0,0,0,3/5/2020
+1,"Stone Giant",4ED,0.0,0,0,5,3/5/2020
+1,"Stone Giant",LEB,0.0,0,2,0,8/5/2020
+1,"Stone Giant",5ED,0.0,0,0,4,24/2/2019
+1,"Stone Idol Trap",WWK,0.0,0,0,0,29/3/2020
+1,"Stone Idol Trap",WWK,0.0,0,0,6,14/10/2018
+2,"Stone Rain",MIR,0.0,0,1,0,24/3/2019
+1,"Stone Rain",MIR,0.0,0,1,5,24/3/2019
+2,"Stone Rain",7ED,0.0,0,0,0,24/5/2020
+1,"Stone Rain",MMQ,0.0,0,0,4,1/3/2019
+2,"Stone Rain",TMP,0.0,0,0,0,28/7/2018
+2,"Stone Rain",LEB,0.0,0,1,0,18/7/2019
+6,"Stone Rain",3ED,0.0,0,0,0,31/1/2021
+17,"Stone Rain",3ED,0.0,1,0,4,8/5/2020
+3,"Stone Rain",4ED,0.0,0,0,0,3/5/2020
+1,"Stone Rain",CHK,0.0,1,0,0,22/2/2021
+1,"Stone Rain",9ED,0.0,0,0,4,28/7/2018
+4,"Stone Rain",2ED,0.0,0,0,0,25/1/2021
+1,"Stone Rain",6ED,0.0,0,0,3,19/4/2020
+2,"Stone Rain",6ED,0.0,0,0,4,28/7/2018
+3,"Stone Rain",ICE,0.0,0,0,0,3/5/2020
+1,"Stone Rain",5ED,0.0,0,0,4,28/7/2018
+4,"Stone Rain",PO2,0.0,0,0,0,21/2/2021
+1,"Stone Spirit",ICE,0.0,0,0,0,25/1/2021
+1,"Stone Spirit",5ED,0.0,0,0,4,24/2/2019
+6,"Stonehands",ICE,0.0,0,0,0,3/5/2020
+1,"Storm Herald",THB,0.0,0,0,3,22/3/2020
+6,"Storm Shaman",ALL,0.0,0,0,0,24/5/2020
+6,"Storm Shaman",ALL,0.0,0,0,0,24/5/2020
+1,"Storm Shaman",ALL,0.0,0,0,3,19/4/2020
+4,"Storm Strike",RNA,0.0,0,0,0,15/3/2020
+1,"Storm World",LEG,0.0,0,0,4,28/7/2018
+3,"Storm's Wrath",THB,0.0,0,0,0,22/3/2020
+1,"Storm's Wrath",THB,0.0,0,0,3,22/3/2020
+1,"Strafe",PLS,0.0,0,0,4,17/9/2018
+1,"Strange Inversion",CHK,0.0,0,0,4,31/10/2018
+2,"Strategy, Schmategy",UGL,0.0,0,0,0,20/4/2020
+1,"Street Riot",GRN,0.0,0,0,0,15/3/2020
+1,"Stromkirk Noble",ISD,0.0,0,0,0,12/7/2020
+4,"Stromkirk Occultist",C19,0.0,0,0,0,22/3/2020
+2,"Stronghold Gambit",NMS,0.0,0,0,0,1/3/2021
+6,"Stun",INV,0.0,0,0,0,22/2/2021
+1,"Stun",INV,0.0,0,0,4,2/11/2018
+2,"Subterranean Shambler",TSP,0.0,0,0,4,28/7/2018
+1,"Subterranean Spirit",MIR,0.0,0,0,2,24/5/2020
+5,"Sudden Impact",TMP,0.0,0,0,0,25/1/2021
+1,"Sudden Impact",TMP,0.0,0,0,4,28/7/2018
+1,"Sudden Impact",8ED,0.0,0,0,4,28/7/2018
+4,"Sudden Shock",TSP,0.0,0,0,0,7/6/2020
+1,"Sulfur Elemental",PLC,0.0,0,0,0,3/3/2019
+1,"Sulfuric Vapors",USG,0.0,0,0,3,19/4/2020
+3,"Sulfuric Vortex",SCG,0.0,0,0,3,19/4/2020
+1,"Sulfurous Blast",TSP,0.0,0,0,4,31/10/2018
+2,"Sunbird's Invocation",XLN,0.0,0,0,0,28/3/2020
+2,"Suq'Ata Lancer",VIS,0.0,0,0,2,24/5/2020
+1,"Suq'Ata Lancer",VIS,0.0,0,0,5,24/3/2019
+4,"Sure Strike",GRN,0.0,0,0,0,15/3/2020
+4,"Sure Strike",M19,0.0,0,0,0,19/8/2018
+14,"Surging Flame",CSP,0.0,0,0,0,26/1/2021
+2,"Sweatworks Brawler",AER,0.0,0,0,4,4/3/2019
+1,"Swelter",JUD,0.0,0,0,0,1/3/2021
+4,"Sweltering Suns",AKH,0.0,0,0,0,24/5/2020
+2,"Swirling Sandstorm",JUD,0.0,0,0,0,25/1/2021
+6,"Tahngarth's Glare",APC,0.0,0,0,0,22/2/2021
+1,"Tahngarth's Glare",APC,0.0,0,0,3,19/4/2020
+4,"Tahngarth's Rage",TMP,0.0,0,0,0,28/7/2018
+2,"Tahngarth, Talruum Hero",PLS,0.0,0,0,0,12/7/2020
+2,"Talruum Champion",VIS,0.0,0,0,0,21/2/2021
+1,"Talruum Champion",VIS,0.0,0,0,2,24/5/2020
+1,"Talruum Minotaur",MIR,0.0,0,0,3,24/5/2020
+1,"Talruum Minotaur",BTD,0.0,0,0,2,24/5/2020
+2,"Talruum Piper",VIS,0.0,0,0,0,21/2/2021
+1,"Tarfire",LRW,0.0,0,0,4,1/11/2018
+1,"Task Mage Assembly",PCY,0.0,0,0,0,19/4/2020
+1,"Task Mage Assembly",PCY,0.0,0,0,3,17/3/2019
+1,"Tears of Rage",DST,0.0,0,0,0,3/3/2019
+2,"Tears of Valakut",OGW,0.0,0,0,0,24/5/2020
+3,"Tears of Valakut",OGW,0.0,0,0,4,25/9/2018
+2,"Tears of Valakut",OGW,0.0,1,0,0,5/11/2018
+2,"Tectonic Break",MMQ,0.0,0,0,0,26/1/2021
+1,"Tectonic Giant",THB,0.0,0,0,3,22/3/2020
+4,"Tectonic Hellion",C19,0.0,0,0,0,22/3/2020
+2,"Tectonic Instability",INV,0.0,0,0,3,19/4/2020
+3,"Tectonic Reformation",MH1,0.0,0,0,0,22/3/2020
+1,"Tectonic Rift",M19,0.0,0,0,0,19/8/2018
+3,"Telim'Tor's Edict",MIR,0.0,0,0,0,19/4/2020
+1,"Tempest Efreet",LEG,0.0,0,0,0,28/7/2018
+1,"Tempest Efreet",4ED,0.0,0,0,0,17/9/2018
+7,"Temporary Insanity",TOR,0.0,0,0,0,25/1/2021
+1,"Tephraderm",ONS,0.0,0,0,3,17/3/2019
+1,"Tephraderm",ONS,0.0,0,0,4,29/7/2018
+1,"Territorial Gorger",KLD,0.0,0,0,0,5/11/2018
+1,"The Akroan War",THB,0.0,0,0,3,22/3/2020
+1,"The Brute",5ED,0.0,0,0,4,24/2/2019
+2,"The Brute",4ED,0.0,0,0,0,3/5/2020
+2,"The Brute",4ED,0.0,1,0,5,8/5/2020
+12,"The Brute",LEG,0.0,0,0,4,8/5/2020
+2,"The Triumph of Anax",THB,0.0,0,0,3,22/3/2020
+1,"Thermo-Alchemist",UMA,0.0,1,0,0,4/3/2019
+4,"Thermo-Alchemist",EMN,0.0,0,0,4,1/11/2018
+3,"Thermopod",CSP,0.0,0,0,0,26/1/2021
+4,"Thick-Skinned Goblin",TSP,0.0,0,0,0,22/2/2021
+1,"Thieves' Auction",MMQ,0.0,0,0,3,17/3/2019
+1,"Thieves' Auction",8ED,0.0,0,0,3,6/4/2020
+1,"Thorn-Thrash Viashino",ALA,0.0,0,0,4,1/11/2018
+2,"Thorned Moloch",HOU,0.0,0,0,0,28/3/2020
+4,"Thoughtbound Primoc",ONS,0.0,0,0,0,25/1/2021
+2,"Thrash of Raptors",XLN,0.0,0,0,0,17/9/2018
+8,"Threaten",ONS,0.0,0,0,0,25/1/2021
+4,"Thrill of Possibility",THB,0.0,0,0,3,22/3/2020
+1,"Thrill of Possibility",THB,0.0,1,0,3,22/3/2020
+2,"Through the Breach",CHK,0.0,0,0,0,18/7/2020
+1,"Through the Breach",UMA,0.0,0,0,0,24/1/2021
+2,"Thud",M19,0.0,0,0,0,19/8/2018
+1,"Thud",M19,0.0,0,0,4,25/9/2018
+1,"Thunder Brute",BNG,0.0,1,0,0,1/11/2018
+3,"Thunder of Hooves",ONS,0.0,0,0,0,25/1/2021
+1,"Thunderblade Charge",FUT,0.0,0,0,0,24/1/2021
+2,"Thunderblust",MM2,0.0,0,0,0,17/3/2019
+1,"Thunderbolt",PD2,0.0,1,0,0,3/3/2019
+4,"Thunderbolt",AVR,0.0,0,0,0,29/3/2020
+3,"Thunderbolt",WTH,0.0,0,1,4,28/7/2018
+1,"Thunderbreak Regent",DTK,0.0,0,0,0,31/5/2020
+1,"Thunderbreak Regent",DTK,0.0,1,0,0,3/3/2019
+2,"Thunderclap",MMQ,0.0,0,0,0,26/1/2021
+1,"Thundermare",WTH,0.0,0,0,0,28/7/2018
+2,"Thunderous Wrath",AVR,0.0,0,0,4,29/3/2020
+13,"Thunderscape Apprentice",INV,0.0,0,0,0,24/1/2021
+1,"Thunderscape Familiar",PLS,0.0,0,0,4,2/3/2019
+1,"Thunderscape Familiar",PLS,0.0,0,0,6,19/11/2018
+1,"Thunderscape Master",INV,0.0,0,0,0,17/3/2019
+1,"Tide of War",CHK,0.0,0,0,0,1/3/2021
+1,"Timecrafting",PLC,0.0,0,0,0,3/3/2019
+5,"Tin Street Dodger",RNA,0.0,0,0,0,15/3/2020
+1,"Tin Street Dodger",RNA,0.0,0,0,3,23/3/2020
+1,"Tooth and Claw",TMP,0.0,0,0,4,28/7/2018
+4,"Tor Giant",ICE,0.0,0,0,0,3/5/2020
+1,"Torbran, Thane of Red Fell",ELD,0.0,0,0,0,22/3/2020
+4,"Torch Courier",GRN,0.0,0,0,0,15/3/2020
+2,"Torchling",PLC,0.0,0,0,0,24/5/2020
+1,"Torchling",PLC,0.0,1,0,0,30/10/2018
+3,"Tormenting Voice",M19,0.0,0,0,0,19/8/2018
+1,"Torrent of Fire",SCG,0.0,0,3,0,3/3/2019
+1,"Torrent of Stone",BOK,0.0,0,0,4,28/7/2018
+1,"Trained Orgg",7ED,0.0,0,0,3,17/3/2019
+3,"Trained Orgg",7ED,0.0,0,0,4,28/7/2018
+1,"Trained Orgg",S00,0.0,0,0,0,17/9/2018
+1,"Tremble",ODY,0.0,0,0,4,2/3/2019
+2,"Tremor",VIS,0.0,0,0,0,21/2/2021
+1,"Tremor",MMQ,0.0,0,0,0,28/7/2018
+3,"Tremor",MMQ,0.0,0,0,4,1/11/2018
+1,"Trial of Zeal",AKH,0.0,0,0,0,1/11/2018
+7,"Trial of Zeal",AKH,0.0,0,0,4,1/11/2018
+4,"Tribal Flames",MM2,0.0,0,0,0,29/3/2020
+15,"Tribal Flames",INV,0.0,0,0,0,22/2/2021
+2,"Tribal Flames",INV,0.0,0,0,4,17/9/2018
+1,"Tribal Flames",INV,0.0,0,0,6,1/3/2019
+1,"Trove of Temptation",XLN,0.0,0,0,0,1/11/2018
+2,"Trove of Temptation",XLN,0.0,0,0,4,1/11/2018
+1,"Trueheart Twins",AKH,0.0,0,0,0,1/11/2018
+4,"Trueheart Twins",AKH,0.0,0,0,4,1/11/2018
+1,"Trumpet Blast",M19,0.0,1,0,0,19/8/2018
+1,"Trumpet Blast",CNS,0.0,0,0,0,28/7/2018
+3,"Trumpet Blast",KTK,0.0,0,0,4,28/7/2018
+4,"Tuktuk Scrapper",WWK,0.0,0,0,0,29/3/2020
+4,"Tundra Kavu",APC,0.0,0,0,0,24/1/2021
+1,"Tundra Kavu",APC,0.0,0,0,4,29/7/2018
+1,"Tunnel",3ED,0.0,0,0,0,17/9/2018
+2,"Tunnel",2ED,0.0,0,0,0,25/1/2021
+2,"Tunnel",4ED,0.0,0,0,4,2/11/2018
+13,"Turf Wound",INV,0.0,0,0,0,22/2/2021
+5,"Twinflame",JOU,0.0,0,0,0,24/5/2020
+1,"Two-Headed Cerberus",THS,0.0,0,0,0,4/11/2018
+1,"Two-Headed Dragon",8ED,0.0,0,0,4,28/7/2018
+2,"Two-Headed Dragon",MMQ,0.0,0,0,0,18/7/2020
+1,"Two-Headed Dragon",DRB,0.0,1,0,0,13/7/2020
+2,"Unchained Berserker",M20,0.0,0,0,0,28/3/2020
+4,"Underworld Breach",THB,0.0,0,0,0,22/3/2020
+2,"Underworld Breach",THB,0.0,0,0,3,22/3/2020
+2,"Underworld Fires",THB,0.0,0,0,3,22/3/2020
+4,"Underworld Rage-Hound",THB,0.0,0,0,3,22/3/2020
+4,"Undying Rage",TSP,0.0,0,0,4,31/10/2018
+1,"Unearthly Blizzard",CHK,0.0,0,0,4,3/11/2018
+1,"Unforge",DST,0.0,0,1,0,3/3/2019
+2,"Unforge",DST,0.0,0,1,4,3/3/2019
+1,"Unforge",DST,0.0,1,0,4,29/7/2018
+3,"Urza's Rage",DDE,0.0,1,0,0,12/7/2020
+1,"Urza's Rage",INV,0.0,0,0,0,1/11/2018
+1,"Urza's Rage",INV,0.0,0,0,3,19/4/2020
+2,"Uthden Troll",3ED,0.0,0,0,0,23/2/2019
+2,"Uthden Troll",4ED,0.0,0,0,4,3/5/2020
+2,"Uthden Troll",TSB,0.0,0,0,0,24/1/2021
+3,"Uthden Troll",TSB,0.0,0,0,4,30/3/2020
+1,"Valakut Fireboar",ROE,0.0,0,0,0,12/7/2020
+1,"Valakut Invoker",BFZ,0.0,0,0,4,3/3/2019
+1,"Valduk, Keeper of the Flame",DOM,0.0,0,0,3,23/3/2020
+1,"Varchild's Crusader",ALL,0.0,0,0,0,17/9/2018
+1,"Varchild's Crusader",ALL,0.0,0,0,5,24/2/2019
+2,"Varchild's Crusader",ALL,0.0,0,0,0,24/5/2020
+1,"Varchild's Crusader",ALL,0.0,0,0,4,28/7/2018
+2,"Varchild's War-Riders",ALL,0.0,0,0,0,28/7/2018
+3,"Vertigo",6ED,0.0,0,0,0,19/4/2020
+1,"Veteran Brawlers",PCY,0.0,0,0,3,17/3/2019
+1,"Veteran's Voice",ALL,0.0,0,0,0,24/5/2020
+1,"Veteran's Voice",ALL,0.0,0,0,0,17/9/2018
+2,"Viashino Bey",ULG,0.0,0,0,0,26/1/2021
+2,"Viashino Bey",ULG,0.0,0,0,4,2/11/2018
+2,"Viashino Bladescout",TSP,0.0,0,0,4,30/10/2018
+1,"Viashino Cutthroat",ULG,0.0,0,0,4,28/7/2018
+8,"Viashino Grappler",INV,0.0,0,0,0,24/1/2021
+1,"Viashino Grappler",INV,0.0,0,0,6,1/3/2019
+1,"Viashino Heretic",ULG,0.0,0,0,0,19/4/2020
+1,"Viashino Heretic",ULG,0.0,0,0,4,28/7/2018
+1,"Viashino Pyromancer",M19,0.0,0,0,0,17/9/2018
+1,"Viashino Runner",10E,0.0,0,0,0,28/7/2018
+1,"Viashino Sandscout",10E,0.0,0,0,4,28/7/2018
+1,"Viashino Sandscout",ULG,0.0,0,0,0,26/1/2021
+2,"Viashino Sandscout",ULG,0.0,0,0,4,28/7/2018
+4,"Viashino Sandstalker",VIS,0.0,0,0,0,24/2/2019
+1,"Viashino Sandstalker",VIS,0.0,0,0,4,24/2/2019
+1,"Viashino Sandstalker",VIS,0.0,1,0,0,19/4/2020
+2,"Viashino Sandstalker",9ED,0.0,0,0,4,31/10/2018
+1,"Viashino Sandswimmer",USG,0.0,0,0,0,24/2/2019
+2,"Viashino Weaponsmith",USG,0.0,0,0,0,28/7/2018
+1,"Viashino Weaponsmith",USG,0.0,0,0,4,28/7/2018
+1,"Viashino Weaponsmith",USG,0.0,0,1,4,28/7/2018
+1,"Victorious Destruction",NPH,0.0,0,0,0,29/3/2020
+4,"Violent Eruption",TOR,0.0,0,0,0,25/1/2021
+4,"Violent Eruption",C19,0.0,0,0,0,22/3/2020
+2,"Violent Impact",AKH,0.0,0,0,0,29/3/2020
+1,"Vithian Stinger",ALA,0.0,0,0,4,28/7/2018
+4,"Vithian Stinger",MM3,0.0,0,0,0,29/3/2020
+1,"Volatile Chimera",CN2,0.0,0,0,0,24/5/2020
+1,"Volcanic Dragon",6ED,0.0,0,0,0,19/4/2020
+2,"Volcanic Dragon",M19,0.0,0,0,0,19/8/2018
+1,"Volcanic Dragon",ATH,0.0,0,0,0,17/9/2018
+1,"Volcanic Geyser",6ED,0.0,0,0,3,19/4/2020
+4,"Volcanic Hammer",POR,0.0,0,0,0,12/7/2020
+1,"Volcanic Hammer",8ED,0.0,1,0,0,3/3/2019
+1,"Volcanic Hammer",PO2,0.0,0,0,0,19/4/2020
+2,"Volcanic Spray",ODY,0.0,0,0,4,17/9/2018
+1,"Volcano Hellion",PLC,0.0,0,0,0,31/10/2018
+1,"Volcano Hellion",PLC,0.0,0,0,4,31/10/2018
+1,"Volley Veteran",M19,0.0,0,0,0,19/8/2018
+1,"Volley Veteran",M19,0.0,0,0,4,25/9/2018
+2,"Volley of Boulders",ODY,0.0,0,0,3,19/4/2020
+1,"Volley of Boulders",ODY,0.0,1,0,4,29/7/2018
+5,"Volt Charge",NPH,0.0,0,0,0,29/3/2020
+1,"Voracious Dragon",CON,0.0,0,0,0,24/5/2020
+1,"Vug Lizard",USG,0.0,0,0,0,24/2/2019
+1,"Vulshok Battlemaster",MRD,0.0,0,0,0,28/7/2018
+1,"Vulshok Berserker",DDI,0.0,0,0,0,3/11/2018
+6,"Vulshok Berserker",MRD,0.0,0,0,0,17/9/2018
+1,"Vulshok Heartstoker",SOM,0.0,0,0,4,1/11/2018
+1,"Vulshok Sorcerer",PD2,0.0,1,0,0,3/3/2019
+8,"Vulshok Sorcerer",5DN,0.0,0,0,4,3/11/2018
+3,"Wall of Diffusion",TMP,0.0,0,0,0,21/2/2021
+1,"Wall of Dust",4ED,0.0,0,0,5,3/5/2020
+2,"Wall of Dust",LEG,0.0,0,0,4,8/5/2020
+2,"Wall of Earth",LEG,0.0,0,0,0,8/5/2020
+9,"Wall of Earth",LEG,0.0,0,0,4,8/5/2020
+1,"Wall of Fire",2ED,0.0,0,0,0,25/1/2021
+2,"Wall of Fire",3ED,0.0,0,0,0,17/9/2018
+1,"Wall of Fire",5ED,0.0,0,0,4,24/2/2019
+1,"Wall of Heat",LEG,0.0,0,0,0,18/7/2020
+10,"Wall of Heat",LEG,0.0,0,0,4,8/5/2020
+2,"Wall of Heat",CHR,0.0,0,0,0,25/1/2021
+4,"Wall of Opposition",CHR,0.0,0,0,0,25/1/2021
+1,"Wall of Razors",STH,0.0,0,0,4,28/7/2018
+2,"Wall of Stone",3ED,0.0,0,0,0,8/5/2020
+1,"Wall of Stone",5ED,0.0,0,0,4,24/2/2019
+1,"Wall of Stone",5ED,0.0,0,0,5,19/4/2020
+1,"Wall of Stone",2ED,0.0,0,0,0,8/5/2020
+2,"War Elemental",MRD,0.0,0,0,0,3/3/2019
+1,"War-Spike Changeling",MMA,0.0,0,0,0,28/7/2018
+1,"War-Spike Changeling",MOR,0.0,0,0,4,28/7/2018
+1,"Warbreak Trumpeter",LGN,0.0,0,0,6,6/4/2020
+1,"Warcry Phoenix",DOM,0.0,0,0,3,23/3/2020
+2,"Warfire Javelineer",AKH,0.0,0,0,4,1/11/2018
+3,"Warlord's Fury",DOM,0.0,0,0,0,23/3/2020
+14,"Warlord's Fury",DOM,0.0,0,0,4,23/3/2020
+2,"Warlord's Fury",DOM,0.0,0,0,5,23/3/2020
+1,"Warmonger",PMEI,0.0,0,0,0,19/4/2020
+1,"Warmonger",MMQ,0.0,0,0,0,18/7/2020
+1,"Warp World",RAV,0.0,0,0,0,3/3/2019
+1,"Warp World",RAV,0.0,0,0,4,3/3/2019
+2,"Warp World",10E,0.0,0,0,6,3/3/2019
+2,"Warstorm Surge",C19,0.0,0,0,0,22/3/2020
+9,"Wave of Indifference",ONS,0.0,0,0,0,22/2/2021
+1,"Wave of Indifference",ONS,0.0,0,0,4,17/9/2018
+1,"Wayward Giant",KLD,0.0,0,0,0,29/3/2020
+1,"Wheel of Fate",TSP,0.0,0,0,0,7/6/2020
+2,"Wheel of Fortune",3ED,0.0,0,0,0,25/1/2021
+1,"Wheel of Fortune",2ED,0.0,0,0,0,8/5/2020
+1,"Whims of the Fates",BNG,0.0,0,0,4,1/11/2018
+1,"Whipflare",NPH,0.0,0,0,0,29/3/2020
+2,"Whipkeeper",ODY,0.0,0,0,0,24/1/2021
+3,"Wild Celebrants",THS,0.0,0,0,4,28/7/2018
+3,"Wild Research",APC,0.0,0,0,0,24/1/2021
+1,"Wild Research",APC,0.0,0,0,3,19/4/2020
+4,"Wild Slash",FRF,0.0,0,0,0,12/7/2020
+1,"Wild Swing",SHM,0.0,0,0,0,3/3/2019
+3,"Wild Wurm",TMP,0.0,0,0,0,25/1/2021
+1,"Wild Wurm",TMP,0.0,0,0,4,28/7/2018
+1,"Wildfire",USG,0.0,0,0,4,17/9/2018
+7,"Wildfire",USG,0.0,1,0,0,19/4/2020
+2,"Wildfire Devils",C19,0.0,0,0,0,22/3/2020
+1,"Wildfire Emissary",MIR,0.0,0,0,0,17/9/2018
+1,"Wildfire Eternal",HOU,0.0,1,0,0,4/3/2019
+2,"Wily Goblin",XLN,0.0,0,0,0,28/3/2020
+1,"Winds of Change",LEG,0.0,0,0,3,18/7/2020
+5,"Winds of Change",LEG,0.0,0,0,4,8/5/2020
+1,"Winds of Change",5ED,0.0,0,0,4,24/2/2019
+1,"Winds of Change",4ED,0.0,0,0,0,24/2/2019
+1,"Windseeker Centaur",PMEI,0.0,0,0,0,8/5/2020
+4,"Wojek Bodyguard",GRN,0.0,0,0,0,15/3/2020
+1,"Wolf of Devil's Breach",SOI,0.0,0,0,4,3/3/2019
+3,"Word of Blasting",ICE,0.0,0,0,0,3/5/2020
+2,"Word of Blasting",ICE,0.0,0,0,4,24/2/2019
+1,"Word of Blasting",MMQ,0.0,1,0,3,19/4/2020
+1,"Words of War",ONS,0.0,0,0,3,17/3/2019
+1,"Worldgorger Dragon",JUD,0.0,0,0,0,29/7/2018
+1,"Worldheart Phoenix",MM2,0.0,0,0,0,29/3/2020
+4,"Wrack with Madness",DKA,0.0,0,0,4,28/7/2018
+3,"Wrangle",AER,0.0,0,0,4,29/3/2020
+1,"Wrangle",AER,0.0,0,0,5,5/11/2018
+4,"Wrap in Flames",THB,0.0,0,0,3,22/3/2020
+1,"Yamabushi's Flame",CHK,0.0,0,3,0,28/7/2018
+4,"Young Pyromancer",M14,0.0,0,0,4,25/9/2018
+1,"Young Pyromancer",M14,0.0,1,0,0,12/7/2020
+1,"Young Pyromancer",UMA,0.0,0,0,0,4/3/2019
+1,"Zada, Hedron Grinder",A25,0.0,0,0,4,1/11/2018
+1,"Zada, Hedron Grinder",BFZ,0.0,0,0,0,24/5/2020
+8,"Zap",INV,0.0,0,0,0,22/2/2021
+1,"Zap",INV,0.0,0,0,4,28/7/2018
+3,"Zerapa Minotaur",PCY,0.0,0,0,0,24/1/2021
+1,"Zirilan of the Claw",MIR,0.0,0,0,0,19/4/2020
+1,"Zo-Zu the Punisher",CHK,0.0,0,0,0,7/6/2020
+1,"Zurgo Bellstriker",DTK,0.0,0,0,0,29/3/2020
+4,"abandon reason",EMN,0.0,0,0,0,4/11/2018
+1,"abandon reason",EMN,0.0,0,0,4,4/11/2018
+1,"abrade",HOU,0.0,0,0,4,1/11/2018
+2,"acceptable losses",ODY,0.0,0,0,4,29/7/2018
+1,"acolyte of the inferno",ORI,0.0,0,0,4,1/11/2018
+1,"act of treason",KTK,0.0,0,0,4,1/11/2018
+5,"act of treason",ORI,0.0,0,0,4,1/11/2018
+7,"act of treason",M11,0.0,0,0,4,30/10/2018
+1,"act of treason",A25,0.0,0,0,0,4/11/2018
+1,"act on impulse",M15,0.0,0,0,4,1/11/2018
+8,"aether chaser",AER,0.0,0,0,0,4/11/2018
+1,"aether chaser",AER,0.0,0,0,5,4/11/2018
+2,"aether flash",WTH,0.0,0,0,4,28/7/2018
+1,"aether sting",UDS,0.0,0,0,4,29/7/2018
+1,"aetherflame wall",TSP,0.0,0,0,4,3/11/2018
+1,"aethertorch renegade",KLD,0.0,0,0,4,4/11/2018
+1,"aggravate",AVR,0.0,0,0,4,4/11/2018
+1,"aggression",ICE,0.0,0,0,0,28/7/2018
+1,"agility",MIR,0.0,0,0,0,28/7/2018
+3,"ainok tracker",KTK,0.0,0,0,4,1/11/2018
+1,"akki avalanchers",CHK,0.0,0,1,4,28/7/2018
+15,"akki blizzard-herder",BOK,0.0,0,0,0,24/5/2020
+1,"akki rockspeaker",CHK,0.0,0,1,4,28/7/2018
+3,"akoum battlesinger",WWK,0.0,0,0,4,3/11/2018
+1,"akoum boulderfoot",ROE,0.0,0,0,4,30/10/2018
+1,"akoum flameseeker",OGW,0.0,0,0,4,4/11/2018
+2,"akroan crusader",THS,0.0,0,0,4,1/11/2018
+4,"akroan sergeant",ORI,0.0,0,0,4,1/11/2018
+8,"alchemist's greeting",EMN,0.0,0,0,4,4/11/2018
+1,"aleatory",MIR,0.0,0,0,4,28/7/2018
+1,"aliban's tower2",HML,0.0,0,0,0,28/7/2018
+2,"ambush party1",HML,0.0,0,0,0,28/7/2018
+1,"an-zerrin ruins",HML,0.0,0,0,0,28/7/2018
+1,"anaba bodyguard",6ED,0.0,0,0,4,2/11/2018
+1,"anaba bodyguard1",HML,0.0,0,0,0,28/7/2018
+1,"anaba shaman",6ED,0.0,0,0,0,2/11/2018
+3,"anaba shaman",6ED,0.0,0,0,4,2/11/2018
+1,"anaba shaman1",HML,0.0,0,0,0,28/7/2018
+1,"anarchist",EXO,0.0,0,0,4,28/7/2018
+1,"ancient hydra",NMS,0.0,0,1,4,28/7/2018
+1,"annihilating fire",RTR,0.0,0,0,4,4/11/2018
+1,"annihilating fire",RTR,0.0,0,0,8,4/11/2018
+1,"arc lightning",KTK,0.0,0,0,4,4/11/2018
+1,"arc mage",NMS,0.0,0,0,4,29/7/2018
+1,"arc runner",M11,0.0,0,0,4,3/11/2018
+6,"arcane teachings",JUD,0.0,0,0,0,3/11/2018
+1,"archetype of aggression",BNG,0.0,0,0,0,1/11/2018
+2,"archetype of aggression",BNG,0.0,0,0,4,4/11/2018
+3,"arena athlete",THS,0.0,0,0,4,1/11/2018
+1,"armorer guildmage",MIR,0.0,0,0,4,28/7/2018
+2,"arms dealer",M13,0.0,0,0,4,4/11/2018
+1,"artifact blast",ATQ,0.0,0,0,0,23/2/2019
+1,"artillerize",NPH,0.0,0,0,4,4/11/2018
+1,"ashen firebeast",ODY,0.0,0,0,3,17/3/2019
+1,"ashmouth hound",ISD,0.0,0,0,4,28/7/2018
+1,"atarka efreet",DTK,0.0,0,0,4,3/3/2019
+1,"atarka pummeler",DTK,0.0,0,0,4,3/3/2019
+1,"atog",ATQ,0.0,0,0,0,23/2/2019
+1,"avalanche",ICE,0.0,0,0,4,28/7/2018
+1,"avatar of fury",E01,0.0,0,0,0,1/11/2018
+2,"balduvian barbarians",8ED,0.0,0,0,4,28/7/2018
+2,"balduvian barbarians",ICE,0.0,0,0,4,28/7/2018
+1,"balduvian barbarians",9ED,0.0,0,0,4,28/7/2018
+1,"balduvian hydra",ICE,0.0,0,0,4,28/7/2018
+1,"balduvian rage",CSP,0.0,0,0,4,3/11/2018
+1,"barbarian bully",JUD,0.0,0,0,4,28/7/2018
+1,"barbarian guides",ICE,0.0,0,0,4,28/7/2018
+2,"barbarian lunatic",ODY,0.0,0,0,4,29/7/2018
+2,"barbarian riftcutter",RAV,0.0,0,0,4,3/11/2018
+8,"barbed lightning",DST,0.0,0,0,4,28/7/2018
+2,"barrage of boulders",KTK,0.0,0,0,4,4/11/2018
+1,"barreling attack",MIR,0.0,0,0,4,28/7/2018
+2,"bathe in dragonfire",FRF,0.0,0,0,4,3/3/2019
+2,"batterhorn",RTR,0.0,0,0,4,4/11/2018
+1,"battering craghorn",ONS,0.0,0,1,0,28/7/2018
+1,"battle frenzy",ICE,0.0,0,0,4,28/7/2018
+3,"battle rampart",ROE,0.0,0,0,4,3/11/2018
+3,"battle rampart",MMQ,0.0,0,0,4,2/11/2018
+2,"battle-rattle shaman",IMA,0.0,0,0,0,4/11/2018
+1,"battle-rattle shaman",ROE,0.0,0,0,4,30/10/2018
+1,"battle-rattle shaman",MM3,0.0,0,0,0,4/11/2018
+1,"battle-rattle shaman",E01,0.0,0,0,0,1/11/2018
+2,"belligerent sliver",M15,0.0,0,0,4,1/11/2018
+4,"belligerent whiptail",BFZ,0.0,0,0,4,4/11/2018
+5,"bellows lizard",ORI,0.0,0,0,4,1/11/2018
+2,"bellows lizard",RTR,0.0,0,0,4,4/11/2018
+2,"berserkers of blood ridge",M11,0.0,0,0,4,28/7/2018
+1,"blade sliver",LGN,0.0,0,0,0,28/7/2018
+10,"blademane baku",BOK,0.0,0,0,0,24/5/2020
+1,"blades of velis vel",MM2,0.0,0,0,0,4/11/2018
+1,"bladetusk boar",M13,0.0,0,0,4,4/11/2018
+3,"bladetusk boar",ZEN,0.0,0,0,4,3/11/2018
+2,"blaster mage",MMQ,0.0,0,0,0,2/11/2018
+3,"blastfire bolt",M15,0.0,0,0,4,4/11/2018
+1,"blaze",6ED,0.0,0,0,4,2/11/2018
+1,"blaze",8ED,0.0,0,0,4,30/10/2018
+1,"blaze2",POR,0.0,0,0,0,28/7/2018
+2,"blazing salvo",ODY,0.0,0,0,4,29/7/2018
+1,"blazing volley",AKH,0.0,0,0,0,4/11/2018
+4,"blazing volley",AKH,0.0,0,0,4,1/11/2018
+1,"blind fury",MIR,0.0,0,0,0,28/7/2018
+1,"blind-spot giant",LRW,0.0,0,0,4,28/7/2018
+4,"blind-spot giant",MMA,0.0,0,0,0,4/11/2018
+1,"blistering barrier",MIR,0.0,0,0,4,28/7/2018
+2,"blistering dieflyn",SHM,0.0,0,0,4,3/11/2018
+1,"blisterstick shaman",MBS,0.0,0,0,4,4/11/2018
+1,"blockbuster",RAV,0.0,0,0,0,28/7/2018
+1,"blood frenzy",TMP,0.0,0,0,4,28/7/2018
+4,"blood mist",EMN,0.0,0,0,0,4/11/2018
+2,"blood mist",EMN,0.0,0,0,4,4/11/2018
+1,"blood ogre",MM2,0.0,0,0,0,4/11/2018
+3,"blood ogre",E01,0.0,0,0,0,1/11/2018
+1,"bloodcrazed goblin",M11,0.0,0,0,4,3/11/2018
+1,"bloodfire enforcers",FRF,0.0,0,0,4,3/3/2019
+1,"bloodfire expert",KTK,0.0,0,0,4,4/11/2018
+1,"bloodfire mentor",KTK,0.0,0,0,4,1/11/2018
+1,"bloodlust inciter",AKH,0.0,0,0,0,4/11/2018
+5,"bloodlust inciter",AKH,0.0,0,0,4,1/11/2018
+2,"bloodmad vampire",SOI,0.0,0,0,4,4/11/2018
+2,"bloodrock cyclops",10E,0.0,0,0,4,3/11/2018
+1,"bloodrock cyclops",WTH,0.0,0,0,4,28/7/2018
+2,"bloodshed fever",SHM,0.0,0,0,4,28/7/2018
+3,"bloodshot trainee",FUT,0.0,0,0,4,3/11/2018
+1,"bloodshot trainee",MM2,0.0,0,0,0,5/11/2018
+2,"bloodstone goblin",DOM,0.0,0,0,0,4/11/2018
+1,"bloodstone goblin",DOM,0.0,0,0,4,4/11/2018
+1,"bloodthorn taunter",ALA,0.0,0,0,4,3/11/2018
+1,"blur of blades",HOU,0.0,0,0,0,4/11/2018
+2,"bogardan firefiend",10E,0.0,0,0,4,3/11/2018
+1,"bogardan hellkite",IMA,0.0,0,0,0,4/11/2018
+1,"bogardan lancer",FUT,0.0,0,0,4,3/11/2018
+1,"boggart arsonists",SHM,0.0,0,0,4,31/10/2018
+9,"boggart brute",ORI,0.0,0,0,4,4/11/2018
+1,"boiling blood",WTH,0.0,0,0,4,28/7/2018
+2,"bola warrior",NMS,0.0,0,0,4,2/11/2018
+10,"bold impaler",EMN,0.0,0,0,4,4/11/2018
+1,"boldwyr intimidator",FUT,0.0,0,0,4,3/11/2018
+2,"bolt of keranos",BNG,0.0,0,0,0,1/11/2018
+2,"bombard",RIX,0.0,0,0,0,4/11/2018
+1,"bonded horncrest",XLN,0.0,0,0,4,4/11/2018
+1,"bonebreaker giant",M12,0.0,0,0,4,4/11/2018
+1,"bonesplitter sliver",TSP,0.0,0,0,4,28/7/2018
+3,"bonethorn valesk",SCG,0.0,0,0,0,29/7/2018
+7,"borderland marauder",IMA,0.0,0,0,0,4/11/2018
+1,"borderland marauder",IMA,0.0,1,0,0,4/11/2018
+1,"borderland marauder",M15,0.0,0,0,4,1/11/2018
+4,"borderland minotaur",THS,0.0,0,0,4,1/11/2018
+8,"borrowed hostility",EMN,0.0,0,0,4,4/11/2018
+6,"boulder salvo",OGW,0.0,0,0,0,4/11/2018
+3,"boulder salvo",OGW,0.0,0,0,4,4/11/2018
+2,"boulderfall",THS,0.0,0,0,4,1/11/2018
+1,"brand of ill omen",ICE,0.0,0,0,4,28/7/2018
+4,"branded brawlers",PCY,0.0,0,0,0,2/11/2018
+1,"brass's bounty",RIX,0.0,0,0,0,4/11/2018
+2,"brazen buccaneers",XLN,0.0,0,0,0,4/11/2018
+2,"brazen freebooter",RIX,0.0,0,0,0,4/11/2018
+5,"brazen scourge",KLD,0.0,0,0,4,4/11/2018
+8,"brazen wolves",EMN,0.0,0,0,4,4/11/2018
+11,"break open",ONS,0.0,0,0,0,28/7/2018
+1,"break through the line",FRF,0.0,0,0,4,3/3/2019
+1,"brighthearth banneret",MOR,0.0,0,0,4,3/11/2018
+1,"brightstone ritual",ONS,0.0,0,0,4,29/7/2018
+1,"brimstone mage",ROE,0.0,0,0,4,30/10/2018
+2,"bring low",KTK,0.0,0,0,4,1/11/2018
+2,"brood birthing",ROE,0.0,0,0,4,30/10/2018
+1,"brood keeper",M15,0.0,0,0,4,1/11/2018
+5,"brute strength",OGW,0.0,0,0,4,4/11/2018
+2,"brute strength",AKH,0.0,0,0,0,4/11/2018
+3,"brute strength",AKH,0.0,0,0,4,1/11/2018
+2,"buccaneer's bravado",RIX,0.0,0,0,0,4/11/2018
+1,"builder's bane",MIR,0.0,0,0,0,28/7/2018
+2,"built to smash",KLD,0.0,0,0,4,3/3/2019
+2,"burn away",KTK,0.0,0,0,4,4/11/2018
+3,"burn from within",SOI,0.0,0,0,0,5/11/2018
+1,"burn trail",SHM,0.0,0,0,4,28/7/2018
+1,"burning cloak",POR,0.0,0,0,0,28/7/2018
+1,"burning palm efreet",MIR,0.0,0,0,4,28/7/2018
+1,"burning sands",ODY,0.0,0,0,3,17/3/2019
+1,"burning shield askari",MIR,0.0,0,0,4,28/7/2018
+1,"burning sun's avatar",XLN,0.0,0,0,0,4/11/2018
+2,"burning-fist minotaur",HOU,0.0,0,0,0,4/11/2018
+1,"burnout",ALL,0.0,0,0,0,28/7/2018
+1,"burrowing",3ED,0.0,1,0,3,17/3/2019
+1,"burrowing",3ED,0.0,1,0,4,23/2/2019
+1,"burrowing",6ED,0.0,0,0,4,2/11/2018
+1,"burst lightning",ZEN,0.0,0,0,4,3/11/2018
+1,"burst lightning",MM2,0.0,0,0,0,5/11/2018
+2,"burst of speed",M10,0.0,0,0,4,30/10/2018
+3,"caldera kavu",PLS,0.0,0,0,4,3/11/2018
+1,"canyon lurkers",KTK,0.0,0,0,4,1/11/2018
+1,"canyon minotaur",M10,0.0,0,0,4,28/7/2018
+1,"canyon minotaur",M13,0.0,0,0,4,4/11/2018
+3,"canyon minotaur",CON,0.0,0,0,4,28/7/2018
+1,"canyon wildcat",TMP,0.0,0,0,4,28/7/2018
+2,"canyon wildcat",8ED,0.0,0,0,4,28/7/2018
+1,"carbonize",SCG,0.0,0,0,0,29/7/2018
+2,"cathartic reunion",KLD,0.0,0,0,4,3/3/2019
+1,"cave sense",MMQ,0.0,0,0,4,28/7/2018
+2,"cavern crawler",MMQ,0.0,0,0,4,2/11/2018
+1,"chain of plasma",ONS,0.0,0,1,4,29/7/2018
+4,"chainflinger",ODY,0.0,0,0,0,29/7/2018
+4,"chainflinger",ODY,0.0,0,0,4,3/11/2018
+1,"chandler",HML,0.0,0,0,4,28/7/2018
+4,"chandra's fury",ORI,0.0,0,0,4,4/11/2018
+1,"chandra's fury",M13,0.0,0,0,4,4/11/2018
+1,"chandra's outrage",M11,0.0,0,0,4,3/11/2018
+1,"chandra's outrage",MM3,0.0,0,0,0,4/11/2018
+2,"chandra's outrage",E01,0.0,0,0,0,1/11/2018
+1,"chandra's outrage",A25,0.0,0,0,0,4/11/2018
+1,"chandra's pyrohelix",KLD,0.0,0,0,4,3/3/2019
+8,"chandra's revolution",AER,0.0,0,0,0,4/11/2018
+1,"chandra, pyromaster",E01,0.0,0,0,0,1/11/2018
+2,"changeling berserker",LRW,0.0,0,0,4,28/7/2018
+1,"chaos charm",MIR,0.0,0,0,0,28/7/2018
+1,"chaos moon",ICE,0.0,0,0,0,28/7/2018
+1,"chaoslace",4ED,0.0,0,0,0,28/7/2018
+2,"charging slateback",ONS,0.0,0,0,4,29/7/2018
+1,"charging tuskodon",RIX,0.0,0,0,0,4/11/2018
+1,"charmbreaker devils",IMA,0.0,0,0,0,4/11/2018
+1,"chartooth cougar",SCG,0.0,0,0,4,29/7/2018
+3,"chartooth cougar",A25,0.0,0,0,0,4/11/2018
+1,"cinder cloud",MIR,0.0,0,0,4,28/7/2018
+1,"cinder crawler",EXO,0.0,0,0,4,28/7/2018
+1,"cinder giant",WTH,0.0,0,0,4,28/7/2018
+3,"cinder hellion",OGW,0.0,0,0,4,4/11/2018
+2,"cinder pyromancer",EVE,0.0,0,0,4,3/11/2018
+3,"cinder storm",A25,0.0,0,0,0,4/11/2018
+2,"cleansing beam",RAV,0.0,0,0,4,3/11/2018
+1,"cleansing beam",CMA,0.0,0,0,0,4/11/2018
+2,"clear a path",M15,0.0,0,0,4,4/11/2018
+1,"cleaver riot",M13,0.0,0,0,4,4/11/2018
+2,"coal stoker",TSP,0.0,0,0,4,28/7/2018
+1,"coalhauler swine",RAV,0.0,0,0,0,28/7/2018
+4,"cobblebrute",ORI,0.0,0,0,4,1/11/2018
+1,"cobblebrute",RTR,0.0,0,0,4,4/11/2018
+5,"collateral damage",FRF,0.0,0,0,4,3/3/2019
+2,"colos yearling",UDS,0.0,0,0,0,2/11/2018
+1,"colos yearling",UDS,0.0,0,0,4,29/7/2018
+1,"commune with lava",DTK,0.0,0,0,4,5/11/2018
+2,"concussive bolt",MBS,0.0,0,0,4,4/11/2018
+4,"conduit of storms",EMN,0.0,0,0,4,4/11/2018
+3,"cone of flame",WTH,0.0,0,0,4,28/7/2018
+4,"cone of flame",M15,0.0,0,0,4,4/11/2018
+1,"conquer",6ED,0.0,0,0,4,2/11/2018
+1,"conquer",ICE,0.0,0,0,4,28/7/2018
+1,"conquering manticore",ROE,0.0,0,0,4,30/10/2018
+2,"consuming bonfire",LRW,0.0,0,0,4,28/7/2018
+1,"consuming ferocity",MIR,0.0,0,0,4,28/7/2018
+1,"consuming fervor",AKH,0.0,0,0,0,4/11/2018
+5,"consuming sinkhole",OGW,0.0,0,0,0,5/11/2018
+3,"convicted killer",SOI,0.0,0,0,4,4/11/2018
+2,"coordinated assault",IMA,0.0,0,0,0,4/11/2018
+1,"coordinated assault",IMA,0.0,1,0,0,4/11/2018
+1,"coordinated assault",E01,0.0,0,0,0,1/11/2018
+4,"cosi's ravager",WWK,0.0,0,0,4,3/11/2018
+2,"crack the earth",BOK,0.0,0,0,0,24/5/2020
+1,"crash",MMQ,0.0,0,0,0,2/11/2018
+2,"crash",MMQ,0.0,0,0,4,28/7/2018
+1,"crash through",HOU,0.0,0,0,0,4/11/2018
+1,"crater hellion",USG,0.0,0,0,4,28/7/2018
+1,"craterize",M13,0.0,0,0,4,4/11/2018
+1,"craven giant",STH,0.0,0,0,4,28/7/2018
+2,"crazed firecat",TOR,0.0,0,0,4,29/7/2018
+3,"crested craghorn",LGN,0.0,0,0,4,28/7/2018
+2,"crimson mage",A25,0.0,0,0,0,4/11/2018
+3,"crimson muckwader",M13,0.0,0,0,4,4/11/2018
+1,"crimson roc",MIR,0.0,0,0,4,28/7/2018
+1,"crossway vampire",ISD,0.0,0,0,4,4/11/2018
+3,"crowd's favor",M15,0.0,0,0,4,4/11/2018
+1,"crown of flames",TMP,0.0,0,0,4,28/7/2018
+5,"crown of fury",ONS,0.0,0,0,0,28/7/2018
+1,"crown of fury",ONS,0.0,0,0,4,3/11/2018
+1,"crush",MBS,0.0,0,0,4,4/11/2018
+4,"crusher zendikon",WWK,0.0,0,0,4,3/11/2018
+1,"curse of the nightly hunt",ISD,0.0,0,0,4,28/7/2018
+1,"cyclops gladiator",M11,0.0,0,0,4,30/10/2018
+2,"cyclops of eternal fury",JOU,0.0,0,0,4,4/11/2018
+4,"dangerous wager",AVR,0.0,0,0,4,28/7/2018
+1,"daring buccaneer",RIX,0.0,0,0,0,4/11/2018
+2,"daring buccaneer",RIX,0.0,0,0,4,4/11/2018
+1,"dark temper",CON,0.0,0,0,0,3/11/2018
+1,"death by dragons",CMA,0.0,0,0,0,4/11/2018
+2,"deathbellow raider",THS,0.0,0,0,4,1/11/2018
+1,"decree of annihilation",SCG,0.0,0,0,4,29/7/2018
+2,"defender of chaos",ULG,0.0,0,0,4,2/11/2018
+2,"defiant khenra",HOU,0.0,0,0,0,4/11/2018
+1,"defiant khenra",HOU,0.0,0,0,4,1/11/2018
+2,"defiant ogre",FRF,0.0,0,0,4,3/3/2019
+3,"demolish",THS,0.0,0,0,4,1/11/2018
+1,"demolish",XLN,0.0,0,0,0,4/11/2018
+1,"demolish",XLN,0.0,0,0,4,17/9/2018
+5,"demolish",ZEN,0.0,0,0,4,3/11/2018
+1,"demolish",10E,0.0,0,0,4,28/7/2018
+1,"demolish",KLD,0.0,0,0,4,3/3/2019
+2,"demolish",M11,0.0,0,0,0,28/7/2018
+1,"demolish",M11,0.0,0,0,4,28/7/2018
+2,"demoralize",ODY,0.0,0,0,4,29/7/2018
+6,"desert cerodon",AKH,0.0,0,0,4,1/11/2018
+1,"desperate ritual",DDS,0.0,0,0,0,1/11/2018
+8,"destructive tampering",AER,0.0,0,0,0,4/11/2018
+1,"devastating dreams",TOR,0.0,0,0,4,29/7/2018
+2,"devils' playground",SOI,0.0,0,0,0,5/11/2018
+1,"dictate of the twin gods",JOU,0.0,0,0,4,1/11/2018
+2,"disintegrate",5ED,0.0,0,0,4,24/2/2019
+1,"dissension in the ranks",SOI,0.0,0,0,4,1/11/2018
+8,"distemper of the blood",EMN,0.0,0,0,4,4/11/2018
+1,"dogpile",RAV,0.0,0,0,0,28/7/2018
+4,"dogpile",RAV,0.0,0,0,4,3/11/2018
+3,"downhill charge",NMS,0.0,0,0,4,29/7/2018
+2,"dragon breath",SCG,0.0,0,0,0,29/7/2018
+1,"dragon breath",SCG,0.0,0,0,4,28/7/2018
+3,"dragon egg",IMA,0.0,0,0,0,4/11/2018
+1,"dragon fodder",ORI,0.0,0,0,4,1/11/2018
+1,"dragon fodder",MM3,0.0,0,0,0,4/11/2018
+4,"dragon fodder",DTK,0.0,0,0,4,3/3/2019
+1,"dragon grip",KTK,0.0,0,0,4,1/11/2018
+2,"dragon hatchling",M13,0.0,0,0,4,4/11/2018
+1,"dragon mage",SCG,0.0,0,0,0,29/7/2018
+1,"dragon tempest",DTK,0.0,0,0,0,5/11/2018
+1,"dragon tyrant",SCG,0.0,0,0,4,29/7/2018
+1,"dragon whelp",M10,0.0,0,0,4,3/11/2018
+2,"dragon whelp",4ED,0.0,0,0,4,28/7/2018
+1,"dragon whelp",CMA,0.0,0,0,0,4/11/2018
+1,"dragonrage",FRF,0.0,0,0,4,3/3/2019
+3,"dragonsoul knight",MM2,0.0,0,0,0,5/11/2018
+1,"dual shot",XLN,0.0,0,0,0,4/11/2018
+1,"dual shot",XLN,0.0,0,0,4,17/9/2018
+3,"dual shot",SOI,0.0,0,0,4,1/11/2018
+1,"dualcaster mage",E01,0.0,0,0,0,1/11/2018
+2,"dust corona",PLC,0.0,0,0,4,3/11/2018
+1,"dwarven armory",ICE,0.0,0,0,4,28/7/2018
+1,"dwarven blastminer",ONS,0.0,0,0,4,28/7/2018
+1,"dwarven grunt",ODY,0.0,0,0,4,29/7/2018
+2,"dwarven miner",MIR,0.0,0,0,0,28/7/2018
+1,"dwarven nomad",MIR,0.0,0,0,4,28/7/2018
+1,"dwarven pony",HML,0.0,0,0,4,28/7/2018
+2,"dwarven recruiter",ODY,0.0,0,0,4,29/7/2018
+1,"dwarven sea clan",HML,0.0,0,0,4,28/7/2018
+1,"dwarven shrine",ODY,0.0,0,0,3,17/3/2019
+1,"dwarven soldier",5ED,0.0,0,0,4,24/2/2019
+2,"dwarven trader2",HML,0.0,0,0,4,28/7/2018
+3,"dwarven vigilantes",VIS,0.0,0,0,0,28/7/2018
+2,"dwarven warriors",4ED,0.0,1,0,5,24/2/2019
+1,"dwarven warriors",3ED,0.0,0,0,4,28/10/2018
+1,"dwarven warriors",3ED,0.0,1,0,3,17/3/2019
+1,"dwarven warriors",5ED,0.0,0,0,4,24/2/2019
+1,"dwarven weaponsmith",ATQ,0.0,0,0,0,23/2/2019
+1,"dwarven weaponsmith",3ED,0.0,1,0,3,17/3/2019
+1,"dwarven weaponsmith",3ED,0.0,1,0,4,23/2/2019
+1,"dynacharge",RTR,0.0,0,0,4,4/11/2018
+5,"earth elemental",IMA,0.0,0,0,0,4/11/2018
+1,"earth elemental",3ED,0.0,1,0,3,17/3/2019
+2,"earth rift",ODY,0.0,0,0,4,3/11/2018
+1,"earthquake",5ED,0.0,0,0,4,24/2/2019
+2,"earthquake",3ED,0.0,1,0,4,23/2/2019
+3,"echoing ruin",DST,0.0,0,0,4,28/7/2018
+2,"ekundu cyclops",MIR,0.0,0,0,4,28/7/2018
+1,"eldrazi aggressor",OGW,0.0,0,0,0,4/11/2018
+2,"electrify",AKH,0.0,0,0,0,4/11/2018
+1,"electryte",USG,0.0,0,0,4,28/7/2018
+4,"ember beast",ODY,0.0,0,0,0,3/11/2018
+1,"ember beast",ODY,0.0,0,0,4,29/7/2018
+2,"ember beast",GTC,0.0,0,0,4,4/11/2018
+1,"ember gale",SHM,0.0,0,0,4,31/10/2018
+2,"ember shot",JUD,0.0,0,0,4,28/7/2018
+4,"ember-eye wolf",SOI,0.0,0,0,4,4/11/2018
+3,"emberhorn minotaur",AKH,0.0,0,0,0,4/11/2018
+4,"emberhorn minotaur",AKH,0.0,0,0,4,1/11/2018
+1,"embermage goblin",ONS,0.0,0,1,0,28/7/2018
+1,"emberwilde augur",FUT,0.0,0,0,4,3/11/2018
+1,"emberwilde djinn",MIR,0.0,0,0,0,28/7/2018
+4,"embraal gear-smasher",AER,0.0,0,0,0,4/11/2018
+1,"embraal gear-smasher",AER,0.0,0,0,4,1/11/2018
+2,"empty the warrens",DDS,0.0,0,0,0,1/11/2018
+1,"emrakul's hatcher",ROE,0.0,0,0,4,30/10/2018
+2,"enrage",8ED,0.0,0,0,4,30/10/2018
+1,"enrage",SCG,0.0,0,0,0,29/7/2018
+1,"enraged giant",AER,0.0,0,0,0,4/11/2018
+3,"enraged giant",AER,0.0,0,0,4,4/11/2018
+1,"enslaved dwarf",TOR,0.0,0,0,4,29/7/2018
+1,"enslaved scout1",ALL,0.0,0,0,4,28/7/2018
+3,"epiphany storm",BNG,0.0,0,0,4,4/11/2018
+2,"erdwal ripper",DKA,0.0,0,0,4,4/11/2018
+1,"eternal warrior",5ED,0.0,0,0,4,24/2/2019
+1,"evaporate",HML,0.0,0,0,4,28/7/2018
+1,"everflame eidolon",BNG,0.0,0,0,4,4/11/2018
+2,"explosive impact",RTR,0.0,0,0,4,4/11/2018
+1,"explosive revelation",ROE,0.0,0,0,4,30/10/2018
+1,"extra arms",SCG,0.0,0,0,0,29/7/2018
+11,"falkenrath reaver",EMN,0.0,0,0,4,4/11/2018
+3,"fall of the hammer",BNG,0.0,0,0,4,4/11/2018
+1,"falter",USG,0.0,0,0,4,2/11/2018
+2,"fanatic of mogis",THS,0.0,0,0,4,1/11/2018
+1,"fanatical firebrand",RIX,0.0,0,0,0,4/11/2018
+6,"fatal attraction",FUT,0.0,0,0,4,3/11/2018
+2,"fathom fleet firebrand",XLN,0.0,0,0,4,17/9/2018
+3,"faultgrinder",LRW,0.0,0,0,4,28/7/2018
+1,"fearsome temper",BNG,0.0,0,0,0,1/11/2018
+6,"fearsome temper",BNG,0.0,0,0,4,4/11/2018
+1,"feral ridgewolf",ISD,0.0,0,0,4,28/7/2018
+1,"fervent cathar",EMA,0.0,0,0,0,5/11/2018
+1,"fervent paincaster",HOU,0.0,0,0,0,4/11/2018
+1,"fervent paincaster",HOU,0.0,0,0,4,4/11/2018
+3,"fervent strike",DOM,0.0,0,0,0,4/11/2018
+1,"fierce invocation",FRF,0.0,0,0,4,3/3/2019
+1,"fiery cannonade",XLN,0.0,0,0,0,4/11/2018
+1,"fiery conclusion",RAV,0.0,0,0,0,28/7/2018
+1,"fiery conclusion",RAV,0.0,0,0,4,28/7/2018
+1,"fiery conclusion",ORI,0.0,0,0,4,4/11/2018
+2,"fiery fall",E01,0.0,0,0,0,1/11/2018
+3,"fiery fall",CON,0.0,0,0,4,31/10/2018
+1,"fiery hellhound",M11,0.0,0,0,4,28/7/2018
+3,"fiery hellhound",M10,0.0,0,0,0,3/11/2018
+4,"fiery hellhound",M10,0.0,0,0,4,30/10/2018
+5,"fiery impulse",ORI,0.0,0,0,4,1/11/2018
+4,"fiery intervention",DOM,0.0,0,0,0,4/11/2018
+1,"fiery temper",SOI,0.0,0,0,4,1/11/2018
+2,"fight with fire",DOM,0.0,0,0,0,4/11/2018
+1,"fight with fire",DOM,0.0,0,0,4,4/11/2018
+2,"fire elemental",M13,0.0,0,0,4,4/11/2018
+1,"fire elemental",3ED,0.0,1,0,4,23/2/2019
+2,"fire elemental",DOM,0.0,0,0,0,4/11/2018
+2,"fire elemental",DOM,0.0,0,0,4,4/11/2018
+1,"fire elemental",4ED,0.0,0,0,0,28/7/2018
+1,"fire imp",POR,0.0,0,1,0,1/3/2021
+3,"fire juggler",MOR,0.0,0,0,4,3/11/2018
+3,"fire shrine keeper",XLN,0.0,0,0,0,4/11/2018
+1,"fire whip",WTH,0.0,0,0,0,28/7/2018
+2,"fire-belly changeling",LRW,0.0,0,0,4,28/7/2018
+2,"fireball",4ED,0.0,1,0,5,24/2/2019
+5,"fireball",3ED,0.0,1,0,4,23/2/2019
+2,"fireball",IMA,0.0,0,0,0,4/11/2018
+1,"fireball",DST,0.0,0,0,4,28/7/2018
+2,"fireball",5ED,0.0,0,0,4,24/2/2019
+1,"fireball",M10,0.0,0,0,4,30/10/2018
+1,"firebreathing",10E,0.0,0,0,4,28/7/2018
+2,"firebreathing",M10,0.0,0,0,4,30/10/2018
+2,"firebreathing",4ED,0.0,1,0,5,24/2/2019
+1,"firebreathing",3ED,0.0,1,0,3,17/3/2019
+1,"firebreathing",5ED,0.0,0,0,0,24/2/2019
+1,"firebreathing",6ED,0.0,0,0,4,2/11/2018
+2,"firebreathing",MIR,0.0,0,0,4,28/7/2018
+5,"firefiend elemental",ORI,0.0,0,0,4,1/11/2018
+1,"firefist adept",DOM,0.0,0,0,0,4/11/2018
+2,"firefist adept",DOM,0.0,0,0,4,4/11/2018
+2,"firefright mage",PLC,0.0,0,0,4,3/11/2018
+1,"fires of undeath",DKA,0.0,0,0,4,4/11/2018
+1,"fireslinger",TMP,0.0,0,0,4,28/7/2018
+7,"first volley",BOK,0.0,0,0,0,24/5/2020
+1,"fissure vent",ROE,0.0,0,0,4,30/10/2018
+1,"fit of rage",WTH,0.0,0,0,4,28/7/2018
+1,"fit of rage",6ED,0.0,0,0,4,2/11/2018
+2,"flame burst",ODY,0.0,0,0,4,28/7/2018
+2,"flame elemental",MIR,0.0,0,0,4,28/7/2018
+4,"flame jab",EVE,0.0,0,0,4,3/11/2018
+1,"flame rift",NMS,0.0,0,0,4,29/7/2018
+1,"flame slash",ROE,0.0,0,0,4,30/10/2018
+1,"flame spirit",5ED,0.0,0,0,4,24/2/2019
+3,"flame spirit",6ED,0.0,0,0,4,2/11/2018
+1,"flame spirit",ICE,0.0,0,0,4,28/7/2018
+2,"flameborn viron",NPH,0.0,0,0,4,4/11/2018
+1,"flamecore elemental",TSP,0.0,0,0,4,3/11/2018
+5,"flamekin brawler",LRW,0.0,0,0,4,28/7/2018
+1,"flames of the firebrand",M14,0.0,0,0,4,4/11/2018
+1,"flamespeaker adept",THS,0.0,0,0,4,1/11/2018
+2,"flametongue kavu",E01,0.0,0,0,0,1/11/2018
+1,"flamewave invoker",LGN,0.0,0,0,4,28/7/2018
+1,"flaming gambit",TOR,0.0,0,0,4,29/7/2018
+2,"flaming sword",MMQ,0.0,0,0,4,2/11/2018
+1,"flare",MIR,0.0,0,0,4,28/7/2018
+1,"flare",5ED,0.0,0,0,4,24/2/2019
+4,"flash of defiance",TOR,0.0,0,0,4,28/7/2018
+1,"flashfires",4ED,0.0,0,0,4,28/7/2018
+1,"flashfires",5ED,0.0,0,0,4,24/2/2019
+1,"fling",AKH,0.0,0,0,0,4/11/2018
+2,"fling",AKH,0.0,0,0,4,1/11/2018
+1,"fling",STH,0.0,0,0,0,28/7/2018
+2,"flowstone crusher",NMS,0.0,0,0,4,29/7/2018
+2,"flowstone embrace",FUT,0.0,0,0,4,3/11/2018
+2,"flowstone flood",EXO,0.0,0,0,4,28/7/2018
+1,"flowstone shambler",STH,0.0,0,0,4,28/7/2018
+2,"flowstone strike",NMS,0.0,0,0,4,2/11/2018
+2,"flowstone wall",NMS,0.0,0,0,4,2/11/2018
+1,"flurry of horns",JOU,0.0,0,0,4,4/11/2018
+4,"fomori nomad",FUT,0.0,0,0,4,3/11/2018
+1,"font of ire",JOU,0.0,0,0,4,4/11/2018
+1,"forerunner of the empire",RIX,0.0,0,0,0,4/11/2018
+3,"forge armor",MRD,0.0,0,0,4,28/7/2018
+9,"forge devil",M15,0.0,0,0,4,4/11/2018
+3,"forge devil",DKA,0.0,0,0,4,4/11/2018
+2,"fork",3ED,0.0,1,0,4,23/2/2019
+1,"form of the dinosaur",RIX,0.0,0,0,0,4/11/2018
+1,"form of the dragon",SCG,0.0,0,0,4,29/7/2018
+1,"foundry street denizen",GTC,0.0,0,0,4,4/11/2018
+2,"foundry street denizen",M15,0.0,0,0,6,5/11/2018
+1,"freejam regent",AER,0.0,0,0,0,4/11/2018
+2,"frenzied goblin",A25,0.0,0,0,0,4/11/2018
+2,"frenzied rage",DOM,0.0,0,0,0,4/11/2018
+1,"frenzied rage",DOM,0.0,0,0,4,4/11/2018
+1,"friendly fire",FRF,0.0,0,0,4,3/3/2019
+8,"frontline rebel",AER,0.0,0,0,0,4/11/2018
+1,"frontline rebel",AER,0.0,0,0,5,4/11/2018
+5,"frost ogre",BOK,0.0,0,0,0,24/5/2020
+4,"frostling",BOK,0.0,0,0,0,24/5/2020
+3,"frostwielder",CHK,0.0,0,1,4,28/7/2018
+1,"furious reprisal",KLD,0.0,0,0,4,4/11/2018
+1,"furious resistance",GTC,0.0,0,0,4,28/7/2018
+1,"furnace scamp",NPH,0.0,0,0,4,4/11/2018
+2,"furnace whelp",M13,0.0,0,0,4,4/11/2018
+7,"furnace whelp",IMA,0.0,0,0,0,4/11/2018
+1,"furor of the bitten",ISD,0.0,0,0,4,28/7/2018
+7,"fury charm",IMA,0.0,0,0,0,4/11/2018
+1,"fury charm",IMA,0.0,1,0,0,4/11/2018
+1,"gamble",USG,0.0,0,0,0,28/7/2018
+2,"gang of devils",AVR,0.0,0,0,4,4/11/2018
+1,"gathan raiders",FUT,0.0,0,0,4,3/11/2018
+2,"gatstaf arsonists",SOI,0.0,0,0,4,1/11/2018
+1,"geistflame",ISD,0.0,0,0,4,28/7/2018
+1,"ghirapur aether grid",ORI,0.0,0,0,4,1/11/2018
+3,"ghirapur gearcrafter",ORI,0.0,0,0,4,4/11/2018
+2,"ghitu chronicler",DOM,0.0,0,0,0,4/11/2018
+2,"ghitu journeymage",DOM,0.0,0,0,0,4/11/2018
+1,"ghitu journeymage",DOM,0.0,0,0,4,4/11/2018
+3,"ghitu lavarunner",DOM,0.0,0,0,0,4/11/2018
+1,"ghitu lavarunner",DOM,0.0,0,0,4,4/11/2018
+1,"giant strength",6ED,0.0,0,0,0,2/11/2018
+2,"giant strength",6ED,0.0,0,0,4,2/11/2018
+1,"giant strength",4ED,0.0,0,0,4,28/7/2018
+1,"giant's ire",LRW,0.0,0,0,4,28/7/2018
+1,"gluttonous cyclops",JOU,0.0,0,0,4,1/11/2018
+1,"goblin archaeologist",DST,0.0,0,0,4,28/7/2018
+5,"goblin arsonist",ROE,0.0,0,0,4,30/10/2018
+2,"goblin arsonist",M13,0.0,0,0,4,4/11/2018
+2,"goblin balloon brigade",3ED,0.0,0,0,0,23/2/2019
+1,"goblin balloon brigade",3ED,0.0,1,0,4,23/2/2019
+2,"goblin balloon brigade",M11,0.0,0,0,4,3/11/2018
+1,"goblin bangchuckers",M12,0.0,0,0,4,28/7/2018
+2,"goblin barrage",DOM,0.0,0,0,0,4/11/2018
+2,"goblin barrage",DOM,0.0,0,0,4,4/11/2018
+1,"goblin battle jester",M13,0.0,0,0,4,4/11/2018
+1,"goblin brigand",9ED,0.0,0,0,4,28/7/2018
+2,"goblin brigand",SCG,0.0,0,0,0,29/7/2018
+1,"goblin brigand",SCG,0.0,0,0,4,28/7/2018
+2,"goblin bushwhacker",ZEN,0.0,0,0,4,3/11/2018
+4,"goblin chariot",8ED,0.0,0,0,4,3/11/2018
+1,"goblin chieftain",M11,0.0,0,0,4,30/10/2018
+1,"goblin cohort",BOK,0.0,0,0,0,24/5/2020
+1,"goblin digging team",6ED,0.0,0,0,0,2/11/2018
+2,"goblin digging team",6ED,0.0,0,0,4,2/11/2018
+2,"goblin elite infantry",10E,0.0,0,0,4,28/7/2018
+6,"goblin elite infantry",6ED,0.0,0,0,4,2/11/2018
+1,"goblin elite infantry",MIR,0.0,0,0,0,28/7/2018
+2,"goblin fire fiend",RAV,0.0,0,0,4,28/7/2018
+4,"goblin firebug",LGN,0.0,0,0,0,28/7/2018
+1,"goblin firebug",LGN,0.0,0,0,4,28/7/2018
+1,"goblin fireslinger",MM2,0.0,0,0,0,4/11/2018
+1,"goblin furrier",CSP,0.0,0,0,4,3/11/2018
+1,"goblin gardener",UDS,0.0,0,0,0,2/11/2018
+1,"goblin gardener",UDS,0.0,0,0,4,29/7/2018
+2,"goblin glory chaser",ORI,0.0,0,0,4,4/11/2018
+1,"goblin grenadiers",WTH,0.0,0,0,0,28/7/2018
+3,"goblin heelcutter",FRF,0.0,0,0,4,3/3/2019
+4,"goblin hero",6ED,0.0,0,0,4,2/11/2018
+1,"goblin hero",5ED,0.0,0,0,4,24/2/2019
+1,"goblin king",5ED,0.0,0,0,4,24/2/2019
+1,"goblin king",3ED,0.0,0,0,0,23/2/2019
+1,"goblin lackey",USG,0.0,0,0,4,28/7/2018
+1,"goblin masons",UDS,0.0,0,0,4,29/7/2018
+2,"goblin mutant",ICE,0.0,0,0,0,28/7/2018
+1,"goblin offensive",USG,0.0,0,0,4,28/7/2018
+3,"goblin piker",M11,0.0,0,0,4,3/11/2018
+1,"goblin psychopath",SCG,0.0,0,0,0,29/7/2018
+1,"goblin psychopath",SCG,0.0,0,0,4,28/7/2018
+10,"goblin raider",USG,0.0,0,0,0,2/11/2018
+1,"goblin rally",RTR,0.0,0,0,4,4/11/2018
+4,"goblin roughrider",M15,0.0,0,0,4,4/11/2018
+2,"goblin roughrider",WWK,0.0,0,0,4,3/11/2018
+1,"goblin scouts",MIR,0.0,0,0,4,28/7/2018
+1,"goblin shortcutter",ZEN,0.0,0,0,4,31/10/2018
+1,"goblin shortcutter",M14,0.0,0,0,4,4/11/2018
+1,"goblin sky raider",ONS,0.0,0,0,4,3/11/2018
+1,"goblin sledder",ONS,0.0,0,0,4,29/7/2018
+2,"goblin snowman",ICE,0.0,0,0,0,28/7/2018
+1,"goblin soothsayer",MIR,0.0,0,0,4,28/7/2018
+2,"goblin spelunkers",USG,0.0,0,0,0,2/11/2018
+6,"goblin spelunkers",RAV,0.0,0,0,4,3/11/2018
+1,"goblin taskmaster",ONS,0.0,0,0,4,28/7/2018
+1,"goblin taskmaster",ONS,0.0,0,1,0,28/7/2018
+1,"goblin trailblazer",RIX,0.0,0,0,0,4/11/2018
+3,"goblin tunneler",ROE,0.0,0,0,4,3/11/2018
+1,"goblin tunneler",M11,0.0,0,0,4,3/11/2018
+2,"goblin tunneler",M12,0.0,0,0,4,4/11/2018
+9,"goblin war buggy",USG,0.0,0,0,0,2/11/2018
+1,"goblin war drums",5ED,0.0,0,0,4,24/2/2019
+2,"goblin war paint",ZEN,0.0,0,0,4,3/11/2018
+3,"goblin war paint",BFZ,0.0,0,0,4,4/11/2018
+1,"goblin warchief",DOM,0.0,0,0,0,4/11/2018
+1,"goblin warchief",DOM,0.0,0,0,4,4/11/2018
+1,"goblin warrens",5ED,0.0,0,0,0,24/2/2019
+1,"goblinslide",KTK,0.0,0,0,4,4/11/2018
+1,"goldnight castigator",SOI,0.0,0,0,0,5/11/2018
+2,"gore swine",FRF,0.0,0,0,4,3/3/2019
+2,"gorehorn minotaurs",E01,0.0,0,0,0,1/11/2018
+11,"goretusk firebeast",JUD,0.0,0,0,0,3/11/2018
+1,"goretusk firebeast",JUD,0.0,0,1,0,28/7/2018
+1,"gorilla war cry2",ALL,0.0,0,0,4,28/7/2018
+1,"granite gargoyle",3ED,0.0,1,0,4,23/2/2019
+1,"granitic titan",HOU,0.0,0,0,0,4/11/2018
+1,"gray ogre",3ED,0.0,1,0,3,17/3/2019
+2,"gremlin infestation",AER,0.0,0,0,0,4/11/2018
+1,"gremlin infestation",AER,0.0,0,0,4,4/11/2018
+1,"grim lavamancer",E01,0.0,0,0,0,1/11/2018
+7,"grinning ignus",FUT,0.0,0,0,4,3/11/2018
+1,"grip of chaos",SCG,0.0,0,0,0,29/7/2018
+3,"grotag siege-runner",ROE,0.0,0,0,4,3/11/2018
+1,"grotag thrasher",WWK,0.0,0,0,4,3/11/2018
+2,"ground rift",TSP,0.0,0,0,4,28/7/2018
+1,"guerrilla tactics",8ED,0.0,0,0,4,30/10/2018
+1,"guerrilla tactics",10E,0.0,0,0,4,28/7/2018
+3,"guerrilla tactics1",ALL,0.0,0,0,0,28/7/2018
+1,"guttersnipe",E01,0.0,0,0,0,1/11/2018
+3,"halberdier",ODY,0.0,0,0,0,3/11/2018
+2,"halberdier",ODY,0.0,0,0,4,29/7/2018
+3,"hammer of bogardan",8ED,0.0,0,0,4,30/10/2018
+10,"hammerhand",IMA,0.0,0,0,0,4/11/2018
+3,"hammerhand",E01,0.0,0,0,0,1/11/2018
+1,"hanabi blast",CHK,0.0,0,1,4,28/7/2018
+2,"hardened berserker",DTK,0.0,0,0,4,3/3/2019
+2,"harness the storm",SOI,0.0,0,0,0,5/11/2018
+1,"harvest pyre",ISD,0.0,0,0,4,28/7/2018
+1,"hatchet bully",EVE,0.0,0,0,4,3/11/2018
+1,"havengul vampire",AVR,0.0,0,0,4,4/11/2018
+1,"haze of rage",FUT,0.0,0,0,4,3/11/2018
+1,"hazoret's favor",AKH,0.0,0,0,0,4/11/2018
+1,"hazoret's undying fury",HOU,0.0,0,0,0,4/11/2018
+6,"headlong rush",USG,0.0,0,0,0,2/11/2018
+1,"headstrong brute",XLN,0.0,0,0,4,17/9/2018
+1,"heart sliver",TMP,0.0,0,0,4,28/7/2018
+1,"hearth kami",CHK,0.0,0,1,4,28/7/2018
+1,"heartlash cinder",EVE,0.0,0,0,4,3/11/2018
+3,"heat ray",M15,0.0,0,0,4,4/11/2018
+9,"heat ray",IMA,0.0,0,0,0,4/11/2018
+1,"heat ray",IMA,0.0,1,0,0,4/11/2018
+1,"heat ray",ROE,0.0,0,0,4,30/10/2018
+2,"heirs of stromkirk",AVR,0.0,0,0,4,4/11/2018
+2,"hellfire mongrel",ZEN,0.0,0,0,4,28/7/2018
+1,"hellraiser goblin",GTC,0.0,0,0,4,28/7/2018
+3,"henchfiend of ukor",FUT,0.0,0,0,4,3/11/2018
+5,"highland berserker",ZEN,0.0,0,0,4,3/11/2018
+2,"hill giant",4ED,0.0,1,0,5,24/2/2019
+2,"hill giant",8ED,0.0,0,0,4,3/11/2018
+1,"hill giant",5ED,0.0,0,0,4,24/2/2019
+1,"hill giant",3ED,0.0,1,0,3,17/3/2019
+1,"hinterland hermit",DKA,0.0,0,0,4,4/11/2018
+1,"hissing iguanar",ALA,0.0,0,0,4,3/11/2018
+1,"homing lightning",GTC,0.0,0,0,4,28/7/2018
+1,"homing sliver",FUT,0.0,0,0,4,3/11/2018
+2,"horde ambusher",KTK,0.0,0,0,4,1/11/2018
+1,"horde of boggarts",SHM,0.0,0,0,4,31/10/2018
+1,"hordeling outburst",KTK,0.0,0,0,4,4/11/2018
+2,"hordeling outburst",A25,0.0,0,0,0,4/11/2018
+2,"hostile realm",MOR,0.0,0,0,4,3/11/2018
+5,"hotheaded giant",EVE,0.0,0,0,4,3/11/2018
+1,"hour of devastation",HOU,0.0,0,0,4,1/11/2018
+5,"howlpack wolf",SOI,0.0,0,0,4,4/11/2018
+1,"hulking cyclops",VIS,0.0,0,0,4,28/7/2018
+3,"hulking devil",SOI,0.0,0,0,4,1/11/2018
+3,"hulking ogre",UDS,0.0,0,0,0,2/11/2018
+1,"humble defector",FRF,0.0,0,0,4,3/3/2019
+1,"hungering yeti",FRF,0.0,0,0,4,3/3/2019
+2,"hungry flames",AER,0.0,0,0,0,4/11/2018
+1,"hungry flames",AER,0.0,0,0,4,4/11/2018
+1,"hurloon minotaur",4ED,0.0,1,0,5,24/2/2019
+1,"hurloon minotaur",5ED,0.0,0,0,4,24/2/2019
+1,"hurloon minotaur",3ED,0.0,1,0,3,17/3/2019
+1,"hurloon shaman",WTH,0.0,0,0,4,28/7/2018
+1,"hyena pack",AKH,0.0,0,0,0,4/11/2018
+4,"hyena pack",AKH,0.0,0,0,4,1/11/2018
+1,"icefall",CSP,0.0,0,0,4,3/11/2018
+2,"ignite memories",TSP,0.0,0,0,4,28/7/2018
+4,"ill-tempered cyclops",THS,0.0,0,0,4,1/11/2018
+1,"illicit auction",MIR,0.0,0,0,0,28/7/2018
+1,"immolation",4ED,0.0,0,0,0,28/7/2018
+1,"impact tremors",DTK,0.0,0,0,4,3/3/2019
+1,"implode",PLS,0.0,0,0,4,29/7/2018
+1,"imposing visage",5ED,0.0,0,0,4,24/2/2019
+1,"imposing visage",ICE,0.0,0,1,4,28/7/2018
+1,"incendiary command",LRW,0.0,0,0,4,31/10/2018
+1,"incendiary flow",EMN,0.0,0,0,4,4/11/2018
+1,"incendiary sabotage",KLD,0.0,0,0,4,4/11/2018
+1,"incinerate",MIR,0.0,0,0,4,28/7/2018
+1,"incite",M11,0.0,0,0,4,3/11/2018
+1,"incite hysteria",RAV,0.0,0,0,0,28/7/2018
+3,"incite hysteria",RAV,0.0,0,0,4,3/11/2018
+1,"incite war",MRD,0.0,0,0,4,28/7/2018
+7,"infectious bloodlust",ORI,0.0,0,0,4,4/11/2018
+1,"inferno",5ED,0.0,0,0,4,24/2/2019
+1,"inferno elemental",M10,0.0,0,0,4,30/10/2018
+2,"inferno fist",M15,0.0,0,0,4,4/11/2018
+1,"inferno jet",HOU,0.0,0,0,0,4/11/2018
+1,"inferno titan",E01,0.0,0,0,0,1/11/2018
+1,"inferno trap",ZEN,0.0,0,0,4,31/10/2018
+8,"inflame",DST,0.0,0,0,4,28/7/2018
+1,"inner struggle",SOI,0.0,0,0,4,4/11/2018
+3,"inner-flame igniter",MM2,0.0,0,0,0,5/11/2018
+1,"inner-flame igniter",LRW,0.0,0,0,4,31/10/2018
+3,"insolent neonate",SOI,0.0,0,0,4,4/11/2018
+1,"instill furor",RAV,0.0,0,0,0,28/7/2018
+1,"insurrection",ONS,0.0,0,0,0,31/10/2018
+2,"into the maw of hell",ISD,0.0,0,0,4,4/11/2018
+4,"inventor's apprentice",KLD,0.0,0,0,4,4/11/2018
+7,"ire of kaminari",BOK,0.0,0,0,0,24/5/2020
+1,"iron-barb hellion",5DN,0.0,0,0,4,28/7/2018
+1,"ironclaw curse",5ED,0.0,0,0,4,24/2/2019
+1,"jackal familiar",M10,0.0,0,0,4,30/10/2018
+4,"jackal pup",A25,0.0,0,0,0,4/11/2018
+3,"jagged lightning",USG,0.0,0,0,0,28/7/2018
+2,"jaws of stone",SHM,0.0,0,0,4,3/11/2018
+1,"joven",HML,0.0,0,0,0,28/7/2018
+1,"kaervek's torch",MIR,0.0,0,0,4,28/7/2018
+6,"kamahl's desire",ODY,0.0,0,0,0,3/11/2018
+1,"kamahl's sledge",TOR,0.0,0,0,4,29/7/2018
+1,"kamahl, pit fighter",ODY,0.0,0,0,3,17/3/2019
+1,"kami of fire's roar",CHK,0.0,0,1,4,28/7/2018
+1,"karplusan giant",ICE,0.0,0,0,4,28/7/2018
+1,"karplusan yeti",ICE,0.0,0,1,0,28/7/2018
+1,"keeper of the flame",EXO,0.0,0,0,4,28/7/2018
+9,"keldon halberdier",IMA,0.0,0,0,0,4/11/2018
+3,"keldon overseer",DOM,0.0,0,0,0,4/11/2018
+1,"keldon overseer",DOM,0.0,0,0,4,4/11/2018
+3,"keldon raider",DOM,0.0,0,0,0,4/11/2018
+1,"keldon raider",DOM,0.0,0,0,4,4/11/2018
+2,"keldon warcaller",DOM,0.0,0,0,0,4/11/2018
+1,"keldon warlord",3ED,0.0,1,0,3,17/3/2019
+2,"keldon warlord",3ED,0.0,1,0,4,23/2/2019
+1,"kessig malcontents",AVR,0.0,0,0,4,4/11/2018
+2,"khenra scrapper",HOU,0.0,0,0,4,1/11/2018
+1,"kindled fury",M13,0.0,0,0,4,4/11/2018
+1,"kindled fury",M10,0.0,0,0,4,30/10/2018
+1,"kindled fury",DTK,0.0,0,0,4,3/3/2019
+4,"kindled fury",HOU,0.0,0,0,0,4/11/2018
+1,"kird ape",3ED,0.0,1,0,3,17/3/2019
+1,"kird chieftain",M15,0.0,0,0,4,1/11/2018
+1,"kird chieftain",M15,0.0,0,0,6,5/11/2018
+1,"kolaghan aspirant",DTK,0.0,0,0,4,3/3/2019
+1,"kolaghan forerunners",DTK,0.0,0,0,4,3/3/2019
+1,"kolaghan stormsinger",DTK,0.0,0,0,4,3/3/2019
+1,"koth's courier",MBS,0.0,0,0,4,4/11/2018
+3,"kozilek's sentinel",BFZ,0.0,0,0,4,5/11/2018
+1,"kragma butcher",BNG,0.0,0,0,4,4/11/2018
+3,"kranioceros",CON,0.0,0,0,4,3/11/2018
+1,"krark-clan grunt",MRD,0.0,0,1,0,28/7/2018
+1,"krark-clan grunt",MRD,0.0,0,1,4,28/7/2018
+1,"krark-clan ogre",5DN,0.0,0,0,4,28/7/2018
+2,"krark-clan ogre",5DN,0.0,0,1,4,28/7/2018
+7,"krark-clan stoker",DST,0.0,0,0,4,28/7/2018
+1,"krenko's command",M13,0.0,0,0,4,4/11/2018
+2,"krenko's enforcer",M15,0.0,0,0,4,4/11/2018
+2,"kumano's blessing",BOK,0.0,0,0,0,24/5/2020
+1,"kyren glider",MMQ,0.0,0,0,0,28/7/2018
+4,"kyren glider",MMQ,0.0,0,0,4,2/11/2018
+6,"kyren sniper",MMQ,0.0,0,0,4,2/11/2018
+1,"laccolith grunt",NMS,0.0,0,0,4,29/7/2018
+1,"laccolith grunt",NMS,0.0,0,1,4,28/7/2018
+1,"laccolith rig",NMS,0.0,0,0,4,29/7/2018
+3,"lagac lizard",ROE,0.0,0,0,4,3/11/2018
+5,"lathnu sailback",AER,0.0,0,0,0,4/11/2018
+2,"lathnu sailback",AER,0.0,0,0,5,4/11/2018
+1,"latulla's orders",PCY,0.0,0,0,4,2/11/2018
+1,"lava axe",POR,0.0,0,1,0,1/3/2021
+1,"lava axe",M11,0.0,0,0,4,28/7/2018
+2,"lava axe",8ED,0.0,0,0,4,3/11/2018
+7,"lava axe",M15,0.0,0,0,4,4/11/2018
+1,"lava axe",M15,0.0,0,0,6,5/11/2018
+1,"lava burst",ICE,0.0,0,0,4,28/7/2018
+2,"lava hounds",WTH,0.0,0,0,4,28/7/2018
+1,"lava storm",WTH,0.0,0,0,4,28/7/2018
+1,"lavafume invoker",ROE,0.0,0,0,4,30/10/2018
+5,"lavamancer's skill",ONS,0.0,0,0,0,28/7/2018
+2,"lavamancer's skill",ONS,0.0,0,0,4,3/11/2018
+4,"lavastep raider",BFZ,0.0,0,0,4,4/11/2018
+2,"lay waste",ONS,0.0,0,0,4,3/11/2018
+3,"lay waste",USG,0.0,0,0,4,28/7/2018
+1,"leaping master",KTK,0.0,0,0,4,1/11/2018
+2,"lightning berserker",DTK,0.0,0,0,4,3/3/2019
+10,"lightning blast",TMP,0.0,0,0,0,28/7/2018
+2,"lightning bolt",E01,0.0,0,0,0,1/11/2018
+1,"lightning diadem",JOU,0.0,0,0,4,1/11/2018
+1,"lightning elemental",M10,0.0,0,0,0,3/11/2018
+2,"lightning elemental",10E,0.0,0,0,4,28/7/2018
+3,"lightning elemental",TMP,0.0,0,0,0,28/7/2018
+1,"lightning elemental",M12,0.0,0,0,4,28/7/2018
+1,"lightning hounds",MMQ,0.0,0,0,0,2/11/2018
+3,"lightning hounds",MMQ,0.0,0,0,4,2/11/2018
+3,"lightning javelin",ORI,0.0,0,0,4,4/11/2018
+1,"lightning prowess",AVR,0.0,0,0,4,4/11/2018
+1,"lightning reflexes",MIR,0.0,0,0,4,28/7/2018
+1,"lightning runner",AER,0.0,0,0,0,4/11/2018
+1,"lightning shrieker",FRF,0.0,0,0,4,3/3/2019
+3,"lightning strike",M15,0.0,0,0,4,1/11/2018
+1,"lightning-rig crew",XLN,0.0,0,0,0,4/11/2018
+1,"lobber crew",RTR,0.0,0,0,4,4/11/2018
+2,"lose calm",DTK,0.0,0,0,4,3/3/2019
+1,"lowland giant",TMP,0.0,0,0,0,28/7/2018
+1,"lust for war",ROE,0.0,0,0,4,30/10/2018
+2,"macetail hystrodon",LGN,0.0,0,0,0,28/7/2018
+4,"mad dog",ODY,0.0,0,0,0,29/7/2018
+3,"mad prophet",AVR,0.0,0,0,4,28/7/2018
+3,"mad prophet",SOI,0.0,0,0,4,1/11/2018
+1,"madcap skills",GTC,0.0,0,0,4,4/11/2018
+1,"mage il-vec",EXO,0.0,0,0,4,28/7/2018
+4,"mage-ring bully",ORI,0.0,0,0,4,4/11/2018
+4,"magma rift",ZEN,0.0,0,0,4,3/11/2018
+2,"magma spray",AKH,0.0,0,0,4,1/11/2018
+3,"magmaroth",HOU,0.0,0,0,0,4/11/2018
+1,"magmatic chasm",DTK,0.0,0,0,4,3/3/2019
+2,"magmatic chasm",SOI,0.0,0,0,4,4/11/2018
+2,"magmatic insight",ORI,0.0,0,0,4,1/11/2018
+1,"magnetic mountain",4ED,0.0,0,0,4,28/7/2018
+1,"magnetic mountain",4ED,0.0,1,0,5,24/2/2019
+1,"magnivore",ODY,0.0,0,0,3,17/3/2019
+11,"make mischief",EMN,0.0,0,0,4,4/11/2018
+1,"makeshift munitions",XLN,0.0,0,0,0,4/11/2018
+3,"makindi sliderunner",BFZ,0.0,0,0,4,4/11/2018
+2,"malevolent whispers",SOI,0.0,0,0,4,1/11/2018
+2,"malicious intent",AVR,0.0,0,0,4,28/7/2018
+1,"mana flare",4ED,0.0,0,0,0,28/7/2018
+1,"mana flare",3ED,0.0,0,0,0,23/2/2019
+2,"mana geyser",5DN,0.0,0,0,4,28/7/2018
+4,"maniacal rage",CON,0.0,0,0,4,31/10/2018
+2,"manic vandal",M11,0.0,0,0,4,30/10/2018
+1,"mannichi, the fevered dream",BOK,0.0,0,0,0,24/5/2020
+1,"mardu runemark",FRF,0.0,0,0,4,3/3/2019
+2,"mardu scout",FRF,0.0,0,0,4,3/3/2019
+1,"mardu warshrieker",KTK,0.0,0,0,4,1/11/2018
+1,"mark for death",GTC,0.0,0,0,4,4/11/2018
+3,"mark of fury",UDS,0.0,0,0,0,29/7/2018
+8,"mark of mutiny",IMA,0.0,0,0,0,4/11/2018
+1,"mark of mutiny",IMA,0.0,1,0,0,4/11/2018
+1,"mark of mutiny",ZEN,0.0,0,0,4,28/7/2018
+1,"maulfist doorbuster",KLD,0.0,0,0,4,4/11/2018
+1,"melee",ICE,0.0,0,0,4,28/7/2018
+1,"meltdown",USG,0.0,0,0,0,28/7/2018
+4,"messenger's speed",THS,0.0,0,0,4,4/11/2018
+1,"mijae djinn",3ED,0.0,1,0,4,23/2/2019
+2,"mindclaw shaman",M13,0.0,0,0,4,4/11/2018
+1,"mine layer",ODY,0.0,0,0,3,17/3/2019
+7,"miner's bane",M15,0.0,0,0,4,4/11/2018
+2,"minotaur skullcleaver",THS,0.0,0,0,4,1/11/2018
+3,"minotaur sureshot",AKH,0.0,0,0,0,4/11/2018
+5,"minotaur sureshot",AKH,0.0,0,0,4,1/11/2018
+2,"minotaur warrior",POR,0.0,0,1,0,1/3/2021
+1,"misguided rage",SCG,0.0,0,0,0,29/7/2018
+2,"misguided rage",SCG,0.0,0,0,4,28/7/2018
+1,"mob justice",STH,0.0,0,0,4,28/7/2018
+1,"mogg bombers",STH,0.0,0,0,4,28/7/2018
+1,"mogg conscripts",TMP,0.0,0,0,4,28/7/2018
+2,"mogg fanatic",TMP,0.0,0,0,4,28/7/2018
+1,"mogg flunkies",A25,0.0,0,0,0,4/11/2018
+3,"mogg flunkies",M13,0.0,0,0,4,4/11/2018
+1,"mogg jailer",PLS,0.0,0,0,0,29/7/2018
+2,"mogg jailer",PLS,0.0,0,0,4,3/11/2018
+1,"mogg raider",TMP,0.0,0,0,4,28/7/2018
+1,"moggcatcher",NMS,0.0,0,0,4,29/7/2018
+1,"mogis's warhound",JOU,0.0,0,0,4,4/11/2018
+2,"molten birth",M14,0.0,0,0,4,4/11/2018
+3,"molten ravager",ZEN,0.0,0,0,4,3/11/2018
+2,"monstrous hound",EXO,0.0,0,0,4,28/7/2018
+3,"mudbrawler cohort",SHM,0.0,0,0,4,3/11/2018
+3,"mudbutton torchrunner",MM3,0.0,0,0,0,4/11/2018
+2,"mugging",GTC,0.0,0,0,4,4/11/2018
+1,"murasa pyromancer",ZEN,0.0,0,0,4,31/10/2018
+1,"nearheath stalker",DKA,0.0,0,0,4,4/11/2018
+1,"need for speed",ODY,0.0,0,0,3,17/3/2019
+1,"needle drop",LRW,0.0,0,0,4,28/7/2018
+5,"needlepeak spider",PLC,0.0,0,0,4,3/11/2018
+1,"needletooth raptor",RIX,0.0,0,0,0,4/11/2018
+1,"needletooth raptor",RIX,0.0,0,0,4,4/11/2018
+3,"nest robber",XLN,0.0,0,0,0,4/11/2018
+3,"nettle drone",BFZ,0.0,0,0,4,5/11/2018
+4,"nimble-blade khenra",AKH,0.0,0,0,0,4/11/2018
+4,"nimble-blade khenra",AKH,0.0,0,0,4,1/11/2018
+7,"nosy goblin",ONS,0.0,0,0,0,28/7/2018
+1,"nosy goblin",ONS,0.0,0,0,4,29/7/2018
+1,"nova chaser",LRW,0.0,0,0,4,31/10/2018
+4,"nyxborn rollicker",BNG,0.0,0,0,4,4/11/2018
+1,"oath of mages",EXO,0.0,0,0,4,28/7/2018
+1,"obsidian fireheart",E01,0.0,0,0,0,1/11/2018
+1,"obstinate familiar",ODY,0.0,0,0,3,17/3/2019
+1,"ogre gatecrasher",DIS,0.0,0,0,4,3/11/2018
+3,"ogre leadfoot",MRD,0.0,0,0,4,28/7/2018
+1,"ogre menial",NPH,0.0,0,0,4,4/11/2018
+1,"ogre savant",GPT,0.0,0,0,4,28/7/2018
+3,"ogre sentry",ROE,0.0,0,0,4,3/11/2018
+2,"ogre taskmaster",8ED,0.0,0,0,4,30/10/2018
+1,"ohran yeti",CSP,0.0,0,0,4,3/11/2018
+2,"ondu champion",BFZ,0.0,0,0,4,4/11/2018
+1,"oni of wild places",CMA,0.0,0,0,0,4/11/2018
+1,"open fire",HOU,0.0,0,0,0,4/11/2018
+1,"oracle of bones",BNG,0.0,0,0,0,1/11/2018
+1,"orcish artillery",3ED,0.0,1,0,4,23/2/2019
+1,"orcish artillery",6ED,0.0,0,0,4,2/11/2018
+1,"orcish bloodpainter",CSP,0.0,0,0,4,3/11/2018
+1,"orcish cannoneers",ICE,0.0,0,0,0,28/7/2018
+1,"orcish farmer",ICE,0.0,0,0,4,28/7/2018
+2,"orcish healer",ICE,0.0,0,0,0,28/7/2018
+1,"orcish lumberjack",ICE,0.0,0,0,4,28/7/2018
+1,"orcish mine",HML,0.0,0,0,4,28/7/2018
+1,"orcish oriflamme",6ED,0.0,0,0,4,2/11/2018
+1,"orcish oriflamme",3ED,0.0,1,0,3,17/3/2019
+1,"orcish settlers",WTH,0.0,0,0,0,28/7/2018
+1,"orcish squatters",ICE,0.0,0,0,4,28/7/2018
+2,"orcish vandal",DOM,0.0,0,0,0,4/11/2018
+1,"orcish vandal",DOM,0.0,0,0,4,4/11/2018
+3,"ordeal of purphoros",THS,0.0,0,0,4,1/11/2018
+1,"ordruun commando",RAV,0.0,0,0,4,28/7/2018
+8,"otherworldly outburst",EMN,0.0,0,0,4,4/11/2018
+1,"outmaneuver",USG,0.0,0,0,0,28/7/2018
+1,"pain kami",CHK,0.0,0,1,4,28/7/2018
+2,"panic attack",PCY,0.0,0,0,0,2/11/2018
+2,"panic attack",M10,0.0,0,0,4,30/10/2018
+1,"paragon of fierce defiance",M15,0.0,0,0,4,4/11/2018
+2,"pardic arsonist",TOR,0.0,0,0,4,29/7/2018
+1,"pardic collaborator",TOR,0.0,0,0,4,29/7/2018
+3,"pardic firecat",ODY,0.0,0,0,4,29/7/2018
+2,"pardic lancer",TOR,0.0,0,0,4,28/7/2018
+1,"pardic miner",ODY,0.0,0,0,3,17/3/2019
+3,"pardic swordsmith",ODY,0.0,0,0,0,29/7/2018
+2,"pardic swordsmith",ODY,0.0,0,0,4,3/11/2018
+3,"pathmaker initiate",AKH,0.0,0,0,0,4/11/2018
+4,"pathmaker initiate",AKH,0.0,0,0,4,1/11/2018
+3,"peak eruption",THS,0.0,0,0,4,1/11/2018
+1,"pensive minotaur",JOU,0.0,0,0,4,1/11/2018
+1,"pharagax giant",BNG,0.0,0,0,0,1/11/2018
+1,"pharagax giant",BNG,0.0,0,0,4,4/11/2018
+1,"pillage",A25,0.0,0,0,0,4/11/2018
+1,"pillar of flame",AVR,0.0,0,0,4,28/7/2018
+3,"pinnacle of rage",BNG,0.0,0,0,4,4/11/2018
+6,"pinpoint avalanche",ONS,0.0,0,0,0,28/7/2018
+2,"pirate's pillage",RIX,0.0,0,0,4,4/11/2018
+1,"pitchstone wall",TOR,0.0,0,0,4,29/7/2018
+4,"plated geopede",ZEN,0.0,0,0,4,3/11/2018
+3,"portent of betrayal",THS,0.0,0,0,4,1/11/2018
+1,"possessed barbarian",TOR,0.0,0,0,4,29/7/2018
+1,"power of fire",SHM,0.0,0,0,4,31/10/2018
+4,"precise strike",AER,0.0,0,0,0,4/11/2018
+6,"prickleboar",ORI,0.0,0,0,4,4/11/2018
+2,"prodigal pyromancer",IMA,0.0,0,0,0,4/11/2018
+2,"prodigal pyromancer",IMA,0.0,1,0,0,4/11/2018
+9,"prodigal pyromancer",PLC,0.0,0,0,4,3/11/2018
+13,"prophetic ravings",EMN,0.0,0,0,4,4/11/2018
+2,"puncture blast",EVE,0.0,0,0,4,3/11/2018
+2,"puncture bolt",SHM,0.0,0,0,4,28/7/2018
+1,"puncturing blow",HOU,0.0,0,0,0,4/11/2018
+3,"purphoros's emissary",THS,0.0,0,0,4,4/11/2018
+5,"pursue glory",AKH,0.0,0,0,4,1/11/2018
+1,"pursuit of flight",RTR,0.0,0,0,4,4/11/2018
+2,"pyre hound",SOI,0.0,0,0,4,1/11/2018
+2,"pyre hound",A25,0.0,0,0,0,4/11/2018
+4,"pyrewild shaman",MM3,0.0,0,0,0,4/11/2018
+1,"pyric salamander",MIR,0.0,0,0,0,28/7/2018
+1,"pyroclasm",M11,0.0,0,0,4,30/10/2018
+1,"pyroclasm",8ED,0.0,0,0,4,30/10/2018
+1,"pyromatics",GPT,0.0,0,0,4,28/7/2018
+1,"pyrotechnics",FRF,0.0,0,0,4,3/3/2019
+2,"qal sisma behemoth",DTK,0.0,0,0,4,3/3/2019
+3,"quenchable fire",CON,0.0,0,0,4,31/10/2018
+1,"quest for pure flame",ZEN,0.0,0,0,4,31/10/2018
+2,"quicksmith rebel",AER,0.0,0,0,0,4/11/2018
+4,"radiating lightning",DOM,0.0,0,0,0,4/11/2018
+4,"rage of purphoros",THS,0.0,0,0,4,1/11/2018
+1,"rage thrower",ISD,0.0,0,0,4,4/11/2018
+1,"rageform",FRF,0.0,0,0,4,3/3/2019
+2,"raging goblin",8ED,0.0,0,0,4,3/11/2018
+1,"raging goblin",10E,0.0,0,0,4,3/11/2018
+1,"raging goblin",EXO,0.0,0,0,4,28/7/2018
+1,"raging goblin",9ED,0.0,0,0,4,28/7/2018
+1,"raging goblin",M10,0.0,0,0,4,30/10/2018
+3,"raging gorilla",VIS,0.0,0,0,0,28/7/2018
+1,"raging spirit",MIR,0.0,0,0,4,28/7/2018
+2,"raid bombardment",ROE,0.0,0,0,4,30/10/2018
+1,"rain of embers",RAV,0.0,0,0,4,28/7/2018
+1,"rain of rust",5DN,0.0,0,0,4,28/7/2018
+2,"rain of rust",5DN,0.0,0,1,4,28/7/2018
+1,"rain of salt",USG,0.0,0,0,4,28/7/2018
+3,"rampaging cyclops",DOM,0.0,0,0,0,4/11/2018
+1,"raptor hatchling",XLN,0.0,0,0,0,4/11/2018
+1,"ravaging blaze",ORI,0.0,0,0,4,4/11/2018
+1,"ravenous baboons",EXO,0.0,0,0,4,28/7/2018
+2,"ravenous bloodseeker",SOI,0.0,0,0,4,1/11/2018
+2,"ravenous intruder",AER,0.0,0,0,0,4/11/2018
+1,"ravenous intruder",AER,0.0,0,0,4,4/11/2018
+3,"raze",USG,0.0,0,0,4,28/7/2018
+1,"reckless abandon",UDS,0.0,0,0,4,29/7/2018
+4,"reckless cohort",BFZ,0.0,0,0,4,4/11/2018
+1,"reckless embermage",MIR,0.0,0,0,4,28/7/2018
+1,"reckless fireweaver",KLD,0.0,0,0,4,3/3/2019
+1,"reckless ogre",EXO,0.0,0,0,4,28/7/2018
+2,"reckless racer",AER,0.0,0,0,0,4/11/2018
+2,"reckless racer",AER,0.0,0,0,4,4/11/2018
+1,"reckless reveler",BNG,0.0,0,0,0,1/11/2018
+5,"reckless reveler",BNG,0.0,0,0,4,4/11/2018
+1,"reckless waif",ISD,0.0,0,0,4,4/11/2018
+2,"red elemental blast",4ED,0.0,1,0,5,24/2/2019
+3,"reduce to ashes",SOI,0.0,0,0,4,4/11/2018
+1,"reflexes",8ED,0.0,0,0,0,28/7/2018
+1,"reflexes",USG,0.0,0,1,4,28/7/2018
+1,"reign of chaos",MIR,0.0,0,0,4,28/7/2018
+1,"release the ants",MOR,0.0,0,0,4,28/7/2018
+1,"release the gremlins",AER,0.0,0,0,0,4/11/2018
+1,"rending volley",DTK,0.0,0,0,4,3/3/2019
+2,"renegade tactics",KLD,0.0,0,0,4,3/3/2019
+1,"retribution",HML,0.0,0,0,0,28/7/2018
+1,"ricochet trap",WWK,0.0,0,0,4,30/10/2018
+2,"riddle of lightning",JOU,0.0,0,0,4,1/11/2018
+1,"riddle of lightning",FUT,0.0,0,0,4,3/11/2018
+1,"ridgeline rager",8ED,0.0,0,0,4,28/7/2018
+1,"ridgeline rager",PCY,0.0,0,0,4,2/11/2018
+3,"rift bolt",DDS,0.0,0,0,0,1/11/2018
+1,"rift elemental",MMA,0.0,0,0,0,4/11/2018
+5,"rift elemental",FUT,0.0,0,0,4,3/11/2018
+1,"rigging runner",XLN,0.0,0,0,0,4/11/2018
+1,"rise to the challenge",BNG,0.0,0,0,0,1/11/2018
+4,"rise to the challenge",BNG,0.0,0,0,4,4/11/2018
+4,"rites of initiation",ODY,0.0,0,0,0,29/7/2018
+3,"rites of initiation",ODY,0.0,0,0,4,28/7/2018
+1,"roar of the crowd",MOR,0.0,0,0,4,28/7/2018
+1,"roc hatchling",WTH,0.0,0,0,4,28/7/2018
+5,"rock hydra",3ED,0.0,0,0,0,23/2/2019
+2,"rock jockey",SCG,0.0,0,0,0,29/7/2018
+4,"roiling terrain",WWK,0.0,0,0,4,3/11/2018
+2,"rolling thunder",TMP,0.0,0,0,0,28/7/2018
+3,"rouse the mob",JOU,0.0,0,0,4,4/11/2018
+1,"rubblebelt maaka",MM3,0.0,0,0,0,4/11/2018
+1,"ruinous minotaur",ZEN,0.0,0,0,4,31/10/2018
+2,"rukh egg",8ED,0.0,0,0,4,30/10/2018
+1,"rummaging goblin",XLN,0.0,0,0,4,4/11/2018
+2,"rummaging goblin",M13,0.0,0,0,4,4/11/2018
+5,"rummaging goblin",M15,0.0,0,0,4,4/11/2018
+2,"rummaging goblin",M15,0.0,0,0,6,5/11/2018
+4,"run amok",DOM,0.0,0,0,0,4/11/2018
+1,"run amok",DOM,0.0,0,0,4,4/11/2018
+1,"runeflare trap",ZEN,0.0,0,0,4,31/10/2018
+1,"rush of adrenaline",SOI,0.0,0,0,4,1/11/2018
+2,"russet wolves",DKA,0.0,0,0,4,4/11/2018
+1,"rustmouth ogre",MRD,0.0,0,0,4,28/7/2018
+1,"rustrazor butcher",SHM,0.0,0,0,4,31/10/2018
+1,"ryusei, the falling star",IMA,0.0,0,0,0,4/11/2018
+2,"sabertooth outrider",DTK,0.0,0,0,4,3/3/2019
+1,"sabretooth tiger",6ED,0.0,0,0,4,2/11/2018
+1,"sabretooth tiger",ICE,0.0,0,1,4,28/7/2018
+1,"salivating gremlins",KLD,0.0,0,0,4,3/3/2019
+3,"sand strangler",HOU,0.0,0,0,0,4/11/2018
+1,"sand strangler",HOU,0.0,0,0,4,4/11/2018
+1,"sandstorm eidolon",DIS,0.0,0,0,4,3/11/2018
+1,"sarkhan's rage",DTK,0.0,0,0,4,3/3/2019
+2,"satyr rambler",THS,0.0,0,0,4,1/11/2018
+1,"sawtooth ogre",WTH,0.0,0,0,4,28/7/2018
+2,"scald",USG,0.0,0,0,4,28/7/2018
+1,"scalding salamander",EXO,0.0,0,0,4,28/7/2018
+2,"scattershot",SCG,0.0,0,0,0,29/7/2018
+1,"scattershot",SCG,0.0,0,0,4,28/7/2018
+1,"scent of cinder",UDS,0.0,0,0,0,2/11/2018
+1,"scent of cinder",UDS,0.0,0,0,4,29/7/2018
+2,"scorched rusalka",MM3,0.0,0,0,0,4/11/2018
+1,"scorching spear",POR,0.0,0,0,0,28/7/2018
+1,"scourge of valkas",IMA,0.0,0,0,0,4/11/2018
+1,"scouring sands",BNG,0.0,0,0,4,4/11/2018
+2,"scrapper champion",AER,0.0,0,0,0,4/11/2018
+2,"scrapper champion",AER,0.0,0,0,4,4/11/2018
+7,"scrapyard mongrel",M15,0.0,0,0,4,4/11/2018
+1,"screamreach brawler",DTK,0.0,0,0,4,3/3/2019
+1,"searing blaze",WWK,0.0,0,0,4,30/10/2018
+2,"searing spear",E01,0.0,0,0,0,1/11/2018
+2,"searing spear askari",MIR,0.0,0,0,4,28/7/2018
+2,"sedge troll",3ED,0.0,1,0,4,23/2/2019
+1,"see red",RIX,0.0,0,0,0,4/11/2018
+1,"see red",RIX,0.0,0,0,4,4/11/2018
+3,"seething pathblazer",MOR,0.0,0,0,4,3/11/2018
+4,"seething song",MRD,0.0,0,0,4,28/7/2018
+1,"seismic assault",EXO,0.0,0,0,4,28/7/2018
+5,"seismic shift",DOM,0.0,0,0,0,4/11/2018
+1,"seismic shift",DOM,0.0,0,0,4,4/11/2018
+4,"seismic strike",M10,0.0,0,0,4,30/10/2018
+1,"seize the day",ODY,0.0,0,0,3,17/3/2019
+1,"sell-sword brute",RAV,0.0,0,0,4,28/7/2018
+3,"senseless rage",SOI,0.0,0,0,4,4/11/2018
+1,"shadowstorm",TMP,0.0,0,0,4,28/7/2018
+1,"shake the foundations",RIX,0.0,0,0,0,4/11/2018
+1,"shaleskin bruiser",ONS,0.0,0,0,4,29/7/2018
+1,"shaleskin plower",LGN,0.0,0,0,4,28/7/2018
+2,"shatter",RIX,0.0,0,0,0,4/11/2018
+3,"shatter",KTK,0.0,0,0,4,1/11/2018
+2,"shatter",4ED,0.0,1,0,5,24/2/2019
+1,"shatter",3ED,0.0,1,0,3,17/3/2019
+13,"shatter",MRD,0.0,0,0,0,28/7/2018
+4,"shatter",MRD,0.0,0,0,4,28/7/2018
+3,"shatterskull giant",ZEN,0.0,0,0,4,3/11/2018
+4,"shatterskull recruit",BFZ,0.0,0,0,4,4/11/2018
+3,"shinka gatekeeper",BOK,0.0,0,0,0,24/5/2020
+1,"shiv's embrace",M11,0.0,0,0,4,3/11/2018
+1,"shivan dragon",3ED,0.0,1,0,4,23/2/2019
+3,"shivan fire",DOM,0.0,0,0,0,4/11/2018
+1,"shivan fire",DOM,0.0,0,0,4,4/11/2018
+1,"shivan meteor",DDS,0.0,0,0,0,1/11/2018
+5,"shock",AER,0.0,0,0,0,4/11/2018
+3,"shock troops",MMQ,0.0,0,0,4,2/11/2018
+3,"shock troops",8ED,0.0,0,0,4,28/7/2018
+3,"shower of sparks",USG,0.0,0,0,0,2/11/2018
+5,"shreds of sanity",EMN,0.0,0,0,0,4/11/2018
+1,"shreds of sanity",EMN,0.0,0,0,4,4/11/2018
+4,"siege modification",AER,0.0,0,0,0,4/11/2018
+2,"siege modification",AER,0.0,0,0,4,4/11/2018
+1,"sigiled skink",JOU,0.0,0,0,4,1/11/2018
+2,"sirocco",MIR,0.0,0,0,0,28/7/2018
+1,"skarrgan firebird",E01,0.0,0,0,0,1/11/2018
+2,"skeletonize",A25,0.0,0,0,0,4/11/2018
+3,"skinbrand goblin",GTC,0.0,0,0,4,4/11/2018
+2,"skirk commando",A25,0.0,0,0,0,4/11/2018
+1,"skirk commando",ONS,0.0,0,0,4,3/11/2018
+2,"skirk prospector",DOM,0.0,0,0,0,4/11/2018
+1,"skirk prospector",DOM,0.0,0,0,4,4/11/2018
+3,"skirk shaman",PLC,0.0,0,0,4,3/11/2018
+1,"skirk volcanist",SCG,0.0,0,0,0,29/7/2018
+2,"skirk volcanist",SCG,0.0,0,0,4,28/7/2018
+1,"skirsdag cultist",MM3,0.0,0,0,0,4/11/2018
+3,"skitter of lizards",WWK,0.0,0,0,4,3/11/2018
+1,"skittish valesk",ONS,0.0,0,0,4,29/7/2018
+1,"skizzik",DOM,0.0,0,0,0,4/11/2018
+2,"skizzik",DOM,0.0,0,0,4,4/11/2018
+1,"skizzik surger",FUT,0.0,0,0,4,3/11/2018
+1,"skyraker giant",ORI,0.0,0,0,4,1/11/2018
+1,"slaughter cry",M12,0.0,0,0,4,4/11/2018
+5,"slaughter cry",ZEN,0.0,0,0,4,31/10/2018
+1,"slavering nulls",WWK,0.0,0,0,4,30/10/2018
+1,"slith firewalker",MRD,0.0,0,0,4,28/7/2018
+2,"sluggishness",ULG,0.0,0,0,4,2/11/2018
+2,"smash",RAV,0.0,0,0,4,3/11/2018
+1,"smash to smithereens",ORI,0.0,0,0,4,1/11/2018
+1,"smoke",4ED,0.0,0,0,4,28/7/2018
+1,"smokebraider",MM2,0.0,0,0,0,4/11/2018
+3,"smoldering efreet",FRF,0.0,0,0,4,3/3/2019
+2,"smoldering werewolf",EMN,0.0,0,0,4,4/11/2018
+1,"snapping thragg",ONS,0.0,0,0,4,29/7/2018
+2,"sokenzan bruiser",CHK,0.0,0,1,4,28/7/2018
+5,"sokenzan spellblade",SOK,0.0,0,0,4,28/7/2018
+5,"solar blast",ONS,0.0,0,0,0,28/7/2018
+2,"solfatara",VIS,0.0,0,0,0,28/7/2018
+1,"song of blood",VIS,0.0,0,0,0,28/7/2018
+2,"soul's fire",ALA,0.0,0,0,4,3/11/2018
+1,"soulbright flamekin",A25,0.0,0,0,0,4/11/2018
+1,"soulbright flamekin",LRW,0.0,0,0,4,31/10/2018
+1,"soulsurge elemental",ROE,0.0,0,0,4,30/10/2018
+1,"sowing salt",UDS,0.0,0,0,4,29/7/2018
+2,"spark jolt",THS,0.0,0,0,4,1/11/2018
+1,"spark spray",SCG,0.0,0,0,0,29/7/2018
+2,"sparkmage apprentice",RAV,0.0,0,0,4,3/11/2018
+5,"sparkmage's gambit",OGW,0.0,0,0,0,4/11/2018
+5,"sparkmage's gambit",OGW,0.0,0,0,4,4/11/2018
+1,"spawning breath",ROE,0.0,0,0,4,30/10/2018
+4,"spearpoint oread",THS,0.0,0,0,4,4/11/2018
+1,"spellshock",EXO,0.0,0,0,4,28/7/2018
+2,"spiraling embers",SOK,0.0,0,0,4,28/7/2018
+4,"spire barrage",ZEN,0.0,0,0,4,31/10/2018
+2,"spireside infiltrator",KLD,0.0,0,0,4,3/3/2019
+1,"spite of mogis",JOU,0.0,0,0,4,1/11/2018
+1,"spiteful motives",SOI,0.0,0,0,4,4/11/2018
+1,"spitting earth",6ED,0.0,0,0,0,2/11/2018
+3,"spitting earth",6ED,0.0,0,0,4,2/11/2018
+5,"splatter thug",IMA,0.0,0,0,0,4/11/2018
+2,"splatter thug",IMA,0.0,1,0,0,4/11/2018
+4,"spreading flames",EMN,0.0,0,0,0,4/11/2018
+2,"spreading flames",EMN,0.0,0,0,4,4/11/2018
+1,"sprinting warbrute",DTK,0.0,0,0,4,3/3/2019
+1,"spurred wolverine",ONS,0.0,0,0,4,28/7/2018
+5,"staggershock",ROE,0.0,0,0,4,3/11/2018
+1,"starfall",JOU,0.0,0,0,4,1/11/2018
+1,"start your engines",KLD,0.0,0,0,4,4/11/2018
+9,"stensia banquet",EMN,0.0,0,0,4,4/11/2018
+14,"stensia innkeeper",EMN,0.0,0,0,4,4/11/2018
+1,"stingscourger",PLC,0.0,0,0,4,3/11/2018
+2,"stone rain",MIR,0.0,0,0,4,28/7/2018
+2,"stone rain",MMQ,0.0,0,0,0,28/7/2018
+1,"stone rain",3ED,0.0,1,0,3,17/3/2019
+4,"stone rain",8ED,0.0,0,0,4,28/7/2018
+3,"stone rain",ICE,0.0,0,0,4,28/7/2018
+1,"stone spirit",ICE,0.0,0,0,4,28/7/2018
+5,"stonefury",BFZ,0.0,0,0,4,4/11/2018
+1,"stonehands",ICE,0.0,0,1,4,28/7/2018
+4,"stoneshock giant",THS,0.0,0,0,4,1/11/2018
+1,"stonewright",AVR,0.0,0,0,4,4/11/2018
+1,"storm fleet pyromancer",XLN,0.0,0,0,0,4/11/2018
+1,"storm fleet pyromancer",XLN,0.0,0,0,4,17/9/2018
+1,"storm fleet swashbuckler",RIX,0.0,0,0,0,4/11/2018
+1,"storm fleet swashbuckler",RIX,0.0,0,0,4,4/11/2018
+2,"stormblood berserker",E01,0.0,0,0,0,1/11/2018
+1,"stormcaller of keranos",BNG,0.0,0,0,4,4/11/2018
+2,"stromkirk occultist",EMN,0.0,0,0,0,5/11/2018
+3,"structural collapse",GTC,0.0,0,0,4,4/11/2018
+1,"stun",TMP,0.0,0,0,4,28/7/2018
+3,"subterranean scout",ORI,0.0,0,0,4,4/11/2018
+1,"subterranean spirit",MIR,0.0,0,0,0,28/7/2018
+1,"sudden demise",E01,0.0,0,0,0,1/11/2018
+1,"sulfuric vapors",USG,0.0,0,0,0,28/7/2018
+2,"sulfuric vortex",SCG,0.0,0,0,0,29/7/2018
+1,"sulfuric vortex",SCG,0.0,0,0,4,28/7/2018
+1,"sulfurous blast",CMA,0.0,0,0,0,4/11/2018
+1,"summit prowler",DTK,0.0,0,0,4,3/3/2019
+5,"summit prowler",KTK,0.0,0,0,4,1/11/2018
+1,"sun-collared raptor",RIX,0.0,0,0,0,4/11/2018
+2,"sun-crowned hunters",XLN,0.0,0,0,0,4/11/2018
+1,"sunflare shaman",MOR,0.0,0,0,4,3/11/2018
+2,"suq'ata lancer",VIS,0.0,0,0,0,28/7/2018
+1,"sure strike",BFZ,0.0,0,0,4,4/11/2018
+2,"sure strike",XLN,0.0,0,0,0,4/11/2018
+1,"sure strike",XLN,0.0,0,0,4,17/9/2018
+1,"surge of zeal",RAV,0.0,0,0,0,28/7/2018
+2,"surge of zeal",RAV,0.0,0,0,4,3/11/2018
+1,"surreal memoir",ROE,0.0,0,0,4,30/10/2018
+2,"surreal memoir",IMA,0.0,0,0,0,4/11/2018
+1,"survey the wreckage",RTR,0.0,0,0,4,4/11/2018
+1,"swaggering corsair",RIX,0.0,0,0,0,4/11/2018
+1,"swashbuckling",XLN,0.0,0,0,0,4/11/2018
+2,"swashbuckling",XLN,0.0,0,0,4,17/9/2018
+9,"sweatworks brawler",AER,0.0,0,0,0,4/11/2018
+1,"sweatworks brawler",AER,0.0,0,0,5,4/11/2018
+2,"swelter",JUD,0.0,0,1,4,28/7/2018
+1,"swift kick",KTK,0.0,0,0,4,1/11/2018
+1,"swirling sandstorm",JUD,0.0,0,1,4,28/7/2018
+1,"tail slash",DTK,0.0,0,0,4,3/3/2019
+1,"talruum minotaur",MIR,0.0,0,0,4,28/7/2018
+4,"talruum minotaur",6ED,0.0,0,0,4,2/11/2018
+2,"tears of rage",DST,0.0,0,0,4,28/7/2018
+1,"telim'tor",MIR,0.0,0,0,4,28/7/2018
+1,"telim'tor's edict",MIR,0.0,0,0,4,28/7/2018
+2,"temur battle rage",FRF,0.0,0,0,4,3/3/2019
+2,"tenement crasher",RTR,0.0,0,0,4,4/11/2018
+2,"tenement crasher",RTR,0.0,0,0,8,4/11/2018
+1,"thatcher revolt",AVR,0.0,0,0,4,28/7/2018
+1,"the flame of keld",DOM,0.0,0,0,0,4/11/2018
+1,"the flame of keld",DOM,0.0,0,0,4,4/11/2018
+4,"thermal blast",ODY,0.0,0,0,0,29/7/2018
+1,"thermal blast",ODY,0.0,0,0,4,3/11/2018
+2,"thopter engineer",ORI,0.0,0,0,4,1/11/2018
+2,"thresher lizard",A25,0.0,0,0,0,4/11/2018
+1,"thresher lizard",AKH,0.0,0,0,0,4/11/2018
+7,"thresher lizard",AKH,0.0,0,0,4,1/11/2018
+2,"thriving grubs",KLD,0.0,0,0,4,3/3/2019
+1,"thunder brute",BNG,0.0,0,0,0,1/11/2018
+2,"thunder brute",BNG,0.0,0,0,4,4/11/2018
+2,"thunder strike",M11,0.0,0,0,4,3/11/2018
+4,"thunderbolt",WTH,0.0,0,0,0,28/7/2018
+2,"thunderclap",MMQ,0.0,0,0,4,28/7/2018
+1,"thundering giant",USG,0.0,0,0,0,28/7/2018
+6,"thundering giant",M15,0.0,0,0,4,4/11/2018
+2,"thunderous might",BNG,0.0,0,0,4,4/11/2018
+1,"thunderous wrath",MM3,0.0,0,0,0,4/11/2018
+2,"thunderscape battlemage",PLS,0.0,0,0,0,29/7/2018
+1,"thunderscape familiar",PLS,0.0,0,0,0,29/7/2018
+2,"tilonalli's crown",RIX,0.0,0,0,0,4/11/2018
+1,"tilonalli's knight",XLN,0.0,0,0,0,4/11/2018
+1,"tilonalli's knight",XLN,0.0,0,0,4,17/9/2018
+1,"timecrafting",PLC,0.0,0,0,4,3/11/2018
+2,"tin street hooligan",GPT,0.0,0,0,4,28/7/2018
+2,"tin street market",GTC,0.0,0,0,4,4/11/2018
+3,"titan's strength",THS,0.0,0,0,4,4/11/2018
+1,"titan's strength",ORI,0.0,0,0,4,1/11/2018
+1,"tor giant",ICE,0.0,0,0,4,28/7/2018
+3,"torch fiend",M13,0.0,0,0,4,4/11/2018
+8,"torch fiend",M15,0.0,0,0,4,4/11/2018
+1,"torch fiend",M15,0.0,0,0,6,5/11/2018
+4,"torch slinger",ZEN,0.0,0,0,4,3/11/2018
+1,"torch song",USG,0.0,0,0,4,28/7/2018
+1,"torchling",E01,0.0,0,0,0,1/11/2018
+4,"tormenting voice",AKH,0.0,0,0,0,4/11/2018
+3,"tormenting voice",AKH,0.0,0,0,4,1/11/2018
+1,"tormenting voice",KTK,0.0,0,0,4,4/11/2018
+1,"tormenting voice",SOI,0.0,0,0,4,1/11/2018
+3,"tormenting voice",DTK,0.0,0,0,4,3/3/2019
+6,"tormenting voice",IMA,0.0,0,0,0,4/11/2018
+2,"tormenting voice",IMA,0.0,1,0,0,4/11/2018
+3,"torpid moloch",RAV,0.0,0,0,4,3/11/2018
+1,"torrent of fire",SCG,0.0,0,0,0,29/7/2018
+2,"torrent of fire",SCG,0.0,0,0,4,28/7/2018
+1,"torrent of lava",MIR,0.0,0,0,4,28/7/2018
+2,"torrent of stone",MMA,0.0,0,0,0,4/11/2018
+3,"torrent of stone",BOK,0.0,0,0,0,24/5/2020
+1,"total war",ICE,0.0,0,0,4,28/7/2018
+5,"touch of the void",BFZ,0.0,0,0,4,5/11/2018
+2,"towering thunderfist",GTC,0.0,0,0,4,4/11/2018
+3,"toxic iguanar",CON,0.0,0,0,4,3/11/2018
+7,"tremble",ODY,0.0,0,0,0,29/7/2018
+1,"tremor",VIS,0.0,0,0,4,28/7/2018
+5,"trumpet blast",IMA,0.0,0,0,0,4/11/2018
+1,"trumpet blast",IMA,0.0,1,0,0,4/11/2018
+1,"trumpet blast",UDS,0.0,0,0,4,29/7/2018
+4,"tuktuk grunts",ZEN,0.0,0,0,4,31/10/2018
+4,"turn to slag",M13,0.0,0,0,4,4/11/2018
+5,"twin bolt",DTK,0.0,0,0,4,3/3/2019
+2,"two-headed cerberus",THS,0.0,0,0,4,1/11/2018
+1,"two-headed giant",DOM,0.0,0,0,0,4/11/2018
+3,"uncaged fury",A25,0.0,0,0,0,4/11/2018
+2,"uncaged fury",SOI,0.0,0,0,4,1/11/2018
+6,"uncanny speed",AVR,0.0,0,0,4,4/11/2018
+2,"uncontrollable anger",10E,0.0,0,0,4,28/7/2018
+1,"uncontrolled infestation",SCG,0.0,0,0,0,29/7/2018
+1,"uncontrolled infestation",SCG,0.0,0,0,4,28/7/2018
+1,"undying rage",EMA,0.0,0,0,0,5/11/2018
+2,"unearthly blizzard",CHK,0.0,0,1,4,28/7/2018
+2,"unforge",DST,0.0,0,0,0,28/7/2018
+3,"unforge",DST,0.0,0,0,4,28/7/2018
+3,"unfriendly fire",XLN,0.0,0,0,0,4/11/2018
+1,"unfriendly fire",XLN,0.0,0,0,4,17/9/2018
+2,"unwilling recruit",EVE,0.0,0,0,4,3/11/2018
+1,"urabrask the hidden",IMA,0.0,0,0,0,4/11/2018
+1,"utvara scalper",DIS,0.0,0,0,4,3/11/2018
+1,"valakut predator",BFZ,0.0,0,0,4,4/11/2018
+1,"vandalize",DTK,0.0,0,0,4,3/3/2019
+1,"vaultbreaker",FRF,0.0,0,0,4,3/3/2019
+5,"vent sentinel",IMA,0.0,0,0,0,4/11/2018
+1,"vent sentinel",IMA,0.0,1,0,0,4/11/2018
+1,"vent sentinel",ROE,0.0,0,0,4,30/10/2018
+1,"vertigo",ICE,0.0,0,0,4,28/7/2018
+1,"vertigo",ICE,0.0,0,1,4,28/7/2018
+2,"vessel of volatility",SOI,0.0,0,0,4,1/11/2018
+3,"vestige of emrakul",BFZ,0.0,0,0,4,5/11/2018
+1,"veteran's voice1",ALL,0.0,0,0,4,28/7/2018
+2,"viashino fangtail",RAV,0.0,0,0,4,3/11/2018
+5,"viashino outrider",USG,0.0,0,0,0,2/11/2018
+1,"viashino racketeer",RTR,0.0,0,0,4,4/11/2018
+3,"viashino runner",USG,0.0,0,0,0,2/11/2018
+3,"viashino slasher",RAV,0.0,0,0,4,3/11/2018
+2,"viashino slaughtermaster",CON,0.0,0,0,4,31/10/2018
+1,"viashino spearhunter",M10,0.0,0,0,0,3/11/2018
+2,"viashino spearhunter",M10,0.0,0,0,4,30/10/2018
+2,"viashino warrior",6ED,0.0,0,0,4,2/11/2018
+1,"viashino warrior",MIR,0.0,0,0,4,28/7/2018
+2,"vigilante justice",AVR,0.0,0,0,4,28/7/2018
+1,"vildin-pack outcast",EMN,0.0,0,0,0,5/11/2018
+13,"vildin-pack outcast",EMN,0.0,0,0,4,4/11/2018
+3,"vile aggregate",BFZ,0.0,0,0,4,5/11/2018
+1,"village messenger",SOI,0.0,0,0,4,4/11/2018
+4,"violent impact",AKH,0.0,0,0,4,1/11/2018
+1,"volcanic awakening",TSP,0.0,0,0,4,3/11/2018
+1,"volcanic dragon",MIR,0.0,0,0,0,28/7/2018
+2,"volcanic geyser",E01,0.0,0,0,0,1/11/2018
+1,"volcanic geyser",MIR,0.0,0,0,4,28/7/2018
+1,"volcanic hammer",8ED,0.0,0,0,4,28/7/2018
+4,"volcanic rambler",ORI,0.0,0,0,4,4/11/2018
+1,"volcanic rush",DTK,0.0,0,0,4,3/3/2019
+1,"volcanic strength",M13,0.0,0,0,4,4/11/2018
+1,"volcanic upheaval",BFZ,0.0,0,0,4,4/11/2018
+1,"volcanic vision",DDS,0.0,0,0,0,1/11/2018
+2,"voldaren duelist",SOI,0.0,0,0,4,4/11/2018
+1,"volt charge",NPH,0.0,0,0,4,4/11/2018
+1,"vow of lightning",CMA,0.0,0,0,0,4/11/2018
+1,"vulshok berserker",MRD,0.0,0,0,4,28/7/2018
+1,"wall of diffusion",TMP,0.0,0,0,4,28/7/2018
+1,"wall of dust",4ED,0.0,0,0,0,28/7/2018
+1,"wall of fire",4ED,0.0,0,0,0,28/7/2018
+3,"wall of fire",6ED,0.0,0,0,4,2/11/2018
+3,"wall of fire",M13,0.0,0,0,4,4/11/2018
+19,"wall of fire",M15,0.0,0,0,4,4/11/2018
+1,"wall of fire",3ED,0.0,1,0,3,17/3/2019
+1,"wall of lava",ICE,0.0,0,0,0,28/7/2018
+1,"wall of stone",4ED,0.0,0,0,4,28/7/2018
+1,"wandering goblins",CON,0.0,0,0,4,28/7/2018
+1,"war-name aspirant",KTK,0.0,0,0,4,1/11/2018
+2,"war-torch goblin",RAV,0.0,0,0,4,3/11/2018
+1,"warbringer",DTK,0.0,0,0,4,3/3/2019
+2,"warcry phoenix",DOM,0.0,0,0,0,4/11/2018
+1,"warcry phoenix",DOM,0.0,0,0,4,4/11/2018
+1,"warfire javelineer",AKH,0.0,0,0,0,4/11/2018
+4,"warmind infantry",GTC,0.0,0,0,4,4/11/2018
+2,"weaver of lightning",EMN,0.0,0,0,0,4/11/2018
+1,"weaver of lightning",EMN,0.0,0,0,4,4/11/2018
+1,"welding sparks",KLD,0.0,0,0,4,3/3/2019
+1,"wheel of fortune",3ED,0.0,1,0,4,23/2/2019
+1,"whiptail moloch",DIS,0.0,0,0,4,3/11/2018
+1,"wild colos",UDS,0.0,0,0,4,29/7/2018
+3,"wild guess",M13,0.0,0,0,4,4/11/2018
+2,"wild jhovall",MMQ,0.0,0,0,0,2/11/2018
+2,"wild jhovall",MMQ,0.0,0,0,4,2/11/2018
+2,"wild swing",SHM,0.0,0,0,4,3/11/2018
+1,"wildfire",USG,0.0,0,0,0,28/7/2018
+1,"wildfire cerberus",JOU,0.0,0,2,4,4/11/2018
+2,"wily goblin",XLN,0.0,0,0,4,4/11/2018
+1,"winter sky",HML,0.0,0,0,4,28/7/2018
+1,"wizard's lightning",DOM,0.0,0,0,0,4/11/2018
+1,"wizard's lightning",DOM,0.0,0,0,4,4/11/2018
+1,"words of war",ONS,0.0,0,0,0,31/10/2018
+2,"wrangle",AER,0.0,0,0,0,4/11/2018
+3,"wrap in flames",ROE,0.0,0,0,4,30/10/2018
+1,"wrap in flames",MM2,0.0,0,0,0,4/11/2018
+1,"yamabushi's flame",CHK,0.0,0,1,4,28/7/2018
+1,"yawning fissure",M10,0.0,0,0,4,3/11/2018
+2,"young pyromancer",DDS,0.0,0,0,0,1/11/2018
+4,"zada's commando",OGW,0.0,0,0,4,4/11/2018
+4,"zektar shrine expedition",ZEN,0.0,0,0,4,31/10/2018
+1,"zirilan of the claw",MIR,0.0,0,0,4,28/7/2018

@@ -1,0 +1,877 @@
+Quantity,Name,Code,PurchasePrice,Foil,Condition,Language,PurchaseDate
+4,"Absorb",RNA,0.0,0,0,0,18/7/2020
+1,"Absorb",INV,0.0,0,0,0,29/1/2021
+1,"Absorb",INV,0.0,0,0,3,29/1/2021
+2,"Abzan Ascendancy",KTK,0.0,0,0,0,14/4/2020
+1,"Abzan Ascendancy",KTK,0.0,0,0,4,14/4/2020
+2,"Abzan Guide",KTK,0.0,0,0,4,14/4/2020
+1,"Adriana, Captain of the Guard",CN2,0.0,0,0,0,13/4/2020
+2,"Aerial Engineer",M19,0.0,0,0,0,15/8/2018
+1,"Aerial Engineer",M19,0.0,0,0,3,20/2/2020
+3,"Aeromunculus",RNA,0.0,0,0,0,5/2/2020
+2,"Aether Mutation",APC,0.0,0,0,0,29/1/2021
+1,"Aethermage's Touch",C13,0.0,0,0,4,13/4/2020
+2,"Aethertow",SHM,0.0,0,0,0,13/4/2020
+1,"Agent of Masks",MM3,0.0,0,0,0,4/2/2020
+1,"Agony Warp",MM2,0.0,0,0,0,13/4/2020
+3,"Agony Warp",ALA,0.0,0,0,0,2/2/2020
+2,"Agony Warp",MM3,0.0,0,0,0,2/2/2020
+1,"Agrus Kos, Wojek Veteran",RAV,0.0,0,0,4,4/2/2020
+3,"Ahn-Crop Champion",AKH,0.0,0,0,0,13/4/2020
+1,"Ahn-Crop Champion",AKH,0.0,0,0,4,4/2/2020
+2,"Akroan Hoplite",THS,0.0,0,0,4,4/2/2020
+1,"Alive",DGM,0.0,0,0,4,4/2/2020
+2,"Altar of Bone",ICE,0.0,0,0,0,4/2/2020
+1,"Angel of Despair",UMA,0.0,0,0,0,4/2/2020
+1,"Angelic Captain",BFZ,0.0,0,0,4,4/2/2020
+4,"Anurid Brushhopper",JUD,0.0,1,0,0,4/2/2020
+4,"Applied Biomancy",RNA,0.0,0,0,0,5/2/2020
+1,"Arcades Sabboth",CHR,0.0,0,0,0,5/2/2020
+1,"Archon of the Triumvirate",RTR,0.0,1,0,0,18/7/2020
+1,"Arlinn Kord",SOI,0.0,0,0,4,2/2/2020
+3,"Armored Wolf-Rider",DGM,0.0,0,0,4,4/2/2020
+1,"Armored Wolf-Rider",DGM,0.0,0,0,6,13/4/2020
+1,"Army Ants",VIS,0.0,0,0,0,29/1/2021
+1,"Army Ants",VIS,0.0,0,0,3,4/2/2020
+1,"Army Ants",VIS,0.0,0,0,6,4/2/2020
+3,"Artful Takedown",GRN,0.0,0,0,0,2/2/2020
+1,"Aryel, Knight of Windgrace",DOM,0.0,0,0,5,2/4/2020
+1,"Assassin's Trophy",GRN,0.0,0,0,0,5/2/2020
+2,"Atarka, World Render",FRF,0.0,0,0,6,13/4/2020
+2,"Auger Spree",GK2_RAKDOS,0.0,0,0,0,4/2/2020
+3,"Augury Adept",C13,0.0,0,0,0,4/2/2020
+1,"Aurelia's Fury",GTC,0.0,0,0,4,4/2/2020
+1,"Aurelia, Exemplar of Justice",GRN,0.0,0,0,0,4/2/2020
+1,"Authority",HOU,0.0,0,0,0,13/4/2020
+2,"Aven Wind Guide",AKH,0.0,0,0,0,2/4/2020
+1,"Aven Wind Guide",AKH,0.0,0,0,4,4/2/2020
+1,"Ayesha Tanaka",CHR,0.0,0,0,0,8/5/2020
+1,"Azorius Aethermage",DIS,0.0,0,0,4,4/2/2020
+3,"Azorius Knight-Arbiter",RNA,0.0,0,0,0,4/2/2020
+1,"Azorius Ploy",DIS,0.0,0,0,4,4/2/2020
+1,"Azorius Skyguard",RNA,0.0,0,0,0,4/2/2020
+1,"Baleful Strix",E01,0.0,0,0,0,2/2/2020
+1,"Basilica Bell-Haunt",RNA,0.0,0,0,0,4/2/2020
+2,"Battlegate Mimic",HOP,0.0,0,0,0,4/2/2020
+1,"Battlewise Hoplite",THS,0.0,0,0,0,13/4/2020
+1,"Battlewise Hoplite",THS,0.0,0,0,4,10/8/2018
+1,"Beacon Bolt",GRN,0.0,0,0,0,4/2/2020
+1,"Beamsplitter Mage",GRN,0.0,0,0,0,4/2/2020
+1,"Bedeck // Bedazzle",RNA,0.0,0,0,0,4/2/2020
+1,"Bedevil",RNA,0.0,0,0,0,4/2/2020
+2,"Beetleform Mage",DGM,0.0,0,0,4,5/2/2020
+1,"Behemoth Sledge",DDH,0.0,0,0,4,4/2/2020
+2,"Behemoth Sledge",ARB,0.0,0,0,4,4/2/2020
+2,"Belligerent Brontodon",XLN,0.0,0,0,4,4/2/2020
+2,"Benthic Djinn",MIR,0.0,0,0,0,29/1/2021
+1,"Bioessence Hydra",WAR,0.0,0,0,0,18/7/2020
+1,"Bladewing the Risen",SCG,0.0,0,0,0,4/2/2020
+1,"Bladewing the Risen",SCG,0.0,0,0,3,4/2/2020
+1,"Bladewing the Risen",IMA,0.0,0,0,0,24/5/2020
+1,"Blast of Genius",DGM,0.0,0,0,4,4/2/2020
+1,"Blazing Hellhound",ORI,0.0,0,0,4,13/4/2020
+3,"Blightning",A25,0.0,0,0,0,4/2/2020
+1,"Blind Hunter",GPT,0.0,0,0,4,10/8/2018
+1,"Blizzard Specter",IMA,0.0,0,0,0,24/5/2020
+1,"Blood Tyrant",E01,0.0,0,0,0,5/2/2020
+3,"Bloodhall Priest",EMN,0.0,0,0,0,13/4/2020
+2,"Bloodwater Entity",HOU,0.0,0,0,0,4/2/2020
+10,"Bloodwater Entity",HOU,0.0,0,0,4,4/2/2020
+2,"Boggart Ram-Gang",SHM,0.0,1,0,0,18/7/2020
+1,"Bolrac-Clan Crusher",RNA,0.0,0,0,0,19/1/2020
+1,"Boltwing Marauder",DTK,0.0,0,0,0,13/4/2020
+1,"Borborygmos",GPT,0.0,0,0,4,2/2/2020
+1,"Boros Challenger",GRN,0.0,0,0,0,4/2/2020
+1,"Boros Guildmage",HOP,0.0,0,0,0,4/2/2020
+1,"Branching Bolt",ALA,0.0,0,0,0,18/7/2020
+1,"Brawl-Bash Ogre",M19,0.0,0,0,0,15/8/2018
+2,"Breathstealer's Crypt",VIS,0.0,0,0,0,18/7/2020
+1,"Bred for the Hunt",DGM,0.0,0,0,6,13/4/2020
+2,"Bronzebeak Moa",MM3,0.0,0,0,0,4/2/2020
+1,"Bronzebeak Moa",DGM,0.0,0,0,6,13/4/2020
+2,"Brood Butcher",BFZ,0.0,0,0,0,13/4/2020
+1,"Brood Butcher",BFZ,0.0,1,0,0,13/4/2020
+1,"Burning-Tree Bloodscale",GPT,0.0,0,0,4,10/8/2018
+5,"Cadaverous Bloom",MIR,0.0,0,0,0,2/4/2020
+2,"Cadaverous Bloom",MIR,0.0,0,0,5,5/2/2020
+1,"Call of the Conclave",MM3,0.0,0,0,4,4/2/2020
+2,"Call of the Nightwing",GTC,0.0,0,0,4,2/2/2020
+1,"Call to the Feast",XLN,0.0,0,0,0,2/4/2020
+2,"Call to the Feast",XLN,0.0,0,0,4,4/2/2020
+1,"Captain's Maneuver",APC,0.0,0,0,0,10/8/2018
+1,"Captured Sunlight",ARB,0.0,0,0,4,4/2/2020
+1,"Carnage Gladiator",DGM,0.0,0,0,0,4/2/2020
+1,"Carnage Gladiator",DGM,0.0,0,0,4,4/2/2020
+1,"Carnage Gladiator",DGM,0.0,0,0,6,13/4/2020
+1,"Carnival // Carnage",RNA,0.0,0,0,0,4/2/2020
+1,"Cavern Harpy",PLS,0.0,0,0,0,10/8/2018
+1,"Cavern Harpy",PLS,0.0,0,0,6,13/4/2020
+2,"Centaur Archer",ICE,0.0,0,0,0,29/1/2021
+1,"Centaur Healer",RTR,0.0,0,0,4,4/2/2020
+3,"Centaur Peacemaker",GRN,0.0,0,0,0,4/2/2020
+1,"Chief of the Scale",KTK,0.0,0,0,4,4/2/2020
+1,"Chromium, the Mutable",M19,0.0,0,0,0,15/8/2018
+3,"Chronicler of Heroes",THS,0.0,0,0,0,13/4/2020
+1,"Chronicler of Heroes",THS,0.0,0,0,4,4/2/2020
+1,"Cindervines",RNA,0.0,1,0,0,19/1/2020
+2,"Circle of Despair",MIR,0.0,0,0,0,29/1/2021
+2,"Circu, Dimir Lobotomist",RAV,0.0,0,0,4,2/2/2020
+1,"Clan Guildmage",RNA,0.0,0,0,0,19/1/2020
+1,"Cloudblazer",A25,0.0,0,0,4,4/2/2020
+1,"Clutch of the Undercity",RAV,0.0,0,0,4,2/2/2020
+1,"Coalition Victory",TSB,0.0,0,0,0,29/1/2021
+2,"Coiling Oracle",CN2,0.0,0,0,0,5/2/2020
+1,"Coiling Oracle",DIS,0.0,0,0,4,10/8/2018
+1,"Collision // Colossus",RNA,0.0,0,0,0,2/2/2020
+1,"Combine Guildmage",RNA,0.0,0,0,0,5/2/2020
+1,"Conclave Cavalier",GRN,0.0,0,0,0,4/2/2020
+2,"Conclave Guildmage",GRN,0.0,0,0,0,4/2/2020
+1,"Connive // Concoct",GRN,0.0,0,0,0,4/2/2020
+1,"Connive // Concoct",GRN,0.0,1,0,0,3/2/2020
+2,"Consecrate // Consume",RNA,0.0,0,0,0,5/2/2020
+2,"Consign",HOU,0.0,0,0,0,3/2/2020
+3,"Consult the Necrosages",RAV,0.0,0,0,0,22/7/2020
+3,"Consume Strength",APC,0.0,0,0,0,29/1/2021
+1,"Consuming Aberration",GTC,0.0,0,0,6,2/2/2020
+3,"Contraband Kingpin",KLD,0.0,0,0,4,2/2/2020
+4,"Corpsejack Menace",IMA,0.0,0,0,0,18/7/2020
+1,"Crackling Drake",GRN,0.0,0,0,0,4/2/2020
+1,"Crime",DIS,0.0,0,0,4,5/2/2020
+1,"Cruel Ultimatum",MM3,0.0,0,0,4,5/2/2020
+1,"Cruel Ultimatum",E01,0.0,0,0,0,5/2/2020
+2,"Cult Guildmage",RNA,0.0,0,0,0,4/2/2020
+2,"Cunning Strike",FRF,0.0,0,0,4,13/4/2020
+1,"Dakkon Blackblade",CHR,0.0,0,0,0,5/2/2020
+5,"Daring Leap",PLS,0.0,0,0,0,29/1/2021
+2,"Dark Heart of the Wood",RAV,0.0,0,0,4,5/2/2020
+1,"Dark Heart of the Wood",DRK,0.0,0,0,0,5/2/2020
+18,"Dark Heart of the Wood",DRK,0.0,0,0,4,5/2/2020
+1,"Dark Intimations",AER,0.0,0,0,0,14/4/2020
+1,"Dark Intimations",AER,0.0,0,0,5,14/4/2020
+1,"Dark Intimations",AER,0.0,1,0,0,5/2/2020
+4,"Darkblade Agent",GRN,0.0,0,0,0,2/2/2020
+1,"Deadeye Brawler",RIX,0.0,0,0,0,13/4/2020
+1,"Deadeye Plunderers",XLN,0.0,0,0,0,13/4/2020
+3,"Death Frenzy",KTK,0.0,0,0,4,5/2/2020
+1,"Deathcult Rogue",GTC,0.0,0,0,4,3/2/2020
+1,"Debt to the Deathless",DGM,0.0,0,0,0,13/4/2020
+1,"Debt to the Deathless",DGM,0.0,0,0,4,4/2/2020
+1,"Debtors' Knell",GPT,0.0,0,0,0,2/4/2020
+2,"Decimator Beetle",AKH,0.0,0,0,0,2/4/2020
+3,"Decimator Beetle",AKH,0.0,0,0,4,5/2/2020
+1,"Deft Duelist",ALA,0.0,0,0,0,13/4/2020
+1,"Delirium",MIR,0.0,0,0,0,29/1/2021
+1,"Depose // Deploy",RNA,0.0,0,0,0,4/2/2020
+1,"Deputy of Acquittals",DGM,0.0,0,0,0,13/4/2020
+1,"Deputy of Acquittals",MM3,0.0,0,0,0,4/2/2020
+1,"Deputy of Detention",RNA,0.0,0,0,0,4/2/2020
+1,"Desecrator Hag",EVE,0.0,1,0,0,5/2/2020
+1,"Despair",HOU,0.0,0,0,0,13/4/2020
+1,"Desperate Stand",JOU,0.0,0,0,4,13/4/2020
+2,"Destined",AKH,0.0,0,0,0,13/4/2020
+1,"Destined",AKH,0.0,0,0,4,5/2/2020
+1,"Destined",AKH,0.0,1,0,0,5/2/2020
+1,"Destructive Flow",PLS,0.0,0,0,3,5/2/2020
+2,"Destructive Revelry",THS,0.0,0,0,0,29/1/2021
+4,"Deus of Calamity",DDL,0.0,0,0,0,2/2/2020
+1,"Diabolic Vision",ICE,0.0,0,0,0,2/2/2020
+1,"Dimir Guildmage",RAV,0.0,0,0,4,3/2/2020
+1,"Dimir Spybug",GRN,0.0,0,0,0,2/2/2020
+2,"Dinrova Horror",MM3,0.0,0,0,0,2/2/2020
+1,"Dire Fleet Captain",XLN,0.0,0,0,0,13/4/2020
+1,"Dire Fleet Neckbreaker",RIX,0.0,0,0,4,4/2/2020
+3,"Diregraf Captain",DKA,0.0,0,0,0,2/4/2020
+1,"Discordant Spirit",MIR,0.0,0,0,0,29/1/2021
+1,"Discovery // Dispersal",GRN,0.0,0,0,0,4/2/2020
+1,"Disinformation Campaign",GRN,0.0,0,0,0,2/2/2020
+2,"Divinity of Pride",MMA,0.0,0,0,0,2/4/2020
+1,"Dormant Sliver",PLC,0.0,0,0,0,5/2/2020
+1,"Dormant Sliver",PLC,0.0,1,0,0,5/2/2020
+1,"Double Cleave",EVE,0.0,0,0,0,4/2/2020
+1,"Dovin's Acuity",RNA,0.0,0,0,0,4/2/2020
+1,"Down",DGM,0.0,0,0,6,13/4/2020
+1,"Draconic Disciple",M19,0.0,0,0,0,19/1/2020
+3,"Dracoplasm",TMP,0.0,0,0,0,29/1/2021
+1,"Dragonshift",DGM,0.0,0,0,4,4/2/2020
+1,"Drain the Well",EVE,0.0,0,0,4,10/8/2018
+3,"Drakewing Krasis",GTC,0.0,0,0,4,10/8/2018
+1,"Drakewing Krasis",GTC,0.0,0,0,6,13/4/2020
+1,"Dreadbore",E01,0.0,0,0,0,4/2/2020
+1,"Dreadhorde Butcher",WAR,0.0,0,0,0,18/7/2020
+6,"Drogskol Captain",DKA,0.0,0,0,0,2/4/2020
+1,"Drown in Filth",DGM,0.0,0,0,0,5/2/2020
+1,"Drown in Filth",DGM,0.0,0,0,6,13/4/2020
+2,"Dryad Militant",RTR,0.0,0,0,4,4/2/2020
+1,"Duergar Hedge-Mage",CMA,0.0,0,0,0,2/4/2020
+1,"Duskmantle Guildmage",GTC,0.0,0,0,0,10/8/2018
+1,"Duskmantle Guildmage",GTC,0.0,0,0,6,13/4/2020
+1,"Ebony Treefolk",APC,0.0,0,0,3,5/2/2020
+1,"Edgewalker",SCG,0.0,0,1,4,4/2/2020
+1,"Edgewalker",SCG,0.0,0,4,0,4/2/2020
+1,"Efreet Weaponmaster",KTK,0.0,0,0,4,14/4/2020
+1,"Emberstrike Duo",SHM,0.0,0,0,4,10/8/2018
+2,"Emmara, Soul of the Accord",GRN,0.0,0,0,0,4/2/2020
+1,"Enduring Scalelord",DTK,0.0,0,0,4,4/2/2020
+1,"Energy Arc",ALL,0.0,0,0,0,29/1/2021
+1,"Energy Bolt",MIR,0.0,0,0,0,18/7/2020
+1,"Enigma Drake",M19,0.0,0,0,0,15/8/2018
+1,"Enigma Drake",M19,0.0,1,0,0,15/8/2018
+1,"Enigma Drake",AKH,0.0,0,0,0,2/4/2020
+1,"Enigmatic Incarnation",THB,0.0,0,0,3,20/2/2020
+3,"Enlisted Wurm",ARB,0.0,0,0,4,10/8/2018
+4,"Erstwhile Trooper",GRN,0.0,0,0,0,5/2/2020
+1,"Esper Sojourners",ARB,0.0,0,0,4,10/8/2018
+2,"Essence Backlash",RTR,0.0,0,0,4,4/2/2020
+1,"Essence Vortex",ICE,0.0,0,0,0,29/1/2021
+1,"Ethereal Absolution",RNA,0.0,0,0,0,4/2/2020
+2,"Ethersworn Shieldmage",ARB,0.0,0,0,4,10/8/2018
+1,"Etherwrought Page",ARB,0.0,0,0,4,5/2/2020
+1,"Executioner's Swing",GTC,0.0,0,0,4,13/4/2020
+1,"Expansion // Explosion",GRN,0.0,0,0,0,4/2/2020
+1,"Extract from Darkness",EMA,0.0,0,0,0,2/2/2020
+2,"Farm",HOU,0.0,0,0,0,4/2/2020
+1,"Farm",HOU,0.0,0,0,4,4/2/2020
+1,"Fate Transfer",SHM,0.0,0,0,0,10/8/2018
+1,"Favor of the Overbeing",EVE,0.0,0,0,0,5/2/2020
+1,"Favor of the Overbeing",EVE,0.0,0,0,4,10/8/2018
+1,"Feral Animist",DGM,0.0,0,0,4,2/2/2020
+3,"Fiery Justice",ICE,0.0,0,0,0,5/2/2020
+4,"Final Payment",RNA,0.0,0,0,0,4/2/2020
+1,"Find // Finality",GRN,0.0,0,0,0,5/2/2020
+1,"Finish",AKH,0.0,0,0,0,13/4/2020
+2,"Fire",APC,0.0,0,0,0,29/1/2021
+1,"Fire",APC,0.0,1,0,0,4/2/2020
+2,"Fire Covenant",ICE,0.0,0,0,0,4/2/2020
+1,"Fire at Will",EVE,0.0,0,0,0,4/2/2020
+4,"Fire-Field Ogre",ALA,0.0,0,0,4,5/2/2020
+2,"Fireblade Artist",RNA,0.0,0,0,0,4/2/2020
+1,"Firemane Angel",GK1_BOROS,0.0,0,0,0,13/4/2020
+1,"Firemind's Foresight",C15,0.0,0,0,0,4/2/2020
+3,"Fires of Yavimaya",INV,0.0,0,0,0,18/7/2020
+1,"Fires of Yavimaya",PC2,0.0,0,0,0,18/7/2020
+1,"Firesong and Sunspeaker",DOM,0.0,1,0,4,13/4/2020
+1,"Fleetfeather Cockatrice",JOU,0.0,0,0,4,13/4/2020
+1,"Fleetfoot Panther",PLS,0.0,0,0,4,4/2/2020
+1,"Flower // Flourish",GRN,0.0,0,0,0,4/2/2020
+3,"Footlight Fiend",RNA,0.0,0,0,0,4/2/2020
+5,"Frenetic Efreet",MIR,0.0,0,0,0,18/7/2020
+4,"Frenetic Efreet",MIR,0.0,1,0,0,4/2/2020
+3,"Frenzied Arynx",RNA,0.0,0,0,0,19/1/2020
+3,"Fresh-Faced Recruit",GRN,0.0,0,0,0,4/2/2020
+2,"Frilled Mystic",RNA,0.0,0,0,0,5/2/2020
+3,"Fulminator Mage",MM2,0.0,0,0,0,4/2/2020
+2,"Fumarole",ICE,0.0,0,0,0,29/1/2021
+6,"Gaea's Skyfolk",APC,0.0,0,0,0,29/1/2021
+4,"Galina's Knight",INV,0.0,0,0,0,29/1/2021
+2,"Galloping Lizrog",RNA,0.0,0,0,0,5/2/2020
+1,"Garna, the Bloodflame",DOM,0.0,0,0,0,4/2/2020
+3,"Garrison Sergeant",GRN,0.0,0,0,0,4/2/2020
+4,"Gelectrode",GPT,0.0,0,0,0,22/7/2020
+1,"Gelectrode",GPT,0.0,0,0,4,4/2/2020
+1,"Gerrard's Command",PLS,0.0,0,0,4,4/2/2020
+1,"Gerrard's Verdict",APC,0.0,0,0,0,4/2/2020
+4,"Gerrard's Verdict",APC,0.0,0,0,1,18/7/2020
+3,"Get the Point",RNA,0.0,0,0,0,4/2/2020
+1,"Ghor-Clan Rampager",MM3,0.0,0,0,0,2/2/2020
+1,"Giant Solifuge",GPT,0.0,0,0,4,2/2/2020
+1,"Giant Trap Door Spider",ICE,0.0,0,0,0,29/1/2021
+4,"Giantbaiting",SHM,0.0,0,0,0,18/7/2020
+2,"Gift of Orzhova",MM3,0.0,0,0,0,13/4/2020
+2,"Giltspire Avenger",CON,0.0,0,0,4,14/4/2020
+1,"Give",DGM,0.0,0,0,6,13/4/2020
+2,"Glimpse the Unthinkable",IMA,0.0,0,0,0,2/4/2020
+2,"Glimpse the Unthinkable",RAV,0.0,0,0,0,2/4/2020
+2,"Glowspore Shaman",GRN,0.0,0,0,0,5/2/2020
+2,"Goblin Electromancer",DDS,0.0,0,0,0,4/2/2020
+4,"Goblin Electromancer",GRN,0.0,0,0,0,4/2/2020
+4,"Goblin Electromancer",GRN,0.0,0,0,4,4/2/2020
+1,"Goblin Electromancer",GRN,0.0,1,0,0,4/2/2020
+2,"Goblin Legionnaire",APC,0.0,0,0,0,29/1/2021
+1,"Goblin Outlander",CON,0.0,0,0,4,4/2/2020
+2,"Golgari Charm",RTR,0.0,0,0,4,5/2/2020
+1,"Golgari Findbroker",GRN,0.0,0,0,0,5/2/2020
+1,"Golgari Germination",RAV,0.0,0,0,4,5/2/2020
+2,"Golgari Germination",MM3,0.0,0,0,0,5/2/2020
+1,"Golgari Guildmage",RAV,0.0,0,0,0,5/2/2020
+7,"Golgari Rotwurm",MM3,0.0,0,0,0,13/4/2020
+1,"Gorger Wurm",ARB,0.0,0,0,4,10/8/2018
+3,"Grasping Thrull",RNA,0.0,0,0,0,4/2/2020
+2,"Grazing Kelpie",EVE,0.0,0,0,0,5/2/2020
+2,"Grisly Salvage",RTR,0.0,0,0,0,5/2/2020
+1,"Grixis Sojourners",ARB,0.0,0,0,4,5/2/2020
+2,"Ground Assault",MM3,0.0,0,0,0,13/4/2020
+1,"Grove Rumbler",BFZ,0.0,0,0,4,2/2/2020
+4,"Growth Spiral",RNA,0.0,0,0,0,5/2/2020
+1,"Gruul War Chant",DGM,0.0,0,0,4,2/2/2020
+1,"Gyre Engineer",RNA,0.0,0,0,0,5/2/2020
+1,"Hackrobat",RNA,0.0,0,0,0,4/2/2020
+1,"Hallar, the Firefletcher",DOM,0.0,0,0,0,2/4/2020
+4,"Hallar, the Firefletcher",DOM,0.0,0,0,4,2/2/2020
+4,"Hammer Dropper",GRN,0.0,0,0,0,4/2/2020
+2,"Hanna, Ship's Navigator",INV,0.0,0,0,0,29/1/2021
+1,"Hanna, Ship's Navigator",A25,0.0,0,0,0,13/4/2020
+3,"Hapatra, Vizier of Poisons",AKH,0.0,0,0,0,31/5/2020
+1,"Harbor Guardian",MIR,0.0,0,0,0,29/1/2021
+1,"Harvest Gwyllion",EVE,0.0,0,0,0,5/2/2020
+1,"Hazardous Conditions",KLD,0.0,0,0,4,5/2/2020
+4,"Hazerider Drake",MIR,0.0,0,0,0,29/1/2021
+1,"Helm of the Ghastlord",SHM,0.0,0,0,4,3/2/2020
+1,"Heroic Reinforcements",M19,0.0,0,0,0,15/8/2018
+1,"Heron's Grace Champion",EMN,0.0,0,0,0,13/4/2020
+1,"High Alert",RNA,0.0,0,0,0,4/2/2020
+1,"Highspire Mantis",KTK,0.0,0,0,4,4/2/2020
+4,"Honored Crop-Captain",AKH,0.0,0,0,0,13/4/2020
+1,"Honored Crop-Captain",AKH,0.0,0,0,4,4/2/2020
+1,"Horizon Chimera",THS,0.0,0,0,4,5/2/2020
+3,"Horned Kavu",PLS,0.0,0,0,0,29/1/2021
+1,"House Guildmage",GRN,0.0,0,0,0,2/2/2020
+1,"Hull Breach",PLS,0.0,0,0,3,2/2/2020
+1,"Hull Breach",PLS,0.0,0,0,6,13/4/2020
+6,"Hull Breach",HOP,0.0,0,0,0,29/1/2021
+2,"Hunding Gjornersen",LEG,0.0,0,0,4,4/2/2020
+2,"Hydroform",GTC,0.0,0,0,4,13/4/2020
+1,"Hydroid Krasis",RNA,0.0,0,0,0,5/2/2020
+1,"Hymn of Rebirth",ICE,0.0,0,0,0,4/2/2020
+1,"Hypersonic Dragon",GK1_IZZET,0.0,0,0,0,13/4/2020
+1,"Hypersonic Dragon",PPRE,0.0,1,0,0,18/7/2020
+4,"Hypothesizzle",GRN,0.0,0,0,0,4/2/2020
+1,"Icefeather Aven",KTK,0.0,0,0,4,5/2/2020
+5,"Immerwolf",DKA,0.0,0,0,0,2/4/2020
+4,"Imperious Oligarch",RNA,0.0,0,0,0,4/2/2020
+1,"Impromptu Raid",SHM,0.0,0,0,0,31/5/2020
+2,"Incubation // Incongruity",RNA,0.0,0,0,0,5/2/2020
+1,"Inside Out",EVE,0.0,0,0,0,4/2/2020
+1,"Integrity // Intervention",GRN,0.0,0,0,0,4/2/2020
+1,"Intet, the Dreamer",PLC,0.0,0,0,0,5/2/2020
+1,"Invert // Invent",GRN,0.0,0,0,0,4/2/2020
+1,"Invocation of Saint Traft",SOI,0.0,0,0,0,13/4/2020
+1,"Iridescent Angel",ODY,0.0,0,0,0,29/1/2021
+2,"Iroas's Champion",ORI,0.0,0,0,4,4/2/2020
+2,"Ironroot Warlord",M20,0.0,0,0,0,13/4/2020
+1,"Izoni, Thousand-Eyed",GRN,0.0,0,0,0,5/2/2020
+4,"Izzet Guildmage",GPT,0.0,0,0,0,29/1/2021
+2,"Izzet Staticaster",RTR,0.0,0,0,4,13/4/2020
+1,"Jagged Poppet",GK2_RAKDOS,0.0,0,0,4,4/2/2020
+1,"Jarad, Golgari Lich Lord",C15,0.0,0,0,0,22/7/2020
+1,"Jasmine Boreal",LEG,0.0,0,0,4,4/2/2020
+1,"Jasmine Boreal",TSB,0.0,0,0,0,29/1/2021
+2,"Jedit Ojanen",LEG,0.0,0,0,4,4/2/2020
+1,"Jerrard of the Closed Fist",LEG,0.0,0,0,4,2/2/2020
+1,"Jhoira of the Ghitu",DDS,0.0,0,0,0,4/2/2020
+1,"Jodah, Archmage Eternal",DOM,0.0,0,0,5,2/4/2020
+1,"Johan",LEG,0.0,0,0,0,29/1/2021
+2,"Join Shields",GRN,0.0,0,0,0,4/2/2020
+1,"Join Shields",GRN,0.0,1,0,0,4/2/2020
+2,"Jori En, Ruin Diver",OGW,0.0,0,0,0,4/2/2020
+1,"Judith, the Scourge Diva",RNA,0.0,0,0,0,4/2/2020
+2,"Jungle Barrier",APC,0.0,0,0,0,29/1/2021
+3,"Jungle Barrier",E02,0.0,0,0,0,13/4/2020
+1,"Justice Strike",GRN,0.0,0,0,0,4/2/2020
+1,"Kaervek's Purge",MIR,0.0,0,0,0,29/1/2021
+1,"Kasimir the Lone Wolf",LEG,0.0,0,0,4,4/2/2020
+1,"Kathari Bomber",MM3,0.0,0,0,0,4/2/2020
+1,"Kathari Remnant",ARB,0.0,0,0,0,13/4/2020
+3,"Kei Takahashi",CHR,0.0,0,0,0,29/1/2021
+1,"Khenra Charioteer",AKH,0.0,0,0,0,2/2/2020
+3,"Khenra Charioteer",AKH,0.0,0,0,4,2/2/2020
+2,"Kheru Lich Lord",KTK,0.0,0,0,0,5/2/2020
+1,"Kheru Lich Lord",KTK,0.0,0,0,4,5/2/2020
+1,"Kiora's Follower",BNG,0.0,0,0,0,5/2/2020
+1,"Knight of the Last Breath",RNA,0.0,0,0,0,4/2/2020
+1,"Kolaghan, the Storm's Fury",FRF,0.0,0,0,6,13/4/2020
+1,"Kolaghan, the Storm's Fury",FRF,0.0,1,0,4,13/4/2020
+1,"Korozda Gorgon",DGM,0.0,0,0,4,5/2/2020
+1,"Korozda Guildmage",RTR,0.0,0,0,4,5/2/2020
+4,"Kragma Warcaller",THS,0.0,0,0,4,13/4/2020
+1,"Krasis Incubation",DGM,0.0,0,0,6,13/4/2020
+4,"Kunoros, Hound of Athreos",THB,0.0,0,0,0,2/4/2020
+1,"Lady Orca",LEG,0.0,0,0,4,15/8/2018
+1,"Last Stand",APC,0.0,0,0,4,10/8/2018
+1,"Lava Zombie",PLS,0.0,0,0,0,29/1/2021
+1,"Lava Zombie",PLS,0.0,0,0,6,13/4/2020
+1,"Lavinia, Azorius Renegade",RNA,0.0,0,0,0,4/2/2020
+5,"Lawmage's Binding",RNA,0.0,0,0,0,29/1/2021
+1,"Lawmage's Binding",RNA,0.0,1,0,0,4/2/2020
+2,"League Guildmage",GRN,0.0,0,0,0,4/2/2020
+1,"Leap of Flame",GPT,0.0,0,0,4,10/8/2018
+1,"Ledev Champion",GRN,0.0,0,0,0,4/2/2020
+2,"Legion Guildmage",GRN,0.0,0,0,0,4/2/2020
+1,"Legion Guildmage",GRN,0.0,0,0,5,4/2/2020
+1,"Legion Lieutenant",RIX,0.0,0,0,0,13/4/2020
+4,"Leyline Prowler",WAR,0.0,0,0,0,2/4/2020
+1,"Lightning Angel",TSB,0.0,0,0,0,29/1/2021
+1,"Lim-Dûl's Paladin",ALL,0.0,0,0,3,4/2/2020
+4,"Lim-Dûl's Vault",ALL,0.0,0,0,0,29/1/2021
+1,"Lim-Dûl's Vault",ALL,0.0,0,0,4,2/2/2020
+1,"Lim-Dûl's Vault",ALL,0.0,0,0,5,2/2/2020
+5,"Lithatog",ODY,0.0,0,0,0,29/1/2021
+1,"Lithatog",ODY,0.0,0,0,3,2/2/2020
+1,"Lithatog",ODY,0.0,0,0,6,2/2/2020
+1,"Llanowar Dead",APC,0.0,0,0,0,29/1/2021
+1,"Llanowar Dead",APC,0.0,0,0,3,5/2/2020
+1,"Llanowar Dead",APC,0.0,0,0,4,10/8/2018
+1,"Llanowar Knight",INV,0.0,0,0,4,13/4/2020
+4,"Lobotomy",PFNM,0.0,0,0,0,4/2/2020
+2,"Lobotomy",TMP,0.0,0,0,0,2/2/2020
+1,"Lobotomy",INV,0.0,1,0,0,18/7/2020
+5,"Lochmere Serpent",ELD,0.0,0,0,0,2/4/2020
+2,"Lord Magnus",LEG,0.0,0,0,4,4/2/2020
+3,"Lord of Tresserhorn",ALL,0.0,0,0,0,18/7/2020
+2,"Lorescale Coatl",DDO,0.0,0,0,0,2/4/2020
+4,"Lurking Informant",RAV,0.0,0,0,0,10/8/2018
+1,"Lyzolda, the Blood Witch",GK2_RAKDOS,0.0,0,0,4,4/2/2020
+1,"Macabre Mockery",RNA,0.0,0,0,0,4/2/2020
+1,"Madrush Cyclops",ARB,0.0,0,0,0,5/2/2020
+1,"Maelstrom Pulse",MMA,0.0,0,0,0,29/1/2021
+4,"Maelstrom Pulse",UMA,0.0,0,0,0,29/1/2021
+4,"Malicious Advice",PLS,0.0,0,0,0,29/1/2021
+1,"Malicious Advice",PLS,0.0,0,0,4,2/2/2020
+16,"Manamorphose",SHM,0.0,0,0,0,29/1/2021
+3,"Manamorphose",MMA,0.0,0,0,0,29/1/2021
+1,"Marauding Looter",XLN,0.0,0,0,0,13/4/2020
+1,"Marauding Looter",XLN,0.0,1,0,0,13/4/2020
+1,"March from the Tomb",BFZ,0.0,0,0,6,4/2/2020
+6,"Marhault Elsdragon",CHR,0.0,0,0,0,29/1/2021
+2,"Marhault Elsdragon",LEG,0.0,0,0,4,2/2/2020
+1,"Marrow Chomper",ARB,0.0,0,0,0,13/4/2020
+1,"Marrow Chomper",ARB,0.0,0,0,4,5/2/2020
+15,"Marsh Goblins",DRK,0.0,0,0,4,4/2/2020
+3,"Maverick Thopterist",AER,0.0,0,0,0,13/4/2020
+3,"Maverick Thopterist",AER,0.0,0,0,4,4/2/2020
+1,"Maw of the Obzedat",DGM,0.0,0,0,4,4/2/2020
+1,"Maw of the Obzedat",DGM,0.0,0,0,6,13/4/2020
+4,"Meddling Mage",ARB,0.0,0,0,0,29/1/2021
+6,"Meddling Mage",PLS,0.0,0,0,0,29/1/2021
+1,"Medicine Runner",SHM,0.0,0,0,4,4/2/2020
+1,"Memory Plunder",SHM,0.0,0,0,0,3/2/2020
+1,"Merciless Javelineer",AKH,0.0,0,0,0,4/2/2020
+8,"Merciless Javelineer",AKH,0.0,0,0,4,4/2/2020
+3,"Mercurial Geists",EMN,0.0,0,0,0,4/2/2020
+1,"Mercy Killing",SHM,0.0,0,0,4,4/2/2020
+2,"Merieke Ri Berit",TSB,0.0,0,0,0,29/1/2021
+2,"Mind",AKH,0.0,0,0,0,13/4/2020
+4,"Mind Funeral",ARB,0.0,0,0,3,2/4/2020
+2,"Mind Funeral",MMA,0.0,0,0,0,22/7/2020
+6,"Mind Grind",GTC,0.0,0,0,0,2/2/2020
+1,"Mindswipe",KTK,0.0,0,0,0,13/4/2020
+1,"Mindswipe",KTK,0.0,0,0,6,13/4/2020
+3,"Minotaur Illusionist",APC,0.0,0,0,0,29/1/2021
+2,"Mirari's Wake",JUD,0.0,0,0,3,18/7/2020
+3,"Mirari's Wake",JUD,0.0,1,0,0,4/2/2020
+1,"Mirror Sheen",EVE,0.0,0,0,0,2/4/2020
+1,"Mnemonic Betrayal",GRN,0.0,0,0,4,2/2/2020
+3,"Molderhulk",GRN,0.0,0,0,0,5/2/2020
+1,"Moldervine Reclamation",M20,0.0,0,0,0,13/4/2020
+1,"Morgue Burst",DGM,0.0,0,0,4,4/2/2020
+1,"Morgue Burst",DGM,0.0,0,0,6,13/4/2020
+1,"Moroii",RAV,0.0,0,0,4,2/2/2020
+2,"Moroii",MM3,0.0,0,0,0,2/2/2020
+1,"Mortify",RNA,0.0,0,0,0,4/2/2020
+1,"Mortify",GPT,0.0,0,0,0,4/2/2020
+1,"Mortus Strider",GTC,0.0,0,0,4,13/4/2020
+2,"Mourning Thrull",GPT,0.0,0,0,0,10/8/2018
+3,"Mournwillow",EMN,0.0,0,0,0,5/2/2020
+1,"Mournwillow",EMN,0.0,0,0,4,5/2/2020
+1,"Mudbrawler Raiders",SHM,0.0,0,0,0,10/8/2018
+1,"Mudbrawler Raiders",SHM,0.0,0,0,4,2/2/2020
+2,"Munda, Ambush Leader",BFZ,0.0,0,0,0,4/2/2020
+1,"Mundungu",VIS,0.0,0,0,4,2/2/2020
+1,"Murderous Redcap",MMA,0.0,0,0,0,4/2/2020
+3,"Murderous Redcap",UMA,0.0,0,0,0,4/2/2020
+1,"Mystic Enforcer",TSB,0.0,0,0,0,29/1/2021
+1,"Mystic Genesis",MM3,0.0,0,0,0,5/2/2020
+1,"Mystic Snake",APC,0.0,0,0,0,29/1/2021
+1,"Narset, Enlightened Master",KTK,0.0,0,0,0,14/4/2020
+2,"Narset, Enlightened Master",KTK,0.0,0,0,4,14/4/2020
+1,"Nature's Blessing",ALL,0.0,0,0,2,20/6/2020
+1,"Naya Charm",ALA,0.0,0,0,0,10/8/2018
+2,"Naya Sojourners",PWPN,0.0,0,0,0,31/5/2020
+2,"Naya Sojourners",ARB,0.0,0,0,4,5/2/2020
+1,"Nebuchadnezzar",CHR,0.0,0,0,0,18/7/2020
+1,"Nemesis of Reason",ARB,0.0,0,0,4,2/2/2020
+1,"Nicol Bolas, Planeswalker",E01,0.0,0,0,0,5/2/2020
+1,"Nightveil Predator",GRN,0.0,0,0,0,2/2/2020
+1,"Nightveil Specter",GTC,0.0,0,0,0,20/6/2020
+1,"Nightveil Specter",GTC,0.0,0,0,4,3/2/2020
+1,"Nikya of the Old Ways",RNA,0.0,0,0,0,19/1/2020
+1,"Nip Gwyllion",EVE,0.0,0,0,0,5/2/2020
+1,"Niv-Mizzet, the Firemind",A25,0.0,0,0,0,13/4/2020
+2,"Nobilis of War",DDL,0.0,0,0,0,18/7/2020
+3,"Notion Rain",GRN,0.0,0,0,0,2/2/2020
+1,"Notion Thief",DGM,0.0,0,0,6,2/2/2020
+1,"Notion Thief",A25,0.0,0,0,0,13/4/2020
+3,"Noyan Dar, Roil Shaper",BFZ,0.0,0,0,0,4/2/2020
+1,"Nucklavee",DDS,0.0,0,0,0,4/2/2020
+2,"Obelisk Spider",HOU,0.0,0,0,0,13/4/2020
+4,"Obzedat, Ghost Council",GTC,0.0,0,0,0,2/4/2020
+2,"Ochran Assassin",GRN,0.0,0,0,0,5/2/2020
+1,"Odious Trow",EVE,0.0,0,0,0,10/8/2018
+1,"Odious Trow",EVE,0.0,0,0,4,5/2/2020
+1,"Olivia, Mobilized for War",SOI,0.0,0,0,0,13/4/2020
+1,"Onward",AKH,0.0,0,0,0,13/4/2020
+4,"Onward",AKH,0.0,0,0,4,4/2/2020
+1,"Onward",AKH,0.0,1,0,0,4/2/2020
+1,"Oona's Gatewarden",SHM,0.0,0,0,4,3/2/2020
+1,"Oros, the Avenger",CMA,0.0,0,0,4,14/4/2020
+1,"Oros, the Avenger",PLC,0.0,0,0,4,5/2/2020
+1,"Orzhov Guildmage",GPT,0.0,0,0,0,5/2/2020
+4,"Outland Boar",AER,0.0,0,0,0,13/4/2020
+1,"Outland Boar",AER,0.0,0,0,4,2/2/2020
+1,"Overabundance",INV,0.0,0,0,0,2/2/2020
+1,"Pain Magnification",DIS,0.0,1,0,4,4/2/2020
+2,"Pale Recluse",ARB,0.0,0,0,4,4/2/2020
+1,"Palladia-Mors",CHR,0.0,0,0,0,18/7/2020
+1,"Palladia-Mors, the Ruiner",M19,0.0,0,0,0,15/8/2018
+1,"Path of Mettle",RIX,0.0,0,0,0,13/4/2020
+2,"Pavel Maliki",LEG,0.0,0,0,4,4/2/2020
+4,"Phantatog",ODY,0.0,0,0,0,29/1/2021
+2,"Phantatog",ODY,0.0,0,0,4,4/2/2020
+1,"Pharika's Mender",THS,0.0,0,0,0,5/2/2020
+3,"Phelddagrif",ALL,0.0,0,0,0,29/1/2021
+1,"Phytohydra",RAV,0.0,0,0,4,4/2/2020
+1,"Pilfered Plans",DGM,0.0,0,0,6,13/4/2020
+3,"Pilfered Plans",MM3,0.0,0,0,0,2/2/2020
+4,"Piston-Fist Cyclops",GRN,0.0,0,0,0,4/2/2020
+1,"Pit Fight",GTC,0.0,0,0,0,10/8/2018
+2,"Pit Fight",GTC,0.0,0,0,4,2/2/2020
+4,"Pitiless Gorgon",GRN,0.0,0,0,0,5/2/2020
+1,"Pitiless Pontiff",RNA,0.0,0,0,0,4/2/2020
+1,"Plague Spores",INV,0.0,0,0,4,4/2/2020
+1,"Plaxcaster Frogling",DIS,0.0,0,0,4,5/2/2020
+1,"Plumes of Peace",DIS,0.0,0,0,4,10/8/2018
+1,"Plumeveil",UMA,0.0,0,0,0,2/4/2020
+2,"Plumeveil",MMA,0.0,0,0,0,4/2/2020
+1,"Poison-Tip Archer",M19,0.0,0,0,0,15/8/2018
+2,"Ponyback Brigade",KTK,0.0,0,0,4,14/4/2020
+1,"Prepare",AKH,0.0,0,0,0,13/4/2020
+1,"Prime Speaker Vannifar",RNA,0.0,0,0,0,5/2/2020
+2,"Princess Lucrezia",LEG,0.0,0,0,4,2/2/2020
+1,"Protect",DGM,0.0,0,0,6,13/4/2020
+4,"Psychatog",ODY,0.0,0,0,0,4/2/2020
+1,"Psychatog",ODY,0.0,0,0,3,2/2/2020
+2,"Psychic Drain",RAV,0.0,0,0,4,2/2/2020
+4,"Psychic Intrusion",THS,0.0,0,0,0,3/2/2020
+2,"Psychic Symbiont",M19,0.0,0,0,0,2/2/2020
+1,"Purge the Profane",GTC,0.0,0,0,0,10/8/2018
+1,"Purge the Profane",GTC,0.0,0,0,4,4/2/2020
+1,"Putrefy",DGM,0.0,0,0,6,13/4/2020
+4,"Putrefy",C19,0.0,0,0,0,2/4/2020
+1,"Putrid Warrior",APC,0.0,0,0,4,10/8/2018
+3,"Quicksilver Dagger",APC,0.0,0,0,0,29/1/2021
+1,"Radha, Heir to Keld",PLC,0.0,0,0,0,2/2/2020
+2,"Radha, Heir to Keld",PLC,0.0,0,0,4,2/2/2020
+2,"Radiant Essence",MIR,0.0,0,0,0,29/1/2021
+2,"Raff Capashen, Ship's Mage",DOM,0.0,0,0,0,4/2/2020
+2,"Rafter Demon",RNA,0.0,0,0,0,4/2/2020
+1,"Raging Regisaur",RIX,0.0,0,0,0,13/4/2020
+1,"Raging Regisaur",RIX,0.0,0,0,4,2/2/2020
+2,"Raging Swordtooth",XLN,0.0,0,0,4,2/2/2020
+4,"Rakdos Cackler",RTR,0.0,0,0,0,4/2/2020
+1,"Rakdos Cackler",RTR,0.0,0,0,4,4/2/2020
+2,"Rakdos Firewheeler",RNA,0.0,0,0,0,4/2/2020
+1,"Rakdos Guildmage",GK2_RAKDOS,0.0,0,0,4,4/2/2020
+3,"Rakdos Roustabout",RNA,0.0,0,0,0,4/2/2020
+2,"Rakshasa Deathdealer",KTK,0.0,0,0,0,5/2/2020
+1,"Rakshasa Deathdealer",KTK,0.0,0,0,6,5/2/2020
+2,"Rakshasa Vizier",KTK,0.0,0,0,0,5/2/2020
+1,"Rakshasa Vizier",KTK,0.0,0,0,4,5/2/2020
+1,"Rakshasa Vizier",PPRE,0.0,1,0,4,14/4/2020
+2,"Ramirez DePietro",LEG,0.0,0,0,4,2/2/2020
+1,"Ravager Wurm",RNA,0.0,0,0,0,19/1/2020
+2,"Razorfin Hunter",APC,0.0,0,0,0,29/1/2021
+2,"Razorfin Hunter",APC,0.0,0,0,4,4/2/2020
+1,"Ready",DGM,0.0,0,0,0,5/2/2020
+2,"Ready",DGM,0.0,0,0,4,5/2/2020
+1,"Reaper of the Wilds",THS,0.0,0,0,4,13/4/2020
+1,"Reborn Hope",ARB,0.0,0,0,4,4/2/2020
+1,"Reclamation",ICE,0.0,0,0,0,4/2/2020
+1,"Reduce",AKH,0.0,0,0,0,4/2/2020
+1,"Reduce",AKH,0.0,0,0,4,4/2/2020
+2,"Regal Bloodlord",M19,0.0,0,0,0,15/8/2018
+1,"Relentless Raptor",RIX,0.0,0,0,0,13/4/2020
+1,"Rendclaw Trow",EVE,0.0,0,0,4,10/8/2018
+1,"Render Silent",PMEI,0.0,1,0,0,4/2/2020
+1,"Renegade Rallier",AER,0.0,0,0,4,4/2/2020
+4,"Renegade Wheelsmith",AER,0.0,0,0,0,13/4/2020
+2,"Renegade Wheelsmith",AER,0.0,0,0,4,4/2/2020
+1,"Repel Intruders",SHM,0.0,0,0,4,10/8/2018
+1,"Repudiate // Replicate",RNA,0.0,0,0,0,5/2/2020
+3,"Resolute Survivors",HOU,0.0,0,0,0,13/4/2020
+1,"Resolute Survivors",HOU,0.0,0,0,4,4/2/2020
+1,"Resplendent Griffin",RIX,0.0,0,0,0,13/4/2020
+1,"Restless Apparition",EVE,0.0,0,0,0,5/2/2020
+4,"Restoration Gearsmith",KLD,0.0,0,0,4,4/2/2020
+1,"Revival // Revenge",RNA,0.0,0,0,0,5/2/2020
+1,"Reviving Vapors",UMA,0.0,0,0,0,4/2/2020
+3,"Rhizome Lurcher",GRN,0.0,0,0,0,5/2/2020
+1,"Rhox War Monk",MM3,0.0,0,0,0,5/2/2020
+1,"Rhythm of the Wild",RNA,0.0,0,0,0,19/1/2020
+1,"Riches",AKH,0.0,0,0,0,13/4/2020
+3,"Ride Down",EMN,0.0,0,0,0,4/2/2020
+1,"Ride Down",EMN,0.0,0,0,4,4/2/2020
+3,"Riven Turnbull",LEG,0.0,0,0,4,2/2/2020
+1,"River Hoopoe",HOU,0.0,0,0,0,13/4/2020
+1,"River Hoopoe",HOU,0.0,0,0,4,5/2/2020
+1,"River Hoopoe",HOU,0.0,1,0,0,13/4/2020
+3,"Riverfall Mimic",EVE,0.0,0,0,4,4/2/2020
+1,"Rogue Refiner",AER,0.0,0,0,4,5/2/2020
+1,"Rona, Disciple of Gix",DOM,0.0,0,0,0,2/2/2020
+1,"Rona, Disciple of Gix",DOM,0.0,0,0,4,2/2/2020
+3,"Rosemane Centaur",GRN,0.0,0,0,0,4/2/2020
+1,"Rosheen Meanderer",SHM,0.0,0,0,0,13/4/2020
+4,"Rubble Slinger",RNA,0.0,0,0,0,2/2/2020
+3,"Rubblebelt Raiders",GTC,0.0,0,0,4,2/2/2020
+4,"Rubblebelt Runner",RNA,0.0,0,0,0,19/1/2020
+1,"Rubinia Soulsinger",C13,0.0,0,0,4,14/4/2020
+3,"Ruination Wurm",GTC,0.0,0,0,4,13/4/2020
+1,"Runes of the Deus",SHM,0.0,0,0,4,2/2/2020
+1,"Ruthless Deathfang",DTK,0.0,0,0,4,2/2/2020
+1,"Samite Archer",INV,0.0,0,0,4,4/2/2020
+1,"Sanity Gnawers",ARB,0.0,0,0,4,4/2/2020
+2,"Sarcatog",ODY,0.0,0,0,0,29/1/2021
+1,"Sarcatog",ODY,0.0,0,0,6,4/2/2020
+2,"Satyr Enchanter",M19,0.0,0,0,0,15/8/2018
+2,"Savage Knuckleblade",KTK,0.0,0,0,0,5/2/2020
+5,"Savage Smash",RNA,0.0,0,0,0,19/1/2020
+2,"Savage Twister",C13,0.0,0,0,0,19/1/2020
+1,"Savage Twister",MM2,0.0,0,0,0,2/2/2020
+1,"Savageborn Hydra",DGM,0.0,0,0,4,2/2/2020
+1,"Savageborn Hydra",GK2_GRUUL,0.0,0,0,0,13/4/2020
+1,"Sawback Manticore",MIR,0.0,0,0,0,18/7/2020
+1,"Scab-Clan Giant",DGM,0.0,0,0,6,13/4/2020
+1,"Scalebane's Elite",VIS,0.0,0,0,3,4/2/2020
+17,"Scarwood Goblins",DRK,0.0,0,0,4,2/2/2020
+4,"Scuttlegator",RNA,0.0,0,0,0,5/2/2020
+1,"Scuzzback Marauders",SHM,0.0,0,0,0,2/2/2020
+4,"Scuzzback Marauders",UMA,0.0,0,0,0,2/2/2020
+1,"Scuzzback Scrapper",SHM,0.0,1,0,0,2/2/2020
+1,"Seeds of Strength",RAV,0.0,0,0,4,10/8/2018
+1,"Selesnya Evangel",RAV,0.0,0,0,4,4/2/2020
+1,"Selesnya Guildmage",MM2,0.0,0,0,0,4/2/2020
+2,"Selesnya Guildmage",RAV,0.0,0,0,4,4/2/2020
+3,"Senate Griffin",RNA,0.0,0,0,0,4/2/2020
+1,"Senate Griffin",RNA,0.0,1,0,0,4/2/2020
+1,"Senate Guildmage",RNA,0.0,0,0,0,4/2/2020
+3,"Sentry of the Underworld",THS,0.0,0,0,4,10/8/2018
+1,"Shadowmage Infiltrator",ODY,0.0,0,0,6,2/2/2020
+1,"Shadowmage Infiltrator",TSB,0.0,0,0,0,29/1/2021
+1,"Shadowstorm Vizier",AKH,0.0,0,0,0,2/2/2020
+4,"Shadowstorm Vizier",AKH,0.0,0,0,4,2/2/2020
+4,"Shambleshark",GTC,0.0,0,0,4,13/4/2020
+1,"Shambling Remains",DDK,0.0,0,0,0,18/7/2020
+2,"Sharktocrab",RNA,0.0,0,0,0,5/2/2020
+4,"Shauku's Minion",MIR,0.0,0,0,0,29/1/2021
+1,"Shipwreck Singer",THS,0.0,0,0,4,2/2/2020
+1,"Showstopper",DGM,0.0,0,0,4,4/2/2020
+1,"Shrewd Hatchling",EVE,0.0,0,0,0,4/2/2020
+1,"Sidisi, Brood Tyrant",KTK,0.0,0,0,0,14/4/2020
+1,"Sigil Blessing",MM2,0.0,0,0,0,4/2/2020
+1,"Sigiled Behemoth",ARB,0.0,0,0,4,4/2/2020
+1,"Silkbind Faerie",SHM,0.0,0,0,4,10/8/2018
+5,"Silver Drake",PLS,0.0,0,0,0,29/1/2021
+2,"Silver Drake",PLS,0.0,0,0,4,13/4/2020
+1,"Simoon",VIS,0.0,0,0,3,2/2/2020
+1,"Sin Collector",DGM,0.0,0,0,0,13/4/2020
+2,"Siona, Captain of the Pyleas",THB,0.0,0,0,3,20/2/2020
+3,"Sir Shandlar of Eberyn",LEG,0.0,0,0,4,15/8/2018
+1,"Sivitri Scarzam",LEG,0.0,0,0,0,18/7/2020
+1,"Sivitri Scarzam",LEG,0.0,0,0,4,2/2/2020
+3,"Sivitri Scarzam",CHR,0.0,0,0,0,29/1/2021
+1,"Sivitri Scarzam",CHR,0.0,0,0,4,2/2/2020
+2,"Skarrg Guildmage",GTC,0.0,0,0,4,2/2/2020
+4,"Skeleton Ship",ICE,0.0,0,0,0,29/1/2021
+8,"Sky Spirit",TMP,0.0,0,0,0,29/1/2021
+1,"Sky Terror",XLN,0.0,0,0,0,13/4/2020
+1,"Skyknight Legionnaire",RAV,0.0,0,0,4,10/8/2018
+3,"Skyknight Legionnaire",GRN,0.0,0,0,0,4/2/2020
+1,"Skyknight Legionnaire",MM3,0.0,0,0,0,13/4/2020
+2,"Skyrider Patrol",M19,0.0,0,0,0,15/8/2018
+1,"Slaughter Games",RTR,0.0,0,0,0,4/2/2020
+1,"Slaughter Games",RTR,0.0,0,0,4,13/4/2020
+1,"Slaughter Games",RTR,0.0,0,0,6,4/2/2020
+1,"Slave of Bolas",E01,0.0,0,0,0,5/2/2020
+1,"Slave of Bolas",ARB,0.0,0,0,4,5/2/2020
+1,"Slippery Bogle",UMA,0.0,0,0,0,5/2/2020
+1,"Snakeform",EVE,0.0,0,0,0,5/2/2020
+1,"Snakeform",EVE,0.0,0,0,4,5/2/2020
+1,"Snowhorn Rider",KTK,0.0,0,0,0,5/2/2020
+6,"Sol'kanar the Swamp King",TSB,0.0,0,0,0,5/2/2020
+1,"Sol'kanar the Swamp King",CHR,0.0,0,0,0,5/2/2020
+1,"Solar Blaze",WAR,0.0,0,0,0,18/7/2020
+1,"Soltari Guerrillas",TMP,0.0,0,0,0,29/1/2021
+4,"Sonic Assault",GRN,0.0,0,0,0,4/2/2020
+1,"Soul Link",APC,0.0,0,0,0,29/1/2021
+1,"Soul Link",APC,0.0,0,0,4,4/2/2020
+2,"Soul Ransom",MM3,0.0,0,0,0,13/4/2020
+1,"Soul Ransom",E01,0.0,0,0,0,2/2/2020
+4,"Souls of the Faultless",GPT,0.0,0,0,0,18/7/2020
+1,"Spatial Binding",MIR,0.0,0,0,0,29/1/2021
+1,"Spellheart Chimera",THS,0.0,0,0,0,10/8/2018
+3,"Spellheart Chimera",THS,0.0,0,0,4,4/2/2020
+1,"Sphinx of New Prahv",RNA,0.0,0,0,0,4/2/2020
+3,"Sphinx's Insight",RNA,0.0,0,0,0,4/2/2020
+1,"Spire Patrol",AER,0.0,0,0,0,13/4/2020
+2,"Spire Patrol",AER,0.0,0,0,4,4/2/2020
+1,"Spiteflame Witch",SHM,0.0,0,0,4,4/2/2020
+5,"Spontaneous Combustion",TMP,0.0,0,0,0,29/1/2021
+3,"Sprouting Thrinax",ALA,0.0,0,0,0,5/2/2020
+5,"Squandered Resources",VIS,0.0,0,0,0,18/7/2020
+1,"Squandered Resources",VIS,0.0,0,0,1,5/2/2020
+1,"Squandered Resources",VIS,0.0,0,0,5,2/4/2020
+3,"Squee's Embrace",APC,0.0,0,0,0,29/1/2021
+1,"Squee's Revenge",APC,0.0,0,0,4,4/2/2020
+1,"Start",AKH,0.0,0,0,0,5/2/2020
+1,"Start",AKH,0.0,0,0,4,5/2/2020
+2,"Status // Statue",GRN,0.0,0,0,0,5/2/2020
+1,"Steel Leaf Paladin",PLS,0.0,0,0,0,29/1/2021
+3,"Sterling Grove",INV,0.0,0,0,0,29/1/2021
+7,"Stormbind",ICE,0.0,0,0,0,29/1/2021
+1,"Stormcaller's Boon",ARB,0.0,0,0,4,4/2/2020
+1,"Stormchaser Chimera",JOU,0.0,0,0,0,13/4/2020
+2,"Struggle",HOU,0.0,0,0,0,2/2/2020
+1,"Struggle",HOU,0.0,0,0,4,2/2/2020
+1,"Suffocating Blast",APC,0.0,0,0,0,29/1/2021
+1,"Suffocating Blast",APC,0.0,0,0,4,4/2/2020
+1,"Suicidal Charge",CON,0.0,0,0,4,13/4/2020
+1,"Sultai Charm",KTK,0.0,0,0,4,10/8/2018
+2,"Sultai Soothsayer",KTK,0.0,0,0,4,14/4/2020
+4,"Sumala Woodshaper",GRN,0.0,0,0,0,4/2/2020
+2,"Sunastian Falconer",LEG,0.0,0,0,4,19/1/2020
+2,"Sunder Shaman",RNA,0.0,0,0,0,19/1/2020
+2,"Sundering Growth",MM3,0.0,0,0,0,13/4/2020
+1,"Sundering Growth",RTR,0.0,0,0,0,18/7/2020
+2,"Sunhome Enforcer",RAV,0.0,0,0,4,10/8/2018
+3,"Sunhome Guildmage",GK1_BOROS,0.0,0,0,0,4/2/2020
+2,"Supply",DIS,0.0,0,0,4,5/2/2020
+2,"Surge of Strength",ALL,0.0,0,0,0,29/1/2021
+1,"Swarm Guildmage",GRN,0.0,0,0,0,5/2/2020
+1,"Swathcutter Giant",GRN,0.0,0,0,0,4/2/2020
+1,"Swiftblade Vindicator",GRN,0.0,0,0,0,4/2/2020
+2,"Syndicate Guildmage",RNA,0.0,0,0,0,4/2/2020
+1,"Szadek, Lord of Secrets",GK1_DIMIR,0.0,0,0,4,13/4/2020
+1,"Tajic, Blade of the Legion",DGM,0.0,0,0,4,4/2/2020
+1,"Tajic, Legion's Edge",GRN,0.0,0,0,0,4/2/2020
+1,"Talon Trooper",ARB,0.0,0,0,4,4/2/2020
+3,"Talon Trooper",MM3,0.0,0,0,0,4/2/2020
+1,"Tattermunge Maniac",SHM,0.0,0,0,4,2/2/2020
+3,"Tattermunge Witch",MM3,0.0,0,0,0,2/2/2020
+1,"Teleportal",MM3,0.0,0,0,0,4/2/2020
+1,"Tempest Drake",VIS,0.0,0,0,0,29/1/2021
+7,"Temporal Spring",APC,0.0,0,0,0,29/1/2021
+2,"Temur Ascendancy",KTK,0.0,0,0,4,14/4/2020
+2,"Temur Charm",KTK,0.0,0,0,4,5/2/2020
+3,"Teneb, the Harvester",PLC,0.0,0,0,0,5/2/2020
+2,"Terminate",MM3,0.0,0,0,0,4/2/2020
+1,"Terminate",PLS,0.0,0,0,3,4/2/2020
+1,"Teysa Karlov",RNA,0.0,0,0,0,4/2/2020
+1,"Thaumatog",ODY,0.0,0,0,0,29/1/2021
+1,"Thaumatog",ODY,0.0,0,0,3,4/2/2020
+2,"Thaumatog",ODY,0.0,0,0,4,4/2/2020
+1,"Theater of Horrors",RNA,0.0,0,0,0,4/2/2020
+2,"Thief of Sanity",GRN,0.0,0,0,0,2/4/2020
+1,"Thistledown Duo",SHM,0.0,0,0,4,4/2/2020
+7,"Thought Erasure",GRN,0.0,0,0,0,2/2/2020
+1,"Thoughtweft Gambit",SHM,0.0,0,0,0,4/2/2020
+1,"Thousand-Year Storm",GRN,0.0,0,0,0,4/2/2020
+1,"Thrash // Threat",RNA,0.0,0,0,0,2/2/2020
+1,"Thunderclap Wyvern",ORI,0.0,0,0,4,4/2/2020
+1,"Thundersong Trumpeter",RAV,0.0,0,0,4,10/8/2018
+2,"Thundersong Trumpeter",MM3,0.0,0,0,0,4/2/2020
+2,"Tiana, Ship's Caretaker",DOM,0.0,0,0,0,4/2/2020
+1,"Tiana, Ship's Caretaker",DOM,0.0,0,0,4,4/2/2020
+1,"Time Wipe",WAR,0.0,0,0,3,4/2/2020
+1,"Tithe Drinker",DGM,0.0,0,0,6,13/4/2020
+5,"Tobias Andrion",CHR,0.0,0,0,0,31/5/2020
+4,"Tobias Andrion",LEG,0.0,0,0,4,4/2/2020
+1,"Toil",DGM,0.0,0,0,4,4/2/2020
+1,"Tor Wauki",LEG,0.0,0,0,4,4/2/2020
+4,"Tor Wauki",CHR,0.0,0,0,0,4/2/2020
+1,"Torpor Dust",SHM,0.0,0,0,4,3/2/2020
+1,"Torrent of Souls",DDK,0.0,0,0,0,18/7/2020
+3,"Torsten Von Ursus",LEG,0.0,0,0,4,4/2/2020
+2,"Tower Gargoyle",ALA,0.0,0,0,4,14/4/2020
+1,"Transguild Courier",DIS,0.0,1,0,4,5/2/2020
+1,"Treva's Charm",PLS,0.0,0,0,0,29/1/2021
+2,"Trostani's Summoner",DGM,0.0,0,0,4,13/4/2020
+1,"Truefire Captain",GRN,0.0,0,0,0,4/2/2020
+1,"Turn",DGM,0.0,0,0,4,2/4/2020
+1,"Turn to Mist",SHM,0.0,0,0,0,4/2/2020
+1,"Twinstrike",DIS,0.0,0,0,4,4/2/2020
+1,"Tyrannize",SHM,0.0,0,0,4,4/2/2020
+3,"Undercity Uprising",GRN,0.0,0,0,0,5/2/2020
+1,"Underrealm Lich",GRN,0.0,0,0,0,5/2/2020
+1,"Unflinching Courage",MM3,0.0,0,0,0,18/7/2020
+1,"Unfulfilled Desires",MIR,0.0,0,0,0,18/7/2020
+1,"Unmake",DDK,0.0,0,0,4,5/2/2020
+2,"Unmoored Ego",GRN,0.0,0,0,0,2/2/2020
+1,"Unraveling Mummy",HOU,0.0,0,0,0,4/2/2020
+3,"Unraveling Mummy",HOU,0.0,0,0,4,4/2/2020
+1,"Urban Evolution",UMA,0.0,0,0,0,5/2/2020
+1,"Urza's Guilt",PLS,0.0,0,0,3,2/2/2020
+1,"Vaevictis Asmadi",CHR,0.0,0,0,0,29/1/2021
+1,"Vagrant Plowbeasts",CON,0.0,0,0,4,4/2/2020
+1,"Vagrant Plowbeasts",CON,0.0,0,4,4,4/2/2020
+1,"Valeron Outlander",CON,0.0,0,0,0,31/5/2020
+2,"Vanish into Memory",MM3,0.0,0,0,0,4/2/2020
+1,"Vanish into Memory",MM3,0.0,0,0,4,4/2/2020
+1,"Vectis Dominator",ARB,0.0,0,0,4,4/2/2020
+2,"Vengeful Rebirth",UMA,0.0,0,0,0,19/1/2020
+3,"Vernadi Shieldmate",GRN,0.0,0,0,0,4/2/2020
+2,"Veteran Motorist",KLD,0.0,0,0,0,4/2/2020
+3,"Vhati il-Dal",TSB,0.0,0,0,0,7/6/2020
+1,"Viashino Firstblade",DGM,0.0,0,0,6,13/4/2020
+1,"Viashivan Dragon",VIS,0.0,0,0,0,18/7/2020
+1,"Vicious Kavu",INV,0.0,0,0,4,4/2/2020
+2,"Vindicate",A25,0.0,0,0,0,10/3/2019
+1,"Vindicate",APC,0.0,0,0,5,18/7/2020
+1,"Vizkopa Guildmage",GK2_ORZHOV,0.0,0,0,3,4/2/2020
+3,"Vizkopa Guildmage",IMA,0.0,0,0,0,10/5/2020
+3,"Vizkopa Vampire",RNA,0.0,0,0,0,5/2/2020
+1,"Vizkopa Vampire",RNA,0.0,1,0,0,5/2/2020
+4,"Vodalian Zombie",INV,0.0,0,0,0,29/1/2021
+1,"Void",TSB,0.0,0,0,0,29/1/2021
+1,"Voltaic Brawler",KLD,0.0,0,0,4,2/2/2020
+4,"Voracious Hatchling",EVE,0.0,0,0,0,18/7/2020
+2,"Vorel of the Hull Clade",GK2_SIMIC,0.0,0,0,4,5/2/2020
+1,"Vorosh, the Hunter",CMD,0.0,0,0,4,14/4/2020
+2,"Vorosh, the Hunter",PLC,0.0,0,0,0,5/2/2020
+1,"Vraska, Golgari Queen",GRN,0.0,0,0,0,5/2/2020
+1,"Vulturous Zombie",RAV,0.0,1,0,0,5/2/2020
+1,"Vulturous Zombie",C15,0.0,1,0,0,13/4/2020
+2,"Wall of Denial",MM3,0.0,0,0,0,18/7/2020
+1,"Wanderbrine Rootcutters",SHM,0.0,0,0,0,10/8/2018
+1,"Warden of the Eye",KTK,0.0,0,0,4,5/2/2020
+1,"Watchwolf",RAV,0.0,0,0,4,4/2/2020
+1,"Wayward Servant",AKH,0.0,0,0,0,4/2/2020
+2,"Wayward Servant",AKH,0.0,0,0,4,4/2/2020
+2,"Weaver of Currents",AKH,0.0,0,0,0,5/2/2020
+1,"Wee Dragonauts",GRN,0.0,0,0,0,4/2/2020
+3,"Weldfast Engineer",AER,0.0,0,0,0,13/4/2020
+3,"Whirler Virtuoso",KLD,0.0,0,0,4,4/2/2020
+4,"Whisper Agent",GRN,0.0,0,0,0,3/2/2020
+8,"Wild Cantor",GPT,0.0,0,0,0,2/4/2020
+1,"Wild Cantor",GPT,0.0,1,0,3,2/2/2020
+1,"Wildfield Borderpost",ARB,0.0,0,0,4,10/8/2018
+1,"Winding Constrictor",AER,0.0,0,0,4,5/2/2020
+1,"Windreaper Falcon",MIR,0.0,0,0,0,29/1/2021
+2,"Wings of Aesthir",ICE,0.0,0,0,0,4/2/2020
+2,"Wings of Hope",INV,0.0,0,0,0,29/1/2021
+1,"Wings of Hope",INV,0.0,0,0,6,13/4/2020
+1,"Winter's Night",ALL,0.0,0,0,0,5/2/2020
+1,"Wojek Halberdiers",GTC,0.0,0,0,4,13/4/2020
+4,"Wood Sage",TMP,0.0,0,0,0,29/1/2021
+2,"Woolly Thoctar",MM3,0.0,0,0,0,5/2/2020
+4,"Woolly Thoctar",ALA,0.0,0,0,0,31/5/2020
+2,"Worldsoul Colossus",GRN,0.0,0,0,0,4/2/2020
+1,"Worm Harvest",MMA,0.0,0,0,0,5/2/2020
+1,"Wort, the Raidmother",MM3,0.0,0,0,0,2/2/2020
+1,"Wrecking Ball",DIS,0.0,0,0,4,10/8/2018
+2,"Yavimaya Barbarian",INV,0.0,0,0,0,29/1/2021
+1,"Yavimaya's Embrace",APC,0.0,0,0,0,29/1/2021
+1,"Zealous Guardian",SHM,0.0,0,0,0,4/2/2020
+1,"Zealous Persecution",ARB,0.0,0,0,0,13/4/2020
+1,"Zegana, Utopian Speaker",RNA,0.0,0,0,0,5/2/2020
+2,"Zendikar Incarnate",ORI,0.0,0,0,4,13/4/2020
+1,"Zhur-Taa Goblin",RNA,0.0,0,0,0,19/1/2020
+1,"Zombie Outlander",CON,0.0,0,0,0,10/8/2018
+1,"Zurgo Helmsmasher",KTK,0.0,0,0,4,5/2/2020

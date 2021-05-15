@@ -1,0 +1,878 @@
+Quantity,Name,ExpansionCode,ExpansionName,PurchasePrice,Foil,Condition,Language,PurchaseDate
+4,Absorb,rna,Ravnica Allegiance,0.0,False,NearMint,English,2020-07-18
+1,Absorb,inv,Invasion,0.0,False,NearMint,English,2021-01-29
+1,Absorb,inv,Invasion,0.0,False,NearMint,French,2021-01-29
+2,Abzan Ascendancy,ktk,Khans of Tarkir,0.0,False,NearMint,English,2020-04-14
+1,Abzan Ascendancy,ktk,Khans of Tarkir,0.0,False,NearMint,Italian,2020-04-14
+2,Abzan Guide,ktk,Khans of Tarkir,0.0,False,NearMint,Italian,2020-04-14
+1,"Adriana, Captain of the Guard",cn2,Conspiracy: Take the Crown,0.0,False,NearMint,English,2020-04-13
+2,Aerial Engineer,m19,Core Set 2019,0.0,False,NearMint,English,2018-08-15
+1,Aerial Engineer,m19,Core Set 2019,0.0,False,NearMint,French,2020-02-20
+3,Aeromunculus,rna,Ravnica Allegiance,0.0,False,NearMint,English,2020-02-05
+2,Aether Mutation,apc,Apocalypse,0.0,False,NearMint,English,2021-01-29
+1,Aethermage's Touch,c13,Commander 2013,0.0,False,NearMint,Italian,2020-04-13
+2,Aethertow,shm,Shadowmoor,0.0,False,NearMint,English,2020-04-13
+1,Agent of Masks,mm3,Modern Masters 2017,0.0,False,NearMint,English,2020-02-04
+1,Agony Warp,mm2,Modern Masters 2015,0.0,False,NearMint,English,2020-04-13
+3,Agony Warp,ala,Shards of Alara,0.0,False,NearMint,English,2020-02-02
+2,Agony Warp,mm3,Modern Masters 2017,0.0,False,NearMint,English,2020-02-02
+1,"Agrus Kos, Wojek Veteran",rav,Ravnica: City of Guilds,0.0,False,NearMint,Italian,2020-02-04
+3,Ahn-Crop Champion,akh,Amonkhet,0.0,False,NearMint,English,2020-04-13
+1,Ahn-Crop Champion,akh,Amonkhet,0.0,False,NearMint,Italian,2020-02-04
+2,Akroan Hoplite,ths,Theros,0.0,False,NearMint,Italian,2020-02-04
+1,Alive // Well,dgm,Dragon's Maze,0.0,False,NearMint,Italian,2020-02-04
+2,Altar of Bone,ice,Ice Age,0.0,False,NearMint,English,2020-02-04
+1,Angel of Despair,uma,Ultimate Masters,0.0,False,NearMint,English,2020-02-04
+1,Angelic Captain,bfz,Battle for Zendikar,0.0,False,NearMint,Italian,2020-02-04
+4,Anurid Brushhopper,jud,Judgment,0.0,True,NearMint,English,2020-02-04
+1,Appeal // Authority,hou,Hour of Devastation,0.0,False,NearMint,English,2020-04-13
+4,Applied Biomancy,rna,Ravnica Allegiance,0.0,False,NearMint,English,2020-02-05
+1,Arcades Sabboth,chr,Chronicles,0.0,False,NearMint,English,2020-02-05
+1,Archon of the Triumvirate,rtr,Return to Ravnica,0.0,True,NearMint,English,2020-07-18
+1,"Arlinn Kord // Arlinn, Embraced by the Moon",soi,Shadows over Innistrad,0.0,False,NearMint,Italian,2020-02-02
+1,"Arlinn Kord // Arlinn, Embraced by the Moon",soi,Shadows over Innistrad,0.0,False,NearMint,Italian,2020-02-02
+3,Armored Wolf-Rider,dgm,Dragon's Maze,0.0,False,NearMint,Italian,2020-02-04
+1,Armored Wolf-Rider,dgm,Dragon's Maze,0.0,False,NearMint,Japanese,2020-04-13
+1,Army Ants,vis,Visions,0.0,False,NearMint,English,2021-01-29
+1,Army Ants,vis,Visions,0.0,False,NearMint,French,2020-02-04
+1,Army Ants,vis,Visions,0.0,False,NearMint,Japanese,2020-02-04
+3,Artful Takedown,grn,Guilds of Ravnica,0.0,False,NearMint,English,2020-02-02
+1,"Aryel, Knight of Windgrace",dom,Dominaria,0.0,False,NearMint,Spanish,2020-04-02
+1,Assassin's Trophy,grn,Guilds of Ravnica,0.0,False,NearMint,English,2020-02-05
+2,"Atarka, World Render",frf,Fate Reforged,0.0,False,NearMint,Japanese,2020-04-13
+2,Auger Spree,gk2_rakdos,Guild Kit: Rakdos,0.0,False,NearMint,English,2020-02-04
+3,Augury Adept,c13,Commander 2013,0.0,False,NearMint,English,2020-02-04
+1,Aurelia's Fury,gtc,Gatecrash,0.0,False,NearMint,Italian,2020-02-04
+1,"Aurelia, Exemplar of Justice",grn,Guilds of Ravnica,0.0,False,NearMint,English,2020-02-04
+2,Aven Wind Guide,akh,Amonkhet,0.0,False,NearMint,English,2020-04-02
+1,Aven Wind Guide,akh,Amonkhet,0.0,False,NearMint,Italian,2020-02-04
+1,Ayesha Tanaka,chr,Chronicles,0.0,False,NearMint,English,2020-05-08
+1,Azorius Aethermage,dis,Dissension,0.0,False,NearMint,Italian,2020-02-04
+3,Azorius Knight-Arbiter,rna,Ravnica Allegiance,0.0,False,NearMint,English,2020-02-04
+1,Azorius Ploy,dis,Dissension,0.0,False,NearMint,Italian,2020-02-04
+1,Azorius Skyguard,rna,Ravnica Allegiance,0.0,False,NearMint,English,2020-02-04
+1,Baleful Strix,e01,Archenemy: Nicol Bolas,0.0,False,NearMint,English,2020-02-02
+1,Basilica Bell-Haunt,rna,Ravnica Allegiance,0.0,False,NearMint,English,2020-02-04
+2,Battlegate Mimic,hop,Planechase,0.0,False,NearMint,English,2020-02-04
+1,Battlewise Hoplite,ths,Theros,0.0,False,NearMint,English,2020-04-13
+1,Battlewise Hoplite,ths,Theros,0.0,False,NearMint,Italian,2018-08-10
+1,Beacon Bolt,grn,Guilds of Ravnica,0.0,False,NearMint,English,2020-02-04
+1,Beamsplitter Mage,grn,Guilds of Ravnica,0.0,False,NearMint,English,2020-02-04
+1,Bedeck // Bedazzle,rna,Ravnica Allegiance,0.0,False,NearMint,English,2020-02-04
+1,Bedevil,rna,Ravnica Allegiance,0.0,False,NearMint,English,2020-02-04
+2,Beetleform Mage,dgm,Dragon's Maze,0.0,False,NearMint,Italian,2020-02-05
+1,Behemoth Sledge,ddh,Duel Decks: Ajani vs. Nicol Bolas,0.0,False,NearMint,Italian,2020-02-04
+2,Behemoth Sledge,arb,Alara Reborn,0.0,False,NearMint,Italian,2020-02-04
+2,Belligerent Brontodon,xln,Ixalan,0.0,False,NearMint,Italian,2020-02-04
+2,Benthic Djinn,mir,Mirage,0.0,False,NearMint,English,2021-01-29
+1,Bioessence Hydra,war,War of the Spark,0.0,False,NearMint,English,2020-07-18
+1,Bladewing the Risen,scg,Scourge,0.0,False,NearMint,English,2020-02-04
+1,Bladewing the Risen,scg,Scourge,0.0,False,NearMint,French,2020-02-04
+1,Bladewing the Risen,ima,Iconic Masters,0.0,False,NearMint,English,2020-05-24
+1,Blast of Genius,dgm,Dragon's Maze,0.0,False,NearMint,Italian,2020-02-04
+1,Blazing Hellhound,ori,Magic Origins,0.0,False,NearMint,Italian,2020-04-13
+3,Blightning,a25,Masters 25,0.0,False,NearMint,English,2020-02-04
+1,Blind Hunter,gpt,Guildpact,0.0,False,NearMint,Italian,2018-08-10
+1,Blizzard Specter,ima,Iconic Masters,0.0,False,NearMint,English,2020-05-24
+1,Blood Tyrant,e01,Archenemy: Nicol Bolas,0.0,False,NearMint,English,2020-02-05
+3,Bloodhall Priest,emn,Eldritch Moon,0.0,False,NearMint,English,2020-04-13
+2,Bloodwater Entity,hou,Hour of Devastation,0.0,False,NearMint,English,2020-02-04
+10,Bloodwater Entity,hou,Hour of Devastation,0.0,False,NearMint,Italian,2020-02-04
+2,Boggart Ram-Gang,shm,Shadowmoor,0.0,True,NearMint,English,2020-07-18
+1,Bolrac-Clan Crusher,rna,Ravnica Allegiance,0.0,False,NearMint,English,2020-01-19
+1,Boltwing Marauder,dtk,Dragons of Tarkir,0.0,False,NearMint,English,2020-04-13
+1,Borborygmos,gpt,Guildpact,0.0,False,NearMint,Italian,2020-02-02
+1,Boros Challenger,grn,Guilds of Ravnica,0.0,False,NearMint,English,2020-02-04
+1,Boros Guildmage,hop,Planechase,0.0,False,NearMint,English,2020-02-04
+1,Branching Bolt,ala,Shards of Alara,0.0,False,NearMint,English,2020-07-18
+1,Brawl-Bash Ogre,m19,Core Set 2019,0.0,False,NearMint,English,2018-08-15
+2,Breathstealer's Crypt,vis,Visions,0.0,False,NearMint,English,2020-07-18
+1,Bred for the Hunt,dgm,Dragon's Maze,0.0,False,NearMint,Japanese,2020-04-13
+2,Bronzebeak Moa,mm3,Modern Masters 2017,0.0,False,NearMint,English,2020-02-04
+1,Bronzebeak Moa,dgm,Dragon's Maze,0.0,False,NearMint,Japanese,2020-04-13
+2,Brood Butcher,bfz,Battle for Zendikar,0.0,False,NearMint,English,2020-04-13
+1,Brood Butcher,bfz,Battle for Zendikar,0.0,True,NearMint,English,2020-04-13
+1,Burning-Tree Bloodscale,gpt,Guildpact,0.0,False,NearMint,Italian,2018-08-10
+5,Cadaverous Bloom,mir,Mirage,0.0,False,NearMint,English,2020-04-02
+2,Cadaverous Bloom,mir,Mirage,0.0,False,NearMint,Spanish,2020-02-05
+1,Call of the Conclave,mm3,Modern Masters 2017,0.0,False,NearMint,Italian,2020-02-04
+2,Call of the Nightwing,gtc,Gatecrash,0.0,False,NearMint,Italian,2020-02-02
+1,Call to the Feast,xln,Ixalan,0.0,False,NearMint,English,2020-04-02
+2,Call to the Feast,xln,Ixalan,0.0,False,NearMint,Italian,2020-02-04
+1,Captain's Maneuver,apc,Apocalypse,0.0,False,NearMint,English,2018-08-10
+1,Captured Sunlight,arb,Alara Reborn,0.0,False,NearMint,Italian,2020-02-04
+1,Carnage Gladiator,dgm,Dragon's Maze,0.0,False,NearMint,English,2020-02-04
+1,Carnage Gladiator,dgm,Dragon's Maze,0.0,False,NearMint,Italian,2020-02-04
+1,Carnage Gladiator,dgm,Dragon's Maze,0.0,False,NearMint,Japanese,2020-04-13
+1,Carnival // Carnage,rna,Ravnica Allegiance,0.0,False,NearMint,English,2020-02-04
+1,Cavern Harpy,pls,Planeshift,0.0,False,NearMint,English,2018-08-10
+1,Cavern Harpy,pls,Planeshift,0.0,False,NearMint,Japanese,2020-04-13
+2,Centaur Archer,ice,Ice Age,0.0,False,NearMint,English,2021-01-29
+1,Centaur Healer,rtr,Return to Ravnica,0.0,False,NearMint,Italian,2020-02-04
+3,Centaur Peacemaker,grn,Guilds of Ravnica,0.0,False,NearMint,English,2020-02-04
+1,Chief of the Scale,ktk,Khans of Tarkir,0.0,False,NearMint,Italian,2020-02-04
+1,"Chromium, the Mutable",m19,Core Set 2019,0.0,False,NearMint,English,2018-08-15
+3,Chronicler of Heroes,ths,Theros,0.0,False,NearMint,English,2020-04-13
+1,Chronicler of Heroes,ths,Theros,0.0,False,NearMint,Italian,2020-02-04
+1,Cindervines,rna,Ravnica Allegiance,0.0,True,NearMint,English,2020-01-19
+2,Circle of Despair,mir,Mirage,0.0,False,NearMint,English,2021-01-29
+2,"Circu, Dimir Lobotomist",rav,Ravnica: City of Guilds,0.0,False,NearMint,Italian,2020-02-02
+1,Clan Guildmage,rna,Ravnica Allegiance,0.0,False,NearMint,English,2020-01-19
+1,Cloudblazer,a25,Masters 25,0.0,False,NearMint,Italian,2020-02-04
+1,Clutch of the Undercity,rav,Ravnica: City of Guilds,0.0,False,NearMint,Italian,2020-02-02
+1,Coalition Victory,tsb,Time Spiral Timeshifted,0.0,False,NearMint,English,2021-01-29
+2,Coiling Oracle,cn2,Conspiracy: Take the Crown,0.0,False,NearMint,English,2020-02-05
+1,Coiling Oracle,dis,Dissension,0.0,False,NearMint,Italian,2018-08-10
+1,Collision // Colossus,rna,Ravnica Allegiance,0.0,False,NearMint,English,2020-02-02
+1,Combine Guildmage,rna,Ravnica Allegiance,0.0,False,NearMint,English,2020-02-05
+1,Conclave Cavalier,grn,Guilds of Ravnica,0.0,False,NearMint,English,2020-02-04
+2,Conclave Guildmage,grn,Guilds of Ravnica,0.0,False,NearMint,English,2020-02-04
+1,Connive // Concoct,grn,Guilds of Ravnica,0.0,False,NearMint,English,2020-02-04
+1,Connive // Concoct,grn,Guilds of Ravnica,0.0,True,NearMint,English,2020-02-03
+2,Consecrate // Consume,rna,Ravnica Allegiance,0.0,False,NearMint,English,2020-02-05
+2,Consign // Oblivion,hou,Hour of Devastation,0.0,False,NearMint,English,2020-02-03
+3,Consult the Necrosages,rav,Ravnica: City of Guilds,0.0,False,NearMint,English,2020-07-22
+3,Consume Strength,apc,Apocalypse,0.0,False,NearMint,English,2021-01-29
+1,Consuming Aberration,gtc,Gatecrash,0.0,False,NearMint,Japanese,2020-02-02
+3,Contraband Kingpin,kld,Kaladesh,0.0,False,NearMint,Italian,2020-02-02
+4,Corpsejack Menace,ima,Iconic Masters,0.0,False,NearMint,English,2020-07-18
+1,Crackling Drake,grn,Guilds of Ravnica,0.0,False,NearMint,English,2020-02-04
+1,Crime // Punishment,dis,Dissension,0.0,False,NearMint,Italian,2020-02-05
+1,Cruel Ultimatum,mm3,Modern Masters 2017,0.0,False,NearMint,Italian,2020-02-05
+1,Cruel Ultimatum,e01,Archenemy: Nicol Bolas,0.0,False,NearMint,English,2020-02-05
+2,Cult Guildmage,rna,Ravnica Allegiance,0.0,False,NearMint,English,2020-02-04
+2,Cunning Strike,frf,Fate Reforged,0.0,False,NearMint,Italian,2020-04-13
+1,Dakkon Blackblade,chr,Chronicles,0.0,False,NearMint,English,2020-02-05
+5,Daring Leap,pls,Planeshift,0.0,False,NearMint,English,2021-01-29
+2,Dark Heart of the Wood,rav,Ravnica: City of Guilds,0.0,False,NearMint,Italian,2020-02-05
+1,Dark Heart of the Wood,drk,The Dark,0.0,False,NearMint,English,2020-02-05
+18,Dark Heart of the Wood,drk,The Dark,0.0,False,NearMint,Italian,2020-02-05
+1,Dark Intimations,aer,Aether Revolt,0.0,False,NearMint,English,2020-04-14
+1,Dark Intimations,aer,Aether Revolt,0.0,False,NearMint,Spanish,2020-04-14
+1,Dark Intimations,aer,Aether Revolt,0.0,True,NearMint,English,2020-02-05
+4,Darkblade Agent,grn,Guilds of Ravnica,0.0,False,NearMint,English,2020-02-02
+1,Deadeye Brawler,rix,Rivals of Ixalan,0.0,False,NearMint,English,2020-04-13
+1,Deadeye Plunderers,xln,Ixalan,0.0,False,NearMint,English,2020-04-13
+3,Death Frenzy,ktk,Khans of Tarkir,0.0,False,NearMint,Italian,2020-02-05
+1,Deathcult Rogue,gtc,Gatecrash,0.0,False,NearMint,Italian,2020-02-03
+1,Debt to the Deathless,dgm,Dragon's Maze,0.0,False,NearMint,English,2020-04-13
+1,Debt to the Deathless,dgm,Dragon's Maze,0.0,False,NearMint,Italian,2020-02-04
+1,Debtors' Knell,gpt,Guildpact,0.0,False,NearMint,English,2020-04-02
+2,Decimator Beetle,akh,Amonkhet,0.0,False,NearMint,English,2020-04-02
+3,Decimator Beetle,akh,Amonkhet,0.0,False,NearMint,Italian,2020-02-05
+1,Deft Duelist,ala,Shards of Alara,0.0,False,NearMint,English,2020-04-13
+1,Delirium,mir,Mirage,0.0,False,NearMint,English,2021-01-29
+1,Depose // Deploy,rna,Ravnica Allegiance,0.0,False,NearMint,English,2020-02-04
+1,Deputy of Acquittals,dgm,Dragon's Maze,0.0,False,NearMint,English,2020-04-13
+1,Deputy of Acquittals,mm3,Modern Masters 2017,0.0,False,NearMint,English,2020-02-04
+1,Deputy of Detention,rna,Ravnica Allegiance,0.0,False,NearMint,English,2020-02-04
+1,Desecrator Hag,eve,Eventide,0.0,True,NearMint,English,2020-02-05
+1,Desperate Stand,jou,Journey into Nyx,0.0,False,NearMint,Italian,2020-04-13
+2,Destined // Lead,akh,Amonkhet,0.0,False,NearMint,English,2020-04-13
+1,Destined // Lead,akh,Amonkhet,0.0,False,NearMint,Italian,2020-02-05
+1,Destined // Lead,akh,Amonkhet,0.0,True,NearMint,English,2020-02-05
+1,Destructive Flow,pls,Planeshift,0.0,False,NearMint,French,2020-02-05
+2,Destructive Revelry,ths,Theros,0.0,False,NearMint,English,2021-01-29
+4,Deus of Calamity,ddl,Duel Decks: Heroes vs. Monsters,0.0,False,NearMint,English,2020-02-02
+1,Diabolic Vision,ice,Ice Age,0.0,False,NearMint,English,2020-02-02
+1,Dimir Guildmage,rav,Ravnica: City of Guilds,0.0,False,NearMint,Italian,2020-02-03
+1,Dimir Spybug,grn,Guilds of Ravnica,0.0,False,NearMint,English,2020-02-02
+2,Dinrova Horror,mm3,Modern Masters 2017,0.0,False,NearMint,English,2020-02-02
+1,Dire Fleet Captain,xln,Ixalan,0.0,False,NearMint,English,2020-04-13
+1,Dire Fleet Neckbreaker,rix,Rivals of Ixalan,0.0,False,NearMint,Italian,2020-02-04
+3,Diregraf Captain,dka,Dark Ascension,0.0,False,NearMint,English,2020-04-02
+1,Discordant Spirit,mir,Mirage,0.0,False,NearMint,English,2021-01-29
+1,Discovery // Dispersal,grn,Guilds of Ravnica,0.0,False,NearMint,English,2020-02-04
+1,Disinformation Campaign,grn,Guilds of Ravnica,0.0,False,NearMint,English,2020-02-02
+2,Divinity of Pride,mma,Modern Masters,0.0,False,NearMint,English,2020-04-02
+1,Dormant Sliver,plc,Planar Chaos,0.0,False,NearMint,English,2020-02-05
+1,Dormant Sliver,plc,Planar Chaos,0.0,True,NearMint,English,2020-02-05
+1,Double Cleave,eve,Eventide,0.0,False,NearMint,English,2020-02-04
+1,Dovin's Acuity,rna,Ravnica Allegiance,0.0,False,NearMint,English,2020-02-04
+1,Down // Dirty,dgm,Dragon's Maze,0.0,False,NearMint,Japanese,2020-04-13
+1,Draconic Disciple,m19,Core Set 2019,0.0,False,NearMint,English,2020-01-19
+3,Dracoplasm,tmp,Tempest,0.0,False,NearMint,English,2021-01-29
+1,Dragonshift,dgm,Dragon's Maze,0.0,False,NearMint,Italian,2020-02-04
+1,Drain the Well,eve,Eventide,0.0,False,NearMint,Italian,2018-08-10
+3,Drakewing Krasis,gtc,Gatecrash,0.0,False,NearMint,Italian,2018-08-10
+1,Drakewing Krasis,gtc,Gatecrash,0.0,False,NearMint,Japanese,2020-04-13
+1,Dreadbore,e01,Archenemy: Nicol Bolas,0.0,False,NearMint,English,2020-02-04
+1,Dreadhorde Butcher,war,War of the Spark,0.0,False,NearMint,English,2020-07-18
+1,Driven // Despair,hou,Hour of Devastation,0.0,False,NearMint,English,2020-04-13
+6,Drogskol Captain,dka,Dark Ascension,0.0,False,NearMint,English,2020-04-02
+1,Drown in Filth,dgm,Dragon's Maze,0.0,False,NearMint,English,2020-02-05
+1,Drown in Filth,dgm,Dragon's Maze,0.0,False,NearMint,Japanese,2020-04-13
+2,Dryad Militant,rtr,Return to Ravnica,0.0,False,NearMint,Italian,2020-02-04
+1,Duergar Hedge-Mage,cma,Commander Anthology,0.0,False,NearMint,English,2020-04-02
+1,Duskmantle Guildmage,gtc,Gatecrash,0.0,False,NearMint,English,2018-08-10
+1,Duskmantle Guildmage,gtc,Gatecrash,0.0,False,NearMint,Japanese,2020-04-13
+1,Ebony Treefolk,apc,Apocalypse,0.0,False,NearMint,French,2020-02-05
+1,Edgewalker,scg,Scourge,0.0,False,Excellent,Italian,2020-02-04
+1,Edgewalker,scg,Scourge,0.0,False,Poor,English,2020-02-04
+1,Efreet Weaponmaster,ktk,Khans of Tarkir,0.0,False,NearMint,Italian,2020-04-14
+1,Emberstrike Duo,shm,Shadowmoor,0.0,False,NearMint,Italian,2018-08-10
+2,"Emmara, Soul of the Accord",grn,Guilds of Ravnica,0.0,False,NearMint,English,2020-02-04
+1,Enduring Scalelord,dtk,Dragons of Tarkir,0.0,False,NearMint,Italian,2020-02-04
+1,Energy Arc,all,Alliances,0.0,False,NearMint,English,2021-01-29
+1,Energy Bolt,mir,Mirage,0.0,False,NearMint,English,2020-07-18
+1,Enigma Drake,m19,Core Set 2019,0.0,False,NearMint,English,2018-08-15
+1,Enigma Drake,m19,Core Set 2019,0.0,True,NearMint,English,2018-08-15
+1,Enigma Drake,akh,Amonkhet,0.0,False,NearMint,English,2020-04-02
+1,Enigmatic Incarnation,thb,Theros Beyond Death,0.0,False,NearMint,French,2020-02-20
+3,Enlisted Wurm,arb,Alara Reborn,0.0,False,NearMint,Italian,2018-08-10
+4,Erstwhile Trooper,grn,Guilds of Ravnica,0.0,False,NearMint,English,2020-02-05
+1,Esper Sojourners,arb,Alara Reborn,0.0,False,NearMint,Italian,2018-08-10
+2,Essence Backlash,rtr,Return to Ravnica,0.0,False,NearMint,Italian,2020-02-04
+1,Essence Vortex,ice,Ice Age,0.0,False,NearMint,English,2021-01-29
+1,Ethereal Absolution,rna,Ravnica Allegiance,0.0,False,NearMint,English,2020-02-04
+2,Ethersworn Shieldmage,arb,Alara Reborn,0.0,False,NearMint,Italian,2018-08-10
+1,Etherwrought Page,arb,Alara Reborn,0.0,False,NearMint,Italian,2020-02-05
+1,Executioner's Swing,gtc,Gatecrash,0.0,False,NearMint,Italian,2020-04-13
+1,Expansion // Explosion,grn,Guilds of Ravnica,0.0,False,NearMint,English,2020-02-04
+1,Extract from Darkness,ema,Eternal Masters,0.0,False,NearMint,English,2020-02-02
+2,Farm // Market,hou,Hour of Devastation,0.0,False,NearMint,English,2020-02-04
+1,Farm // Market,hou,Hour of Devastation,0.0,False,NearMint,Italian,2020-02-04
+1,Fate Transfer,shm,Shadowmoor,0.0,False,NearMint,English,2018-08-10
+1,Favor of the Overbeing,eve,Eventide,0.0,False,NearMint,English,2020-02-05
+1,Favor of the Overbeing,eve,Eventide,0.0,False,NearMint,Italian,2018-08-10
+1,Feral Animist,dgm,Dragon's Maze,0.0,False,NearMint,Italian,2020-02-02
+3,Fiery Justice,ice,Ice Age,0.0,False,NearMint,English,2020-02-05
+4,Final Payment,rna,Ravnica Allegiance,0.0,False,NearMint,English,2020-02-04
+1,Find // Finality,grn,Guilds of Ravnica,0.0,False,NearMint,English,2020-02-05
+2,Fire // Ice,apc,Apocalypse,0.0,False,NearMint,English,2021-01-29
+1,Fire // Ice,apc,Apocalypse,0.0,True,NearMint,English,2020-02-04
+2,Fire Covenant,ice,Ice Age,0.0,False,NearMint,English,2020-02-04
+1,Fire at Will,eve,Eventide,0.0,False,NearMint,English,2020-02-04
+4,Fire-Field Ogre,ala,Shards of Alara,0.0,False,NearMint,Italian,2020-02-05
+2,Fireblade Artist,rna,Ravnica Allegiance,0.0,False,NearMint,English,2020-02-04
+1,Firemane Angel,gk1_boros,Guild Kit: Boros,0.0,False,NearMint,English,2020-04-13
+1,Firemind's Foresight,c15,Commander 2015,0.0,False,NearMint,English,2020-02-04
+3,Fires of Yavimaya,inv,Invasion,0.0,False,NearMint,English,2020-07-18
+1,Fires of Yavimaya,pc2,Planechase 2012,0.0,False,NearMint,English,2020-07-18
+1,Firesong and Sunspeaker,dom,Dominaria,0.0,True,NearMint,Italian,2020-04-13
+1,Fleetfeather Cockatrice,jou,Journey into Nyx,0.0,False,NearMint,Italian,2020-04-13
+1,Fleetfoot Panther,pls,Planeshift,0.0,False,NearMint,Italian,2020-02-04
+1,Flower // Flourish,grn,Guilds of Ravnica,0.0,False,NearMint,English,2020-02-04
+3,Footlight Fiend,rna,Ravnica Allegiance,0.0,False,NearMint,English,2020-02-04
+5,Frenetic Efreet,mir,Mirage,0.0,False,NearMint,English,2020-07-18
+4,Frenetic Efreet,mir,Mirage,0.0,True,NearMint,English,2020-02-04
+3,Frenzied Arynx,rna,Ravnica Allegiance,0.0,False,NearMint,English,2020-01-19
+3,Fresh-Faced Recruit,grn,Guilds of Ravnica,0.0,False,NearMint,English,2020-02-04
+2,Frilled Mystic,rna,Ravnica Allegiance,0.0,False,NearMint,English,2020-02-05
+3,Fulminator Mage,mm2,Modern Masters 2015,0.0,False,NearMint,English,2020-02-04
+2,Fumarole,ice,Ice Age,0.0,False,NearMint,English,2021-01-29
+6,Gaea's Skyfolk,apc,Apocalypse,0.0,False,NearMint,English,2021-01-29
+4,Galina's Knight,inv,Invasion,0.0,False,NearMint,English,2021-01-29
+2,Galloping Lizrog,rna,Ravnica Allegiance,0.0,False,NearMint,English,2020-02-05
+1,"Garna, the Bloodflame",dom,Dominaria,0.0,False,NearMint,English,2020-02-04
+3,Garrison Sergeant,grn,Guilds of Ravnica,0.0,False,NearMint,English,2020-02-04
+4,Gelectrode,gpt,Guildpact,0.0,False,NearMint,English,2020-07-22
+1,Gelectrode,gpt,Guildpact,0.0,False,NearMint,Italian,2020-02-04
+1,Gerrard's Command,pls,Planeshift,0.0,False,NearMint,Italian,2020-02-04
+1,Gerrard's Verdict,apc,Apocalypse,0.0,False,NearMint,English,2020-02-04
+4,Gerrard's Verdict,apc,Apocalypse,0.0,False,NearMint,German,2020-07-18
+3,Get the Point,rna,Ravnica Allegiance,0.0,False,NearMint,English,2020-02-04
+1,Ghor-Clan Rampager,mm3,Modern Masters 2017,0.0,False,NearMint,English,2020-02-02
+1,Giant Solifuge,gpt,Guildpact,0.0,False,NearMint,Italian,2020-02-02
+1,Giant Trap Door Spider,ice,Ice Age,0.0,False,NearMint,English,2021-01-29
+4,Giantbaiting,shm,Shadowmoor,0.0,False,NearMint,English,2020-07-18
+2,Gift of Orzhova,mm3,Modern Masters 2017,0.0,False,NearMint,English,2020-04-13
+2,Giltspire Avenger,con,Conflux,0.0,False,NearMint,Italian,2020-04-14
+1,Give // Take,dgm,Dragon's Maze,0.0,False,NearMint,Japanese,2020-04-13
+2,Glimpse the Unthinkable,ima,Iconic Masters,0.0,False,NearMint,English,2020-04-02
+2,Glimpse the Unthinkable,rav,Ravnica: City of Guilds,0.0,False,NearMint,English,2020-04-02
+2,Glowspore Shaman,grn,Guilds of Ravnica,0.0,False,NearMint,English,2020-02-05
+2,Goblin Electromancer,dds,Duel Decks: Mind vs. Might,0.0,False,NearMint,English,2020-02-04
+4,Goblin Electromancer,grn,Guilds of Ravnica,0.0,False,NearMint,English,2020-02-04
+4,Goblin Electromancer,grn,Guilds of Ravnica,0.0,False,NearMint,Italian,2020-02-04
+1,Goblin Electromancer,grn,Guilds of Ravnica,0.0,True,NearMint,English,2020-02-04
+2,Goblin Legionnaire,apc,Apocalypse,0.0,False,NearMint,English,2021-01-29
+1,Goblin Outlander,con,Conflux,0.0,False,NearMint,Italian,2020-02-04
+2,Golgari Charm,rtr,Return to Ravnica,0.0,False,NearMint,Italian,2020-02-05
+1,Golgari Findbroker,grn,Guilds of Ravnica,0.0,False,NearMint,English,2020-02-05
+1,Golgari Germination,rav,Ravnica: City of Guilds,0.0,False,NearMint,Italian,2020-02-05
+2,Golgari Germination,mm3,Modern Masters 2017,0.0,False,NearMint,English,2020-02-05
+1,Golgari Guildmage,rav,Ravnica: City of Guilds,0.0,False,NearMint,English,2020-02-05
+7,Golgari Rotwurm,mm3,Modern Masters 2017,0.0,False,NearMint,English,2020-04-13
+1,Gorger Wurm,arb,Alara Reborn,0.0,False,NearMint,Italian,2018-08-10
+3,Grasping Thrull,rna,Ravnica Allegiance,0.0,False,NearMint,English,2020-02-04
+2,Grazing Kelpie,eve,Eventide,0.0,False,NearMint,English,2020-02-05
+2,Grisly Salvage,rtr,Return to Ravnica,0.0,False,NearMint,English,2020-02-05
+1,Grixis Sojourners,arb,Alara Reborn,0.0,False,NearMint,Italian,2020-02-05
+2,Ground Assault,mm3,Modern Masters 2017,0.0,False,NearMint,English,2020-04-13
+1,Grove Rumbler,bfz,Battle for Zendikar,0.0,False,NearMint,Italian,2020-02-02
+4,Growth Spiral,rna,Ravnica Allegiance,0.0,False,NearMint,English,2020-02-05
+1,Gruul War Chant,dgm,Dragon's Maze,0.0,False,NearMint,Italian,2020-02-02
+1,Gyre Engineer,rna,Ravnica Allegiance,0.0,False,NearMint,English,2020-02-05
+1,Hackrobat,rna,Ravnica Allegiance,0.0,False,NearMint,English,2020-02-04
+1,"Hallar, the Firefletcher",dom,Dominaria,0.0,False,NearMint,English,2020-04-02
+4,"Hallar, the Firefletcher",dom,Dominaria,0.0,False,NearMint,Italian,2020-02-02
+4,Hammer Dropper,grn,Guilds of Ravnica,0.0,False,NearMint,English,2020-02-04
+2,"Hanna, Ship's Navigator",inv,Invasion,0.0,False,NearMint,English,2021-01-29
+1,"Hanna, Ship's Navigator",a25,Masters 25,0.0,False,NearMint,English,2020-04-13
+3,"Hapatra, Vizier of Poisons",akh,Amonkhet,0.0,False,NearMint,English,2020-05-31
+1,Harbor Guardian,mir,Mirage,0.0,False,NearMint,English,2021-01-29
+1,Harvest Gwyllion,eve,Eventide,0.0,False,NearMint,English,2020-02-05
+1,Hazardous Conditions,kld,Kaladesh,0.0,False,NearMint,Italian,2020-02-05
+4,Hazerider Drake,mir,Mirage,0.0,False,NearMint,English,2021-01-29
+1,Helm of the Ghastlord,shm,Shadowmoor,0.0,False,NearMint,Italian,2020-02-03
+1,Heroic Reinforcements,m19,Core Set 2019,0.0,False,NearMint,English,2018-08-15
+1,Heron's Grace Champion,emn,Eldritch Moon,0.0,False,NearMint,English,2020-04-13
+1,High Alert,rna,Ravnica Allegiance,0.0,False,NearMint,English,2020-02-04
+1,Highspire Mantis,ktk,Khans of Tarkir,0.0,False,NearMint,Italian,2020-02-04
+4,Honored Crop-Captain,akh,Amonkhet,0.0,False,NearMint,English,2020-04-13
+1,Honored Crop-Captain,akh,Amonkhet,0.0,False,NearMint,Italian,2020-02-04
+1,Horizon Chimera,ths,Theros,0.0,False,NearMint,Italian,2020-02-05
+3,Horned Kavu,pls,Planeshift,0.0,False,NearMint,English,2021-01-29
+1,House Guildmage,grn,Guilds of Ravnica,0.0,False,NearMint,English,2020-02-02
+1,Hull Breach,pls,Planeshift,0.0,False,NearMint,French,2020-02-02
+1,Hull Breach,pls,Planeshift,0.0,False,NearMint,Japanese,2020-04-13
+6,Hull Breach,hop,Planechase,0.0,False,NearMint,English,2021-01-29
+2,Hunding Gjornersen,leg,Legends,0.0,False,NearMint,Italian,2020-02-04
+2,Hydroform,gtc,Gatecrash,0.0,False,NearMint,Italian,2020-04-13
+1,Hydroid Krasis,rna,Ravnica Allegiance,0.0,False,NearMint,English,2020-02-05
+1,Hymn of Rebirth,ice,Ice Age,0.0,False,NearMint,English,2020-02-04
+1,Hypersonic Dragon,gk1_izzet,Guild Kit: Izzet,0.0,False,NearMint,English,2020-04-13
+1,Hypersonic Dragon,prtr,Return to Ravnica Promos,0.0,True,NearMint,English,2020-07-18
+4,Hypothesizzle,grn,Guilds of Ravnica,0.0,False,NearMint,English,2020-02-04
+1,Icefeather Aven,ktk,Khans of Tarkir,0.0,False,NearMint,Italian,2020-02-05
+5,Immerwolf,dka,Dark Ascension,0.0,False,NearMint,English,2020-04-02
+4,Imperious Oligarch,rna,Ravnica Allegiance,0.0,False,NearMint,English,2020-02-04
+1,Impromptu Raid,shm,Shadowmoor,0.0,False,NearMint,English,2020-05-31
+2,Incubation // Incongruity,rna,Ravnica Allegiance,0.0,False,NearMint,English,2020-02-05
+1,Inside Out,eve,Eventide,0.0,False,NearMint,English,2020-02-04
+1,Integrity // Intervention,grn,Guilds of Ravnica,0.0,False,NearMint,English,2020-02-04
+1,"Intet, the Dreamer",plc,Planar Chaos,0.0,False,NearMint,English,2020-02-05
+1,Invert // Invent,grn,Guilds of Ravnica,0.0,False,NearMint,English,2020-02-04
+1,Invocation of Saint Traft,soi,Shadows over Innistrad,0.0,False,NearMint,English,2020-04-13
+1,Iridescent Angel,ody,Odyssey,0.0,False,NearMint,English,2021-01-29
+2,Iroas's Champion,ori,Magic Origins,0.0,False,NearMint,Italian,2020-02-04
+2,Ironroot Warlord,m20,Core Set 2020,0.0,False,NearMint,English,2020-04-13
+1,"Izoni, Thousand-Eyed",grn,Guilds of Ravnica,0.0,False,NearMint,English,2020-02-05
+4,Izzet Guildmage,gpt,Guildpact,0.0,False,NearMint,English,2021-01-29
+2,Izzet Staticaster,rtr,Return to Ravnica,0.0,False,NearMint,Italian,2020-04-13
+1,Jagged Poppet,gk2_rakdos,Guild Kit: Rakdos,0.0,False,NearMint,Italian,2020-02-04
+1,"Jarad, Golgari Lich Lord",c15,Commander 2015,0.0,False,NearMint,English,2020-07-22
+1,Jasmine Boreal,leg,Legends,0.0,False,NearMint,Italian,2020-02-04
+1,Jasmine Boreal,tsb,Time Spiral Timeshifted,0.0,False,NearMint,English,2021-01-29
+2,Jedit Ojanen,leg,Legends,0.0,False,NearMint,Italian,2020-02-04
+1,Jerrard of the Closed Fist,leg,Legends,0.0,False,NearMint,Italian,2020-02-02
+1,Jhoira of the Ghitu,dds,Duel Decks: Mind vs. Might,0.0,False,NearMint,English,2020-02-04
+1,"Jodah, Archmage Eternal",dom,Dominaria,0.0,False,NearMint,Spanish,2020-04-02
+1,Johan,leg,Legends,0.0,False,NearMint,English,2021-01-29
+2,Join Shields,grn,Guilds of Ravnica,0.0,False,NearMint,English,2020-02-04
+1,Join Shields,grn,Guilds of Ravnica,0.0,True,NearMint,English,2020-02-04
+2,"Jori En, Ruin Diver",ogw,Oath of the Gatewatch,0.0,False,NearMint,English,2020-02-04
+1,"Judith, the Scourge Diva",rna,Ravnica Allegiance,0.0,False,NearMint,English,2020-02-04
+2,Jungle Barrier,apc,Apocalypse,0.0,False,NearMint,English,2021-01-29
+3,Jungle Barrier,e02,Explorers of Ixalan,0.0,False,NearMint,English,2020-04-13
+1,Justice Strike,grn,Guilds of Ravnica,0.0,False,NearMint,English,2020-02-04
+1,Kaervek's Purge,mir,Mirage,0.0,False,NearMint,English,2021-01-29
+1,Kasimir the Lone Wolf,leg,Legends,0.0,False,NearMint,Italian,2020-02-04
+1,Kathari Bomber,mm3,Modern Masters 2017,0.0,False,NearMint,English,2020-02-04
+1,Kathari Remnant,arb,Alara Reborn,0.0,False,NearMint,English,2020-04-13
+3,Kei Takahashi,chr,Chronicles,0.0,False,NearMint,English,2021-01-29
+1,Khenra Charioteer,akh,Amonkhet,0.0,False,NearMint,English,2020-02-02
+3,Khenra Charioteer,akh,Amonkhet,0.0,False,NearMint,Italian,2020-02-02
+2,Kheru Lich Lord,ktk,Khans of Tarkir,0.0,False,NearMint,English,2020-02-05
+1,Kheru Lich Lord,ktk,Khans of Tarkir,0.0,False,NearMint,Italian,2020-02-05
+1,Kiora's Follower,bng,Born of the Gods,0.0,False,NearMint,English,2020-02-05
+1,Knight of the Last Breath,rna,Ravnica Allegiance,0.0,False,NearMint,English,2020-02-04
+1,"Kolaghan, the Storm's Fury",frf,Fate Reforged,0.0,False,NearMint,Japanese,2020-04-13
+1,"Kolaghan, the Storm's Fury",frf,Fate Reforged,0.0,True,NearMint,Italian,2020-04-13
+1,Korozda Gorgon,dgm,Dragon's Maze,0.0,False,NearMint,Italian,2020-02-05
+1,Korozda Guildmage,rtr,Return to Ravnica,0.0,False,NearMint,Italian,2020-02-05
+4,Kragma Warcaller,ths,Theros,0.0,False,NearMint,Italian,2020-04-13
+1,Krasis Incubation,dgm,Dragon's Maze,0.0,False,NearMint,Japanese,2020-04-13
+4,"Kunoros, Hound of Athreos",thb,Theros Beyond Death,0.0,False,NearMint,English,2020-04-02
+1,Lady Orca,leg,Legends,0.0,False,NearMint,Italian,2018-08-15
+1,Last Stand,apc,Apocalypse,0.0,False,NearMint,Italian,2018-08-10
+1,Lava Zombie,pls,Planeshift,0.0,False,NearMint,English,2021-01-29
+1,Lava Zombie,pls,Planeshift,0.0,False,NearMint,Japanese,2020-04-13
+1,"Lavinia, Azorius Renegade",rna,Ravnica Allegiance,0.0,False,NearMint,English,2020-02-04
+5,Lawmage's Binding,rna,Ravnica Allegiance,0.0,False,NearMint,English,2021-01-29
+1,Lawmage's Binding,rna,Ravnica Allegiance,0.0,True,NearMint,English,2020-02-04
+2,League Guildmage,grn,Guilds of Ravnica,0.0,False,NearMint,English,2020-02-04
+1,Leap of Flame,gpt,Guildpact,0.0,False,NearMint,Italian,2018-08-10
+1,Ledev Champion,grn,Guilds of Ravnica,0.0,False,NearMint,English,2020-02-04
+2,Legion Guildmage,grn,Guilds of Ravnica,0.0,False,NearMint,English,2020-02-04
+1,Legion Guildmage,grn,Guilds of Ravnica,0.0,False,NearMint,Spanish,2020-02-04
+1,Legion Lieutenant,rix,Rivals of Ixalan,0.0,False,NearMint,English,2020-04-13
+4,Leyline Prowler,war,War of the Spark,0.0,False,NearMint,English,2020-04-02
+1,Lightning Angel,tsb,Time Spiral Timeshifted,0.0,False,NearMint,English,2021-01-29
+1,Lim-Dûl's Paladin,all,Alliances,0.0,False,NearMint,French,2020-02-04
+4,Lim-Dûl's Vault,all,Alliances,0.0,False,NearMint,English,2021-01-29
+1,Lim-Dûl's Vault,all,Alliances,0.0,False,NearMint,Italian,2020-02-02
+1,Lim-Dûl's Vault,all,Alliances,0.0,False,NearMint,Spanish,2020-02-02
+5,Lithatog,ody,Odyssey,0.0,False,NearMint,English,2021-01-29
+1,Lithatog,ody,Odyssey,0.0,False,NearMint,French,2020-02-02
+1,Lithatog,ody,Odyssey,0.0,False,NearMint,Japanese,2020-02-02
+1,Llanowar Dead,apc,Apocalypse,0.0,False,NearMint,English,2021-01-29
+1,Llanowar Dead,apc,Apocalypse,0.0,False,NearMint,French,2020-02-05
+1,Llanowar Dead,apc,Apocalypse,0.0,False,NearMint,Italian,2018-08-10
+1,Llanowar Knight,inv,Invasion,0.0,False,NearMint,Italian,2020-04-13
+4,Lobotomy,f06,Friday Night Magic 2006,0.0,False,NearMint,English,2020-02-04
+2,Lobotomy,tmp,Tempest,0.0,False,NearMint,English,2020-02-02
+1,Lobotomy,inv,Invasion,0.0,True,NearMint,English,2020-07-18
+5,Lochmere Serpent,eld,Throne of Eldraine,0.0,False,NearMint,English,2020-04-02
+2,Lord Magnus,leg,Legends,0.0,False,NearMint,Italian,2020-02-04
+3,Lord of Tresserhorn,all,Alliances,0.0,False,NearMint,English,2020-07-18
+2,Lorescale Coatl,ddo,Duel Decks: Elspeth vs. Kiora,0.0,False,NearMint,English,2020-04-02
+4,Lurking Informant,rav,Ravnica: City of Guilds,0.0,False,NearMint,English,2018-08-10
+1,"Lyzolda, the Blood Witch",gk2_rakdos,Guild Kit: Rakdos,0.0,False,NearMint,Italian,2020-02-04
+1,Macabre Mockery,rna,Ravnica Allegiance,0.0,False,NearMint,English,2020-02-04
+1,Madrush Cyclops,arb,Alara Reborn,0.0,False,NearMint,English,2020-02-05
+1,Maelstrom Pulse,mma,Modern Masters,0.0,False,NearMint,English,2021-01-29
+4,Maelstrom Pulse,uma,Ultimate Masters,0.0,False,NearMint,English,2021-01-29
+4,Malicious Advice,pls,Planeshift,0.0,False,NearMint,English,2021-01-29
+1,Malicious Advice,pls,Planeshift,0.0,False,NearMint,Italian,2020-02-02
+16,Manamorphose,shm,Shadowmoor,0.0,False,NearMint,English,2021-01-29
+3,Manamorphose,mma,Modern Masters,0.0,False,NearMint,English,2021-01-29
+1,Marauding Looter,xln,Ixalan,0.0,False,NearMint,English,2020-04-13
+1,Marauding Looter,xln,Ixalan,0.0,True,NearMint,English,2020-04-13
+1,March from the Tomb,bfz,Battle for Zendikar,0.0,False,NearMint,Japanese,2020-02-04
+6,Marhault Elsdragon,chr,Chronicles,0.0,False,NearMint,English,2021-01-29
+2,Marhault Elsdragon,leg,Legends,0.0,False,NearMint,Italian,2020-02-02
+1,Marrow Chomper,arb,Alara Reborn,0.0,False,NearMint,English,2020-04-13
+1,Marrow Chomper,arb,Alara Reborn,0.0,False,NearMint,Italian,2020-02-05
+15,Marsh Goblins,drk,The Dark,0.0,False,NearMint,Italian,2020-02-04
+3,Maverick Thopterist,aer,Aether Revolt,0.0,False,NearMint,English,2020-04-13
+3,Maverick Thopterist,aer,Aether Revolt,0.0,False,NearMint,Italian,2020-02-04
+1,Maw of the Obzedat,dgm,Dragon's Maze,0.0,False,NearMint,Italian,2020-02-04
+1,Maw of the Obzedat,dgm,Dragon's Maze,0.0,False,NearMint,Japanese,2020-04-13
+4,Meddling Mage,arb,Alara Reborn,0.0,False,NearMint,English,2021-01-29
+6,Meddling Mage,pls,Planeshift,0.0,False,NearMint,English,2021-01-29
+1,Medicine Runner,shm,Shadowmoor,0.0,False,NearMint,Italian,2020-02-04
+1,Memory Plunder,shm,Shadowmoor,0.0,False,NearMint,English,2020-02-03
+1,Merciless Javelineer,akh,Amonkhet,0.0,False,NearMint,English,2020-02-04
+8,Merciless Javelineer,akh,Amonkhet,0.0,False,NearMint,Italian,2020-02-04
+3,Mercurial Geists,emn,Eldritch Moon,0.0,False,NearMint,English,2020-02-04
+1,Mercy Killing,shm,Shadowmoor,0.0,False,NearMint,Italian,2020-02-04
+2,Merieke Ri Berit,tsb,Time Spiral Timeshifted,0.0,False,NearMint,English,2021-01-29
+1,"Path of Mettle // Metzali, Tower of Triumph",rix,Rivals of Ixalan,0.0,False,NearMint,English,2020-04-13
+4,Mind Funeral,arb,Alara Reborn,0.0,False,NearMint,French,2020-04-02
+2,Mind Funeral,mma,Modern Masters,0.0,False,NearMint,English,2020-07-22
+6,Mind Grind,gtc,Gatecrash,0.0,False,NearMint,English,2020-02-02
+1,Mindswipe,ktk,Khans of Tarkir,0.0,False,NearMint,English,2020-04-13
+1,Mindswipe,ktk,Khans of Tarkir,0.0,False,NearMint,Japanese,2020-04-13
+3,Minotaur Illusionist,apc,Apocalypse,0.0,False,NearMint,English,2021-01-29
+2,Mirari's Wake,jud,Judgment,0.0,False,NearMint,French,2020-07-18
+3,Mirari's Wake,jud,Judgment,0.0,True,NearMint,English,2020-02-04
+1,Mirror Sheen,eve,Eventide,0.0,False,NearMint,English,2020-04-02
+1,Mnemonic Betrayal,grn,Guilds of Ravnica,0.0,False,NearMint,Italian,2020-02-02
+3,Molderhulk,grn,Guilds of Ravnica,0.0,False,NearMint,English,2020-02-05
+1,Moldervine Reclamation,m20,Core Set 2020,0.0,False,NearMint,English,2020-04-13
+1,Morgue Burst,dgm,Dragon's Maze,0.0,False,NearMint,Italian,2020-02-04
+1,Morgue Burst,dgm,Dragon's Maze,0.0,False,NearMint,Japanese,2020-04-13
+1,Moroii,rav,Ravnica: City of Guilds,0.0,False,NearMint,Italian,2020-02-02
+2,Moroii,mm3,Modern Masters 2017,0.0,False,NearMint,English,2020-02-02
+1,Mortify,rna,Ravnica Allegiance,0.0,False,NearMint,English,2020-02-04
+1,Mortify,gpt,Guildpact,0.0,False,NearMint,English,2020-02-04
+1,Mortus Strider,gtc,Gatecrash,0.0,False,NearMint,Italian,2020-04-13
+2,Mourning Thrull,gpt,Guildpact,0.0,False,NearMint,English,2018-08-10
+3,Mournwillow,emn,Eldritch Moon,0.0,False,NearMint,English,2020-02-05
+1,Mournwillow,emn,Eldritch Moon,0.0,False,NearMint,Italian,2020-02-05
+1,Mudbrawler Raiders,shm,Shadowmoor,0.0,False,NearMint,English,2018-08-10
+1,Mudbrawler Raiders,shm,Shadowmoor,0.0,False,NearMint,Italian,2020-02-02
+2,"Munda, Ambush Leader",bfz,Battle for Zendikar,0.0,False,NearMint,English,2020-02-04
+1,Mundungu,vis,Visions,0.0,False,NearMint,Italian,2020-02-02
+1,Murderous Redcap,mma,Modern Masters,0.0,False,NearMint,English,2020-02-04
+3,Murderous Redcap,uma,Ultimate Masters,0.0,False,NearMint,English,2020-02-04
+1,Mystic Enforcer,tsb,Time Spiral Timeshifted,0.0,False,NearMint,English,2021-01-29
+1,Mystic Genesis,mm3,Modern Masters 2017,0.0,False,NearMint,English,2020-02-05
+1,Mystic Snake,apc,Apocalypse,0.0,False,NearMint,English,2021-01-29
+1,"Narset, Enlightened Master",ktk,Khans of Tarkir,0.0,False,NearMint,English,2020-04-14
+2,"Narset, Enlightened Master",ktk,Khans of Tarkir,0.0,False,NearMint,Italian,2020-04-14
+1,Nature's Blessing,all,Alliances,0.0,False,NearMint,Portuguese,2020-06-20
+1,Naya Charm,ala,Shards of Alara,0.0,False,NearMint,English,2018-08-10
+2,Naya Sojourners,pm10,Magic 2010 Promos,0.0,False,NearMint,English,2020-05-31
+2,Naya Sojourners,arb,Alara Reborn,0.0,False,NearMint,Italian,2020-02-05
+1,Nebuchadnezzar,chr,Chronicles,0.0,False,NearMint,English,2020-07-18
+1,Nemesis of Reason,arb,Alara Reborn,0.0,False,NearMint,Italian,2020-02-02
+1,"Nicol Bolas, Planeswalker",e01,Archenemy: Nicol Bolas,0.0,False,NearMint,English,2020-02-05
+1,Nightveil Predator,grn,Guilds of Ravnica,0.0,False,NearMint,English,2020-02-02
+1,Nightveil Specter,gtc,Gatecrash,0.0,False,NearMint,English,2020-06-20
+1,Nightveil Specter,gtc,Gatecrash,0.0,False,NearMint,Italian,2020-02-03
+1,Nikya of the Old Ways,rna,Ravnica Allegiance,0.0,False,NearMint,English,2020-01-19
+1,Nip Gwyllion,eve,Eventide,0.0,False,NearMint,English,2020-02-05
+1,"Niv-Mizzet, the Firemind",a25,Masters 25,0.0,False,NearMint,English,2020-04-13
+2,Nobilis of War,ddl,Duel Decks: Heroes vs. Monsters,0.0,False,NearMint,English,2020-07-18
+3,Notion Rain,grn,Guilds of Ravnica,0.0,False,NearMint,English,2020-02-02
+1,Notion Thief,dgm,Dragon's Maze,0.0,False,NearMint,Japanese,2020-02-02
+1,Notion Thief,a25,Masters 25,0.0,False,NearMint,English,2020-04-13
+3,"Noyan Dar, Roil Shaper",bfz,Battle for Zendikar,0.0,False,NearMint,English,2020-02-04
+1,Nucklavee,dds,Duel Decks: Mind vs. Might,0.0,False,NearMint,English,2020-02-04
+2,Obelisk Spider,hou,Hour of Devastation,0.0,False,NearMint,English,2020-04-13
+4,"Obzedat, Ghost Council",gtc,Gatecrash,0.0,False,NearMint,English,2020-04-02
+2,Ochran Assassin,grn,Guilds of Ravnica,0.0,False,NearMint,English,2020-02-05
+1,Odious Trow,eve,Eventide,0.0,False,NearMint,English,2018-08-10
+1,Odious Trow,eve,Eventide,0.0,False,NearMint,Italian,2020-02-05
+1,"Olivia, Mobilized for War",soi,Shadows over Innistrad,0.0,False,NearMint,English,2020-04-13
+1,Onward // Victory,akh,Amonkhet,0.0,False,NearMint,English,2020-04-13
+4,Onward // Victory,akh,Amonkhet,0.0,False,NearMint,Italian,2020-02-04
+1,Onward // Victory,akh,Amonkhet,0.0,True,NearMint,English,2020-02-04
+1,Oona's Gatewarden,shm,Shadowmoor,0.0,False,NearMint,Italian,2020-02-03
+1,"Oros, the Avenger",cma,Commander Anthology,0.0,False,NearMint,Italian,2020-04-14
+1,"Oros, the Avenger",plc,Planar Chaos,0.0,False,NearMint,Italian,2020-02-05
+1,Orzhov Guildmage,gpt,Guildpact,0.0,False,NearMint,English,2020-02-05
+4,Outland Boar,aer,Aether Revolt,0.0,False,NearMint,English,2020-04-13
+1,Outland Boar,aer,Aether Revolt,0.0,False,NearMint,Italian,2020-02-02
+1,Overabundance,inv,Invasion,0.0,False,NearMint,English,2020-02-02
+1,Pain Magnification,dis,Dissension,0.0,True,NearMint,Italian,2020-02-04
+2,Pale Recluse,arb,Alara Reborn,0.0,False,NearMint,Italian,2020-02-04
+1,Palladia-Mors,chr,Chronicles,0.0,False,NearMint,English,2020-07-18
+1,"Palladia-Mors, the Ruiner",m19,Core Set 2019,0.0,False,NearMint,English,2018-08-15
+1,"Path of Mettle // Metzali, Tower of Triumph",rix,Rivals of Ixalan,0.0,False,NearMint,English,2020-04-13
+2,Pavel Maliki,leg,Legends,0.0,False,NearMint,Italian,2020-02-04
+4,Phantatog,ody,Odyssey,0.0,False,NearMint,English,2021-01-29
+2,Phantatog,ody,Odyssey,0.0,False,NearMint,Italian,2020-02-04
+1,Pharika's Mender,ths,Theros,0.0,False,NearMint,English,2020-02-05
+3,Phelddagrif,all,Alliances,0.0,False,NearMint,English,2021-01-29
+1,Phytohydra,rav,Ravnica: City of Guilds,0.0,False,NearMint,Italian,2020-02-04
+1,Pilfered Plans,dgm,Dragon's Maze,0.0,False,NearMint,Japanese,2020-04-13
+3,Pilfered Plans,mm3,Modern Masters 2017,0.0,False,NearMint,English,2020-02-02
+4,Piston-Fist Cyclops,grn,Guilds of Ravnica,0.0,False,NearMint,English,2020-02-04
+1,Pit Fight,gtc,Gatecrash,0.0,False,NearMint,English,2018-08-10
+2,Pit Fight,gtc,Gatecrash,0.0,False,NearMint,Italian,2020-02-02
+4,Pitiless Gorgon,grn,Guilds of Ravnica,0.0,False,NearMint,English,2020-02-05
+1,Pitiless Pontiff,rna,Ravnica Allegiance,0.0,False,NearMint,English,2020-02-04
+1,Plague Spores,inv,Invasion,0.0,False,NearMint,Italian,2020-02-04
+1,Plaxcaster Frogling,dis,Dissension,0.0,False,NearMint,Italian,2020-02-05
+1,Plumes of Peace,dis,Dissension,0.0,False,NearMint,Italian,2018-08-10
+1,Plumeveil,uma,Ultimate Masters,0.0,False,NearMint,English,2020-04-02
+2,Plumeveil,mma,Modern Masters,0.0,False,NearMint,English,2020-02-04
+1,Poison-Tip Archer,m19,Core Set 2019,0.0,False,NearMint,English,2018-08-15
+2,Ponyback Brigade,ktk,Khans of Tarkir,0.0,False,NearMint,Italian,2020-04-14
+1,Prepare // Fight,akh,Amonkhet,0.0,False,NearMint,English,2020-04-13
+1,Prime Speaker Vannifar,rna,Ravnica Allegiance,0.0,False,NearMint,English,2020-02-05
+2,Princess Lucrezia,leg,Legends,0.0,False,NearMint,Italian,2020-02-02
+1,Protect // Serve,dgm,Dragon's Maze,0.0,False,NearMint,Japanese,2020-04-13
+4,Psychatog,ody,Odyssey,0.0,False,NearMint,English,2020-02-04
+1,Psychatog,ody,Odyssey,0.0,False,NearMint,French,2020-02-02
+2,Psychic Drain,rav,Ravnica: City of Guilds,0.0,False,NearMint,Italian,2020-02-02
+4,Psychic Intrusion,ths,Theros,0.0,False,NearMint,English,2020-02-03
+2,Psychic Symbiont,m19,Core Set 2019,0.0,False,NearMint,English,2020-02-02
+1,Purge the Profane,gtc,Gatecrash,0.0,False,NearMint,English,2018-08-10
+1,Purge the Profane,gtc,Gatecrash,0.0,False,NearMint,Italian,2020-02-04
+1,Putrefy,dgm,Dragon's Maze,0.0,False,NearMint,Japanese,2020-04-13
+4,Putrefy,c19,Commander 2019,0.0,False,NearMint,English,2020-04-02
+1,Putrid Warrior,apc,Apocalypse,0.0,False,NearMint,Italian,2018-08-10
+3,Quicksilver Dagger,apc,Apocalypse,0.0,False,NearMint,English,2021-01-29
+1,"Radha, Heir to Keld",plc,Planar Chaos,0.0,False,NearMint,English,2020-02-02
+2,"Radha, Heir to Keld",plc,Planar Chaos,0.0,False,NearMint,Italian,2020-02-02
+2,Radiant Essence,mir,Mirage,0.0,False,NearMint,English,2021-01-29
+2,"Raff Capashen, Ship's Mage",dom,Dominaria,0.0,False,NearMint,English,2020-02-04
+2,Rafter Demon,rna,Ravnica Allegiance,0.0,False,NearMint,English,2020-02-04
+1,Raging Regisaur,rix,Rivals of Ixalan,0.0,False,NearMint,English,2020-04-13
+1,Raging Regisaur,rix,Rivals of Ixalan,0.0,False,NearMint,Italian,2020-02-02
+2,Raging Swordtooth,xln,Ixalan,0.0,False,NearMint,Italian,2020-02-02
+1,Rags // Riches,akh,Amonkhet,0.0,False,NearMint,English,2020-04-13
+4,Rakdos Cackler,rtr,Return to Ravnica,0.0,False,NearMint,English,2020-02-04
+1,Rakdos Cackler,rtr,Return to Ravnica,0.0,False,NearMint,Italian,2020-02-04
+2,Rakdos Firewheeler,rna,Ravnica Allegiance,0.0,False,NearMint,English,2020-02-04
+1,Rakdos Guildmage,gk2_rakdos,Guild Kit: Rakdos,0.0,False,NearMint,Italian,2020-02-04
+3,Rakdos Roustabout,rna,Ravnica Allegiance,0.0,False,NearMint,English,2020-02-04
+2,Rakshasa Deathdealer,ktk,Khans of Tarkir,0.0,False,NearMint,English,2020-02-05
+1,Rakshasa Deathdealer,ktk,Khans of Tarkir,0.0,False,NearMint,Japanese,2020-02-05
+2,Rakshasa Vizier,ktk,Khans of Tarkir,0.0,False,NearMint,English,2020-02-05
+1,Rakshasa Vizier,ktk,Khans of Tarkir,0.0,False,NearMint,Italian,2020-02-05
+1,Rakshasa Vizier,pktk,Khans of Tarkir Promos,0.0,True,NearMint,Italian,2020-04-14
+2,Ramirez DePietro,leg,Legends,0.0,False,NearMint,Italian,2020-02-02
+1,Ravager Wurm,rna,Ravnica Allegiance,0.0,False,NearMint,English,2020-01-19
+2,Razorfin Hunter,apc,Apocalypse,0.0,False,NearMint,English,2021-01-29
+2,Razorfin Hunter,apc,Apocalypse,0.0,False,NearMint,Italian,2020-02-04
+1,Ready // Willing,dgm,Dragon's Maze,0.0,False,NearMint,English,2020-02-05
+2,Ready // Willing,dgm,Dragon's Maze,0.0,False,NearMint,Italian,2020-02-05
+1,Reaper of the Wilds,ths,Theros,0.0,False,NearMint,Italian,2020-04-13
+1,Reborn Hope,arb,Alara Reborn,0.0,False,NearMint,Italian,2020-02-04
+1,Reclamation,ice,Ice Age,0.0,False,NearMint,English,2020-02-04
+1,Reduce // Rubble,akh,Amonkhet,0.0,False,NearMint,English,2020-02-04
+1,Reduce // Rubble,akh,Amonkhet,0.0,False,NearMint,Italian,2020-02-04
+2,Regal Bloodlord,m19,Core Set 2019,0.0,False,NearMint,English,2018-08-15
+1,Relentless Raptor,rix,Rivals of Ixalan,0.0,False,NearMint,English,2020-04-13
+1,Rendclaw Trow,eve,Eventide,0.0,False,NearMint,Italian,2018-08-10
+1,Render Silent,pdgm,Dragon's Maze Promos,0.0,True,NearMint,English,2020-02-04
+1,Renegade Rallier,aer,Aether Revolt,0.0,False,NearMint,Italian,2020-02-04
+4,Renegade Wheelsmith,aer,Aether Revolt,0.0,False,NearMint,English,2020-04-13
+2,Renegade Wheelsmith,aer,Aether Revolt,0.0,False,NearMint,Italian,2020-02-04
+1,Repel Intruders,shm,Shadowmoor,0.0,False,NearMint,Italian,2018-08-10
+1,Repudiate // Replicate,rna,Ravnica Allegiance,0.0,False,NearMint,English,2020-02-05
+3,Resolute Survivors,hou,Hour of Devastation,0.0,False,NearMint,English,2020-04-13
+1,Resolute Survivors,hou,Hour of Devastation,0.0,False,NearMint,Italian,2020-02-04
+1,Resplendent Griffin,rix,Rivals of Ixalan,0.0,False,NearMint,English,2020-04-13
+1,Restless Apparition,eve,Eventide,0.0,False,NearMint,English,2020-02-05
+4,Restoration Gearsmith,kld,Kaladesh,0.0,False,NearMint,Italian,2020-02-04
+1,Revival // Revenge,rna,Ravnica Allegiance,0.0,False,NearMint,English,2020-02-05
+1,Reviving Vapors,uma,Ultimate Masters,0.0,False,NearMint,English,2020-02-04
+3,Rhizome Lurcher,grn,Guilds of Ravnica,0.0,False,NearMint,English,2020-02-05
+1,Rhox War Monk,mm3,Modern Masters 2017,0.0,False,NearMint,English,2020-02-05
+1,Rhythm of the Wild,rna,Ravnica Allegiance,0.0,False,NearMint,English,2020-01-19
+3,Ride Down,emn,Eldritch Moon,0.0,False,NearMint,English,2020-02-04
+1,Ride Down,emn,Eldritch Moon,0.0,False,NearMint,Italian,2020-02-04
+3,Riven Turnbull,leg,Legends,0.0,False,NearMint,Italian,2020-02-02
+1,River Hoopoe,hou,Hour of Devastation,0.0,False,NearMint,English,2020-04-13
+1,River Hoopoe,hou,Hour of Devastation,0.0,False,NearMint,Italian,2020-02-05
+1,River Hoopoe,hou,Hour of Devastation,0.0,True,NearMint,English,2020-04-13
+3,Riverfall Mimic,eve,Eventide,0.0,False,NearMint,Italian,2020-02-04
+1,Rogue Refiner,aer,Aether Revolt,0.0,False,NearMint,Italian,2020-02-05
+1,"Rona, Disciple of Gix",dom,Dominaria,0.0,False,NearMint,English,2020-02-02
+1,"Rona, Disciple of Gix",dom,Dominaria,0.0,False,NearMint,Italian,2020-02-02
+3,Rosemane Centaur,grn,Guilds of Ravnica,0.0,False,NearMint,English,2020-02-04
+1,Rosheen Meanderer,shm,Shadowmoor,0.0,False,NearMint,English,2020-04-13
+4,Rubble Slinger,rna,Ravnica Allegiance,0.0,False,NearMint,English,2020-02-02
+3,Rubblebelt Raiders,gtc,Gatecrash,0.0,False,NearMint,Italian,2020-02-02
+4,Rubblebelt Runner,rna,Ravnica Allegiance,0.0,False,NearMint,English,2020-01-19
+1,Rubinia Soulsinger,c13,Commander 2013,0.0,False,NearMint,Italian,2020-04-14
+3,Ruination Wurm,gtc,Gatecrash,0.0,False,NearMint,Italian,2020-04-13
+1,Runes of the Deus,shm,Shadowmoor,0.0,False,NearMint,Italian,2020-02-02
+1,Ruthless Deathfang,dtk,Dragons of Tarkir,0.0,False,NearMint,Italian,2020-02-02
+1,Samite Archer,inv,Invasion,0.0,False,NearMint,Italian,2020-02-04
+1,Sanity Gnawers,arb,Alara Reborn,0.0,False,NearMint,Italian,2020-02-04
+2,Sarcatog,ody,Odyssey,0.0,False,NearMint,English,2021-01-29
+1,Sarcatog,ody,Odyssey,0.0,False,NearMint,Japanese,2020-02-04
+2,Satyr Enchanter,m19,Core Set 2019,0.0,False,NearMint,English,2018-08-15
+2,Savage Knuckleblade,ktk,Khans of Tarkir,0.0,False,NearMint,English,2020-02-05
+5,Savage Smash,rna,Ravnica Allegiance,0.0,False,NearMint,English,2020-01-19
+2,Savage Twister,c13,Commander 2013,0.0,False,NearMint,English,2020-01-19
+1,Savage Twister,mm2,Modern Masters 2015,0.0,False,NearMint,English,2020-02-02
+1,Savageborn Hydra,dgm,Dragon's Maze,0.0,False,NearMint,Italian,2020-02-02
+1,Savageborn Hydra,gk2_gruul,Guild Kit: Gruul,0.0,False,NearMint,English,2020-04-13
+1,Sawback Manticore,mir,Mirage,0.0,False,NearMint,English,2020-07-18
+1,Scab-Clan Giant,dgm,Dragon's Maze,0.0,False,NearMint,Japanese,2020-04-13
+1,Scalebane's Elite,vis,Visions,0.0,False,NearMint,French,2020-02-04
+17,Scarwood Goblins,drk,The Dark,0.0,False,NearMint,Italian,2020-02-02
+4,Scuttlegator,rna,Ravnica Allegiance,0.0,False,NearMint,English,2020-02-05
+1,Scuzzback Marauders,shm,Shadowmoor,0.0,False,NearMint,English,2020-02-02
+4,Scuzzback Marauders,uma,Ultimate Masters,0.0,False,NearMint,English,2020-02-02
+1,Scuzzback Scrapper,shm,Shadowmoor,0.0,True,NearMint,English,2020-02-02
+1,Seeds of Strength,rav,Ravnica: City of Guilds,0.0,False,NearMint,Italian,2018-08-10
+1,Selesnya Evangel,rav,Ravnica: City of Guilds,0.0,False,NearMint,Italian,2020-02-04
+1,Selesnya Guildmage,mm2,Modern Masters 2015,0.0,False,NearMint,English,2020-02-04
+2,Selesnya Guildmage,rav,Ravnica: City of Guilds,0.0,False,NearMint,Italian,2020-02-04
+3,Senate Griffin,rna,Ravnica Allegiance,0.0,False,NearMint,English,2020-02-04
+1,Senate Griffin,rna,Ravnica Allegiance,0.0,True,NearMint,English,2020-02-04
+1,Senate Guildmage,rna,Ravnica Allegiance,0.0,False,NearMint,English,2020-02-04
+3,Sentry of the Underworld,ths,Theros,0.0,False,NearMint,Italian,2018-08-10
+1,Shadowmage Infiltrator,ody,Odyssey,0.0,False,NearMint,Japanese,2020-02-02
+1,Shadowmage Infiltrator,tsb,Time Spiral Timeshifted,0.0,False,NearMint,English,2021-01-29
+1,Shadowstorm Vizier,akh,Amonkhet,0.0,False,NearMint,English,2020-02-02
+4,Shadowstorm Vizier,akh,Amonkhet,0.0,False,NearMint,Italian,2020-02-02
+4,Shambleshark,gtc,Gatecrash,0.0,False,NearMint,Italian,2020-04-13
+1,Shambling Remains,ddk,Duel Decks: Sorin vs. Tibalt,0.0,False,NearMint,English,2020-07-18
+2,Sharktocrab,rna,Ravnica Allegiance,0.0,False,NearMint,English,2020-02-05
+4,Shauku's Minion,mir,Mirage,0.0,False,NearMint,English,2021-01-29
+1,Shipwreck Singer,ths,Theros,0.0,False,NearMint,Italian,2020-02-02
+1,Showstopper,dgm,Dragon's Maze,0.0,False,NearMint,Italian,2020-02-04
+1,Shrewd Hatchling,eve,Eventide,0.0,False,NearMint,English,2020-02-04
+1,"Sidisi, Brood Tyrant",ktk,Khans of Tarkir,0.0,False,NearMint,English,2020-04-14
+1,Sigil Blessing,mm2,Modern Masters 2015,0.0,False,NearMint,English,2020-02-04
+1,Sigiled Behemoth,arb,Alara Reborn,0.0,False,NearMint,Italian,2020-02-04
+1,Silkbind Faerie,shm,Shadowmoor,0.0,False,NearMint,Italian,2018-08-10
+5,Silver Drake,pls,Planeshift,0.0,False,NearMint,English,2021-01-29
+2,Silver Drake,pls,Planeshift,0.0,False,NearMint,Italian,2020-04-13
+1,Simoon,vis,Visions,0.0,False,NearMint,French,2020-02-02
+1,Sin Collector,dgm,Dragon's Maze,0.0,False,NearMint,English,2020-04-13
+2,"Siona, Captain of the Pyleas",thb,Theros Beyond Death,0.0,False,NearMint,French,2020-02-20
+3,Sir Shandlar of Eberyn,leg,Legends,0.0,False,NearMint,Italian,2018-08-15
+1,Sivitri Scarzam,leg,Legends,0.0,False,NearMint,English,2020-07-18
+1,Sivitri Scarzam,leg,Legends,0.0,False,NearMint,Italian,2020-02-02
+3,Sivitri Scarzam,chr,Chronicles,0.0,False,NearMint,English,2021-01-29
+1,Sivitri Scarzam,chr,Chronicles,0.0,False,NearMint,Italian,2020-02-02
+2,Skarrg Guildmage,gtc,Gatecrash,0.0,False,NearMint,Italian,2020-02-02
+4,Skeleton Ship,ice,Ice Age,0.0,False,NearMint,English,2021-01-29
+8,Sky Spirit,tmp,Tempest,0.0,False,NearMint,English,2021-01-29
+1,Sky Terror,xln,Ixalan,0.0,False,NearMint,English,2020-04-13
+1,Skyknight Legionnaire,rav,Ravnica: City of Guilds,0.0,False,NearMint,Italian,2018-08-10
+3,Skyknight Legionnaire,grn,Guilds of Ravnica,0.0,False,NearMint,English,2020-02-04
+1,Skyknight Legionnaire,mm3,Modern Masters 2017,0.0,False,NearMint,English,2020-04-13
+2,Skyrider Patrol,m19,Core Set 2019,0.0,False,NearMint,English,2018-08-15
+1,Slaughter Games,rtr,Return to Ravnica,0.0,False,NearMint,English,2020-02-04
+1,Slaughter Games,rtr,Return to Ravnica,0.0,False,NearMint,Italian,2020-04-13
+1,Slaughter Games,rtr,Return to Ravnica,0.0,False,NearMint,Japanese,2020-02-04
+1,Slave of Bolas,e01,Archenemy: Nicol Bolas,0.0,False,NearMint,English,2020-02-05
+1,Slave of Bolas,arb,Alara Reborn,0.0,False,NearMint,Italian,2020-02-05
+1,Slippery Bogle,uma,Ultimate Masters,0.0,False,NearMint,English,2020-02-05
+1,Snakeform,eve,Eventide,0.0,False,NearMint,English,2020-02-05
+1,Snakeform,eve,Eventide,0.0,False,NearMint,Italian,2020-02-05
+1,Snowhorn Rider,ktk,Khans of Tarkir,0.0,False,NearMint,English,2020-02-05
+6,Sol'kanar the Swamp King,tsb,Time Spiral Timeshifted,0.0,False,NearMint,English,2020-02-05
+1,Sol'kanar the Swamp King,chr,Chronicles,0.0,False,NearMint,English,2020-02-05
+1,Solar Blaze,war,War of the Spark,0.0,False,NearMint,English,2020-07-18
+1,Soltari Guerrillas,tmp,Tempest,0.0,False,NearMint,English,2021-01-29
+4,Sonic Assault,grn,Guilds of Ravnica,0.0,False,NearMint,English,2020-02-04
+1,Soul Link,apc,Apocalypse,0.0,False,NearMint,English,2021-01-29
+1,Soul Link,apc,Apocalypse,0.0,False,NearMint,Italian,2020-02-04
+2,Soul Ransom,mm3,Modern Masters 2017,0.0,False,NearMint,English,2020-04-13
+1,Soul Ransom,e01,Archenemy: Nicol Bolas,0.0,False,NearMint,English,2020-02-02
+4,Souls of the Faultless,gpt,Guildpact,0.0,False,NearMint,English,2020-07-18
+1,Spatial Binding,mir,Mirage,0.0,False,NearMint,English,2021-01-29
+1,Spellheart Chimera,ths,Theros,0.0,False,NearMint,English,2018-08-10
+3,Spellheart Chimera,ths,Theros,0.0,False,NearMint,Italian,2020-02-04
+1,Sphinx of New Prahv,rna,Ravnica Allegiance,0.0,False,NearMint,English,2020-02-04
+3,Sphinx's Insight,rna,Ravnica Allegiance,0.0,False,NearMint,English,2020-02-04
+1,Spire Patrol,aer,Aether Revolt,0.0,False,NearMint,English,2020-04-13
+2,Spire Patrol,aer,Aether Revolt,0.0,False,NearMint,Italian,2020-02-04
+1,Spiteflame Witch,shm,Shadowmoor,0.0,False,NearMint,Italian,2020-02-04
+5,Spontaneous Combustion,tmp,Tempest,0.0,False,NearMint,English,2021-01-29
+2,Spring // Mind,akh,Amonkhet,0.0,False,NearMint,English,2020-04-13
+3,Sprouting Thrinax,ala,Shards of Alara,0.0,False,NearMint,English,2020-02-05
+5,Squandered Resources,vis,Visions,0.0,False,NearMint,English,2020-07-18
+1,Squandered Resources,vis,Visions,0.0,False,NearMint,German,2020-02-05
+1,Squandered Resources,vis,Visions,0.0,False,NearMint,Spanish,2020-04-02
+3,Squee's Embrace,apc,Apocalypse,0.0,False,NearMint,English,2021-01-29
+1,Squee's Revenge,apc,Apocalypse,0.0,False,NearMint,Italian,2020-02-04
+2,Start // Finish,akh,Amonkhet,0.0,False,NearMint,English,2020-04-13
+1,Start // Finish,akh,Amonkhet,0.0,False,NearMint,Italian,2020-02-05
+2,Status // Statue,grn,Guilds of Ravnica,0.0,False,NearMint,English,2020-02-05
+1,Steel Leaf Paladin,pls,Planeshift,0.0,False,NearMint,English,2021-01-29
+3,Sterling Grove,inv,Invasion,0.0,False,NearMint,English,2021-01-29
+7,Stormbind,ice,Ice Age,0.0,False,NearMint,English,2021-01-29
+1,Stormcaller's Boon,arb,Alara Reborn,0.0,False,NearMint,Italian,2020-02-04
+1,Stormchaser Chimera,jou,Journey into Nyx,0.0,False,NearMint,English,2020-04-13
+2,Struggle // Survive,hou,Hour of Devastation,0.0,False,NearMint,English,2020-02-02
+1,Struggle // Survive,hou,Hour of Devastation,0.0,False,NearMint,Italian,2020-02-02
+1,Suffocating Blast,apc,Apocalypse,0.0,False,NearMint,English,2021-01-29
+1,Suffocating Blast,apc,Apocalypse,0.0,False,NearMint,Italian,2020-02-04
+1,Suicidal Charge,con,Conflux,0.0,False,NearMint,Italian,2020-04-13
+1,Sultai Charm,ktk,Khans of Tarkir,0.0,False,NearMint,Italian,2018-08-10
+2,Sultai Soothsayer,ktk,Khans of Tarkir,0.0,False,NearMint,Italian,2020-04-14
+4,Sumala Woodshaper,grn,Guilds of Ravnica,0.0,False,NearMint,English,2020-02-04
+2,Sunastian Falconer,leg,Legends,0.0,False,NearMint,Italian,2020-01-19
+2,Sunder Shaman,rna,Ravnica Allegiance,0.0,False,NearMint,English,2020-01-19
+2,Sundering Growth,mm3,Modern Masters 2017,0.0,False,NearMint,English,2020-04-13
+1,Sundering Growth,rtr,Return to Ravnica,0.0,False,NearMint,English,2020-07-18
+2,Sunhome Enforcer,rav,Ravnica: City of Guilds,0.0,False,NearMint,Italian,2018-08-10
+3,Sunhome Guildmage,gk1_boros,Guild Kit: Boros,0.0,False,NearMint,English,2020-02-04
+2,Supply // Demand,dis,Dissension,0.0,False,NearMint,Italian,2020-02-05
+2,Surge of Strength,all,Alliances,0.0,False,NearMint,English,2021-01-29
+1,Swarm Guildmage,grn,Guilds of Ravnica,0.0,False,NearMint,English,2020-02-05
+1,Swathcutter Giant,grn,Guilds of Ravnica,0.0,False,NearMint,English,2020-02-04
+1,Swiftblade Vindicator,grn,Guilds of Ravnica,0.0,False,NearMint,English,2020-02-04
+2,Syndicate Guildmage,rna,Ravnica Allegiance,0.0,False,NearMint,English,2020-02-04
+1,"Szadek, Lord of Secrets",gk1_dimir,Guild Kit: Dimir,0.0,False,NearMint,Italian,2020-04-13
+1,"Tajic, Blade of the Legion",dgm,Dragon's Maze,0.0,False,NearMint,Italian,2020-02-04
+1,"Tajic, Legion's Edge",grn,Guilds of Ravnica,0.0,False,NearMint,English,2020-02-04
+1,Talon Trooper,arb,Alara Reborn,0.0,False,NearMint,Italian,2020-02-04
+3,Talon Trooper,mm3,Modern Masters 2017,0.0,False,NearMint,English,2020-02-04
+1,Tattermunge Maniac,shm,Shadowmoor,0.0,False,NearMint,Italian,2020-02-02
+3,Tattermunge Witch,mm3,Modern Masters 2017,0.0,False,NearMint,English,2020-02-02
+1,Teleportal,mm3,Modern Masters 2017,0.0,False,NearMint,English,2020-02-04
+1,Tempest Drake,vis,Visions,0.0,False,NearMint,English,2021-01-29
+7,Temporal Spring,apc,Apocalypse,0.0,False,NearMint,English,2021-01-29
+2,Temur Ascendancy,ktk,Khans of Tarkir,0.0,False,NearMint,Italian,2020-04-14
+2,Temur Charm,ktk,Khans of Tarkir,0.0,False,NearMint,Italian,2020-02-05
+3,"Teneb, the Harvester",plc,Planar Chaos,0.0,False,NearMint,English,2020-02-05
+2,Terminate,mm3,Modern Masters 2017,0.0,False,NearMint,English,2020-02-04
+1,Terminate,pls,Planeshift,0.0,False,NearMint,French,2020-02-04
+1,Teysa Karlov,rna,Ravnica Allegiance,0.0,False,NearMint,English,2020-02-04
+1,Thaumatog,ody,Odyssey,0.0,False,NearMint,English,2021-01-29
+1,Thaumatog,ody,Odyssey,0.0,False,NearMint,French,2020-02-04
+2,Thaumatog,ody,Odyssey,0.0,False,NearMint,Italian,2020-02-04
+1,Theater of Horrors,rna,Ravnica Allegiance,0.0,False,NearMint,English,2020-02-04
+2,Thief of Sanity,grn,Guilds of Ravnica,0.0,False,NearMint,English,2020-04-02
+1,Thistledown Duo,shm,Shadowmoor,0.0,False,NearMint,Italian,2020-02-04
+7,Thought Erasure,grn,Guilds of Ravnica,0.0,False,NearMint,English,2020-02-02
+1,Thoughtweft Gambit,shm,Shadowmoor,0.0,False,NearMint,English,2020-02-04
+1,Thousand-Year Storm,grn,Guilds of Ravnica,0.0,False,NearMint,English,2020-02-04
+1,Thrash // Threat,rna,Ravnica Allegiance,0.0,False,NearMint,English,2020-02-02
+1,Thunderclap Wyvern,ori,Magic Origins,0.0,False,NearMint,Italian,2020-02-04
+1,Thundersong Trumpeter,rav,Ravnica: City of Guilds,0.0,False,NearMint,Italian,2018-08-10
+2,Thundersong Trumpeter,mm3,Modern Masters 2017,0.0,False,NearMint,English,2020-02-04
+2,"Tiana, Ship's Caretaker",dom,Dominaria,0.0,False,NearMint,English,2020-02-04
+1,"Tiana, Ship's Caretaker",dom,Dominaria,0.0,False,NearMint,Italian,2020-02-04
+1,Time Wipe,war,War of the Spark,0.0,False,NearMint,French,2020-02-04
+1,Tithe Drinker,dgm,Dragon's Maze,0.0,False,NearMint,Japanese,2020-04-13
+5,Tobias Andrion,chr,Chronicles,0.0,False,NearMint,English,2020-05-31
+4,Tobias Andrion,leg,Legends,0.0,False,NearMint,Italian,2020-02-04
+1,Toil // Trouble,dgm,Dragon's Maze,0.0,False,NearMint,Italian,2020-02-04
+1,Tor Wauki,leg,Legends,0.0,False,NearMint,Italian,2020-02-04
+4,Tor Wauki,chr,Chronicles,0.0,False,NearMint,English,2020-02-04
+1,Torpor Dust,shm,Shadowmoor,0.0,False,NearMint,Italian,2020-02-03
+1,Torrent of Souls,ddk,Duel Decks: Sorin vs. Tibalt,0.0,False,NearMint,English,2020-07-18
+3,Torsten Von Ursus,leg,Legends,0.0,False,NearMint,Italian,2020-02-04
+2,Tower Gargoyle,ala,Shards of Alara,0.0,False,NearMint,Italian,2020-04-14
+1,Transguild Courier,dis,Dissension,0.0,True,NearMint,Italian,2020-02-05
+1,Treva's Charm,pls,Planeshift,0.0,False,NearMint,English,2021-01-29
+2,Trostani's Summoner,dgm,Dragon's Maze,0.0,False,NearMint,Italian,2020-04-13
+1,Truefire Captain,grn,Guilds of Ravnica,0.0,False,NearMint,English,2020-02-04
+1,Turn // Burn,dgm,Dragon's Maze,0.0,False,NearMint,Italian,2020-04-02
+1,Turn to Mist,shm,Shadowmoor,0.0,False,NearMint,English,2020-02-04
+1,Twinstrike,dis,Dissension,0.0,False,NearMint,Italian,2020-02-04
+1,Tyrannize,shm,Shadowmoor,0.0,False,NearMint,Italian,2020-02-04
+3,Undercity Uprising,grn,Guilds of Ravnica,0.0,False,NearMint,English,2020-02-05
+1,Underrealm Lich,grn,Guilds of Ravnica,0.0,False,NearMint,English,2020-02-05
+1,Unflinching Courage,mm3,Modern Masters 2017,0.0,False,NearMint,English,2020-07-18
+1,Unfulfilled Desires,mir,Mirage,0.0,False,NearMint,English,2020-07-18
+1,Unmake,ddk,Duel Decks: Sorin vs. Tibalt,0.0,False,NearMint,Italian,2020-02-05
+2,Unmoored Ego,grn,Guilds of Ravnica,0.0,False,NearMint,English,2020-02-02
+1,Unraveling Mummy,hou,Hour of Devastation,0.0,False,NearMint,English,2020-02-04
+3,Unraveling Mummy,hou,Hour of Devastation,0.0,False,NearMint,Italian,2020-02-04
+1,Urban Evolution,uma,Ultimate Masters,0.0,False,NearMint,English,2020-02-05
+1,Urza's Guilt,pls,Planeshift,0.0,False,NearMint,French,2020-02-02
+1,Vaevictis Asmadi,chr,Chronicles,0.0,False,NearMint,English,2021-01-29
+1,Vagrant Plowbeasts,con,Conflux,0.0,False,NearMint,Italian,2020-02-04
+1,Vagrant Plowbeasts,con,Conflux,0.0,False,Poor,Italian,2020-02-04
+1,Valeron Outlander,con,Conflux,0.0,False,NearMint,English,2020-05-31
+2,Vanish into Memory,mm3,Modern Masters 2017,0.0,False,NearMint,English,2020-02-04
+1,Vanish into Memory,mm3,Modern Masters 2017,0.0,False,NearMint,Italian,2020-02-04
+1,Vectis Dominator,arb,Alara Reborn,0.0,False,NearMint,Italian,2020-02-04
+2,Vengeful Rebirth,uma,Ultimate Masters,0.0,False,NearMint,English,2020-01-19
+3,Vernadi Shieldmate,grn,Guilds of Ravnica,0.0,False,NearMint,English,2020-02-04
+2,Veteran Motorist,kld,Kaladesh,0.0,False,NearMint,English,2020-02-04
+3,Vhati il-Dal,tsb,Time Spiral Timeshifted,0.0,False,NearMint,English,2020-06-07
+1,Viashino Firstblade,dgm,Dragon's Maze,0.0,False,NearMint,Japanese,2020-04-13
+1,Viashivan Dragon,vis,Visions,0.0,False,NearMint,English,2020-07-18
+1,Vicious Kavu,inv,Invasion,0.0,False,NearMint,Italian,2020-02-04
+2,Vindicate,a25,Masters 25,0.0,False,NearMint,English,2019-03-10
+1,Vindicate,apc,Apocalypse,0.0,False,NearMint,Spanish,2020-07-18
+1,Vizkopa Guildmage,gk2_orzhov,Guild Kit: Orzhov,0.0,False,NearMint,French,2020-02-04
+3,Vizkopa Guildmage,ima,Iconic Masters,0.0,False,NearMint,English,2020-05-10
+3,Vizkopa Vampire,rna,Ravnica Allegiance,0.0,False,NearMint,English,2020-02-05
+1,Vizkopa Vampire,rna,Ravnica Allegiance,0.0,True,NearMint,English,2020-02-05
+4,Vodalian Zombie,inv,Invasion,0.0,False,NearMint,English,2021-01-29
+1,Void,tsb,Time Spiral Timeshifted,0.0,False,NearMint,English,2021-01-29
+1,Voltaic Brawler,kld,Kaladesh,0.0,False,NearMint,Italian,2020-02-02
+4,Voracious Hatchling,eve,Eventide,0.0,False,NearMint,English,2020-07-18
+2,Vorel of the Hull Clade,gk2_simic,Guild Kit: Simic,0.0,False,NearMint,Italian,2020-02-05
+1,"Vorosh, the Hunter",cmd,Commander 2011,0.0,False,NearMint,Italian,2020-04-14
+2,"Vorosh, the Hunter",plc,Planar Chaos,0.0,False,NearMint,English,2020-02-05
+1,"Vraska, Golgari Queen",grn,Guilds of Ravnica,0.0,False,NearMint,English,2020-02-05
+1,Vulturous Zombie,rav,Ravnica: City of Guilds,0.0,True,NearMint,English,2020-02-05
+1,Vulturous Zombie,c15,Commander 2015,0.0,True,NearMint,English,2020-04-13
+2,Wall of Denial,mm3,Modern Masters 2017,0.0,False,NearMint,English,2020-07-18
+1,Wanderbrine Rootcutters,shm,Shadowmoor,0.0,False,NearMint,English,2018-08-10
+1,Warden of the Eye,ktk,Khans of Tarkir,0.0,False,NearMint,Italian,2020-02-05
+1,Watchwolf,rav,Ravnica: City of Guilds,0.0,False,NearMint,Italian,2020-02-04
+1,Wayward Servant,akh,Amonkhet,0.0,False,NearMint,English,2020-02-04
+2,Wayward Servant,akh,Amonkhet,0.0,False,NearMint,Italian,2020-02-04
+2,Weaver of Currents,akh,Amonkhet,0.0,False,NearMint,English,2020-02-05
+1,Wee Dragonauts,grn,Guilds of Ravnica,0.0,False,NearMint,English,2020-02-04
+3,Weldfast Engineer,aer,Aether Revolt,0.0,False,NearMint,English,2020-04-13
+3,Whirler Virtuoso,kld,Kaladesh,0.0,False,NearMint,Italian,2020-02-04
+4,Whisper Agent,grn,Guilds of Ravnica,0.0,False,NearMint,English,2020-02-03
+8,Wild Cantor,gpt,Guildpact,0.0,False,NearMint,English,2020-04-02
+1,Wild Cantor,gpt,Guildpact,0.0,True,NearMint,French,2020-02-02
+1,Wildfield Borderpost,arb,Alara Reborn,0.0,False,NearMint,Italian,2018-08-10
+1,Winding Constrictor,aer,Aether Revolt,0.0,False,NearMint,Italian,2020-02-05
+1,Windreaper Falcon,mir,Mirage,0.0,False,NearMint,English,2021-01-29
+2,Wings of Aesthir,ice,Ice Age,0.0,False,NearMint,English,2020-02-04
+2,Wings of Hope,inv,Invasion,0.0,False,NearMint,English,2021-01-29
+1,Wings of Hope,inv,Invasion,0.0,False,NearMint,Japanese,2020-04-13
+1,Winter's Night,all,Alliances,0.0,False,NearMint,English,2020-02-05
+1,Wojek Halberdiers,gtc,Gatecrash,0.0,False,NearMint,Italian,2020-04-13
+4,Wood Sage,tmp,Tempest,0.0,False,NearMint,English,2021-01-29
+2,Woolly Thoctar,mm3,Modern Masters 2017,0.0,False,NearMint,English,2020-02-05
+4,Woolly Thoctar,ala,Shards of Alara,0.0,False,NearMint,English,2020-05-31
+2,Worldsoul Colossus,grn,Guilds of Ravnica,0.0,False,NearMint,English,2020-02-04
+1,Worm Harvest,mma,Modern Masters,0.0,False,NearMint,English,2020-02-05
+1,"Wort, the Raidmother",mm3,Modern Masters 2017,0.0,False,NearMint,English,2020-02-02
+1,Wrecking Ball,dis,Dissension,0.0,False,NearMint,Italian,2018-08-10
+2,Yavimaya Barbarian,inv,Invasion,0.0,False,NearMint,English,2021-01-29
+1,Yavimaya's Embrace,apc,Apocalypse,0.0,False,NearMint,English,2021-01-29
+1,Zealous Guardian,shm,Shadowmoor,0.0,False,NearMint,English,2020-02-04
+1,Zealous Persecution,arb,Alara Reborn,0.0,False,NearMint,English,2020-04-13
+1,"Zegana, Utopian Speaker",rna,Ravnica Allegiance,0.0,False,NearMint,English,2020-02-05
+2,Zendikar Incarnate,ori,Magic Origins,0.0,False,NearMint,Italian,2020-04-13
+1,Zhur-Taa Goblin,rna,Ravnica Allegiance,0.0,False,NearMint,English,2020-01-19
+1,Zombie Outlander,con,Conflux,0.0,False,NearMint,English,2018-08-10
+1,Zurgo Helmsmasher,ktk,Khans of Tarkir,0.0,False,NearMint,Italian,2020-02-05
